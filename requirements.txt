@@ -1,5 +1,0 @@
-cobra==0.13.3
-pandas==0.25.0
-jupyter
-notebook
-ipykernel
