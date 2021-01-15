@@ -1,0 +1,2578 @@
+{
+    "2.4.2.4": {
+        "kcat": 1770.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.20": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.55": {
+        "kcat": 100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.2.2": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.12": {
+        "kcat": 24.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.12": {
+        "kcat": 2.4,
+        "source": "BRENDA"
+    },
+    "1.3.1.84": {
+        "kcat": 80.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.350": {
+        "kcat": 62.39,
+        "source": "BRENDA"
+    },
+    "5.1.1.20": {
+        "kcat": 17.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.23": {
+        "kcat": 65.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.1.28": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.90": {
+        "kcat": 2.0,
+        "source": "BRENDA"
+    },
+    "3.6.4.1": {
+        "kcat": 20.0,
+        "source": "BRENDA"
+    },
+    "1.2.1.11": {
+        "kcat": 680.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.5.5": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.1.2.11": {
+        "kcat": 0.783,
+        "source": "BRENDA"
+    },
+    "1.5.1.20": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.17": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.27": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.6": {
+        "kcat": 57.9,
+        "source": "BRENDA"
+    },
+    "3.6.1.41": {
+        "kcat": 250.0,
+        "source": "BRENDA"
+    },
+    "3.6.3.33": {
+        "kcat": 1.39,
+        "source": "BRENDA"
+    },
+    "3.1.3.45": {
+        "kcat": 1.5,
+        "source": "BRENDA"
+    },
+    "2.2.1.1": {
+        "kcat": 410000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.1.4": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.4.18": {
+        "kcat": 24.83,
+        "source": "BRENDA"
+    },
+    "6.3.2.10": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.4": {
+        "kcat": 521.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.33": {
+        "kcat": 4.5,
+        "source": "SABIO-RK"
+    },
+    "4.4.1.8": {
+        "kcat": 34.1,
+        "source": "BRENDA"
+    },
+    "2.3.1.1": {
+        "kcat": 3.3333333333333335,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.19": {
+        "kcat": 38.3,
+        "source": "BRENDA"
+    },
+    "3.1.2.2": {
+        "kcat": 183.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.10": {
+        "kcat": 3534.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.3.1": {
+        "kcat": 101.0,
+        "source": "BRENDA"
+    },
+    "4.4.1.21": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.4.16": {
+        "kcat": 43.21666666666667,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.1.15": {
+        "kcat": 375.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.4.2": {
+        "kcat": 200.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.28": {
+        "kcat": 29000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.4.13": {
+        "kcat": 67.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.1.227": {
+        "kcat": 14.0,
+        "source": "BRENDA"
+    },
+    "2.6.1.2": {
+        "kcat": 500.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.25": {
+        "kcat": 272.0,
+        "source": "BRENDA"
+    },
+    "5.1.3.14": {
+        "kcat": 52.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.71": {
+        "kcat": 280.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.16": {
+        "kcat": 109.0,
+        "source": "BRENDA"
+    },
+    "4.1.1.37": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.5.1.1": {
+        "kcat": 5721.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.3.11": {
+        "kcat": 3.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.41": {
+        "kcat": 551.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.4.2": {
+        "kcat": 6.08,
+        "source": "BRENDA"
+    },
+    "6.3.5.2": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.4.3.21": {
+        "kcat": 198.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.81": {
+        "kcat": 19.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.57": {
+        "kcat": 9.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.21": {
+        "kcat": 149.0,
+        "source": "BRENDA"
+    },
+    "2.6.1.81": {
+        "kcat": 4.7,
+        "source": "BRENDA"
+    },
+    "1.1.1.37": {
+        "kcat": 121600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.24": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.179": {
+        "kcat": 0.047,
+        "source": "BRENDA"
+    },
+    "4.4.1.28": {
+        "kcat": 39.6,
+        "source": "BRENDA"
+    },
+    "2.3.3.1": {
+        "kcat": 167.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.9": {
+        "kcat": 2.0,
+        "source": "BRENDA"
+    },
+    "3.6.1.66": {
+        "kcat": 1009.0,
+        "source": "BRENDA"
+    },
+    "3.6.3.18": {
+        "kcat": 0.33,
+        "source": "BRENDA"
+    },
+    "1.1.1.17": {
+        "kcat": 132.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.122": {
+        "kcat": 3.46,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.14": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.5.1.47": {
+        "kcat": 14000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.3.2": {
+        "kcat": 29900.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.5.2": {
+        "kcat": 0.00333333333,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.31": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.9": {
+        "kcat": 7.1,
+        "source": "BRENDA"
+    },
+    "4.2.1.150": {
+        "kcat": 19.0,
+        "source": "BRENDA"
+    },
+    "2.7.7.41": {
+        "kcat": 8.92,
+        "source": "BRENDA"
+    },
+    "2.7.7.75": {
+        "kcat": 0.0012,
+        "source": "BRENDA"
+    },
+    "6.3.1.11": {
+        "kcat": 5.94,
+        "source": "BRENDA"
+    },
+    "3.6.4.2": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "6.2.1.1": {
+        "kcat": 9400.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.14": {
+        "kcat": 3150.0,
+        "source": "BRENDA"
+    },
+    "2.7.4.9": {
+        "kcat": 38.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.19": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.1": {
+        "kcat": 62.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.42": {
+        "kcat": 22.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.17": {
+        "kcat": 5667.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.1.18": {
+        "kcat": 370.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.7": {
+        "kcat": 95.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.5": {
+        "kcat": 3019.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.85": {
+        "kcat": 64.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.4.8": {
+        "kcat": 3.5,
+        "source": "BRENDA"
+    },
+    "3.1.4.2": {
+        "kcat": 220.0,
+        "source": "BRENDA"
+    },
+    "6.3.2.17": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.6.3.54": {
+        "kcat": 5.9,
+        "source": "BRENDA"
+    },
+    "2.6.1.59": {
+        "kcat": 0.38,
+        "source": "BRENDA"
+    },
+    "3.6.5.6": {
+        "kcat": 1500.0,
+        "source": "BRENDA"
+    },
+    "2.7.7.62": {
+        "kcat": 4.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.3.16": {
+        "kcat": 10.6,
+        "source": "BRENDA"
+    },
+    "1.3.8.7": {
+        "kcat": 35.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.22": {
+        "kcat": 150.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.363": {
+        "kcat": 1125.0,
+        "source": "BRENDA"
+    },
+    "2.2.1.6": {
+        "kcat": 121.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.8.13": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.91": {
+        "kcat": 6.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.42": {
+        "kcat": 3830.0,
+        "source": "BRENDA"
+    },
+    "5.1.3.13": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.6.1.2": {
+        "kcat": 1.44,
+        "source": "BRENDA"
+    },
+    "5.4.2.11": {
+        "kcat": 3200.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.42": {
+        "kcat": 440000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.1": {
+        "kcat": 57500000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.9.2": {
+        "kcat": 1573.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.2.1.20": {
+        "kcat": 0.016,
+        "source": "BRENDA"
+    },
+    "5.3.1.9": {
+        "kcat": 11420.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.1.2": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.37": {
+        "kcat": 0.658,
+        "source": "BRENDA"
+    },
+    "3.5.2.5": {
+        "kcat": 3423.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.1.2": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.6.3.5": {
+        "kcat": 300.0,
+        "source": "BRENDA"
+    },
+    "2.1.1.13": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.5.1": {
+        "kcat": 21.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.4.8": {
+        "kcat": 1500.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.4.13.18": {
+        "kcat": 33300.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.276": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.2.1.8": {
+        "kcat": 276.0,
+        "source": "BRENDA"
+    },
+    "4.1.3.39": {
+        "kcat": 358.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.37": {
+        "kcat": 283.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.2.1.13": {
+        "kcat": 411.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.13": {
+        "kcat": 87.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.40": {
+        "kcat": 24.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.23": {
+        "kcat": 350.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.1": {
+        "kcat": 670.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.2.4": {
+        "kcat": 469.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.3.13": {
+        "kcat": 450.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.8": {
+        "kcat": 88.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.8.3.8": {
+        "kcat": 290.0,
+        "source": "BRENDA"
+    },
+    "1.2.1.5": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.12": {
+        "kcat": 9.3,
+        "source": "BRENDA"
+    },
+    "4.4.1.1": {
+        "kcat": 89.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.5": {
+        "kcat": 757.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.4.25": {
+        "kcat": 109.0,
+        "source": "BRENDA"
+    },
+    "1.2.4.1": {
+        "kcat": 486.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.1.20": {
+        "kcat": 1278.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.23": {
+        "kcat": 35.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.5": {
+        "kcat": 1700.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.5": {
+        "kcat": 8390.0,
+        "source": "BRENDA"
+    },
+    "3.1.1.85": {
+        "kcat": 18.5,
+        "source": "BRENDA"
+    },
+    "2.3.1.174": {
+        "kcat": 7.83333333,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.1.31": {
+        "kcat": 14.3,
+        "source": "SABIO-RK"
+    },
+    "4.3.3.6": {
+        "kcat": 0.127,
+        "source": "BRENDA"
+    },
+    "3.6.1.65": {
+        "kcat": 51.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.2.5": {
+        "kcat": 2.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.2.3": {
+        "kcat": 55.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.10": {
+        "kcat": 17.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.4.3": {
+        "kcat": 1100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.6.1.1": {
+        "kcat": 4600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.9": {
+        "kcat": 135.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.2.1": {
+        "kcat": 3600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.7": {
+        "kcat": 8.9,
+        "source": "BRENDA"
+    },
+    "3.2.2.16": {
+        "kcat": 20.0,
+        "source": "BRENDA"
+    },
+    "2.7.7.12": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.39": {
+        "kcat": 28.0,
+        "source": "SABIO-RK"
+    },
+    "6.2.1.30": {
+        "kcat": 60.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.102": {
+        "kcat": 9.4,
+        "source": "BRENDA"
+    },
+    "2.7.6.3": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "6.3.1.8": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.3": {
+        "kcat": 284.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.74": {
+        "kcat": 19.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.86": {
+        "kcat": 78.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.2.8": {
+        "kcat": 134.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.3.2": {
+        "kcat": 83.0,
+        "source": "BRENDA"
+    },
+    "6.1.1.17": {
+        "kcat": 4.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.6": {
+        "kcat": 7.5,
+        "source": "BRENDA"
+    },
+    "1.1.1.283": {
+        "kcat": 4.0,
+        "source": "BRENDA"
+    },
+    "2.6.1.19": {
+        "kcat": 47.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.7.1.13": {
+        "kcat": 0.142,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.140": {
+        "kcat": 10.4,
+        "source": "BRENDA"
+    },
+    "2.7.4.14": {
+        "kcat": 410.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.3.9": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.4.2.8": {
+        "kcat": 90.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.48": {
+        "kcat": 3.2,
+        "source": "BRENDA"
+    },
+    "5.4.2.12": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.2.2": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.40": {
+        "kcat": 44.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.4.2": {
+        "kcat": 50.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.3.5": {
+        "kcat": 0.87,
+        "source": "BRENDA"
+    },
+    "4.6.1.12": {
+        "kcat": 2.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.2.10": {
+        "kcat": 7.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.4": {
+        "kcat": 62.0,
+        "source": "BRENDA"
+    },
+    "6.2.1.26": {
+        "kcat": 121.7,
+        "source": "BRENDA"
+    },
+    "3.1.4.16": {
+        "kcat": 72.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.99.20": {
+        "kcat": 167.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.16": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.8.4.2": {
+        "kcat": 293.0,
+        "source": "SABIO-RK"
+    },
+    "5.3.1.4": {
+        "kcat": 3657.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.3.1": {
+        "kcat": 800.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.9": {
+        "kcat": 700.0,
+        "source": "BRENDA"
+    },
+    "3.1.3.1": {
+        "kcat": 28300.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.41": {
+        "kcat": 0.603,
+        "source": "BRENDA"
+    },
+    "3.6.1.11": {
+        "kcat": 1550.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.3.43": {
+        "kcat": 25.0,
+        "source": "BRENDA"
+    },
+    "4.2.1.10": {
+        "kcat": 310.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.99.1": {
+        "kcat": 5700.0,
+        "source": "BRENDA"
+    },
+    "3.4.19.13": {
+        "kcat": 12.45,
+        "source": "BRENDA"
+    },
+    "2.3.1.8": {
+        "kcat": 5252.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.26": {
+        "kcat": 6.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.7": {
+        "kcat": 0.06,
+        "source": "BRENDA"
+    },
+    "5.1.3.4": {
+        "kcat": 36.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.1.1": {
+        "kcat": 312.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.22": {
+        "kcat": 1492.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.98.3": {
+        "kcat": 900.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.157": {
+        "kcat": 1500.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.145": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.4.3": {
+        "kcat": 2100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.85": {
+        "kcat": 73.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.165": {
+        "kcat": 533.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.1.3.3": {
+        "kcat": 3580.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.1.22": {
+        "kcat": 7659.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.13": {
+        "kcat": 255.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.39": {
+        "kcat": 96.8,
+        "source": "BRENDA"
+    },
+    "3.6.4.9": {
+        "kcat": 2.21,
+        "source": "BRENDA"
+    },
+    "1.1.1.39": {
+        "kcat": 770.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.1.32": {
+        "kcat": 5158.0,
+        "source": "BRENDA"
+    },
+    "1.3.8.8": {
+        "kcat": 11.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.4.1.2": {
+        "kcat": 36.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.15": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.8.26": {
+        "kcat": 0.67,
+        "source": "BRENDA"
+    },
+    "1.11.1.9": {
+        "kcat": 118000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.9.2": {
+        "kcat": 91.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.35": {
+        "kcat": 45500.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.1.10": {
+        "kcat": 130.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.42": {
+        "kcat": 1236.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.9": {
+        "kcat": 75.8,
+        "source": "BRENDA"
+    },
+    "2.7.4.16": {
+        "kcat": 0.063,
+        "source": "BRENDA"
+    },
+    "2.7.7.1": {
+        "kcat": 53.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.4.10": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.12": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.1": {
+        "kcat": 6290.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.6.5.3": {
+        "kcat": 1500.0,
+        "source": "BRENDA"
+    },
+    "3.6.1.25": {
+        "kcat": 7900.0,
+        "source": "BRENDA"
+    },
+    "2.1.2.1": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.381": {
+        "kcat": 52.8,
+        "source": "BRENDA"
+    },
+    "3.6.1.13": {
+        "kcat": 129.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.22": {
+        "kcat": 105.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.3.16": {
+        "kcat": 2100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.1.2.10": {
+        "kcat": 20.9,
+        "source": "BRENDA"
+    },
+    "1.5.1.34": {
+        "kcat": 510.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.121": {
+        "kcat": 4.833333333333333,
+        "source": "SABIO-RK"
+    },
+    "1.7.1.7": {
+        "kcat": 0.519,
+        "source": "BRENDA"
+    },
+    "1.5.1.36": {
+        "kcat": 178.0,
+        "source": "BRENDA"
+    },
+    "2.7.2.3": {
+        "kcat": 2633.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.2.1": {
+        "kcat": 6.08,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.1": {
+        "kcat": 28000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.97": {
+        "kcat": 22.0,
+        "source": "SABIO-RK"
+    },
+    "2.5.1.16": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.18": {
+        "kcat": 53.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.5.4": {
+        "kcat": 9.19,
+        "source": "BRENDA"
+    },
+    "1.1.1.21": {
+        "kcat": 266.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.58": {
+        "kcat": 5.83,
+        "source": "BRENDA"
+    },
+    "1.1.1.133": {
+        "kcat": 53.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.290": {
+        "kcat": 1.4,
+        "source": "BRENDA"
+    },
+    "2.6.1.62": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.3.4": {
+        "kcat": 834.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.47": {
+        "kcat": 8.82,
+        "source": "BRENDA"
+    },
+    "4.4.1.15": {
+        "kcat": 13800.0,
+        "source": "BRENDA"
+    },
+    "5.3.3.8": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.61": {
+        "kcat": 0.25,
+        "source": "BRENDA"
+    },
+    "4.1.1.36": {
+        "kcat": 2.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.4.11.2": {
+        "kcat": 7600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.3": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.1.9": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.5.3": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "4.2.3.1": {
+        "kcat": 4080.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.156": {
+        "kcat": 0.251,
+        "source": "BRENDA"
+    },
+    "2.4.2.18": {
+        "kcat": 4.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.75": {
+        "kcat": 890.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.17": {
+        "kcat": 6600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.40": {
+        "kcat": 4670.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.2.6": {
+        "kcat": 3930.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.9": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.71": {
+        "kcat": 60.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.20": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.6.4.5": {
+        "kcat": 1600.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.39": {
+        "kcat": 1580.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.3.8": {
+        "kcat": 0.95,
+        "source": "BRENDA"
+    },
+    "1.1.99.5": {
+        "kcat": 33.3,
+        "source": "BRENDA"
+    },
+    "3.1.1.5": {
+        "kcat": 1975.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.25": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.1.16": {
+        "kcat": 3800.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.6": {
+        "kcat": 98.44,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.3.27": {
+        "kcat": 383.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.1": {
+        "kcat": 4808.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.60": {
+        "kcat": 83.0,
+        "source": "SABIO-RK"
+    },
+    "3.6.1.15": {
+        "kcat": 5096.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.3.40": {
+        "kcat": 1.7,
+        "source": "BRENDA"
+    },
+    "3.1.7.2": {
+        "kcat": 6.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.16.3.1": {
+        "kcat": 2548.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.4.13": {
+        "kcat": 0.05333333333333334,
+        "source": "SABIO-RK"
+    },
+    "1.14.12.17": {
+        "kcat": 670.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.15.1.1": {
+        "kcat": 107000.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.1": {
+        "kcat": 1899.46667,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.2.2": {
+        "kcat": 730.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.103": {
+        "kcat": 551.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.1.116": {
+        "kcat": 761.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.8.1.1": {
+        "kcat": 766.666667,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.4": {
+        "kcat": 38.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.1.4": {
+        "kcat": 187.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.205": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.3": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.1.1": {
+        "kcat": 0.65,
+        "source": "BRENDA"
+    },
+    "4.2.1.2": {
+        "kcat": 3100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.383": {
+        "kcat": 4.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.154": {
+        "kcat": 62.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.129": {
+        "kcat": 10.5,
+        "source": "BRENDA"
+    },
+    "3.4.11.23": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.4": {
+        "kcat": 63.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.4.4": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.14.14.5": {
+        "kcat": 0.88,
+        "source": "BRENDA"
+    },
+    "3.6.4.6": {
+        "kcat": 0.85,
+        "source": "BRENDA"
+    },
+    "2.1.1.10": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.48": {
+        "kcat": 166.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.45": {
+        "kcat": 26.3,
+        "source": "BRENDA"
+    },
+    "4.2.1.8": {
+        "kcat": 5.88,
+        "source": "BRENDA"
+    },
+    "2.5.1.54": {
+        "kcat": 122.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.65": {
+        "kcat": 14000.0,
+        "source": "BRENDA"
+    },
+    "4.2.1.51": {
+        "kcat": 1932.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.3.6": {
+        "kcat": 56.7,
+        "source": "BRENDA"
+    },
+    "2.3.3.9": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "4.2.1.130": {
+        "kcat": 2.61,
+        "source": "BRENDA"
+    },
+    "2.6.1.16": {
+        "kcat": 35.5,
+        "source": "BRENDA"
+    },
+    "2.8.1.2": {
+        "kcat": 5310.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.17": {
+        "kcat": 24.0,
+        "source": "BRENDA"
+    },
+    "1.2.1.59": {
+        "kcat": 8.0,
+        "source": "SABIO-RK"
+    },
+    "4.1.2.55": {
+        "kcat": 61.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.3.3": {
+        "kcat": 16.0,
+        "source": "BRENDA"
+    },
+    "5.4.99.18": {
+        "kcat": 15.6,
+        "source": "BRENDA"
+    },
+    "3.6.3.8": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "5.3.1.12": {
+        "kcat": 196.0,
+        "source": "BRENDA"
+    },
+    "3.5.1.108": {
+        "kcat": 3.3,
+        "source": "BRENDA"
+    },
+    "4.1.2.48": {
+        "kcat": 43.0,
+        "source": "BRENDA"
+    },
+    "2.5.1.31": {
+        "kcat": 11.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.107": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.19": {
+        "kcat": 14.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.2.15": {
+        "kcat": 125.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.57": {
+        "kcat": 1200.0,
+        "source": "BRENDA"
+    },
+    "3.5.4.3": {
+        "kcat": 649.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.4.4": {
+        "kcat": 250.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.6.1": {
+        "kcat": 311.0,
+        "source": "BRENDA"
+    },
+    "2.7.7.60": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.3": {
+        "kcat": 26.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.2": {
+        "kcat": 48.9,
+        "source": "BRENDA"
+    },
+    "1.3.1.9": {
+        "kcat": 91.13,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.7.1.14": {
+        "kcat": 1200.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.7.1.4": {
+        "kcat": 130.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.39": {
+        "kcat": 40.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.70": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.38": {
+        "kcat": 40.0666667,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.4.1": {
+        "kcat": 186.0,
+        "source": "BRENDA"
+    },
+    "1.2.1.22": {
+        "kcat": 761.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.4.12": {
+        "kcat": 7980.0,
+        "source": "BRENDA"
+    },
+    "3.6.3.14": {
+        "kcat": 390.0,
+        "source": "BRENDA"
+    },
+    "5.3.1.16": {
+        "kcat": 32.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.30": {
+        "kcat": 70.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.72": {
+        "kcat": 200.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.2": {
+        "kcat": 40850.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.5": {
+        "kcat": 576.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.1.108": {
+        "kcat": 33.8,
+        "source": "BRENDA"
+    },
+    "2.7.4.4": {
+        "kcat": 500.0,
+        "source": "BRENDA"
+    },
+    "3.1.3.89": {
+        "kcat": 3.48,
+        "source": "BRENDA"
+    },
+    "2.5.1.3": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.4.2.17": {
+        "kcat": 2.7,
+        "source": "BRENDA"
+    },
+    "3.6.3.2": {
+        "kcat": 23.0,
+        "source": "BRENDA"
+    },
+    "4.1.1.12": {
+        "kcat": 442.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.72": {
+        "kcat": 57.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.1.122": {
+        "kcat": 128.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.20": {
+        "kcat": 447.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.2.1.5": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.33": {
+        "kcat": 329.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.11": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.8": {
+        "kcat": 1.9166666666666667,
+        "source": "SABIO-RK"
+    },
+    "4.3.1.7": {
+        "kcat": 770.0,
+        "source": "BRENDA"
+    },
+    "2.7.2.8": {
+        "kcat": 187.5,
+        "source": "BRENDA"
+    },
+    "3.1.3.27": {
+        "kcat": 24.0,
+        "source": "BRENDA"
+    },
+    "6.3.2.2": {
+        "kcat": 7920.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.8": {
+        "kcat": 106000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.21": {
+        "kcat": 833.0,
+        "source": "BRENDA"
+    },
+    "4.2.3.3": {
+        "kcat": 600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.1.3.1": {
+        "kcat": 7100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.99.6": {
+        "kcat": 1800.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.1.28": {
+        "kcat": 92.5,
+        "source": "BRENDA"
+    },
+    "6.3.4.13": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "4.2.1.80": {
+        "kcat": 450.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.3.51": {
+        "kcat": 0.00068,
+        "source": "BRENDA"
+    },
+    "1.3.98.1": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.2.14": {
+        "kcat": 35.6,
+        "source": "BRENDA"
+    },
+    "3.6.1.9": {
+        "kcat": 960000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.1.1": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.19": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "5.1.1.1": {
+        "kcat": 7504.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.5.4": {
+        "kcat": 19.4,
+        "source": "BRENDA"
+    },
+    "2.7.1.30": {
+        "kcat": 4900.0,
+        "source": "BRENDA"
+    },
+    "2.4.2.3": {
+        "kcat": 150.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.46": {
+        "kcat": 36.72,
+        "source": "BRENDA"
+    },
+    "1.1.1.49": {
+        "kcat": 8000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.2.3": {
+        "kcat": 195.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.3.5": {
+        "kcat": 33.0,
+        "source": "BRENDA"
+    },
+    "3.1.3.15": {
+        "kcat": 2140.0,
+        "source": "BRENDA"
+    },
+    "3.1.3.91": {
+        "kcat": 12.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.2.1.9": {
+        "kcat": 0.316666667,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.24": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.1.4.35": {
+        "kcat": 4400.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.10": {
+        "kcat": 43.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.31": {
+        "kcat": 350.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.1.9": {
+        "kcat": 1600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.4.3": {
+        "kcat": 13.0,
+        "source": "BRENDA"
+    },
+    "3.4.17.13": {
+        "kcat": 160.0,
+        "source": "BRENDA"
+    },
+    "6.3.1.5": {
+        "kcat": 0.2,
+        "source": "BRENDA"
+    },
+    "1.4.1.3": {
+        "kcat": 714.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.99.22": {
+        "kcat": 900.0,
+        "source": "BRENDA"
+    },
+    "4.1.1.18": {
+        "kcat": 636.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.20": {
+        "kcat": 58.0,
+        "source": "BRENDA"
+    },
+    "3.2.1.74": {
+        "kcat": 4945.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.5.1.19": {
+        "kcat": 100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.79": {
+        "kcat": 136.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.46": {
+        "kcat": 466.6,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.17": {
+        "kcat": 19.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.4.46": {
+        "kcat": 3.3,
+        "source": "BRENDA"
+    },
+    "1.3.1.98": {
+        "kcat": 62.0,
+        "source": "SABIO-RK"
+    },
+    "3.1.3.11": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.1.4": {
+        "kcat": 28650.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.180": {
+        "kcat": 47.1,
+        "source": "BRENDA"
+    },
+    "4.1.2.5": {
+        "kcat": 18.3,
+        "source": "BRENDA"
+    },
+    "3.1.3.18": {
+        "kcat": 292.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.2.1.2": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.6.1.1": {
+        "kcat": 333.0,
+        "source": "BRENDA"
+    },
+    "2.1.1.79": {
+        "kcat": 100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.4.6": {
+        "kcat": 2085.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.3": {
+        "kcat": 1506.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.21": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.4.22": {
+        "kcat": 545.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.104": {
+        "kcat": 5.566666666666666,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.215": {
+        "kcat": 48.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.9": {
+        "kcat": 5000000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.4.53": {
+        "kcat": 6.7,
+        "source": "BRENDA"
+    },
+    "4.2.1.59": {
+        "kcat": 0.1,
+        "source": "SABIO-RK"
+    },
+    "4.2.1.126": {
+        "kcat": 5.7,
+        "source": "BRENDA"
+    },
+    "2.3.1.47": {
+        "kcat": 7000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.3.30": {
+        "kcat": 105.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.61": {
+        "kcat": 1329.0,
+        "source": "BRENDA"
+    },
+    "3.5.4.9": {
+        "kcat": 8700.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.49": {
+        "kcat": 0.43,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.6": {
+        "kcat": 176.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.1.78": {
+        "kcat": 5.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.85": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.7.8.7": {
+        "kcat": 2.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.2": {
+        "kcat": 0.33,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.3.7": {
+        "kcat": 18000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.1.7": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.19": {
+        "kcat": 1000.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.241": {
+        "kcat": 131.0,
+        "source": "BRENDA"
+    },
+    "1.7.3.3": {
+        "kcat": 21800.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.99.1.1": {
+        "kcat": 6.7,
+        "source": "BRENDA"
+    },
+    "3.1.2.12": {
+        "kcat": 116.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.5.4": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.21": {
+        "kcat": 0.94,
+        "source": "BRENDA"
+    },
+    "3.6.1.61": {
+        "kcat": 4.1,
+        "source": "BRENDA"
+    },
+    "4.4.1.5": {
+        "kcat": 6700.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.88": {
+        "kcat": 25.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.4": {
+        "kcat": 260.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.8": {
+        "kcat": 344.0,
+        "source": "BRENDA"
+    },
+    "2.5.1.78": {
+        "kcat": 0.076,
+        "source": "BRENDA"
+    },
+    "4.1.1.47": {
+        "kcat": 18.9,
+        "source": "BRENDA"
+    },
+    "2.1.2.2": {
+        "kcat": 40.0,
+        "source": "BRENDA"
+    },
+    "3.5.4.13": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.4.1.18": {
+        "kcat": 1000.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.95": {
+        "kcat": 3850.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.336": {
+        "kcat": 0.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.38": {
+        "kcat": 21.9,
+        "source": "BRENDA"
+    },
+    "1.4.7.1": {
+        "kcat": 137.0,
+        "source": "BRENDA"
+    },
+    "4.1.1.17": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.1.1.45": {
+        "kcat": 48.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.1.1.107": {
+        "kcat": 38.0,
+        "source": "BRENDA"
+    },
+    "2.5.1.1": {
+        "kcat": 1.4,
+        "source": "BRENDA"
+    },
+    "3.5.1.2": {
+        "kcat": 6249.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.17.1.4": {
+        "kcat": 1097.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.40": {
+        "kcat": 1.1,
+        "source": "BRENDA"
+    },
+    "6.3.4.21": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.2.1.23": {
+        "kcat": 2700000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.2.25": {
+        "kcat": 1.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.1.1.24": {
+        "kcat": 0.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.100": {
+        "kcat": 344.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.15": {
+        "kcat": 0.0918,
+        "source": "BRENDA"
+    },
+    "5.3.1.6": {
+        "kcat": 52000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.4.1.13": {
+        "kcat": 41.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.81": {
+        "kcat": 72.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.1.1.7": {
+        "kcat": 128.0,
+        "source": "BRENDA"
+    },
+    "3.5.1.14": {
+        "kcat": 21300.0,
+        "source": "BRENDA"
+    },
+    "3.6.5.3": {
+        "kcat": 8.8,
+        "source": "BRENDA"
+    },
+    "1.5.1.42": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.74": {
+        "kcat": 78300.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.55": {
+        "kcat": 47.0,
+        "source": "SABIO-RK"
+    },
+    "3.4.11.1": {
+        "kcat": 34500.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.3.49": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.18.99.1": {
+        "kcat": 483.0,
+        "source": "BRENDA"
+    },
+    "5.1.1.3": {
+        "kcat": 116600.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.2.7": {
+        "kcat": 185.0,
+        "source": "BRENDA"
+    },
+    "2.7.7.64": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "6.3.2.13": {
+        "kcat": 8.83,
+        "source": "BRENDA"
+    },
+    "6.3.4.2": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.11": {
+        "kcat": 7.03,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.67": {
+        "kcat": 11.6,
+        "source": "BRENDA"
+    },
+    "3.2.1.93": {
+        "kcat": 46.7,
+        "source": "BRENDA"
+    },
+    "4.1.1.15": {
+        "kcat": 100.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.1.30": {
+        "kcat": 3300.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.24": {
+        "kcat": 223.1,
+        "source": "BRENDA"
+    },
+    "2.7.4.7": {
+        "kcat": 0.0867,
+        "source": "BRENDA"
+    },
+    "1.1.1.60": {
+        "kcat": 243.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.28": {
+        "kcat": 33.1,
+        "source": "BRENDA"
+    },
+    "6.3.2.4": {
+        "kcat": 48.5,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.23": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.25": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.52": {
+        "kcat": 2.49,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.2.8": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.8.3.1": {
+        "kcat": 14.2,
+        "source": "BRENDA"
+    },
+    "1.11.1.6": {
+        "kcat": 2830000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.17.1.2": {
+        "kcat": 3.7,
+        "source": "BRENDA"
+    },
+    "2.7.1.15": {
+        "kcat": 47.81,
+        "source": "BRENDA"
+    },
+    "1.1.1.44": {
+        "kcat": 325.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.14.11.17": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.38": {
+        "kcat": 207.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.4.11": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.3.6": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.1.3.2": {
+        "kcat": 417.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.298": {
+        "kcat": 115.0,
+        "source": "BRENDA"
+    },
+    "4.1.1.49": {
+        "kcat": 78.82,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.1.50": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.7.24": {
+        "kcat": 41.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.11.1.1": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.113": {
+        "kcat": 150.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.1.25": {
+        "kcat": 2610.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.305": {
+        "kcat": 0.32,
+        "source": "BRENDA"
+    },
+    "1.13.99.1": {
+        "kcat": 7.22,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.13.11.16": {
+        "kcat": 50.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.3.3": {
+        "kcat": 49.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.1.25": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.1.3.10": {
+        "kcat": 145.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.35": {
+        "kcat": 131.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.267": {
+        "kcat": 9833.333333333334,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.1.17": {
+        "kcat": 585.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.8.4.14": {
+        "kcat": 14.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.130": {
+        "kcat": 2.4,
+        "source": "BRENDA"
+    },
+    "2.3.1.191": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.20.4.1": {
+        "kcat": 0.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.17.4.1": {
+        "kcat": 12.9,
+        "source": "BRENDA"
+    },
+    "2.7.6.5": {
+        "kcat": 127.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.1.8": {
+        "kcat": 0.25,
+        "source": "BRENDA"
+    },
+    "4.6.1.2": {
+        "kcat": 290.0,
+        "source": "BRENDA"
+    },
+    "4.2.1.99": {
+        "kcat": 3.0,
+        "source": "SABIO-RK"
+    },
+    "6.3.1.20": {
+        "kcat": 0.258,
+        "source": "BRENDA"
+    },
+    "1.11.1.21": {
+        "kcat": 339000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.5.4.10": {
+        "kcat": 8.6,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.3": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.2.1.86": {
+        "kcat": 195.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.1.21": {
+        "kcat": 412.0,
+        "source": "BRENDA"
+    },
+    "1.3.8.1": {
+        "kcat": 40.7,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.24": {
+        "kcat": 14.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.1.15": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.4.99.4": {
+        "kcat": 91.0,
+        "source": "BRENDA"
+    },
+    "2.7.7.63": {
+        "kcat": 0.258,
+        "source": "BRENDA"
+    },
+    "5.1.3.3": {
+        "kcat": 22000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.2.2.3": {
+        "kcat": 23.8,
+        "source": "BRENDA"
+    },
+    "2.6.1.9": {
+        "kcat": 3100.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.3.2.1": {
+        "kcat": 217.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.26": {
+        "kcat": 13.0,
+        "source": "BRENDA"
+    },
+    "2.7.1.59": {
+        "kcat": 116.8,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.3": {
+        "kcat": 245.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.3": {
+        "kcat": 0.1823,
+        "source": "BRENDA"
+    },
+    "3.5.4.19": {
+        "kcat": 9.9,
+        "source": "BRENDA"
+    },
+    "4.3.2.1": {
+        "kcat": 2930.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.4.99.5": {
+        "kcat": 366000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.2": {
+        "kcat": 679.0,
+        "source": "BRENDA"
+    },
+    "1.5.1.12": {
+        "kcat": 25.0,
+        "source": "BRENDA"
+    },
+    "1.2.4.2": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.40": {
+        "kcat": 95000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.4": {
+        "kcat": 8897.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.5.1.38": {
+        "kcat": 34.0,
+        "source": "BRENDA"
+    },
+    "6.3.5.1": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "3.5.4.25": {
+        "kcat": 432.0,
+        "source": "BRENDA"
+    },
+    "2.3.1.54": {
+        "kcat": 12.8,
+        "source": "BRENDA"
+    },
+    "3.4.16.4": {
+        "kcat": 350.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.6": {
+        "kcat": 146.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.4.5": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "2.4.2.7": {
+        "kcat": 17.9,
+        "source": "BRENDA"
+    },
+    "2.7.1.213": {
+        "kcat": 280.0,
+        "source": "BRENDA"
+    },
+    "4.1.1.23": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "5.3.1.5": {
+        "kcat": 230.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.3.3.5": {
+        "kcat": 29.9,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.3.3.4": {
+        "kcat": 14.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "6.3.5.5": {
+        "kcat": 2660.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.85": {
+        "kcat": 2.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.4.4": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.284": {
+        "kcat": 72000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.8.3.16": {
+        "kcat": 5.0,
+        "source": "BRENDA"
+    },
+    "5.1.3.2": {
+        "kcat": 38295.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.2": {
+        "kcat": 1492.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.399": {
+        "kcat": 33.3,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.4.13.22": {
+        "kcat": 788.0,
+        "source": "BRENDA"
+    },
+    "3.6.3.44": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "4.3.1.19": {
+        "kcat": 1414.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.282": {
+        "kcat": 142000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.7.1.14": {
+        "kcat": 8.0,
+        "source": "BRENDA"
+    },
+    "4.1.99.1": {
+        "kcat": 44.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.6.1.11": {
+        "kcat": 1.55,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.11.1.16": {
+        "kcat": 54500.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.1.3.3": {
+        "kcat": 44.2,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.16": {
+        "kcat": 176.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.169": {
+        "kcat": 40.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.3.19": {
+        "kcat": 7.8,
+        "source": "BRENDA"
+    },
+    "4.1.1.48": {
+        "kcat": 15.4,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.99.3": {
+        "kcat": 5.4,
+        "source": "BRENDA"
+    },
+    "3.5.1.42": {
+        "kcat": 4.1,
+        "source": "BRENDA"
+    },
+    "3.1.5.1": {
+        "kcat": 4000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.3.1.18": {
+        "kcat": 118.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.2.1.24": {
+        "kcat": 69.0,
+        "source": "BRENDA"
+    },
+    "4.2.1.11": {
+        "kcat": 230.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.4.2.9": {
+        "kcat": 6.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "4.2.1.1": {
+        "kcat": 33000000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.351": {
+        "kcat": 325.0,
+        "source": "BRENDA"
+    },
+    "1.1.1.271": {
+        "kcat": 0.75,
+        "source": "BRENDA"
+    },
+    "2.7.1.178": {
+        "kcat": 60.8,
+        "source": "BRENDA"
+    },
+    "3.5.1.19": {
+        "kcat": 135.7,
+        "source": "BRENDA"
+    },
+    "2.2.1.7": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "1.5.1.2": {
+        "kcat": 4170.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "3.6.1.6": {
+        "kcat": 238.0,
+        "source": "BRENDA"
+    },
+    "5.4.99.9": {
+        "kcat": 100.0,
+        "source": "BRENDA"
+    },
+    "1.3.1.12": {
+        "kcat": 356.1,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "2.7.1.12": {
+        "kcat": 9.5,
+        "source": "BRENDA"
+    },
+    "2.3.1.222": {
+        "kcat": 20.7,
+        "source": "BRENDA"
+    },
+    "3.1.4.17": {
+        "kcat": 999.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.2.3": {
+        "kcat": 473.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.79": {
+        "kcat": 760000.0,
+        "source": "BRENDA and SABIO-RK"
+    },
+    "1.1.1.299": {
+        "kcat": 139.0,
+        "source": "BRENDA"
+    },
+    "6.3.2.9": {
+        "kcat": 999.0,
+        "source": "BRENDA"
+    },
+    "4.2.3.4": {
+        "kcat": 25000.0,
+        "source": "BRENDA"
+    },
+    "3.6.1.45": {
+        "kcat": 1492.0,
+        "source": "BRENDA"
+    }
+}

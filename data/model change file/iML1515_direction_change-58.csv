@@ -1,0 +1,59 @@
+﻿id,before,after,MetaCyc support
+ACACT8r,reversible,forward,Y
+DXYLTD,reversible,forward,Y
+E4PD,reversible,forward,Y
+GGGABADr,reversible,forward,Y
+INOSTO,reversible,forward,Y
+RHMND,reversible,forward,Y
+SHK3Dr,reversible,forward,Y
+ACACT3r,reversible,backward,Y
+ACACT4r,reversible,backward,Y
+ACACT5r,reversible,backward,Y
+ACACT6r,reversible,backward,Y
+ACACT7r,reversible,backward,Y
+ACOAD2f,reversible,backward,Y
+ACOAD3f,reversible,backward,Y
+ACOAD4f,reversible,backward,Y
+ACOAD5f,reversible,backward,Y
+ACOAD6f,reversible,backward,Y
+ACOAD7f,reversible,backward,Y
+ACOAD8f,reversible,backward,Y
+PCNO,reversible,backward,Y
+ABTA,not reversible,reversible,Y
+ACACCT,not reversible,reversible,Y
+ACCOAL,not reversible,reversible,Y
+ALATA_D2,not reversible,reversible,Y
+ALATA_L2,not reversible,reversible,Y
+AMALT1,not reversible,reversible,Y
+AMALT2,not reversible,reversible,Y
+AMALT3,not reversible,reversible,Y
+AMALT4,not reversible,reversible,Y
+ANHMK,not reversible,reversible,Y
+ASPT,not reversible,reversible,Y
+BUTCT,not reversible,reversible,Y
+DHQTi,not reversible,reversible,Y
+DRPA,not reversible,reversible,Y
+FTHFLi,not reversible,reversible,Y
+GALUi,not reversible,reversible,Y
+GART,not reversible,reversible,Y
+GDMANE,not reversible,reversible,Y
+GLCRAL,not reversible,reversible,Y
+GLYCL,not reversible,reversible,Y
+GLYCTO3,not reversible,reversible,Y
+GLYCTO4,not reversible,reversible,Y
+HSTPT,not reversible,reversible,Y
+ICHORS_copy1,not reversible,reversible,Y
+KDUI,not reversible,reversible,Y
+LEUTAi,not reversible,reversible,Y
+LGTHL,not reversible,reversible,Y
+MCITD,not reversible,reversible,Y
+MOHMT,not reversible,reversible,Y
+O16AT,not reversible,reversible,Y
+OBTFL,not reversible,reversible,Y
+PSERT,not reversible,reversible,Y
+PTRCTA,not reversible,reversible,Y
+R15BPK,not reversible,reversible,Y
+SADT2,not reversible,reversible,Y
+SOTA,not reversible,reversible,Y
+TRPS3,not reversible,reversible,Y
+UDPGALM,not reversible,reversible,Y

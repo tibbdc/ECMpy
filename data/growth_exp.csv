@@ -1,0 +1,25 @@
+,substrate,EXP
+EX_acgam_e,N-Acetyl-D-glucosamine,0.61
+EX_ac_e,Acetate,0.29
+EX_akg_e,2-Oxoglutarate,0.24
+EX_ala__L_e,L-Alanine,0.24
+EX_fru_e,Fructose,0.54
+EX_fum_e,Fumarate,0.47
+EX_g6p_e,Glucose 6-phosphate,0.78
+EX_gal_e,Galactose,0.24
+EX_gam_e,Glucosamine,0.4
+EX_glcn_e,Gluconate,0.68
+EX_glc__D_e,Glucose,0.66
+EX_glyc_e,Glycerol,0.47
+EX_gsn_e,Guanosine,0.37
+EX_lac__L_e,L-Lactate,0.41
+EX_malt_e,Maltose,0.52
+EX_mal__L_e,L-Malate,0.55
+EX_man_e,Mannose,0.35
+EX_mnl_e,Mannitol,0.61
+EX_pyr_e,Pyruvate,0.41
+EX_rib__D_e,Ribose,0.41
+EX_sbt__D_e,Sorbitol,0.48
+EX_succ_e,Succinate,0.5
+EX_tre_e,Trehalose,0.48
+EX_xyl__D_e,Xylose,0.51
