@@ -1,4 +1,4 @@
-# ECMpy_eco1515
+# eciML1515
 The process for enzyme-constrained model construction.
 
 ## About
@@ -39,11 +39,11 @@ $ git clone https://github.com/tibbdc/ECMpy.git
 + 01.iML1515_modification_workflow.ipynb
   + get new iML1515 model corrected GPR relationships, reaction direction and EC number.
 
-+ 02.construct_raw_ECMpy_eco1515.ipynb
-  + get raw ECMpy_eco1515 using machine learning data.
++ 02.construct_raw_eciML1515.ipynb
+  + get raw eciML1515 using machine learning data.
 
-+ 03.construct_final_ECMpy_eco1515.ipynb
-  + modify raw ECMpy_eco151 using enzyme usage and C13 data.
++ 03.construct_final_eciML1515.ipynb
+  + modify raw eciML1515 using enzyme usage and C13 data.
   
 + 04.simulation.ipynb
   + simulation results involved in the article.
