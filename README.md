@@ -48,3 +48,5 @@ $ git clone https://github.com/tibbdc/ECMpy.git
 + 04.simulation.ipynb
   + simulation results involved in the article.
   
++ 05.get_enzmodel_by_autopacmen.ipynb
+  + build the GECKO and sMOMENT model of iML1515 in the article.
