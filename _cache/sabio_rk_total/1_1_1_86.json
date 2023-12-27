@@ -1,0 +1,40 @@
+{
+    "REST": {
+        "Escherichia coli": [
+            5.376,
+            2.231,
+            3.511,
+            0.182,
+            0.05,
+            0.167,
+            0.594,
+            3.6,
+            0.3,
+            0.05166667,
+            0.12,
+            0.001833333,
+            37.0,
+            41.0
+        ]
+    },
+    "2dhp;h;nadph": {
+        "Escherichia coli": [
+            0.194
+        ]
+    },
+    "h;nadph;pyr": {
+        "Escherichia coli": [
+            0.021
+        ]
+    },
+    "alac__S;h;nadph": {
+        "Escherichia coli": [
+            21.0
+        ]
+    },
+    "23dhmb;nadp": {
+        "Escherichia coli": [
+            0.51
+        ]
+    }
+}

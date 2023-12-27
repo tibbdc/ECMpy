@@ -1,0 +1,38 @@
+{
+    "amp;atp": {
+        "Gallus gallus": [
+            650.0,
+            500.0,
+            650.0
+        ],
+        "Homo sapiens": [
+            751.0,
+            1100.0,
+            151.6667
+        ],
+        "Oryctolagus cuniculus": [
+            17.0
+        ],
+        "Bacillus subtilis": [
+            0.035,
+            0.05333333,
+            0.07333333,
+            0.1033333,
+            0.135
+        ],
+        "Arabidopsis thaliana": [
+            3.66,
+            3.65
+        ]
+    },
+    "atp;damp": {
+        "Gallus gallus": [
+            87.0
+        ]
+    },
+    "REST": {
+        "Oryctolagus cuniculus": [
+            1.0
+        ]
+    }
+}

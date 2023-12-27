@@ -1,0 +1,18 @@
+{
+    "REST": {
+        "Pseudomonas fluorescens": [
+            73.33333,
+            45.0,
+            45.0,
+            46.66667
+        ]
+    },
+    "bzal": {
+        "Pseudomonas fluorescens": [
+            83.33333,
+            50.0,
+            51.66667,
+            81.66667
+        ]
+    }
+}

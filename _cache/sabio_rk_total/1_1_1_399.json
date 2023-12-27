@@ -1,0 +1,21 @@
+{
+    "akg;h;nadh": {
+        "Homo sapiens": [
+            0.07833333,
+            0.07833333
+        ],
+        "Escherichia coli": [
+            33.3
+        ]
+    },
+    "r2hglut;nad": {
+        "Escherichia coli": [
+            0.71
+        ]
+    },
+    "S2hglut;nad": {
+        "Escherichia coli": [
+            0.25
+        ]
+    }
+}

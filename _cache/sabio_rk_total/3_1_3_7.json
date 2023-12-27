@@ -1,0 +1,18 @@
+{
+    "pap;h2o": {
+        "Thermus thermophilus": [
+            95.0
+        ],
+        "Mycoplasma pneumoniae": [
+            0.75
+        ],
+        "Escherichia coli": [
+            11.4
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            13.2
+        ]
+    }
+}

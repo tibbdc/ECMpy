@@ -1,0 +1,36 @@
+{
+    "acgam1p;utp": {
+        "Saccharomyces cerevisiae": [
+            15.41967
+        ],
+        "Escherichia coli": [
+            350.0,
+            250.0,
+            330.0,
+            330.0,
+            21.0,
+            24.0
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            350.0,
+            330.0
+        ]
+    },
+    "gam1p;utp": {
+        "Escherichia coli": [
+            23.0
+        ]
+    },
+    "g1p;utp": {
+        "Escherichia coli": [
+            0.2
+        ]
+    },
+    "acgal1p;utp": {
+        "Escherichia coli": [
+            0.1
+        ]
+    }
+}

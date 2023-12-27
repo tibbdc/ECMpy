@@ -1,0 +1,22 @@
+{
+    "h;nadph;gthox": {
+        "Bos taurus": [
+            285.0
+        ],
+        "Rattus norvegicus": [
+            240.0,
+            246.6667
+        ],
+        "Escherichia coli": [
+            60.0
+        ],
+        "Mus musculus": [
+            1.566667
+        ]
+    },
+    "nadp;gthrd": {
+        "Escherichia coli": [
+            50.0
+        ]
+    }
+}

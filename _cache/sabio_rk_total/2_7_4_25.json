@@ -1,0 +1,26 @@
+{
+    "atp;cmp": {
+        "Escherichia coli": [
+            103.0
+        ],
+        "Mycobacterium tuberculosis": [
+            52.0
+        ]
+    },
+    "atp;dcmp": {
+        "Escherichia coli": [
+            108.0
+        ],
+        "Mycobacterium tuberculosis": [
+            30.0
+        ]
+    },
+    "atp;ump": {
+        "Escherichia coli": [
+            0.82
+        ],
+        "Mycobacterium tuberculosis": [
+            12.2
+        ]
+    }
+}

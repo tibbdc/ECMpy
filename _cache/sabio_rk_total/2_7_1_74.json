@@ -1,0 +1,18 @@
+{
+    "REST": {
+        "Mycoplasma mycoides": [
+            1.23
+        ],
+        "Homo sapiens": [
+            0.03,
+            0.18,
+            0.26,
+            0.37
+        ]
+    },
+    "atp;cytd": {
+        "Homo sapiens": [
+            0.74
+        ]
+    }
+}

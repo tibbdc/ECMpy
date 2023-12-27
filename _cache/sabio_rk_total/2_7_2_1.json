@@ -1,0 +1,38 @@
+{
+    "ac;atp": {
+        "Methanosarcina thermophila": [
+            1221.0,
+            1050.0,
+            949.0,
+            1033.0,
+            1278.0,
+            1056.0,
+            1055.0,
+            1055.0,
+            913.0,
+            913.0,
+            428.0,
+            428.0,
+            1669.0,
+            1596.0,
+            1240.0
+        ]
+    },
+    "actp;adp": {
+        "Methanosarcina thermophila": [
+            2680.0,
+            1260.0,
+            1260.0
+        ]
+    },
+    "atp;prpnte": {
+        "Methanosarcina thermophila": [
+            218.0
+        ]
+    },
+    "REST": {
+        "Methanosarcina thermophila": [
+            0.18
+        ]
+    }
+}

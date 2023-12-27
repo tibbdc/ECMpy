@@ -1,0 +1,26 @@
+{
+    "glcr": {
+        "Escherichia coli": [
+            35.0,
+            20.0,
+            0.056
+        ],
+        "Pseudomonas putida": [
+            17.0
+        ],
+        "Acinetobacter baylyi": [
+            6.39
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            34.0,
+            44.0,
+            20.0,
+            0.013
+        ],
+        "Pseudomonas putida": [
+            21.0
+        ]
+    }
+}

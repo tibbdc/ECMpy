@@ -1,0 +1,51 @@
+{
+    "REST": {
+        "Leuconostoc mesenteroides": [
+            521.6667,
+            1125.0
+        ],
+        "Thermotoga maritima": [
+            35000.0,
+            18000.0,
+            35000.0,
+            80000.0,
+            11000.0,
+            21000.0
+        ],
+        "Homo sapiens": [
+            296.0,
+            296.0,
+            43.0,
+            98.0
+        ]
+    },
+    "g6p;nadp": {
+        "Aspergillus aculeatus": [
+            83.0
+        ],
+        "Saccharomyces cerevisiae": [
+            202.0,
+            202.4
+        ],
+        "Escherichia coli": [
+            174.0,
+            178.0,
+            176.0,
+            152.0,
+            158.0,
+            165.0
+        ]
+    },
+    "dgal6p;nadp": {
+        "Homo sapiens": [
+            157.0
+        ]
+    },
+    "g6p;nad": {
+        "Escherichia coli": [
+            288.0,
+            240.0,
+            257.0
+        ]
+    }
+}

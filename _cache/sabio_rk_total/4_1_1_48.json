@@ -1,0 +1,35 @@
+{
+    "2cpr5p": {
+        "Pyrococcus furiosus": [
+            8.4
+        ],
+        "Thermotoga maritima": [
+            0.11,
+            0.75,
+            3.24,
+            15.4,
+            2.5
+        ],
+        "Mycobacterium tuberculosis": [
+            0.16
+        ],
+        "Sulfolobus solfataricus": [
+            0.11,
+            2.1,
+            0.16,
+            0.42,
+            0.51,
+            0.67
+        ],
+        "Pseudomonas aeruginosa": [
+            11.1
+        ],
+        "Escherichia coli": [
+            9.3,
+            4.1,
+            7.2,
+            3.6,
+            4.0
+        ]
+    }
+}

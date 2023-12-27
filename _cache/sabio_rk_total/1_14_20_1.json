@@ -1,0 +1,19 @@
+{
+    "REST": {
+        "Cephalosporium acremonium": [
+            0.073
+        ],
+        "Streptomyces clavuligerus": [
+            0.021,
+            0.079,
+            0.056,
+            0.42,
+            0.062
+        ]
+    },
+    "akg;apc;o2": {
+        "Streptomyces clavuligerus": [
+            0.014
+        ]
+    }
+}

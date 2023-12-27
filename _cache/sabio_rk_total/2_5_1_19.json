@@ -1,0 +1,31 @@
+{
+    "REST": {
+        "Streptococcus pneumoniae": [
+            2.1,
+            2.8,
+            3.0,
+            12.8,
+            7.6,
+            6.5,
+            2.0,
+            2.1,
+            2.8,
+            3.0,
+            12.8,
+            7.6,
+            6.5,
+            2.0
+        ],
+        "Escherichia coli": [
+            32.0,
+            13.0,
+            14.0
+        ]
+    },
+    "3psme;pi": {
+        "Streptococcus pneumoniae": [
+            0.23,
+            0.22
+        ]
+    }
+}

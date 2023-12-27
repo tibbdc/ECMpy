@@ -1,0 +1,81 @@
+{
+    "REST": {
+        "Paramecium bursaria chlorella virus 1": [
+            10.0,
+            14.0,
+            0.9
+        ],
+        "Selenomonas ruminantium": [
+            4.83
+        ],
+        "Nicotiana glutinosa": [
+            77.78
+        ],
+        "Leishmania donovani": [
+            7.7
+        ],
+        "Trypanosoma brucei": [
+            7.4
+        ],
+        "Mus musculus": [
+            7.8
+        ],
+        "Giardia lamblia": [
+            8.6
+        ],
+        "Methanosarcina mazei": [
+            6.4
+        ],
+        "Pseudomonas aeruginosa": [
+            12.0
+        ],
+        "Bartonella henselae": [
+            7.9
+        ],
+        "Nitrosomonas europaea": [
+            3.5
+        ],
+        "Vibrio vulnificus": [
+            29.0
+        ],
+        "Thermotoga maritima": [
+            3.2,
+            32.0,
+            95.0
+        ],
+        "Aquifex aeolicus": [
+            1.2,
+            43.0,
+            84.0,
+            75.0,
+            61.0,
+            77.0,
+            98.0
+        ]
+    },
+    "lys__L": {
+        "Nicotiana glutinosa": [
+            0.236
+        ],
+        "Trypanosoma brucei": [
+            2.2
+        ],
+        "Mus musculus": [
+            1.8
+        ],
+        "Leishmania donovani": [
+            0.31
+        ]
+    },
+    "arg__L": {
+        "Trypanosoma brucei": [
+            1.0
+        ],
+        "Mus musculus": [
+            3.5
+        ],
+        "Leishmania donovani": [
+            2.3
+        ]
+    }
+}

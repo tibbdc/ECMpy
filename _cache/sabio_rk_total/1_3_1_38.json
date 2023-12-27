@@ -1,0 +1,15 @@
+{
+    "h;nadph;hx2coa": {
+        "Homo sapiens": [
+            0.53
+        ]
+    },
+    "h;nadph;dc2coa": {
+        "Homo sapiens": [
+            0.93
+        ],
+        "Bos taurus": [
+            0.52
+        ]
+    }
+}

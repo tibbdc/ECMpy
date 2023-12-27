@@ -1,0 +1,61 @@
+{
+    "h;mndn;nadph": {
+        "Sus scrofa": [
+            98.33333
+        ],
+        "Leishmania major": [
+            74.0,
+            140.0
+        ]
+    },
+    "h;mndn;nadh": {
+        "Leishmania major": [
+            52.0,
+            87.0
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            516.6667,
+            600.0,
+            0.3333333,
+            0.01
+        ],
+        "Mycobacterium tuberculosis": [
+            2.8,
+            0.0077,
+            2.5,
+            0.0079,
+            3.6,
+            0.0087,
+            2.8,
+            2.8
+        ],
+        "Kluyveromyces marxianus": [
+            15833.33,
+            8.666667,
+            6.0
+        ],
+        "Escherichia coli": [
+            8.9,
+            6.0,
+            370.0,
+            34.2
+        ],
+        "Archaeoglobus fulgidus": [
+            120.0,
+            170.0,
+            3200.0
+        ]
+    },
+    "mndn;nadh": {
+        "Homo sapiens": [
+            550.0
+        ]
+    },
+    "h;hqn;nadph;o2": {
+        "Kluyveromyces marxianus": [
+            26.66667
+        ]
+    }
+}

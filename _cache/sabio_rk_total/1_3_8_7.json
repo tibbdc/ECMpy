@@ -1,0 +1,76 @@
+{
+    "REST": {
+        "Homo sapiens": [
+            11.5,
+            19.2,
+            14.2,
+            7.4,
+            13.6,
+            3.4,
+            4.6,
+            0.003,
+            2.7,
+            8.0,
+            6.3,
+            10.0,
+            13.1,
+            0.24,
+            26.4
+        ],
+        "Sus scrofa": [
+            0.61,
+            0.46,
+            13.2,
+            8.6,
+            19.6,
+            20.6,
+            6.2,
+            0.016
+        ],
+        "Rattus norvegicus": [
+            3.2,
+            31.2
+        ]
+    },
+    "fad;octcoa": {
+        "Sus scrofa": [
+            19.6,
+            18.8,
+            20.0,
+            0.047
+        ],
+        "Homo sapiens": [
+            19.2,
+            19.9
+        ],
+        "Rattus norvegicus": [
+            27.2,
+            27.0,
+            16.8
+        ]
+    },
+    "butcoa;fad": {
+        "Rattus norvegicus": [
+            3.8
+        ],
+        "Homo sapiens": [
+            3.7
+        ]
+    },
+    "fad;ptcoa": {
+        "Rattus norvegicus": [
+            25.4
+        ],
+        "Homo sapiens": [
+            14.1
+        ]
+    },
+    "deccoa;fad": {
+        "Rattus norvegicus": [
+            25.2
+        ],
+        "Homo sapiens": [
+            13.6
+        ]
+    }
+}

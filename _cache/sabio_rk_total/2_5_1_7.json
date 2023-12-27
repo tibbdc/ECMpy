@@ -1,0 +1,12 @@
+{
+    "pep;uacgam": {
+        "Streptococcus pneumoniae": [
+            0.41,
+            0.78
+        ],
+        "Staphylococcus aureus": [
+            1.13,
+            0.76
+        ]
+    }
+}

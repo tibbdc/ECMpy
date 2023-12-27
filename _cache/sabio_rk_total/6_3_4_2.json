@@ -1,0 +1,75 @@
+{
+    "atp;h2o;gln__L;utp": {
+        "Lactococcus lactis subsp. lactis": [
+            2.49,
+            3.7,
+            0.076
+        ],
+        "Escherichia coli": [
+            6.1,
+            6.1,
+            1.5
+        ],
+        "Lactococcus lactis": [
+            0.139,
+            2.85,
+            5.7,
+            0.195,
+            0.028,
+            0.13,
+            6.4,
+            0.134,
+            0.334,
+            0.11,
+            5.18
+        ],
+        "Mycobacterium tuberculosis": [
+            21.9,
+            22.9
+        ]
+    },
+    "atp;nh3;utp": {
+        "Escherichia coli": [
+            9.5,
+            12.8,
+            13.7,
+            9.5,
+            11.3
+        ],
+        "Lactococcus lactis": [
+            6.3,
+            6.3,
+            6.3
+        ]
+    },
+    "atp;ham;utp": {
+        "Escherichia coli": [
+            14.0
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            0.453,
+            1.41,
+            0.93
+        ],
+        "Lactococcus lactis": [
+            1.65
+        ]
+    },
+    "h2o;gln__L": {
+        "Escherichia coli": [
+            5.62
+        ],
+        "Lactococcus lactis": [
+            0.084,
+            0.259,
+            0.082,
+            0.56,
+            1.2,
+            0.078,
+            0.076,
+            1.054
+        ]
+    }
+}

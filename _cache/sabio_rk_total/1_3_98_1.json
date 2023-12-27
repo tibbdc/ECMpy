@@ -1,0 +1,32 @@
+{
+    "h;nadh;o2": {
+        "Lactococcus lactis subsp. lactis": [
+            11.7
+        ]
+    },
+    "REST": {
+        "Enterococcus faecalis": [
+            1.04,
+            9.4,
+            13.5,
+            22.0
+        ],
+        "Saccharomyces cerevisiae": [
+            6.8,
+            25.0,
+            23.0,
+            190.0,
+            39.0,
+            2.1,
+            2.3
+        ],
+        "Escherichia coli": [
+            0.001883333,
+            0.00509
+        ],
+        "Saccharomyces kluyveri": [
+            2.6,
+            2.7
+        ]
+    }
+}

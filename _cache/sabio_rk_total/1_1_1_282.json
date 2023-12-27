@@ -1,0 +1,30 @@
+{
+    "nad;quin": {
+        "Escherichia coli": [
+            113000.0,
+            142000.0,
+            0.05,
+            0.05
+        ]
+    },
+    "nad;skm": {
+        "Escherichia coli": [
+            91000.0,
+            105000.0,
+            0.05,
+            0.05
+        ]
+    },
+    "nadp;skm": {
+        "Escherichia coli": [
+            0.1166667,
+            0.1166667
+        ]
+    },
+    "nadp;quin": {
+        "Escherichia coli": [
+            0.05,
+            0.05
+        ]
+    }
+}

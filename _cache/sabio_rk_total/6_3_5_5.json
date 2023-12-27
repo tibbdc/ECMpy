@@ -1,0 +1,28 @@
+{
+    "REST": {
+        "Escherichia coli": [
+            2.0,
+            3.8,
+            1.4,
+            4.04,
+            5.6,
+            0.2166667,
+            0.3,
+            0.3
+        ]
+    },
+    "atp;co2;h2o;nh3": {
+        "Escherichia coli": [
+            3.9,
+            1.9,
+            0.09,
+            2.9,
+            2.433333
+        ]
+    },
+    "adp;cbp;glu__L;pi": {
+        "Escherichia coli": [
+            0.36
+        ]
+    }
+}

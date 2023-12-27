@@ -1,0 +1,19 @@
+{
+    "dtdprham;h;nadph": {
+        "Salmonella typhimurium": [
+            29.0
+        ],
+        "Aneurinibacillus thermoaerophilus": [
+            2.3
+        ]
+    },
+    "dtdprham;h;nadh": {
+        "Salmonella typhimurium": [
+            25.0,
+            53.0
+        ],
+        "Aneurinibacillus thermoaerophilus": [
+            1.5
+        ]
+    }
+}

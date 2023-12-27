@@ -1,0 +1,31 @@
+{
+    "lys__L": {
+        "Selenomonas ruminantium": [
+            10.6
+        ],
+        "Giardia lamblia": [
+            0.93
+        ],
+        "Methanosarcina mazei": [
+            0.24
+        ],
+        "Pseudomonas aeruginosa": [
+            0.21
+        ],
+        "Bartonella henselae": [
+            0.3
+        ],
+        "Nitrosomonas europaea": [
+            0.22
+        ],
+        "Vibrio vulnificus": [
+            24.0
+        ],
+        "Thermotoga maritima": [
+            1.5
+        ],
+        "Aquifex aeolicus": [
+            0.05
+        ]
+    }
+}

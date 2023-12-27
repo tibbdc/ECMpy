@@ -1,0 +1,80 @@
+{
+    "fdp;h2o": {
+        "Sus scrofa": [
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            18.4,
+            18.4,
+            18.4,
+            18.4,
+            19.0,
+            22.0,
+            22.0,
+            22.0,
+            22.0,
+            21.0,
+            9.1,
+            12.5,
+            12.5,
+            18.0,
+            18.0,
+            20.0
+        ],
+        "Escherichia coli": [
+            24.0,
+            8.0,
+            26.0,
+            24.0,
+            8.0,
+            26.0,
+            24.0,
+            8.0,
+            26.0,
+            24.0,
+            24.0
+        ],
+        "Homo sapiens": [
+            23.4,
+            20.8,
+            23.4,
+            20.8
+        ],
+        "Spinacia oleracea": [
+            125.0
+        ]
+    },
+    "REST": {
+        "Corynebacterium glutamicum": [
+            3.2
+        ],
+        "Sus scrofa": [
+            22.0,
+            22.0
+        ],
+        "Methanocaldococcus jannaschii": [
+            7.0,
+            2.7,
+            8.4
+        ],
+        "Archaeoglobus fulgidus": [
+            2.7,
+            23.8
+        ],
+        "Thermotoga maritima": [
+            268.0
+        ],
+        "Escherichia coli": [
+            0.0,
+            1.1
+        ],
+        "Vigna radiata": [
+            8.65
+        ]
+    }
+}

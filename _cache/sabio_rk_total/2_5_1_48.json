@@ -1,0 +1,28 @@
+{
+    "cys__L;suchms": {
+        "Escherichia coli": [
+            121.0,
+            117.0,
+            121.0,
+            1.8,
+            166.0
+        ]
+    },
+    "suchms": {
+        "Escherichia coli": [
+            1.8,
+            5.49,
+            2.66
+        ]
+    },
+    "cys__L;phom": {
+        "Arabidopsis thaliana": [
+            30.0
+        ]
+    },
+    "h2o;suchms": {
+        "Helicobacter pylori": [
+            0.297
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "thf;ser__L": {
+        "Macaca radiata": [
+            0.0017,
+            0.0017,
+            0.0017,
+            0.0017,
+            0.0017,
+            0.0017,
+            0.0017,
+            0.0017
+        ],
+        "Rattus norvegicus": [
+            0.815,
+            0.835
+        ],
+        "Homo sapiens": [
+            13.13333,
+            9.583333,
+            9.583333,
+            28.0,
+            15.0
+        ],
+        "Arabidopsis thaliana": [
+            15.8,
+            5.3,
+            5.3,
+            8.1,
+            8.1,
+            13.0,
+            13.0,
+            20.6,
+            20.6,
+            21.8,
+            21.8,
+            11.9,
+            11.9,
+            16.2,
+            16.2,
+            17.4,
+            17.4,
+            19.6,
+            19.6,
+            18.2,
+            18.2
+        ],
+        "Escherichia coli": [
+            11.5,
+            11.5,
+            10.66667,
+            11.44333,
+            11.44333
+        ],
+        "Plasmodium vivax": [
+            0.98
+        ],
+        "Oryctolagus cuniculus": [
+            14.16667,
+            14.16667
+        ],
+        "Geobacillus stearothermophilus": [
+            5.0,
+            3.6
+        ],
+        "Ovis aries": [
+            4.3
+        ],
+        "Plasmodium falciparum": [
+            0.74,
+            0.43
+        ]
+    },
+    "athr__L": {
+        "Rattus norvegicus": [
+            0.2033333,
+            0.06
+        ],
+        "Plasmodium vivax": [
+            0.044
+        ],
+        "Oryctolagus cuniculus": [
+            1.333333
+        ],
+        "Geobacillus stearothermophilus": [
+            0.9,
+            0.7
+        ],
+        "Ovis aries": [
+            3.7
+        ]
+    },
+    "REST": {
+        "Arabidopsis thaliana": [
+            7.6,
+            8.7,
+            4.3,
+            3.5,
+            3.5,
+            3.8,
+            3.3
+        ],
+        "Plasmodium vivax": [
+            0.12
+        ],
+        "Escherichia coli": [
+            3.368333
+        ]
+    },
+    "thf;ser__D": {
+        "Homo sapiens": [
+            9.46
+        ],
+        "Plasmodium vivax": [
+            0.26
+        ],
+        "Plasmodium falciparum": [
+            0.246
+        ]
+    },
+    "thr__L": {
+        "Plasmodium vivax": [
+            0.015
+        ]
+    }
+}

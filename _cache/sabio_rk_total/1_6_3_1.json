@@ -1,0 +1,20 @@
+{
+    "h;nadph;o2": {
+        "Pseudomonas fluorescens": [
+            0.11
+        ],
+        "Pyrococcus horikoshii": [
+            2.0
+        ]
+    },
+    "h;nadh;o2": {
+        "Sulfolobus solfataricus": [
+            4.416667,
+            4.033333
+        ],
+        "Pyrococcus horikoshii": [
+            8.2,
+            5.9
+        ]
+    }
+}

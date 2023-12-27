@@ -1,0 +1,67 @@
+{
+    "REST": {
+        "Bos taurus": [
+            9.12e-08,
+            0.0299,
+            0.000459,
+            0.000338,
+            19.3,
+            30.4,
+            1.48e-06,
+            0.00187
+        ],
+        "Agaricus bisporus": [
+            6.2,
+            641.8,
+            631.6,
+            553.5,
+            107.4,
+            44.3,
+            35.5,
+            29.4,
+            184.2,
+            132.0,
+            66.7,
+            0.6,
+            106.77,
+            108.44,
+            8.71
+        ]
+    },
+    "catechol;o2": {
+        "Agaricus bisporus": [
+            877.6
+        ]
+    },
+    "4mcat;o2": {
+        "Agaricus bisporus": [
+            841.6
+        ]
+    },
+    "dopa;o2": {
+        "Agaricus bisporus": [
+            439.0
+        ]
+    },
+    "4hphac;o2": {
+        "Agaricus bisporus": [
+            44.3
+        ]
+    },
+    "o2;tym": {
+        "Agaricus bisporus": [
+            25.9
+        ]
+    },
+    "o2;phenol": {
+        "Agaricus bisporus": [
+            12.7
+        ]
+    },
+    "tyr__L;o2": {
+        "Agaricus bisporus": [
+            7.9,
+            8.71
+        ]
+    }
+}

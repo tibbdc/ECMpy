@@ -1,0 +1,20 @@
+{
+    "hom__L;nadp": {
+        "Escherichia coli": [
+            0.24,
+            3.3,
+            0.51,
+            24.0
+        ]
+    },
+    "h;aspsa;nadph": {
+        "Arabidopsis thaliana": [
+            29.1,
+            245.0,
+            196.0
+        ],
+        "Saccharomyces cerevisiae": [
+            126.0
+        ]
+    }
+}

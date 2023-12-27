@@ -1,0 +1,12 @@
+{
+    "REST": {
+        "Rattus norvegicus": [
+            0.08,
+            4.2
+        ],
+        "Mycobacterium tuberculosis": [
+            1.6,
+            2.233333
+        ]
+    }
+}

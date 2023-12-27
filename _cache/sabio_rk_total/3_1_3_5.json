@@ -1,0 +1,76 @@
+{
+    "amp;h2o": {
+        "Escherichia coli": [
+            750.0,
+            4.9
+        ],
+        "Homo sapiens": [
+            0.04
+        ],
+        "Drosophila melanogaster": [
+            0.28
+        ]
+    },
+    "4nphp;h2o": {
+        "Escherichia coli": [
+            60.0,
+            3.55,
+            0.56,
+            4.1
+        ]
+    },
+    "gmp;h2o": {
+        "Escherichia coli": [
+            11.0
+        ],
+        "Homo sapiens": [
+            0.07
+        ],
+        "Drosophila melanogaster": [
+            0.88
+        ]
+    },
+    "dgmp;h2o": {
+        "Escherichia coli": [
+            8.04,
+            0.2
+        ]
+    },
+    "damp;h2o": {
+        "Escherichia coli": [
+            0.3
+        ]
+    },
+    "dtmp;h2o": {
+        "Escherichia coli": [
+            0.16,
+            30.4
+        ]
+    },
+    "dump;h2o": {
+        "Escherichia coli": [
+            0.23,
+            21.4
+        ]
+    },
+    "dimp;h2o": {
+        "Escherichia coli": [
+            0.24
+        ]
+    },
+    "dcmp;h2o": {
+        "Escherichia coli": [
+            0.23
+        ]
+    },
+    "h2o;ump": {
+        "Escherichia coli": [
+            34.2
+        ]
+    },
+    "cmp;h2o": {
+        "Homo sapiens": [
+            19.0
+        ]
+    }
+}

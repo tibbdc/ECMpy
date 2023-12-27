@@ -1,0 +1,21 @@
+{
+    "butcoa;fad": {
+        "Homo sapiens": [
+            2.2
+        ]
+    },
+    "fad;ptcoa": {
+        "Homo sapiens": [
+            3.3
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            2.1,
+            8.9
+        ],
+        "Solanum tuberosum": [
+            0.98
+        ]
+    }
+}

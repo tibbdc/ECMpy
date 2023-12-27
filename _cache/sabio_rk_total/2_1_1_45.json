@@ -1,0 +1,59 @@
+{
+    "mlthf;dump": {
+        "Homo sapiens": [
+            0.213,
+            0.213,
+            0.213,
+            0.213,
+            4.166667,
+            2.5,
+            1.0
+        ],
+        "Escherichia coli": [
+            2.1,
+            2.1,
+            0.6,
+            0.48,
+            0.32,
+            0.28
+        ],
+        "Lactobacillus casei": [
+            6.15,
+            8.0,
+            8.0,
+            5.5,
+            5.5,
+            3.6,
+            3.6,
+            2.7,
+            3.6,
+            7.8,
+            5.5
+        ],
+        "Bacteriophage T4": [
+            11.8
+        ],
+        "Leishmania major": [
+            5.8,
+            3.0
+        ],
+        "Trypanosoma cruzi": [
+            3.4
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            0.0057,
+            0.0057,
+            0.0057
+        ],
+        "Escherichia coli": [
+            0.099
+        ],
+        "Lactobacillus casei": [
+            0.011,
+            0.01533333,
+            0.013
+        ]
+    }
+}

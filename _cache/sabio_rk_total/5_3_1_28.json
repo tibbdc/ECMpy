@@ -1,0 +1,16 @@
+{
+    "REST": {
+        "Mycobacterium tuberculosis": [
+            0.45
+        ],
+        "Burkholderia pseudomallei": [
+            0.5
+        ],
+        "Helicobacter pylori": [
+            33.1
+        ],
+        "Escherichia coli": [
+            0.44
+        ]
+    }
+}

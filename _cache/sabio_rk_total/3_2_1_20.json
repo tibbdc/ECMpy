@@ -1,0 +1,114 @@
+{
+    "REST": {
+        "Saccharomyces cerevisiae": [
+            0.88
+        ],
+        "Solanum tuberosum": [
+            35.9,
+            100.4,
+            69.6
+        ],
+        "Aspergillus nidulans": [
+            21.0,
+            30.0,
+            22.0,
+            11.0,
+            2.4,
+            0.61
+        ],
+        "Mortierella alliacea": [
+            58.6,
+            56.8
+        ],
+        "Thermus thermophilus": [
+            343.0,
+            22.0,
+            11.0
+        ],
+        "Apis mellifera": [
+            37.0,
+            135.0,
+            11.1,
+            4.67,
+            195.0,
+            16.3,
+            148.0,
+            104.0,
+            21.5
+        ],
+        "Thermotoga maritima": [
+            9.12,
+            10.48
+        ],
+        "Erwinia rhapontici": [
+            0.85,
+            0.2,
+            0.4333333,
+            0.4,
+            0.2666667,
+            0.3833333,
+            0.45,
+            0.3666667,
+            0.5833333
+        ]
+    },
+    "h2o;M02451": {
+        "Solanum tuberosum": [
+            74.6
+        ],
+        "Aspergillus nidulans": [
+            49.0
+        ],
+        "Mortierella alliacea": [
+            56.9
+        ],
+        "Apis mellifera": [
+            5.7
+        ]
+    },
+    "h2o;M02449": {
+        "Solanum tuberosum": [
+            64.3
+        ],
+        "Aspergillus nidulans": [
+            44.0
+        ],
+        "Mortierella alliacea": [
+            47.3
+        ],
+        "Apis mellifera": [
+            8.12
+        ]
+    },
+    "h2o;M02447": {
+        "Solanum tuberosum": [
+            57.3
+        ],
+        "Mortierella alliacea": [
+            52.7
+        ],
+        "Apis mellifera": [
+            4.67
+        ]
+    },
+    "h2o;M02446": {
+        "Solanum tuberosum": [
+            35.2
+        ],
+        "Mortierella alliacea": [
+            57.1
+        ]
+    },
+    "h2o;HC00229": {
+        "Aspergillus nidulans": [
+            20.0
+        ],
+        "Thermus thermophilus": [
+            257.0,
+            361.0
+        ],
+        "Apis mellifera": [
+            0.667
+        ]
+    }
+}

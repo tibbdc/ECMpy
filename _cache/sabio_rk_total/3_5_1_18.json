@@ -1,0 +1,27 @@
+{
+    "h2o;sl26da": {
+        "Escherichia coli": [
+            266.6667
+        ],
+        "Salmonella typhimurium": [
+            242.0
+        ],
+        "Haemophilus influenzae": [
+            200.0,
+            370.0,
+            200.0,
+            200.0,
+            200.0
+        ]
+    },
+    "REST": {
+        "Salmonella typhimurium": [
+            113.0,
+            96.0
+        ],
+        "Haemophilus influenzae": [
+            230.0,
+            470.0
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "atp;ala__L;uamr": {
+        "Escherichia coli": [
+            6.85
+        ]
+    },
+    "atp;ser__L;uamr": {
+        "Escherichia coli": [
+            11.4
+        ]
+    },
+    "atp;gly;uamr": {
+        "Escherichia coli": [
+            11.68
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            11.1
+        ]
+    }
+}

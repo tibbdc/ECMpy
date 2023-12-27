@@ -1,0 +1,198 @@
+{
+    "amp;h2o": {
+        "Escherichia coli": [
+            23.0
+        ],
+        "Ipomoea batatas": [
+            230.0
+        ],
+        "Glycine max": [
+            74.0
+        ]
+    },
+    "gmp;h2o": {
+        "Escherichia coli": [
+            65.0
+        ]
+    },
+    "h2o;ump": {
+        "Escherichia coli": [
+            61.0
+        ]
+    },
+    "cmp;h2o": {
+        "Escherichia coli": [
+            26.0
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            33.0,
+            39.0,
+            61.0,
+            91.0,
+            27.0,
+            26.0,
+            29.0,
+            101.0,
+            4.9,
+            10.0
+        ],
+        "Homo sapiens": [
+            121.0,
+            109.0,
+            62.0,
+            53.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0,
+            121.0
+        ],
+        "Arabidopsis thaliana": [
+            1.76
+        ],
+        "Ipomoea batatas": [
+            1210.0
+        ]
+    },
+    "damp;h2o": {
+        "Escherichia coli": [
+            14.0
+        ]
+    },
+    "dgmp;h2o": {
+        "Escherichia coli": [
+            15.0
+        ]
+    },
+    "dump;h2o": {
+        "Escherichia coli": [
+            24.0
+        ]
+    },
+    "dcmp;h2o": {
+        "Escherichia coli": [
+            26.0
+        ]
+    },
+    "4nphp;h2o": {
+        "Escherichia coli": [
+            156.0
+        ],
+        "Homo sapiens": [
+            198.0
+        ],
+        "Salmonella typhimurium": [
+            62.0
+        ],
+        "Ipomoea batatas": [
+            2160.0
+        ],
+        "Glycine max": [
+            230.0
+        ],
+        "Phaseolus vulgaris": [
+            470.0,
+            77.0
+        ]
+    },
+    "glyc2p;h2o": {
+        "Escherichia coli": [
+            2.9
+        ],
+        "Ipomoea batatas": [
+            3370.0
+        ],
+        "Glycine max": [
+            50.0
+        ]
+    },
+    "atp;h2o": {
+        "Homo sapiens": [
+            119.0
+        ],
+        "Ipomoea batatas": [
+            980.0
+        ],
+        "Glycine max": [
+            65.0
+        ],
+        "Phaseolus vulgaris": [
+            1200.0,
+            2700.0
+        ]
+    },
+    "h2o;utp": {
+        "Homo sapiens": [
+            119.0
+        ]
+    },
+    "gtp;h2o": {
+        "Homo sapiens": [
+            113.0
+        ]
+    },
+    "dttp;h2o": {
+        "Homo sapiens": [
+            107.0
+        ]
+    },
+    "ctp;h2o": {
+        "Homo sapiens": [
+            93.0
+        ]
+    },
+    "gdp;h2o": {
+        "Homo sapiens": [
+            86.0
+        ]
+    },
+    "h2o;udp": {
+        "Homo sapiens": [
+            79.0
+        ]
+    },
+    "adp;h2o": {
+        "Homo sapiens": [
+            73.0
+        ],
+        "Ipomoea batatas": [
+            310.0
+        ],
+        "Glycine max": [
+            100.0
+        ],
+        "Phaseolus vulgaris": [
+            530.0
+        ]
+    },
+    "h2o;tdp": {
+        "Homo sapiens": [
+            69.0
+        ]
+    },
+    "cdp;h2o": {
+        "Homo sapiens": [
+            58.0
+        ]
+    },
+    "h2o;pep": {
+        "Homo sapiens": [
+            2.0
+        ]
+    },
+    "ppi;h2o": {
+        "Ipomoea batatas": [
+            1070.0
+        ],
+        "Glycine max": [
+            120.0
+        ]
+    }
+}

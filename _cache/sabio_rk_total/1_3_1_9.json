@@ -1,0 +1,17 @@
+{
+    "b2coa;h;nadh": {
+        "Plasmodium falciparum": [
+            1.62,
+            1.62,
+            1.62
+        ],
+        "Escherichia coli": [
+            0.23
+        ]
+    },
+    "b2eacp;h;nadh": {
+        "Escherichia coli": [
+            4.02
+        ]
+    }
+}

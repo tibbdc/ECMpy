@@ -1,0 +1,17 @@
+{
+    "chor": {
+        "Arabidopsis thaliana": [
+            0.645
+        ],
+        "Escherichia coli": [
+            1.333333,
+            2.933333,
+            2.883333
+        ]
+    },
+    "ichor": {
+        "Escherichia coli": [
+            1.8
+        ]
+    }
+}

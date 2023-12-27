@@ -1,0 +1,60 @@
+{
+    "h2o;octcoa": {
+        "Rhodotorula aurantiaca": [
+            159.0
+        ]
+    },
+    "deccoa;h2o": {
+        "Rhodotorula aurantiaca": [
+            136.0
+        ]
+    },
+    "h2o;myrstcoa": {
+        "Rhodotorula aurantiaca": [
+            183.0
+        ],
+        "Homo sapiens": [
+            19.7,
+            4.2,
+            2.26
+        ]
+    },
+    "h2o;palmcoa": {
+        "Rhodotorula aurantiaca": [
+            153.0
+        ],
+        "Homo sapiens": [
+            16.6
+        ]
+    },
+    "REST": {
+        "Rhodotorula aurantiaca": [
+            106.0
+        ],
+        "Escherichia coli": [
+            15.29,
+            10.13,
+            88.99
+        ],
+        "Homo sapiens": [
+            11.5,
+            1.8,
+            12.2,
+            1.4,
+            0.29
+        ]
+    },
+    "h2o;srcoa": {
+        "Rhodotorula aurantiaca": [
+            121.0
+        ],
+        "Homo sapiens": [
+            1.2
+        ]
+    },
+    "lnlncacoa;h2o": {
+        "Homo sapiens": [
+            13.3
+        ]
+    }
+}

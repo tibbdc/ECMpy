@@ -1,0 +1,49 @@
+{
+    "REST": {
+        "Mycobacterium tuberculosis": [
+            0.05166667,
+            0.063,
+            0.19,
+            0.26,
+            0.04,
+            0.025
+        ]
+    },
+    "pant__R;atp;ala_B": {
+        "Mycobacterium tuberculosis": [
+            3.4,
+            3.4,
+            3.4,
+            3.4,
+            3.4,
+            3.4,
+            3.4,
+            3.4
+        ]
+    },
+    "pant__R;atp;cbm": {
+        "Mycobacterium tuberculosis": [
+            0.035
+        ]
+    },
+    "pant__R;4abut;atp": {
+        "Mycobacterium tuberculosis": [
+            0.27
+        ]
+    },
+    "pant__R;atp;gly": {
+        "Mycobacterium tuberculosis": [
+            0.05
+        ]
+    },
+    "pant__R;a5pn;atp": {
+        "Mycobacterium tuberculosis": [
+            0.03
+        ]
+    },
+    "pant__R;atp;mma": {
+        "Mycobacterium tuberculosis": [
+            0.015
+        ]
+    }
+}

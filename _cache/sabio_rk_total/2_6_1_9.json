@@ -1,0 +1,22 @@
+{
+    "akg;hisp": {
+        "Thermotoga maritima": [
+            0.04666667
+        ]
+    },
+    "akg;phe__L": {
+        "Thermotoga maritima": [
+            0.008666667
+        ]
+    },
+    "akg;tyr__L": {
+        "Thermotoga maritima": [
+            0.04333333
+        ]
+    },
+    "akg;trp__L": {
+        "Thermotoga maritima": [
+            0.01416667
+        ]
+    }
+}

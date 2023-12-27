@@ -1,0 +1,21 @@
+{
+    "REST": {
+        "Drosophila melanogaster": [
+            14.0,
+            21.66667,
+            16.0
+        ],
+        "Homo sapiens": [
+            7.333333,
+            6.0,
+            6.166667,
+            3.5
+        ],
+        "Bos taurus": [
+            1.416667
+        ],
+        "Arabidopsis thaliana": [
+            22.51667
+        ]
+    }
+}

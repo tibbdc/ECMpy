@@ -1,0 +1,16 @@
+{
+    "h2o;phom": {
+        "Arabidopsis thaliana": [
+            0.86,
+            0.04
+        ],
+        "Escherichia coli": [
+            7.333333
+        ]
+    },
+    "ser__L": {
+        "Escherichia coli": [
+            0.07833333
+        ]
+    }
+}

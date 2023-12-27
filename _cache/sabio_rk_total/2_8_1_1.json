@@ -1,0 +1,19 @@
+{
+    "REST": {
+        "Rattus norvegicus": [
+            766.6667,
+            9.0,
+            9.333333
+        ],
+        "Arabidopsis thaliana": [
+            2.8,
+            10.7,
+            4.0,
+            2.166667,
+            0.08833333
+        ],
+        "Escherichia coli": [
+            64.0
+        ]
+    }
+}

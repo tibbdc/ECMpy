@@ -1,0 +1,21 @@
+{
+    "3php;glu__L": {
+        "Escherichia coli": [
+            1.75,
+            1.33,
+            1.75
+        ]
+    },
+    "akg;pser__L": {
+        "Escherichia coli": [
+            0.63,
+            0.39
+        ]
+    },
+    "akg;phthr": {
+        "Escherichia coli": [
+            0.08,
+            0.15
+        ]
+    }
+}

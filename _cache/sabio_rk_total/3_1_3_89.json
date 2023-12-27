@@ -1,0 +1,27 @@
+{
+    "4nphp;h2o": {
+        "Saccharomyces cerevisiae": [
+            3.48
+        ]
+    },
+    "dgmp;h2o": {
+        "Saccharomyces cerevisiae": [
+            1.2
+        ]
+    },
+    "dtmp;h2o": {
+        "Saccharomyces cerevisiae": [
+            1.1
+        ]
+    },
+    "damp;h2o": {
+        "Saccharomyces cerevisiae": [
+            1.0
+        ]
+    },
+    "dcmp;h2o": {
+        "Saccharomyces cerevisiae": [
+            0.28
+        ]
+    }
+}

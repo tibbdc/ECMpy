@@ -1,0 +1,35 @@
+{
+    "REST": {
+        "Homo sapiens": [
+            2.99
+        ],
+        "Thermus thermophilus": [
+            6.7
+        ]
+    },
+    "glx;met__L": {
+        "Homo sapiens": [
+            3.44
+        ]
+    },
+    "glx;gln__L": {
+        "Homo sapiens": [
+            1.591667
+        ]
+    },
+    "akg;leu__L": {
+        "Thermus thermophilus": [
+            5.1
+        ]
+    },
+    "4mop;glu__L": {
+        "Thermus thermophilus": [
+            16.0
+        ]
+    },
+    "akg;asp__L": {
+        "Thermus thermophilus": [
+            0.046
+        ]
+    }
+}

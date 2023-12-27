@@ -1,0 +1,156 @@
+{
+    "icit;nadp": {
+        "Plasmodium falciparum": [
+            138.0,
+            138.0,
+            138.0,
+            138.0
+        ],
+        "Sus scrofa": [
+            30.7
+        ],
+        "Escherichia coli": [
+            76.2,
+            76.2,
+            38.3,
+            789.0,
+            467.0,
+            51.8,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            80.5,
+            106.3,
+            88.1
+        ],
+        "Homo sapiens": [
+            440000.0,
+            85.0,
+            11.0,
+            35.0,
+            9.833333,
+            11.0,
+            15.6,
+            130000.0
+        ],
+        "Rhodomicrobium vannielii": [
+            40.88333
+        ],
+        "Streptococcus suis": [
+            14.0,
+            19.0
+        ],
+        "Mycobacterium tuberculosis": [
+            33.0
+        ],
+        "Streptomyces lividans": [
+            23.2,
+            27.6
+        ],
+        "Acidithiobacillus thiooxidans": [
+            21.3
+        ],
+        "Bifidobacterium longum": [
+            48.19,
+            36.38
+        ],
+        "Saccharomyces cerevisiae": [
+            26.3
+        ],
+        "Yarrowia lipolytica": [
+            26.6
+        ],
+        "Archaeoglobus fulgidus": [
+            254.6,
+            219.3
+        ]
+    },
+    "h;nadph;osuc": {
+        "Escherichia coli": [
+            1.41,
+            1.41,
+            1.72
+        ]
+    },
+    "nadp;osuc": {
+        "Escherichia coli": [
+            20.6,
+            36.2
+        ]
+    },
+    "r2hglut;nadp": {
+        "Escherichia coli": [
+            0.000724
+        ]
+    },
+    "osuc": {
+        "Escherichia coli": [
+            20.6,
+            28.3
+        ]
+    },
+    "REST": {
+        "Thermus thermophilus": [
+            5.0
+        ]
+    },
+    "icit;nad": {
+        "Thermus thermophilus": [
+            68.0
+        ],
+        "Streptomyces lividans": [
+            2.11,
+            1.37
+        ],
+        "Acidithiobacillus thiooxidans": [
+            45.1
+        ],
+        "Escherichia coli": [
+            3.22,
+            3.22,
+            3.22,
+            3.22,
+            3.22,
+            3.22
+        ]
+    },
+    "akg;h;nadph": {
+        "Mycobacterium tuberculosis": [
+            0.12,
+            0.1
+        ],
+        "Homo sapiens": [
+            0.019,
+            7.0
+        ]
+    },
+    "mal__L;nadp": {
+        "Escherichia coli": [
+            0.0082,
+            0.0082,
+            0.0082,
+            0.0082,
+            0.0082,
+            0.0082
+        ]
+    },
+    "akg;co2;h;nadph": {
+        "Escherichia coli": [
+            14.9,
+            14.9,
+            14.9,
+            14.9,
+            14.9,
+            14.9,
+            14.9,
+            14.9
+        ]
+    }
+}

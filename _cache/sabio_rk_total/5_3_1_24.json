@@ -1,0 +1,11 @@
+{
+    "pran": {
+        "Streptomyces coelicolor": [
+            12.0
+        ],
+        "Escherichia coli": [
+            38.9,
+            40.0
+        ]
+    }
+}

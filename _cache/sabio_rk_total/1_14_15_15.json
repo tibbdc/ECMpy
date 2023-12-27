@@ -1,0 +1,24 @@
+{
+    "xoltriol;h;nadph;o2": {
+        "Rattus norvegicus": [
+            0.3866667
+        ]
+    },
+    "xol7ah2;h;nadph;o2": {
+        "Rattus norvegicus": [
+            0.1833333,
+            0.1833333
+        ]
+    },
+    "REST": {
+        "Rattus norvegicus": [
+            0.04333333,
+            0.1116667
+        ],
+        "Homo sapiens": [
+            0.008,
+            0.0075,
+            0.0195
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "nadh;gsno": {
+        "Escherichia coli": [
+            0.03
+        ]
+    },
+    "cytc;h;nadh": {
+        "Escherichia coli": [
+            0.7
+        ]
+    },
+    "h;nadh;no2": {
+        "Escherichia coli": [
+            0.04
+        ]
+    },
+    "nadh;no;o2": {
+        "Escherichia coli": [
+            15.0,
+            365.0,
+            240.0,
+            90.0,
+            232.0
+        ],
+        "Saccharomyces cerevisiae": [
+            112.0,
+            80.0,
+            3.9,
+            91.0
+        ],
+        "Cupriavidus necator": [
+            290.0,
+            120.0,
+            7.4,
+            141.0
+        ],
+        "Giardia lamblia": [
+            116.0
+        ]
+    },
+    "nadph;no;o2": {
+        "Saccharomyces cerevisiae": [
+            93.0
+        ],
+        "Cupriavidus necator": [
+            0.0
+        ],
+        "Escherichia coli": [
+            200.0
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "3pg;nad": {
+        "Escherichia coli": [
+            0.55
+        ],
+        "Arabidopsis thaliana": [
+            174.1,
+            174.1,
+            115.1,
+            115.1,
+            147.4,
+            147.4,
+            119.7,
+            119.7,
+            142.4,
+            142.4,
+            97.0,
+            97.0
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            0.075,
+            0.075
+        ],
+        "Escherichia coli": [
+            0.55
+        ]
+    },
+    "3php;h;nadh": {
+        "Escherichia coli": [
+            27.8
+        ]
+    }
+}

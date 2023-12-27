@@ -1,0 +1,26 @@
+{
+    "adn;h2o": {
+        "Helicobacter pylori": [
+            18.35,
+            5.516667
+        ],
+        "Mus musculus": [
+            250.0
+        ],
+        "Thermotoga maritima": [
+            2.3
+        ],
+        "Plasmodium falciparum": [
+            4.1
+        ],
+        "Homo sapiens": [
+            80.04,
+            40.71
+        ]
+    },
+    "REST": {
+        "Plasmodium falciparum": [
+            13.92
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "cu;h;o2": {
+        "Saccharomyces cerevisiae": [
+            1.32
+        ],
+        "Homo sapiens": [
+            0.375
+        ]
+    },
+    "fe2;h;o2": {
+        "Homo sapiens": [
+            0.505
+        ],
+        "Saccharomyces cerevisiae": [
+            1.065,
+            0.1583333,
+            0.03833333,
+            0.1383333,
+            0.035
+        ],
+        "Rana catesbeiana": [
+            2548.0,
+            519.0
+        ],
+        "Rhodobacter capsulatus": [
+            0.2833333
+        ],
+        "Campylobacter jejuni": [
+            0.5666667
+        ],
+        "Aquifex aeolicus": [
+            0.2,
+            0.2833333,
+            0.6333333
+        ],
+        "Desulfovibrio sp. A2": [
+            3.033333
+        ],
+        "Salmonella typhimurium": [
+            16.11667
+        ]
+    }
+}

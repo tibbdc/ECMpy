@@ -1,0 +1,16 @@
+{
+    "REST": {
+        "Streptomyces coelicolor": [
+            0.9
+        ],
+        "Thermotoga maritima": [
+            0.67,
+            1.54,
+            32.0
+        ],
+        "Escherichia coli": [
+            4.9,
+            14.3
+        ]
+    }
+}

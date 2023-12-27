@@ -1,0 +1,52 @@
+{
+    "h2o;glu__L;nadp": {
+        "Pyrococcus horikoshii": [
+            121.2,
+            399.6
+        ],
+        "Thermococcus kodakaraensis": [
+            40.0,
+            161.6667,
+            101.6667
+        ]
+    },
+    "akg;h;nadph;nh3": {
+        "Pyrococcus horikoshii": [
+            165.3,
+            43.8,
+            387.5
+        ],
+        "Thermococcus kodakaraensis": [
+            63.33333,
+            168.3333,
+            195.0,
+            111.6667
+        ]
+    },
+    "akg;h;nadh;nh3": {
+        "Pyrococcus horikoshii": [
+            374.5
+        ],
+        "Thermococcus kodakaraensis": [
+            90.0
+        ],
+        "Homo sapiens": [
+            104.0,
+            130.0,
+            104.0,
+            130.0,
+            104.0,
+            104.0
+        ]
+    },
+    "h2o;glu__L;nad": {
+        "Homo sapiens": [
+            65.0,
+            83.0,
+            65.0,
+            83.0,
+            65.0,
+            65.0
+        ]
+    }
+}

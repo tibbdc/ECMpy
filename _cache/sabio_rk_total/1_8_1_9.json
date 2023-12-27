@@ -1,0 +1,86 @@
+{
+    "h;nadph;trdox": {
+        "Escherichia coli": [
+            20.83333,
+            17.83333
+        ],
+        "Rattus norvegicus": [
+            20.0
+        ],
+        "Mus musculus": [
+            9.833333,
+            5.666667
+        ],
+        "Solanum lycopersicum": [
+            0.38,
+            0.35
+        ],
+        "Methanosarcina acetivorans": [
+            1.175
+        ]
+    },
+    "REST": {
+        "Plasmodium falciparum": [
+            106.0,
+            45.5,
+            51.3
+        ],
+        "Rattus norvegicus": [
+            20.6,
+            4.8,
+            2.8,
+            9.6,
+            0.15,
+            1.8,
+            4.9,
+            7.4,
+            17.3,
+            4.6,
+            3.2,
+            0.11,
+            0.13,
+            0.16,
+            0.12,
+            0.04,
+            0.25,
+            3.5
+        ],
+        "Bos taurus": [
+            13.7
+        ],
+        "Mus musculus": [
+            86.33333,
+            6.533333,
+            1.2
+        ],
+        "Euglena gracilis": [
+            0.5916667,
+            0.8816667,
+            6.383333,
+            10.7
+        ],
+        "Solanum lycopersicum": [
+            1.77
+        ],
+        "Methanosarcina acetivorans": [
+            0.8166667,
+            0.65
+        ]
+    },
+    "nadp;trdrd": {
+        "Rattus norvegicus": [
+            16.5
+        ]
+    },
+    "h;mndn;nadph": {
+        "Rattus norvegicus": [
+            1.5,
+            0.18
+        ]
+    },
+    "h;nadh;trdox": {
+        "Solanum lycopersicum": [
+            0.06
+        ]
+    }
+}

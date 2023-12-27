@@ -1,0 +1,36 @@
+{
+    "REST": {
+        "Bos taurus": [
+            0.03,
+            2.5,
+            3.3,
+            1.35,
+            0.25,
+            0.1
+        ],
+        "Rattus norvegicus": [
+            8.5
+        ],
+        "Homo sapiens": [
+            16.5
+        ]
+    },
+    "butcoa;fad": {
+        "Rattus norvegicus": [
+            28.3,
+            25.9,
+            5.3
+        ],
+        "Homo sapiens": [
+            20.7
+        ]
+    },
+    "fad;ptcoa": {
+        "Rattus norvegicus": [
+            24.3
+        ],
+        "Homo sapiens": [
+            40.0
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "dha;h;nadph": {
+        "Trichoderma reesei": [
+            1.4
+        ]
+    },
+    "REST": {
+        "Trichoderma reesei": [
+            5.0,
+            12.0,
+            14.0
+        ]
+    },
+    "glyald;h;nadph": {
+        "Trichoderma reesei": [
+            5.5
+        ]
+    },
+    "h;mthgxl;nadph": {
+        "Trichoderma reesei": [
+            15.0
+        ]
+    },
+    "R_actn;h;nadph": {
+        "Trichoderma reesei": [
+            11.0
+        ]
+    },
+    "rib__D;h;nadph": {
+        "Trichoderma reesei": [
+            5.8
+        ]
+    },
+    "xyl__D;h;nadph": {
+        "Trichoderma reesei": [
+            16.0
+        ]
+    },
+    "glc__D;h;nadph": {
+        "Trichoderma reesei": [
+            6.8
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "dctp;dna": {
+        "Bacteriophage RB69": [
+            200.0
+        ],
+        "Homo sapiens": [
+            0.04833333
+        ]
+    },
+    "dgtp;dna": {
+        "Bacteriophage RB69": [
+            0.1
+        ],
+        "Homo sapiens": [
+            0.04666667
+        ]
+    },
+    "dna;dttp": {
+        "Bacteriophage RB69": [
+            273.0
+        ],
+        "Homo sapiens": [
+            3.7,
+            0.04,
+            0.02,
+            0.016,
+            0.004,
+            0.006
+        ]
+    },
+    "REST": {
+        "Bacteriophage RB69": [
+            1.8
+        ],
+        "Homo sapiens": [
+            0.035,
+            0.008333333,
+            0.01666667,
+            0.001666667
+        ],
+        "Abax parallelepipedus": [
+            0.004
+        ]
+    },
+    "dna;h2o": {
+        "Bacteriophage T4": [
+            170.0,
+            420.0,
+            170.0,
+            270.0,
+            170.0,
+            65.1,
+            0.16
+        ],
+        "Escherichia coli": [
+            5.8,
+            7.8
+        ]
+    }
+}

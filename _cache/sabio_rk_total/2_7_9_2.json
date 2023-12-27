@@ -1,0 +1,15 @@
+{
+    "atp;h2o;pyr": {
+        "Pyrococcus furiosus": [
+            1573.0,
+            1326.0
+        ]
+    },
+    "amp;pi;pep": {
+        "Pyrococcus furiosus": [
+            12.6,
+            11.9,
+            8.7
+        ]
+    }
+}

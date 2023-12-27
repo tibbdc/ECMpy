@@ -1,0 +1,26 @@
+{
+    "REST": {
+        "Saccharomyces cerevisiae": [
+            653.0
+        ],
+        "Escherichia coli": [
+            69.0,
+            52.0,
+            2100.0
+        ],
+        "Spinacia oleracea": [
+            3440.0
+        ],
+        "Mycobacterium tuberculosis": [
+            47.0
+        ]
+    },
+    "all6p": {
+        "Escherichia coli": [
+            6.1
+        ],
+        "Mycobacterium tuberculosis": [
+            0.22
+        ]
+    }
+}

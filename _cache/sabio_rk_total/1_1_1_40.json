@@ -1,0 +1,93 @@
+{
+    "mal__L;nadp": {
+        "Sulfolobus solfataricus": [
+            376.0
+        ],
+        "Zea mays": [
+            201.3,
+            30.8,
+            201.3,
+            201.3,
+            201.3,
+            201.3,
+            0.16,
+            0.24,
+            0.24,
+            107.8,
+            107.8,
+            72.7,
+            72.7,
+            71.6,
+            71.6,
+            3.3,
+            3.3,
+            25.0,
+            25.0,
+            55.4,
+            12.9,
+            51.7,
+            73.7,
+            2.8
+        ],
+        "Anas platyrhynchos": [
+            160.0,
+            169.0
+        ],
+        "Arabidopsis thaliana": [
+            38.7,
+            38.7,
+            324.1,
+            324.1,
+            268.1,
+            268.1,
+            151.3,
+            151.3
+        ],
+        "Columba livia": [
+            369.0,
+            369.0
+        ],
+        "Escherichia coli": [
+            66.6
+        ]
+    },
+    "mal__L;nad": {
+        "Zea mays": [
+            13.5,
+            13.5
+        ],
+        "Arabidopsis thaliana": [
+            1.2,
+            13.1,
+            67.5,
+            7.8
+        ]
+    },
+    "co2;h;nadph;pyr": {
+        "Arabidopsis thaliana": [
+            16.5,
+            75.0,
+            237.0,
+            284.1
+        ],
+        "Escherichia coli": [
+            0.38
+        ]
+    },
+    "h;nadph;pyr": {
+        "Arabidopsis thaliana": [
+            3.6,
+            10.0,
+            6.1,
+            1.0
+        ]
+    },
+    "oaa": {
+        "Arabidopsis thaliana": [
+            7.7,
+            12.2,
+            45.1,
+            11.8
+        ]
+    }
+}

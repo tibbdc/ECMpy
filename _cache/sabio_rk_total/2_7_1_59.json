@@ -1,0 +1,19 @@
+{
+    "atp;glc__D": {
+        "Escherichia coli": [
+            9.2,
+            9.2
+        ]
+    },
+    "atp;acgam": {
+        "Shewanella sp.": [
+            7.1
+        ],
+        "Candida albicans": [
+            107.8
+        ],
+        "Homo sapiens": [
+            116.8
+        ]
+    }
+}

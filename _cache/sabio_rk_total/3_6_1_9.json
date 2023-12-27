@@ -1,0 +1,72 @@
+{
+    "h2o;itp": {
+        "Homo sapiens": [
+            580.0
+        ],
+        "Methanocaldococcus jannaschii": [
+            911.72
+        ]
+    },
+    "ditp;h2o": {
+        "Homo sapiens": [
+            360.0
+        ]
+    },
+    "h2o;xtp": {
+        "Homo sapiens": [
+            640.0
+        ],
+        "Methanocaldococcus jannaschii": [
+            1009.37
+        ]
+    },
+    "atp;h2o": {
+        "Mus musculus": [
+            16.0
+        ],
+        "Methanocaldococcus jannaschii": [
+            1.02
+        ]
+    },
+    "h2o;utp": {
+        "Mus musculus": [
+            200.0
+        ]
+    },
+    "gtp;h2o": {
+        "Mus musculus": [
+            820.0
+        ],
+        "Methanocaldococcus jannaschii": [
+            97.65
+        ]
+    },
+    "ctp;h2o": {
+        "Mus musculus": [
+            8.7
+        ],
+        "Methanocaldococcus jannaschii": [
+            2.23
+        ]
+    },
+    "dgtp;h2o": {
+        "Homo sapiens": [
+            1.4,
+            2.0
+        ],
+        "Methanocaldococcus jannaschii": [
+            96.64
+        ]
+    },
+    "8oxdgtp;h2o": {
+        "Homo sapiens": [
+            1.6,
+            8.6
+        ]
+    },
+    "dttp;h2o": {
+        "Methanocaldococcus jannaschii": [
+            1.77
+        ]
+    }
+}

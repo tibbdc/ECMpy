@@ -1,0 +1,46 @@
+{
+    "atp;cbl1": {
+        "Salmonella enterica": [
+            0.1606667,
+            0.1606667,
+            0.1506667,
+            0.1506667
+        ],
+        "Lactobacillus reuteri": [
+            0.026,
+            0.024,
+            0.024
+        ]
+    },
+    "REST": {
+        "Lactobacillus reuteri": [
+            0.029,
+            0.038
+        ]
+    },
+    "cbl1;gtp": {
+        "Lactobacillus reuteri": [
+            0.021
+        ]
+    },
+    "cbl1;itp": {
+        "Lactobacillus reuteri": [
+            0.019
+        ]
+    },
+    "cbl1;datp": {
+        "Lactobacillus reuteri": [
+            0.0051
+        ]
+    },
+    "cbl1;ctp": {
+        "Lactobacillus reuteri": [
+            0.0086
+        ]
+    },
+    "cbl1;utp": {
+        "Lactobacillus reuteri": [
+            0.00195
+        ]
+    }
+}

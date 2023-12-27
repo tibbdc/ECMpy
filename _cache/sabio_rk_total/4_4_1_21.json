@@ -1,0 +1,32 @@
+{
+    "rhcys": {
+        "Bacillus subtilis": [
+            0.029,
+            0.03,
+            0.029,
+            0.023,
+            0.029
+        ],
+        "Vibrio harveyi": [
+            0.39,
+            0.28,
+            0.36,
+            0.42,
+            0.4
+        ],
+        "Escherichia coli": [
+            0.38
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            0.4
+        ],
+        "Bacillus subtilis": [
+            0.038
+        ],
+        "Vibrio harveyi": [
+            0.64
+        ]
+    }
+}

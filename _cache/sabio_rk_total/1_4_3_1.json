@@ -1,0 +1,43 @@
+{
+    "h2o;asp__L;o2": {
+        "Homo sapiens": [
+            46.66667
+        ]
+    },
+    "asp__D;h2o;o2": {
+        "Caenorhabditis elegans": [
+            4.29,
+            3.07,
+            26.1,
+            9.49,
+            2.51
+        ],
+        "Homo sapiens": [
+            70.6
+        ]
+    },
+    "glu__D;h2o;o2": {
+        "Caenorhabditis elegans": [
+            2.11,
+            5.31,
+            35.4,
+            3.01,
+            0.76
+        ],
+        "Homo sapiens": [
+            5.54
+        ]
+    },
+    "REST": {
+        "Caenorhabditis elegans": [
+            6.13,
+            3.0,
+            84.5,
+            6.04,
+            1.52
+        ],
+        "Homo sapiens": [
+            48.8
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "atp;protein": {
+        "Homo sapiens": [
+            0.45,
+            5.3,
+            1.2,
+            6.1
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            1.851944
+        ],
+        "Bacillus subtilis": [
+            0.0054
+        ]
+    },
+    "atp;peptide": {
+        "Homo sapiens": [
+            0.3666667,
+            0.4166667,
+            1.983333
+        ]
+    }
+}

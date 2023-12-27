@@ -1,0 +1,35 @@
+{
+    "REST": {
+        "Homo sapiens": [
+            7.6,
+            3.02,
+            2.281667
+        ],
+        "Rattus norvegicus": [
+            5.0
+        ],
+        "Sus scrofa": [
+            4.26,
+            2.57
+        ]
+    },
+    "5htrp": {
+        "Sus scrofa": [
+            1.99,
+            0.99
+        ]
+    },
+    "phe__L": {
+        "Bacillus atrophaeus": [
+            7.0,
+            7.4,
+            7.4,
+            4.3
+        ]
+    },
+    "trp__L": {
+        "Bacillus atrophaeus": [
+            6.7
+        ]
+    }
+}

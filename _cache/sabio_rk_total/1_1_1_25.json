@@ -1,0 +1,18 @@
+{
+    "nadp;skm": {
+        "Haemophilus influenzae": [
+            0.2,
+            0.2,
+            0.2
+        ],
+        "Escherichia coli": [
+            236.6667,
+            236.6667
+        ],
+        "Arabidopsis thaliana": [
+            428.0,
+            399.0,
+            100.0
+        ]
+    }
+}

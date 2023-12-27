@@ -1,0 +1,86 @@
+{
+    "gtp;h2o": {
+        "Mycobacterium tuberculosis": [
+            0.92,
+            1.425
+        ],
+        "Mycobacterium smegmatis": [
+            1.916667
+        ]
+    },
+    "dgtp;h2o": {
+        "Mycobacterium tuberculosis": [
+            0.8633333
+        ],
+        "Mycobacterium smegmatis": [
+            1.7
+        ]
+    },
+    "datp;h2o": {
+        "Mycobacterium tuberculosis": [
+            1.006667
+        ],
+        "Escherichia coli": [
+            0.9966667
+        ],
+        "Mycobacterium smegmatis": [
+            1.4
+        ]
+    },
+    "dttp;h2o": {
+        "Mycobacterium tuberculosis": [
+            0.9733333
+        ],
+        "Mycobacterium smegmatis": [
+            1.383333
+        ]
+    },
+    "dutp;h2o": {
+        "Mycobacterium tuberculosis": [
+            0.755
+        ],
+        "Escherichia coli": [
+            1.005
+        ],
+        "Mycobacterium smegmatis": [
+            1.283333
+        ]
+    },
+    "atp;h2o": {
+        "Mycobacterium tuberculosis": [
+            0.8066667
+        ],
+        "Mycobacterium smegmatis": [
+            0.7
+        ]
+    },
+    "h2o;utp": {
+        "Mycobacterium tuberculosis": [
+            0.28
+        ],
+        "Mycobacterium smegmatis": [
+            0.8833333
+        ]
+    },
+    "8oxdgtp;h2o": {
+        "Mycobacterium tuberculosis": [
+            0.08666667
+        ],
+        "Mycobacterium smegmatis": [
+            0.09833333
+        ],
+        "Escherichia coli": [
+            0.12
+        ]
+    },
+    "dctp;h2o": {
+        "Mycobacterium smegmatis": [
+            0.5166667
+        ]
+    },
+    "ctp;h2o": {
+        "Mycobacterium smegmatis": [
+            0.1583333
+        ]
+    }
+}

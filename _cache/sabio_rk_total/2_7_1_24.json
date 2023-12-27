@@ -1,0 +1,16 @@
+{
+    "atp;dpcoa": {
+        "Homo sapiens": [
+            12.2,
+            14.2
+        ],
+        "Escherichia coli": [
+            4.01
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            12.0
+        ]
+    }
+}

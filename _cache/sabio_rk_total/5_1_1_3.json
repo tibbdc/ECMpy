@@ -1,0 +1,75 @@
+{
+    "glu__L": {
+        "Aquifex pyrophilus": [
+            0.21
+        ],
+        "Streptococcus pyogenes": [
+            1.63
+        ],
+        "Helicobacter pylori": [
+            1.05
+        ],
+        "Escherichia coli": [
+            12.16667
+        ],
+        "Enterococcus faecalis": [
+            25.0
+        ],
+        "Enterococcus faecium": [
+            36.66667
+        ],
+        "Staphylococcus aureus": [
+            8.5
+        ],
+        "Bacillus anthracis": [
+            12.0,
+            18.0,
+            38.0,
+            17.7
+        ],
+        "Lactobacillus fermentum": [
+            69.0
+        ]
+    },
+    "glu__D": {
+        "Aquifex pyrophilus": [
+            0.056
+        ],
+        "Streptococcus pyogenes": [
+            0.49
+        ],
+        "Helicobacter pylori": [
+            0.2
+        ],
+        "Escherichia coli": [
+            43.33333
+        ],
+        "Enterococcus faecalis": [
+            11.73333
+        ],
+        "Enterococcus faecium": [
+            15.0
+        ],
+        "Staphylococcus aureus": [
+            0.5666667
+        ],
+        "Bacillus anthracis": [
+            1.8,
+            2.0,
+            1.6,
+            1.3,
+            2.8,
+            2.8,
+            2.8,
+            1.3,
+            1.3,
+            1.3,
+            3.9,
+            2.8
+        ],
+        "Lactobacillus fermentum": [
+            76.0,
+            68.0
+        ]
+    }
+}

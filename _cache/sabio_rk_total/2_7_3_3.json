@@ -1,0 +1,15 @@
+{
+    "REST": {
+        "Limulus polyphemus": [
+            180.0
+        ],
+        "Torpedo californica": [
+            140.0
+        ]
+    },
+    "atp;arg__L": {
+        "Frankliniella occidentalis": [
+            6.74
+        ]
+    }
+}

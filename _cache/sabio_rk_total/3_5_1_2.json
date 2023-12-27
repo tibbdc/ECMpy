@@ -1,0 +1,25 @@
+{
+    "h2o;gln__L": {
+        "Escherichia coli": [
+            0.33,
+            91.4,
+            101.0,
+            82.5,
+            84.6,
+            0.1666667
+        ],
+        "Homo sapiens": [
+            2.5,
+            22.0,
+            10.0
+        ],
+        "Bacillus subtilis": [
+            67.7,
+            38.8,
+            0.1266667
+        ],
+        "Arabidopsis thaliana": [
+            0.045
+        ]
+    }
+}

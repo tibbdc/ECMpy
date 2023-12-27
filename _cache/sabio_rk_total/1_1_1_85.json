@@ -1,0 +1,13 @@
+{
+    "REST": {
+        "Escherichia coli": [
+            69.0,
+            70.0,
+            6.0
+        ],
+        "Thermus thermophilus": [
+            19.0,
+            8.0
+        ]
+    }
+}

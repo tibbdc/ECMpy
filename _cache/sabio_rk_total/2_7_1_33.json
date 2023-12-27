@@ -1,0 +1,40 @@
+{
+    "pnto__R;atp": {
+        "Staphylococcus aureus": [
+            329.0,
+            283.0,
+            1.733333,
+            1.566667
+        ],
+        "Thermotoga maritima": [
+            0.29
+        ],
+        "Bacillus subtilis": [
+            2.12
+        ],
+        "Helicobacter pylori": [
+            2.09
+        ],
+        "Escherichia coli": [
+            1.07,
+            0.071,
+            1.14
+        ],
+        "Thermococcus kodakaraensis": [
+            0.21
+        ],
+        "Mycobacterium tuberculosis": [
+            0.052,
+            0.411
+        ]
+    },
+    "REST": {
+        "Staphylococcus aureus": [
+            0.15,
+            0.425
+        ],
+        "Escherichia coli": [
+            1.18
+        ]
+    }
+}

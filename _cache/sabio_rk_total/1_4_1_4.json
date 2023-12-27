@@ -1,0 +1,19 @@
+{
+    "akg;h;nadph;nh3": {
+        "Salmonella typhimurium": [
+            190.0,
+            190.0,
+            190.0
+        ]
+    },
+    "akg;h;nadh;nh3": {
+        "Salmonella typhimurium": [
+            20.33333
+        ]
+    },
+    "h2o;glu__L;nadp": {
+        "Escherichia coli": [
+            37.3
+        ]
+    }
+}

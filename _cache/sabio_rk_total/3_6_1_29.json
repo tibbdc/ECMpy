@@ -1,0 +1,13 @@
+{
+    "h2o;apppa": {
+        "Homo sapiens": [
+            3.5
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            4.4,
+            4.2
+        ]
+    }
+}

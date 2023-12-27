@@ -1,0 +1,36 @@
+{
+    "chor;gln__L": {
+        "Escherichia coli": [
+            0.53,
+            0.000114,
+            0.53,
+            0.6
+        ],
+        "Pseudomonas putida": [
+            0.2
+        ],
+        "Bacillus subtilis": [
+            0.005
+        ],
+        "Arabidopsis thaliana": [
+            0.15,
+            0.045,
+            0.15
+        ]
+    },
+    "chor;nh3": {
+        "Escherichia coli": [
+            0.032,
+            8.3e-06,
+            0.032,
+            0.032,
+            0.08
+        ],
+        "Bacillus subtilis": [
+            0.004
+        ],
+        "Arabidopsis thaliana": [
+            0.11
+        ]
+    }
+}

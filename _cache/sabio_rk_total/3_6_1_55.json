@@ -1,0 +1,37 @@
+{
+    "coa;h2o": {
+        "Saccharomyces cerevisiae": [
+            4.6
+        ]
+    },
+    "REST": {
+        "Saccharomyces cerevisiae": [
+            5.0
+        ]
+    },
+    "8oxdgtp;h2o": {
+        "Arabidopsis thaliana": [
+            0.25
+        ]
+    },
+    "dgtp;h2o": {
+        "Arabidopsis thaliana": [
+            0.83
+        ]
+    },
+    "datp;h2o": {
+        "Arabidopsis thaliana": [
+            0.17
+        ]
+    },
+    "dttp;h2o": {
+        "Arabidopsis thaliana": [
+            0.25
+        ]
+    },
+    "8oxgtp;h2o": {
+        "Arabidopsis thaliana": [
+            0.54
+        ]
+    }
+}

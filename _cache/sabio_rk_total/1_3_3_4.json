@@ -1,0 +1,21 @@
+{
+    "o2;pppg9": {
+        "Myxococcus xanthus": [
+            0.08666667
+        ],
+        "Bacillus subtilis": [
+            0.235,
+            0.003166667
+        ]
+    },
+    "cpppg3;o2": {
+        "Bacillus subtilis": [
+            0.0008333333
+        ]
+    },
+    "REST": {
+        "Bacillus subtilis": [
+            0.04483333
+        ]
+    }
+}

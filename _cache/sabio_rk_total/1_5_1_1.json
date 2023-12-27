@@ -1,0 +1,38 @@
+{
+    "1p2cbxl;h;nadph": {
+        "Azospirillum brasilense": [
+            523.3333
+        ]
+    },
+    "1p2cbxl;h;nadh": {
+        "Azospirillum brasilense": [
+            615.0
+        ]
+    },
+    "1pipdn2c;h;nadph": {
+        "Azospirillum brasilense": [
+            165.8333
+        ]
+    },
+    "1pipdn2c;h;nadh": {
+        "Azospirillum brasilense": [
+            161.5
+        ]
+    },
+    "pro__L;nadp": {
+        "Azospirillum brasilense": [
+            3.916667
+        ]
+    },
+    "pro__L;nad": {
+        "Azospirillum brasilense": [
+            4.233333
+        ]
+    },
+    "REST": {
+        "Azospirillum brasilense": [
+            2.5,
+            3.7
+        ]
+    }
+}

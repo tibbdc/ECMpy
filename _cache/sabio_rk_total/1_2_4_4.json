@@ -1,0 +1,13 @@
+{
+    "REST": {
+        "Homo sapiens": [
+            0.2,
+            3.3
+        ]
+    },
+    "4mop;coa;nad": {
+        "Rattus norvegicus": [
+            12.8
+        ]
+    }
+}

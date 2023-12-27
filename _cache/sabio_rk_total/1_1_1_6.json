@@ -1,0 +1,23 @@
+{
+    "dha;h;nadh": {
+        "Escherichia coli": [
+            17.2
+        ]
+    },
+    "gcald;h;nadh": {
+        "Escherichia coli": [
+            31.7
+        ]
+    },
+    "h;mthgxl;nadh": {
+        "Escherichia coli": [
+            6.1
+        ]
+    },
+    "glyc;nad": {
+        "Escherichia coli": [
+            22.4,
+            53.33333
+        ]
+    }
+}

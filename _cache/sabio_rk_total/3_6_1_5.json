@@ -1,0 +1,37 @@
+{
+    "REST": {
+        "Homo sapiens": [
+            0.119,
+            0.00494,
+            0.0225,
+            0.0387,
+            0.00199,
+            0.00105,
+            0.0248
+        ],
+        "Mus musculus": [
+            0.142
+        ],
+        "Rattus norvegicus": [
+            0.104
+        ]
+    },
+    "atp;h2o": {
+        "Homo sapiens": [
+            0.0825
+        ],
+        "Sus scrofa": [
+            860.0,
+            833.0
+        ],
+        "Arabidopsis thaliana": [
+            0.03766667
+        ],
+        "Canis familiaris": [
+            0.0012
+        ],
+        "Saccharomyces cerevisiae": [
+            0.011
+        ]
+    }
+}

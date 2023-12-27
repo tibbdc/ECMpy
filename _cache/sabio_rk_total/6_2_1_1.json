@@ -1,0 +1,25 @@
+{
+    "ac;atp;coa": {
+        "Methanothermobacter thermautotrophicus": [
+            65.4
+        ],
+        "Salmonella enterica": [
+            100.6,
+            95.1,
+            276.8
+        ]
+    },
+    "atp;coa;prpnte": {
+        "Methanothermobacter thermautotrophicus": [
+            46.3
+        ],
+        "Salmonella enterica": [
+            261.0
+        ]
+    },
+    "atp;coa;gly": {
+        "Salmonella enterica": [
+            259.4
+        ]
+    }
+}

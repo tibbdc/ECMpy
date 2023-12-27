@@ -1,0 +1,95 @@
+{
+    "REST": {
+        "Leishmania major": [
+            1590.0,
+            1590.0,
+            1070.0,
+            1170.0,
+            1590.0
+        ],
+        "Homo sapiens": [
+            83.0,
+            104.0,
+            222.0,
+            164.0,
+            1360.0,
+            83.0,
+            83.0,
+            1360.0,
+            1360.0,
+            1066.667,
+            883.3333,
+            333.3333,
+            1500.0,
+            39.58333
+        ],
+        "Saccharomyces cerevisiae": [
+            6700.0,
+            1700.0,
+            1100.0,
+            1600.0,
+            2700.0
+        ],
+        "Rattus norvegicus": [
+            1100.0
+        ],
+        "Sus scrofa": [
+            616.6667
+        ],
+        "Yersinia pestis": [
+            306.0,
+            69.0
+        ],
+        "Pseudomonas aeruginosa": [
+            86.0,
+            271.0
+        ],
+        "Neisseria meningitidis": [
+            204.0,
+            146.0
+        ],
+        "Onchocerca volvulus": [
+            81.66667
+        ],
+        "Trypanosoma cruzi": [
+            161.0,
+            105.0,
+            363.0,
+            265.0
+        ],
+        "Plasmodium falciparum": [
+            110.6167
+        ],
+        "Escherichia coli": [
+            106.0,
+            55.7,
+            21.4,
+            60.2,
+            338.0
+        ],
+        "Schizosaccharomyces pombe": [
+            111.3333
+        ]
+    },
+    "mthgxl;gthrd": {
+        "Saccharomyces cerevisiae": [
+            1816.667
+        ],
+        "Rattus norvegicus": [
+            1183.333
+        ],
+        "Sus scrofa": [
+            983.3333
+        ],
+        "Homo sapiens": [
+            1133.333,
+            1050.0
+        ],
+        "Onchocerca volvulus": [
+            198.3333
+        ],
+        "Schizosaccharomyces pombe": [
+            1146.667
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REST": {
+        "Bacteroides fragilis": [
+            0.38,
+            3.9
+        ],
+        "Bacteroides thetaiotaomicron": [
+            91.0,
+            0.015,
+            244.0
+        ]
+    }
+}

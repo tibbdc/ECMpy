@@ -1,0 +1,19 @@
+{
+    "REST": {
+        "Homo sapiens": [
+            0.15,
+            0.03,
+            0.2
+        ],
+        "Schizosaccharomyces pombe": [
+            0.17
+        ],
+        "Saccharomyces cerevisiae": [
+            0.06,
+            1.31,
+            1.32,
+            0.77,
+            0.63
+        ]
+    }
+}

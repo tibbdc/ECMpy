@@ -1,0 +1,110 @@
+{
+    "mal__L;nad": {
+        "Triticum aestivum": [
+            78.81667,
+            78.81667
+        ],
+        "Corynebacterium glutamicum": [
+            110.0,
+            140.0
+        ],
+        "Talaromyces emersonii": [
+            2900.0,
+            2770.0,
+            3500.0,
+            3100.0
+        ],
+        "Plasmodium falciparum": [
+            250.0,
+            150.0
+        ],
+        "Sus scrofa": [
+            166.6667,
+            583.3333,
+            300.0,
+            166.6667
+        ]
+    },
+    "h;nadh;oaa": {
+        "Triticum aestivum": [
+            2027.2,
+            2027.2
+        ],
+        "Corynebacterium glutamicum": [
+            200.0,
+            360.0,
+            390.0,
+            510.0,
+            720.0,
+            720.0
+        ],
+        "Aquaspirillum arcticum": [
+            152.0,
+            277.0,
+            1111.0
+        ],
+        "Escherichia coli": [
+            93.0,
+            171.0,
+            1108.0
+        ],
+        "Thermus thermophilus": [
+            419.0,
+            122.4,
+            146.7
+        ],
+        "Talaromyces emersonii": [
+            91000.0,
+            110000.0,
+            81000.0,
+            90000.0
+        ],
+        "Plasmodium falciparum": [
+            960.0,
+            950.0
+        ],
+        "Homo sapiens": [
+            0.1766667,
+            0.1766667
+        ]
+    },
+    "h;nadph;oaa": {
+        "Corynebacterium glutamicum": [
+            280.0,
+            150.0
+        ],
+        "Thermus thermophilus": [
+            74.2,
+            72.7
+        ]
+    },
+    "mal__L;nadp": {
+        "Corynebacterium glutamicum": [
+            23.0
+        ]
+    },
+    "REST": {
+        "Plasmodium falciparum": [
+            175.0,
+            1010.0,
+            674.0
+        ],
+        "Thermus thermophilus": [
+            297.5
+        ],
+        "Trypanosoma cruzi": [
+            50.1,
+            35.0,
+            31.4,
+            36.1
+        ]
+    },
+    "34hpp;h;nadh": {
+        "Trypanosoma cruzi": [
+            2273.0,
+            737.0,
+            1054.0,
+            591.0
+        ]
+    }
+}

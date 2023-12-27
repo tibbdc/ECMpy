@@ -1,0 +1,27 @@
+{
+    "2dda7p": {
+        "Escherichia coli": [
+            16.0
+        ],
+        "Actinidia chinensis": [
+            0.5
+        ],
+        "Pyrococcus furiosus": [
+            3.0
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            0.3,
+            2.5
+        ],
+        "Actinidia chinensis": [
+            0.9,
+            0.3
+        ],
+        "Pyrococcus furiosus": [
+            1.3,
+            3.3
+        ]
+    }
+}

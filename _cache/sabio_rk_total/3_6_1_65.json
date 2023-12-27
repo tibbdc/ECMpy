@@ -1,0 +1,17 @@
+{
+    "ctp;h2o": {
+        "Escherichia coli": [
+            25.8
+        ]
+    },
+    "dctp;h2o": {
+        "Escherichia coli": [
+            14.3
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            51.7
+        ]
+    }
+}

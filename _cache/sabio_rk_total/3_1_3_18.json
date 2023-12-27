@@ -1,0 +1,20 @@
+{
+    "2pglyc;h2o": {
+        "Escherichia coli": [
+            94.0
+        ],
+        "Thermoplasma acidophilum": [
+            8.26
+        ]
+    },
+    "4nphp;h2o": {
+        "Thermoplasma acidophilum": [
+            0.58
+        ]
+    },
+    "ppi;h2o": {
+        "Thermoplasma acidophilum": [
+            4.8
+        ]
+    }
+}

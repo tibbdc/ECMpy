@@ -1,0 +1,45 @@
+{
+    "REST": {
+        "Human herpesvirus 1": [
+            0.06,
+            0.47,
+            0.3,
+            0.056,
+            0.35,
+            0.455,
+            0.015,
+            0.102,
+            0.212,
+            0.212,
+            0.212,
+            0.46,
+            0.1,
+            0.015
+        ],
+        "Homo sapiens": [
+            0.71
+        ],
+        "Epstein-Barr virus": [
+            0.0281,
+            0.01047,
+            0.01867,
+            0.02127
+        ],
+        "Staphylococcus aureus": [
+            0.44,
+            1.48,
+            0.44,
+            1.48
+        ],
+        "Dictyostelium discoideum": [
+            7.5
+        ],
+        "Vaccinia virus": [
+            0.2
+        ],
+        "Thermotoga maritima": [
+            0.3,
+            0.4
+        ]
+    }
+}

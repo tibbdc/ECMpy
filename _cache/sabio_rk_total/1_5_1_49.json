@@ -1,0 +1,120 @@
+{
+    "1p2cbxl;h;nadph": {
+        "Colwellia psychrerythraea": [
+            35.0,
+            124.5
+        ],
+        "Shewanella loihica": [
+            6.7
+        ],
+        "Paracoccus denitrificans": [
+            260.0
+        ],
+        "Sulfitobacter sp.": [
+            39.0,
+            6.8
+        ],
+        "Roseobacter denitrificans": [
+            15.0
+        ],
+        "Bacillus cereus": [
+            15.0,
+            15.0,
+            5.8
+        ],
+        "Burkholderia pseudomallei": [
+            7.8
+        ],
+        "Burkholderia multivorans": [
+            25.0,
+            33.0
+        ],
+        "Agrobacterium tumefaciens": [
+            32.0
+        ],
+        "Pseudomonas aeruginosa": [
+            1.6
+        ],
+        "Pseudomonas fluorescens": [
+            20.0
+        ],
+        "Burkholderia ambifaria": [
+            54.0,
+            106.0
+        ],
+        "Silicibacter pomeroyi": [
+            130.0
+        ],
+        "Rhodobacter sphaeroides": [
+            66.0
+        ],
+        "Bacillus thuringiensis": [
+            11.0
+        ],
+        "Burkholderia thailandensis": [
+            73.0
+        ]
+    },
+    "1p2cbxl;h;nadh": {
+        "Paracoccus denitrificans": [
+            81.0
+        ],
+        "Sulfitobacter sp.": [
+            8.2
+        ],
+        "Roseobacter denitrificans": [
+            3.7
+        ],
+        "Rhodobacter sphaeroides": [
+            12.0
+        ],
+        "Bacillus cereus": [
+            19.0,
+            2.1,
+            0.87
+        ],
+        "Bacillus thuringiensis": [
+            2.1
+        ],
+        "Burkholderia ambifaria": [
+            41.0
+        ],
+        "Burkholderia thailandensis": [
+            203.0
+        ],
+        "Burkholderia pseudomallei": [
+            6.0
+        ],
+        "Shewanella loihica": [
+            0.37
+        ],
+        "Colwellia psychrerythraea": [
+            10.35
+        ]
+    },
+    "1pipdn2c;h;nadph": {
+        "Colwellia psychrerythraea": [
+            1.381667
+        ]
+    },
+    "1pipdn2c;h;nadh": {
+        "Colwellia psychrerythraea": [
+            0.08783333
+        ]
+    },
+    "pro__L;nadp": {
+        "Colwellia psychrerythraea": [
+            1.088333
+        ]
+    },
+    "pro__L;nad": {
+        "Colwellia psychrerythraea": [
+            0.006916667
+        ]
+    },
+    "REST": {
+        "Colwellia psychrerythraea": [
+            0.02133333
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "atp;ala__D": {
+        "Enterococcus faecalis": [
+            4.1
+        ],
+        "Enterococcus faecium": [
+            4.916667
+        ]
+    },
+    "REST": {
+        "Enterococcus faecalis": [
+            0.25,
+            0.4166667
+        ],
+        "Enterococcus faecium": [
+            1.8,
+            2.6,
+            1.1
+        ]
+    },
+    "atp;ala__D;lac__D": {
+        "Enterococcus faecalis": [
+            0.47
+        ],
+        "Enterococcus faecium": [
+            1.566667
+        ]
+    },
+    "atp;ala__D;phlac": {
+        "Enterococcus faecium": [
+            1.25
+        ]
+    }
+}

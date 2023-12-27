@@ -1,0 +1,29 @@
+{
+    "accoa;h2o;oaa": {
+        "Escherichia coli": [
+            81.0,
+            81.0
+        ],
+        "Sus scrofa": [
+            96.0,
+            96.0
+        ],
+        "Thermus thermophilus": [
+            0.9666667,
+            0.9666667
+        ],
+        "Saccharomyces cerevisiae": [
+            11.2,
+            11.0
+        ],
+        "Rattus norvegicus": [
+            216.6667,
+            216.6667
+        ]
+    },
+    "h2o;oaa;ppcoa": {
+        "Saccharomyces cerevisiae": [
+            5.4
+        ]
+    }
+}

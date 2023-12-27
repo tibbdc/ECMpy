@@ -1,0 +1,47 @@
+{
+    "catechol;o2": {
+        "Streptomyces lavendulae": [
+            10.9
+        ],
+        "Pycnoporus coccineus": [
+            103.0
+        ],
+        "Marinomonas mediterranea": [
+            50.26
+        ],
+        "Prunus armeniaca": [
+            210.0
+        ]
+    },
+    "hqn;o2": {
+        "Streptomyces lavendulae": [
+            5.3
+        ]
+    },
+    "REST": {
+        "Streptomyces lavendulae": [
+            1.6
+        ],
+        "Marinomonas mediterranea": [
+            19.13,
+            28.8,
+            20.71,
+            162.8,
+            28.73
+        ],
+        "Prunus armeniaca": [
+            1400.0,
+            590.0
+        ]
+    },
+    "dopa;o2": {
+        "Marinomonas mediterranea": [
+            0.89
+        ]
+    },
+    "4mcat;o2": {
+        "Prunus armeniaca": [
+            700.0
+        ]
+    }
+}

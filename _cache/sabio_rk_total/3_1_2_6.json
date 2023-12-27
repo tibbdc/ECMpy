@@ -1,0 +1,70 @@
+{
+    "lgt__S;h2o": {
+        "Homo sapiens": [
+            727.0,
+            780.0,
+            755.0,
+            46.36667
+        ],
+        "Arabidopsis thaliana": [
+            408.0,
+            359.0,
+            168.0,
+            3930.0,
+            484.0,
+            470.0,
+            136.0,
+            240.0,
+            129.0,
+            466.0
+        ],
+        "Mus musculus": [
+            450.0,
+            450.0
+        ],
+        "Candida albicans": [
+            142.0
+        ],
+        "Plasmodium falciparum": [
+            64.33333,
+            119.5833
+        ],
+        "Escherichia coli": [
+            53.0
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            183.0,
+            1486.0,
+            1736.0,
+            201.0,
+            188.0
+        ],
+        "Rattus norvegicus": [
+            283.3333,
+            5.666667
+        ],
+        "Candida albicans": [
+            82.0,
+            68.0
+        ],
+        "Salmonella typhimurium": [
+            168.8,
+            209.9,
+            149.9,
+            394.9
+        ],
+        "Arabidopsis thaliana": [
+            74.0
+        ],
+        "Saccharomyces cerevisiae": [
+            979.0,
+            35.1,
+            723.0,
+            605.0,
+            25.8,
+            38.1
+        ]
+    }
+}

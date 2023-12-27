@@ -1,0 +1,17 @@
+{
+    "REST": {
+        "Streptomyces chromofuscus": [
+            1.9,
+            0.67
+        ],
+        "Thermocrispum sp.": [
+            70.6,
+            4.51
+        ]
+    },
+    "4nphp;h2o": {
+        "Streptomyces chromofuscus": [
+            0.7
+        ]
+    }
+}

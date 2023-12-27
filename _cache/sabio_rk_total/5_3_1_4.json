@@ -1,0 +1,31 @@
+{
+    "arab__L": {
+        "Alicyclobacillus acidocaldarius": [
+            0.03315,
+            0.02855,
+            0.02496667
+        ],
+        "Bacillus halodurans": [
+            0.01588333,
+            0.02365,
+            0.03103333
+        ],
+        "Lactobacillus plantarum": [
+            11.21667
+        ],
+        "Lactobacillus sakei": [
+            34.11667,
+            30.7,
+            34.08333,
+            32.38333
+        ],
+        "Geobacillus stearothermophilus": [
+            33.94
+        ]
+    },
+    "gal": {
+        "Lactobacillus plantarum": [
+            1.95
+        ]
+    }
+}

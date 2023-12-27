@@ -1,0 +1,70 @@
+{
+    "h2o;imp;nad": {
+        "Homo sapiens": [
+            0.41,
+            0.39,
+            0.39,
+            1.5,
+            1.3
+        ],
+        "Streptococcus pyogenes": [
+            24.0,
+            24.0
+        ],
+        "Saccharomyces cerevisiae": [
+            0.2799108,
+            0.3250571,
+            0.4040748,
+            0.3951986
+        ],
+        "Tritrichomonas foetus": [
+            1.9,
+            1.9
+        ],
+        "Leishmania donovani": [
+            0.7,
+            0.7
+        ],
+        "Toxoplasma gondii": [
+            0.98
+        ],
+        "Cryptosporidium parvum": [
+            1.3,
+            1.6,
+            3.3
+        ],
+        "Candida albicans": [
+            6.0,
+            6.0
+        ],
+        "Borrelia burgdorferi": [
+            2.6
+        ],
+        "Escherichia coli": [
+            13.0,
+            13.0,
+            13.0
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            0.34,
+            0.48,
+            0.62,
+            0.34,
+            0.34,
+            0.8,
+            0.6,
+            0.8,
+            1.2
+        ],
+        "Tritrichomonas foetus": [
+            3.8,
+            2.4,
+            2.6
+        ],
+        "Cryptosporidium parvum": [
+            1.4
+        ]
+    }
+}

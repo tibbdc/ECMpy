@@ -1,0 +1,33 @@
+{
+    "cytc;h;nadph": {
+        "Candida tropicalis": [
+            101.6667
+        ],
+        "Arabidopsis thaliana": [
+            213.0,
+            14.0
+        ],
+        "Homo sapiens": [
+            48.0
+        ],
+        "Saccharomyces cerevisiae": [
+            200.0
+        ]
+    },
+    "REST": {
+        "Arabidopsis thaliana": [
+            200.0,
+            320.0,
+            19.0,
+            8.0
+        ],
+        "Homo sapiens": [
+            110.0,
+            22.0
+        ],
+        "Saccharomyces cerevisiae": [
+            200.0,
+            8.8
+        ]
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "h2o;ala__L;o2": {
+        "Agkistrodon rhodostoma": [
+            0.38
+        ],
+        "Ophiophagus hannah": [
+            16.0
+        ],
+        "Naja kaouthia": [
+            6.23
+        ],
+        "Bungarus fasciatus": [
+            292.98
+        ]
+    },
+    "REST": {
+        "Agkistrodon rhodostoma": [
+            2.2,
+            1.46,
+            3.74,
+            1.21
+        ],
+        "Ophiophagus hannah": [
+            1.0,
+            5.0,
+            43.3,
+            56.0,
+            51.5,
+            59.5,
+            47.6,
+            50.7
+        ],
+        "Naja kaouthia": [
+            4.91,
+            9.35,
+            14.1,
+            21.04
+        ]
+    },
+    "h2o;asn__L;o2": {
+        "Agkistrodon rhodostoma": [
+            1.32
+        ],
+        "Ophiophagus hannah": [
+            38.4
+        ],
+        "Naja kaouthia": [
+            1.79
+        ],
+        "Bungarus fasciatus": [
+            84.08
+        ]
+    },
+    "h2o;lys__L;o2": {
+        "Agkistrodon rhodostoma": [
+            1.65
+        ],
+        "Ophiophagus hannah": [
+            14.0,
+            43.3,
+            62.8,
+            63.6,
+            83.2,
+            86.6,
+            86.6,
+            90.5,
+            86.6
+        ],
+        "Naja kaouthia": [
+            6.39
+        ],
+        "Bungarus fasciatus": [
+            318.91
+        ]
+    },
+    "h2o;gln__L;o2": {
+        "Agkistrodon rhodostoma": [
+            0.38
+        ],
+        "Ophiophagus hannah": [
+            45.5
+        ],
+        "Naja kaouthia": [
+            4.91
+        ],
+        "Bungarus fasciatus": [
+            430.4
+        ]
+    },
+    "h2o;ile__L;o2": {
+        "Agkistrodon rhodostoma": [
+            1.16
+        ],
+        "Ophiophagus hannah": [
+            13.5
+        ],
+        "Naja kaouthia": [
+            3.58
+        ],
+        "Bungarus fasciatus": [
+            66.7
+        ]
+    },
+    "h2o;his__L;o2": {
+        "Agkistrodon rhodostoma": [
+            0.82
+        ],
+        "Ophiophagus hannah": [
+            108.2
+        ],
+        "Naja kaouthia": [
+            9.74
+        ],
+        "Bungarus fasciatus": [
+            483.13
+        ]
+    },
+    "h2o;arg__L;o2": {
+        "Agkistrodon rhodostoma": [
+            1.32
+        ],
+        "Ophiophagus hannah": [
+            39.4
+        ],
+        "Naja kaouthia": [
+            25.71
+        ],
+        "Bungarus fasciatus": [
+            228.75
+        ]
+    },
+    "h2o;leu__L;o2": {
+        "Agkistrodon rhodostoma": [
+            3.3
+        ],
+        "Ophiophagus hannah": [
+            11.0,
+            28.8,
+            66.7,
+            93.9,
+            90.0,
+            96.1,
+            96.2,
+            93.2,
+            96.1,
+            96.2
+        ],
+        "Naja kaouthia": [
+            23.38
+        ],
+        "Vipera berus berus": [
+            75.16
+        ],
+        "Crotalus durissus cumanensis": [
+            1.8
+        ],
+        "Bothriechis schlegelii": [
+            1.32
+        ],
+        "Naja oxiana": [
+            47.98
+        ],
+        "Bungarus fasciatus": [
+            1025.05
+        ]
+    },
+    "h2o;met__L;o2": {
+        "Agkistrodon rhodostoma": [
+            1.65
+        ],
+        "Ophiophagus hannah": [
+            65.6
+        ],
+        "Naja kaouthia": [
+            24.39
+        ],
+        "Vipera berus berus": [
+            74.2
+        ],
+        "Naja oxiana": [
+            66.26
+        ],
+        "Bungarus fasciatus": [
+            589.33
+        ]
+    },
+    "h2o;trp__L;o2": {
+        "Agkistrodon rhodostoma": [
+            0.88
+        ],
+        "Ophiophagus hannah": [
+            32.1
+        ],
+        "Naja kaouthia": [
+            12.47
+        ],
+        "Naja oxiana": [
+            18.04
+        ],
+        "Bungarus fasciatus": [
+            98.82
+        ]
+    },
+    "h2o;phe__L;o2": {
+        "Agkistrodon rhodostoma": [
+            0.72
+        ],
+        "Ophiophagus hannah": [
+            54.1
+        ],
+        "Naja kaouthia": [
+            10.75
+        ],
+        "Vipera berus berus": [
+            28.5
+        ],
+        "Naja oxiana": [
+            17.18
+        ],
+        "Bungarus fasciatus": [
+            142.62
+        ]
+    },
+    "gly;h2o;o2": {
+        "Ophiophagus hannah": [
+            0.012
+        ]
+    },
+    "h2o;pro__L;o2": {
+        "Ophiophagus hannah": [
+            0.1
+        ]
+    },
+    "h2o;ser__L;o2": {
+        "Ophiophagus hannah": [
+            0.7
+        ]
+    },
+    "h2o;glu__L;o2": {
+        "Ophiophagus hannah": [
+            0.9
+        ],
+        "Bungarus fasciatus": [
+            790.53
+        ]
+    },
+    "h2o;val__L;o2": {
+        "Ophiophagus hannah": [
+            5.8
+        ],
+        "Naja kaouthia": [
+            1.25
+        ]
+    },
+    "h2o;24dab;o2": {
+        "Ophiophagus hannah": [
+            5.9
+        ]
+    },
+    "h2o;cystine__L;o2": {
+        "Ophiophagus hannah": [
+            11.9
+        ]
+    },
+    "h2o;tyr__L;o2": {
+        "Ophiophagus hannah": [
+            4.8
+        ],
+        "Naja kaouthia": [
+            3.27
+        ],
+        "Bungarus fasciatus": [
+            100.59
+        ]
+    },
+    "h2o;cys__L;o2": {
+        "Naja kaouthia": [
+            3.04
+        ]
+    },
+    "h2o;asp__L;o2": {
+        "Bungarus fasciatus": [
+            47.49
+        ]
+    }
+}

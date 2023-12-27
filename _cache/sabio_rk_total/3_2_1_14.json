@@ -1,0 +1,44 @@
+{
+    "HC00822;h2o": {
+        "Serratia marcescens": [
+            34.9,
+            1.2,
+            0.11
+        ]
+    },
+    "REST": {
+        "Dioscorea opposita": [
+            0.645,
+            1.069,
+            0.591,
+            0.629
+        ],
+        "Pagrus major": [
+            0.262,
+            0.329
+        ],
+        "Todarodes pacificus": [
+            0.196,
+            1.22
+        ],
+        "Bombyx mori": [
+            0.059,
+            0.084,
+            0.011,
+            0.023
+        ],
+        "Serratia marcescens": [
+            13.0,
+            18.0,
+            18.0,
+            17.0,
+            3.5,
+            1.2,
+            0.4,
+            10.0
+        ],
+        "Aspergillus fumigatus": [
+            3.0
+        ]
+    }
+}

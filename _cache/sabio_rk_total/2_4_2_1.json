@@ -1,0 +1,16 @@
+{
+    "ins;pi": {
+        "Homo sapiens": [
+            56.0,
+            56.0
+        ],
+        "Plasmodium falciparum": [
+            2.63
+        ]
+    },
+    "r1p;hxan": {
+        "Homo sapiens": [
+            110.0
+        ]
+    }
+}

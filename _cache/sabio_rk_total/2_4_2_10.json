@@ -1,0 +1,26 @@
+{
+    "REST": {
+        "Salmonella typhimurium": [
+            34.0,
+            34.0,
+            35.0,
+            3.5
+        ]
+    },
+    "ppi;orot5p": {
+        "Salmonella typhimurium": [
+            18.0,
+            18.0
+        ]
+    },
+    "orot5p;ppac": {
+        "Salmonella typhimurium": [
+            0.04
+        ]
+    },
+    "prpp;ura": {
+        "Salmonella typhimurium": [
+            0.9
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "atp;dha": {
+        "Klebsiella pneumoniae": [
+            9.166667,
+            9.166667,
+            9.166667
+        ],
+        "Citrobacter freundii": [
+            17.5
+        ]
+    },
+    "REST": {
+        "Citrobacter freundii": [
+            5.166667,
+            4.666667,
+            3.966667,
+            3.166667,
+            5.0,
+            4.166667,
+            3.5
+        ]
+    }
+}

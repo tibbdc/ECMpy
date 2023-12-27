@@ -1,0 +1,14 @@
+{
+    "2p4c2me": {
+        "Mycobacterium tuberculosis": [
+            0.0073,
+            1.8
+        ],
+        "Arabidopsis thaliana": [
+            2.5
+        ],
+        "Escherichia coli": [
+            2.7
+        ]
+    }
+}

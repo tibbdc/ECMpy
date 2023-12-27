@@ -1,0 +1,52 @@
+{
+    "gtp;h2o": {
+        "Escherichia coli": [
+            2.1,
+            0.33
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            0.6
+        ],
+        "Penicillium chrysogenum": [
+            73.3,
+            46.6
+        ],
+        "Spinacia oleracea": [
+            218.0,
+            202.0
+        ]
+    },
+    "atp;so4": {
+        "Penicillium chrysogenum": [
+            10.8,
+            1.8
+        ],
+        "Homo sapiens": [
+            0.017,
+            0.23,
+            0.44,
+            0.019,
+            0.33,
+            0.5
+        ],
+        "Spinacia oleracea": [
+            13.0,
+            12.0
+        ],
+        "Saccharomyces cerevisiae": [
+            0.86
+        ]
+    },
+    "atp;mobd": {
+        "Penicillium chrysogenum": [
+            13.7,
+            24.4
+        ],
+        "Spinacia oleracea": [
+            187.0,
+            98.0
+        ]
+    }
+}

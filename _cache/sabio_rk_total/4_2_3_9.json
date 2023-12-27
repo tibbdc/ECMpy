@@ -1,0 +1,13 @@
+{
+    "REST": {
+        "Penicillium roqueforti": [
+            0.043,
+            0.043
+        ],
+        "Aspergillus terreus": [
+            0.0173,
+            0.014,
+            0.015
+        ]
+    }
+}

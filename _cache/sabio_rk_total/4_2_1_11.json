@@ -1,0 +1,73 @@
+{
+    "REST": {
+        "Oryctolagus cuniculus": [
+            57.1,
+            19.6,
+            5.96,
+            13.6,
+            57.0,
+            128.3333,
+            60.6,
+            29.9,
+            26.5,
+            29.6,
+            19.7,
+            25.1
+        ],
+        "Macaca mulatta": [
+            128.3333,
+            128.3333,
+            128.3333
+        ],
+        "Saccharomyces cerevisiae": [
+            84.0,
+            72.0,
+            32.0,
+            31.0,
+            84.0,
+            72.0,
+            32.0,
+            31.0,
+            1.7,
+            0.7835835,
+            3.938656,
+            7.6,
+            19.9,
+            7.6,
+            19.87,
+            71.4,
+            19.7,
+            19.4
+        ],
+        "Oncorhynchus kisutch": [
+            150.0
+        ],
+        "Oncorhynchus keta": [
+            190.0
+        ],
+        "Leuconostoc mesenteroides": [
+            27.53
+        ],
+        "Entamoeba histolytica": [
+            170.0,
+            147.0
+        ],
+        "Bacillus subtilis": [
+            107.5
+        ]
+    },
+    "h2o;pep": {
+        "Saccharomyces cerevisiae": [
+            15.6
+        ],
+        "Entamoeba histolytica": [
+            43.0,
+            55.0
+        ]
+    },
+    "3pg": {
+        "Saccharomyces cerevisiae": [
+            5.07
+        ]
+    }
+}

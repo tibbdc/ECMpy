@@ -1,0 +1,50 @@
+{
+    "prpp;hxan": {
+        "Trypanosoma cruzi": [
+            23.0,
+            23.0,
+            23.05
+        ],
+        "Thermoanaerobacter tengcongensis": [
+            4.12,
+            7.97,
+            15.9,
+            4.12,
+            7.97,
+            15.9
+        ],
+        "Homo sapiens": [
+            5.7,
+            5.7
+        ]
+    },
+    "ppi;imp": {
+        "Trypanosoma cruzi": [
+            0.47,
+            0.48,
+            0.468
+        ]
+    },
+    "prpp;gua": {
+        "Thermoanaerobacter tengcongensis": [
+            2.04,
+            3.98,
+            8.16,
+            2.04,
+            3.98,
+            8.16
+        ],
+        "Trypanosoma cruzi": [
+            32.55
+        ]
+    },
+    "ppi;gmp": {
+        "Homo sapiens": [
+            10.48,
+            10.48
+        ],
+        "Trypanosoma cruzi": [
+            0.091
+        ]
+    }
+}

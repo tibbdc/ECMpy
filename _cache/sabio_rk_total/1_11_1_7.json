@@ -1,0 +1,105 @@
+{
+    "REST": {
+        "Armoracia rusticana": [
+            4.3,
+            2.5,
+            1.5,
+            890.0,
+            1900.0,
+            990.0,
+            100.0,
+            1800.0,
+            300.0,
+            90.0,
+            430.0,
+            650.0,
+            270.0,
+            186.0,
+            642.0,
+            402.0,
+            52.5,
+            57.3,
+            400.0,
+            376.0,
+            1817.0,
+            404.0,
+            1190.0,
+            1430.0,
+            618.0,
+            433.0,
+            124.0,
+            12.0,
+            20.0,
+            533.0,
+            45.5,
+            2146.0,
+            2180.0,
+            1558.0,
+            469.0,
+            451.0,
+            186.0,
+            172.0,
+            1800.0,
+            45.3
+        ],
+        "Bos taurus": [
+            16.0,
+            14.5,
+            19.0
+        ],
+        "Euphorbia characias": [
+            10200.0,
+            102.0
+        ],
+        "Burkholderia pseudomallei": [
+            10.1
+        ],
+        "Amycolatopsis sp.": [
+            68.0
+        ],
+        "Homo sapiens": [
+            20.58333
+        ],
+        "Bacillus altitudinis": [
+            8.1,
+            5.8
+        ]
+    },
+    "cresol;h2o2": {
+        "Armoracia rusticana": [
+            175.0,
+            158.0,
+            1042.0
+        ]
+    },
+    "h2o2;phenol": {
+        "Armoracia rusticana": [
+            548.0
+        ]
+    },
+    "4hbald;h2o2": {
+        "Armoracia rusticana": [
+            209.0
+        ]
+    },
+    "4hbz;h2o2": {
+        "Armoracia rusticana": [
+            55.0
+        ]
+    },
+    "4mcat;h2o2": {
+        "Armoracia rusticana": [
+            2155.0
+        ]
+    },
+    "catechol;h2o2": {
+        "Armoracia rusticana": [
+            2200.0
+        ]
+    },
+    "dopa;h2o2": {
+        "Armoracia rusticana": [
+            447.0
+        ]
+    }
+}

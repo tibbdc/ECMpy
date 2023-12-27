@@ -1,0 +1,28 @@
+{
+    "aacoa;h;nadh": {
+        "Homo sapiens": [
+            155.0,
+            246.0,
+            252.0,
+            113.0,
+            37.0,
+            37.0
+        ],
+        "Escherichia coli": [
+            382.0,
+            382.0
+        ]
+    },
+    "3oocoa;h;nadh": {
+        "Homo sapiens": [
+            28.0,
+            28.0
+        ]
+    },
+    "REST": {
+        "Homo sapiens": [
+            24.0,
+            24.0
+        ]
+    }
+}

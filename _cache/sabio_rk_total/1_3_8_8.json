@@ -1,0 +1,45 @@
+{
+    "REST": {
+        "Rattus norvegicus": [
+            11.7,
+            5.4,
+            4.2
+        ],
+        "Homo sapiens": [
+            11.9
+        ]
+    },
+    "fad;octcoa": {
+        "Rattus norvegicus": [
+            2.4
+        ]
+    },
+    "deccoa;fad": {
+        "Rattus norvegicus": [
+            4.5
+        ]
+    },
+    "fad;myrstcoa": {
+        "Rattus norvegicus": [
+            6.0
+        ],
+        "Homo sapiens": [
+            5.6
+        ]
+    },
+    "fad;palmcoa": {
+        "Rattus norvegicus": [
+            5.4,
+            5.4,
+            6.0
+        ],
+        "Homo sapiens": [
+            4.1
+        ]
+    },
+    "fad;srcoa": {
+        "Rattus norvegicus": [
+            4.5
+        ]
+    }
+}

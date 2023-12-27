@@ -1,0 +1,34 @@
+{
+    "REST": {
+        "Arthrobacter nicotinovorans": [
+            1.02,
+            1.35,
+            0.65,
+            3.92
+        ]
+    },
+    "fald;h2o;nadp": {
+        "Arthrobacter nicotinovorans": [
+            0.38
+        ]
+    },
+    "acald;h2o;nadp": {
+        "Arthrobacter nicotinovorans": [
+            0.75
+        ],
+        "Saccharomyces cerevisiae": [
+            22.0,
+            63.0
+        ]
+    },
+    "h2o;nadp;ppal": {
+        "Arthrobacter nicotinovorans": [
+            1.2
+        ]
+    },
+    "bzal;h2o;nadp": {
+        "Arthrobacter nicotinovorans": [
+            4.52
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "hom__L;succoa": {
+        "Escherichia coli": [
+            24.0
+        ]
+    },
+    "coa;suchms": {
+        "Escherichia coli": [
+            5.23
+        ]
+    },
+    "gcoa;hom__L": {
+        "Escherichia coli": [
+            1.6
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            12.0,
+            0.13
+        ]
+    },
+    "ser__L;succoa": {
+        "Escherichia coli": [
+            0.023
+        ]
+    },
+    "thr__L;succoa": {
+        "Escherichia coli": [
+            0.015
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "dmpp;ipdp": {
+        "Artemisia tridentata subsp. spiciformis": [
+            6.616667,
+            1.883333,
+            2.2,
+            4.416667
+        ]
+    },
+    "grdp;ipdp": {
+        "Artemisia tridentata subsp. spiciformis": [
+            2.65,
+            3.3
+        ],
+        "Saccharomyces cerevisiae": [
+            0.013,
+            0.013
+        ]
+    }
+}

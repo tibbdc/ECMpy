@@ -1,0 +1,43 @@
+{
+    "icit;nad": {
+        "Rhodomicrobium vannielii": [
+            31.5,
+            29.75,
+            12.03333
+        ],
+        "Streptococcus suis": [
+            41.0,
+            32.0
+        ],
+        "Hydrogenobacter thermophilus": [
+            37.6
+        ],
+        "Escherichia coli": [
+            3.22
+        ],
+        "Bifidobacterium longum": [
+            2.37,
+            11.7
+        ],
+        "Homo sapiens": [
+            30.0,
+            30.0,
+            26.7,
+            26.7,
+            26.7,
+            14.6,
+            14.6,
+            14.6,
+            9.72,
+            9.72,
+            9.72,
+            28.4,
+            15.8,
+            17.6,
+            23.4,
+            11.9,
+            23.8,
+            14.3
+        ]
+    }
+}

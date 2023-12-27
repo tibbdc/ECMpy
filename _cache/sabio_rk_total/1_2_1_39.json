@@ -1,0 +1,33 @@
+{
+    "h2o;nad;pacald": {
+        "Aromatoleum aromaticum": [
+            53.0,
+            32.0,
+            37.0,
+            46.2
+        ]
+    },
+    "h2o;nadp;pacald": {
+        "Aromatoleum aromaticum": [
+            63.0,
+            30.0,
+            38.0,
+            17.6
+        ]
+    },
+    "REST": {
+        "Aromatoleum aromaticum": [
+            5.0
+        ]
+    },
+    "h2o;nadp;ppal": {
+        "Aromatoleum aromaticum": [
+            4.0
+        ]
+    },
+    "acald;h2o;nadp": {
+        "Aromatoleum aromaticum": [
+            6.0
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "mlthf;h;nadph": {
+        "Sus scrofa": [
+            26.66667
+        ]
+    },
+    "5mthf;mndn": {
+        "Sus scrofa": [
+            25.0
+        ],
+        "Escherichia coli": [
+            3.2
+        ]
+    },
+    "mlthf;h;nadh": {
+        "Leishmania major": [
+            11.1
+        ],
+        "Escherichia coli": [
+            10.4
+        ]
+    },
+    "h;mndn;nadh": {
+        "Escherichia coli": [
+            55.0
+        ]
+    }
+}

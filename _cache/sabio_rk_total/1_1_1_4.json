@@ -1,0 +1,14 @@
+{
+    "REST": {
+        "Saccharomyces cerevisiae": [
+            1300.0,
+            766.6667,
+            606.6667
+        ]
+    },
+    "R_actn;h;nadh": {
+        "Saccharomyces cerevisiae": [
+            1633.333
+        ]
+    }
+}

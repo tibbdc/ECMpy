@@ -1,0 +1,63 @@
+{
+    "6pgc;nadp": {
+        "Ovis aries": [
+            9.3,
+            21.0
+        ],
+        "Saccharomyces cerevisiae": [
+            28.33,
+            27.97
+        ],
+        "Synechocystis sp.": [
+            64.5,
+            35.4,
+            20.8,
+            47.1,
+            69.9
+        ],
+        "Arthrospira platensis": [
+            16.6,
+            14.7
+        ],
+        "Gryllus firmus": [
+            22.7,
+            21.5,
+            22.7,
+            21.5
+        ],
+        "Moorella thermoacetica": [
+            8.73
+        ],
+        "Thermotoga maritima": [
+            17.6
+        ],
+        "Homo sapiens": [
+            21.3
+        ],
+        "Trypanosoma brucei": [
+            27.0
+        ]
+    },
+    "6pgc;nad": {
+        "Synechocystis sp.": [
+            4.89
+        ],
+        "Moorella thermoacetica": [
+            12.6
+        ],
+        "Thermotoga maritima": [
+            23.2
+        ]
+    },
+    "REST": {
+        "Ovis aries": [
+            1.12
+        ],
+        "Homo sapiens": [
+            0.28
+        ],
+        "Trypanosoma brucei": [
+            0.29
+        ]
+    }
+}

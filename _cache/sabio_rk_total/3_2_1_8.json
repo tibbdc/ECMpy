@@ -1,0 +1,31 @@
+{
+    "REST": {
+        "Cellvibrio japonicus": [
+            78.75,
+            2.083333,
+            2.433333,
+            70.6,
+            5.616667,
+            42.68333,
+            588.4333
+        ],
+        "Bacillus circulans": [
+            148.6333
+        ],
+        "Bacillus subtilis": [
+            420.0,
+            370.0,
+            108.1833,
+            86.55
+        ],
+        "Scheffersomyces stipitis": [
+            1354.0
+        ],
+        "Bacillus thermodenitrificans": [
+            1954.0
+        ],
+        "Geobacillus stearothermophilus": [
+            206.3667
+        ]
+    }
+}

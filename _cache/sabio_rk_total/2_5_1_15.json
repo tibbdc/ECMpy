@@ -1,0 +1,12 @@
+{
+    "REST": {
+        "Mycobacterium tuberculosis": [
+            0.5833333,
+            0.5833333
+        ],
+        "Mycobacterium leprae": [
+            0.1766667,
+            0.1766667
+        ]
+    }
+}
