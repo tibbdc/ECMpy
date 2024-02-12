@@ -176,7 +176,7 @@ def isoenzyme_split(model):
                     r_add = rea.copy()
                     r_add.id = rea.id + "_num" + str(index+1)
                     r_add.gene_reaction_rule = value
-                    model.add_reaction(r_add)
+                    model.add_reactions([r_add])
     for r in model.reactions:
         r.gene_reaction_rule = r.gene_reaction_rule.strip("( )")
     return model
@@ -452,7 +452,7 @@ def isoenzyme_split(model):
                     r_add = rea.copy()
                     r_add.id = rea.id + "_num" + str(index+1)
                     r_add.gene_reaction_rule = value
-                    model.add_reaction(r_add)
+                    model.add_reactions([r_add])
     for r in model.reactions:
         r.gene_reaction_rule = r.gene_reaction_rule.strip("( )")
     return model
@@ -513,21 +513,27 @@ def get_enzyme_constraint_model(json_model_file):
 
     dictionary_model = json_load(json_model_file)
     model = cobra.io.json.load_json_model(json_model_file)
-
-    coefficients = dict()
-    for rxn in model.reactions:
-        for eachr in dictionary_model['reactions']:
-            if rxn.id == eachr['id']:
-                if eachr['kcat_MW']:
-                    coefficients[rxn.forward_variable] = 1 / float(eachr['kcat_MW'])
-                break
-
-    lowerbound = dictionary_model['enzyme_constraint']['lowerbound']
-    upperbound = dictionary_model['enzyme_constraint']['upperbound']
-    constraint = model.problem.Constraint(0, lb=lowerbound, ub=upperbound)
-    model.add_cons_vars(constraint)
+    
+    enzyme_pool = cobra.Metabolite("total_enzyme")
+    model.add_metabolites(enzyme_pool)
+    
+    for eachr in dictionary_model['reactions']:
+        if eachr['kcat_MW']:
+            coefficient = 1 / float(eachr['kcat_MW'])
+            if model.reactions.get_by_id(eachr['id']).upper_bound   > 0  and model.reactions.get_by_id(eachr['id']).lower_bound < 0:
+                raise Exception("All enzyme constraint reactions must be irreversible")
+            elif model.reactions.get_by_id(eachr['id']).upper_bound <= 0 and model.reactions.get_by_id(eachr['id']).lower_bound < 0:
+                model.reactions.get_by_id(eachr['id']).add_metabolites({enzyme_pool:  coefficient})
+            else:
+                model.reactions.get_by_id(eachr['id']).add_metabolites({enzyme_pool: -coefficient})
+    
+    # Add pseudoreaction for enzyme supply and limit the amount of total available enzyme by the bounds
+    enzyme_supply_reaction = Reaction("enzyme_supply",
+                                        lower_bound=dictionary_model['enzyme_constraint']['lowerbound'],
+                                        upper_bound=dictionary_model['enzyme_constraint']['upperbound'])
+    model.add_reactions([enzyme_supply_reaction])
+    model.reactions.get_by_id(enzyme_supply_reaction.id).add_metabolites({enzyme_pool: 1})
     model.solver.update()
-    constraint.set_linear_coefficients(coefficients=coefficients)
     return model
 
 def get_enzyme_constraint_model_percent(json_model_file,percent):
@@ -543,21 +549,27 @@ def get_enzyme_constraint_model_percent(json_model_file,percent):
 
     dictionary_model = json_load(json_model_file)
     model = cobra.io.json.load_json_model(json_model_file)
-
-    coefficients = dict()
-    for rxn in model.reactions:
-        for eachr in dictionary_model['reactions']:
-            if rxn.id == eachr['id']:
-                if eachr['kcat_MW']:
-                    coefficients[rxn.forward_variable] = 1 / float(eachr['kcat_MW'])
-                break
-
-    lowerbound = dictionary_model['enzyme_constraint']['lowerbound']
-    upperbound = dictionary_model['enzyme_constraint']['upperbound']*percent
-    constraint = model.problem.Constraint(0, lb=lowerbound, ub=upperbound)
-    model.add_cons_vars(constraint)
+    
+    enzyme_pool = cobra.Metabolite("total_enzyme")
+    model.add_metabolites(enzyme_pool)
+    
+    for eachr in dictionary_model['reactions']:
+        if eachr['kcat_MW']:
+            coefficient = 1 / float(eachr['kcat_MW'])
+            if model.reactions.get_by_id(eachr['id']).upper_bound   > 0  and model.reactions.get_by_id(eachr['id']).lower_bound < 0:
+                raise Exception("All enzyme constraint reactions must be irreversible")
+            elif model.reactions.get_by_id(eachr['id']).upper_bound <= 0 and model.reactions.get_by_id(eachr['id']).lower_bound < 0:
+                model.reactions.get_by_id(eachr['id']).add_metabolites({enzyme_pool:  coefficient})
+            else:
+                model.reactions.get_by_id(eachr['id']).add_metabolites({enzyme_pool: -coefficient})
+    
+    # Add pseudoreaction for enzyme supply and limit the amount of total available enzyme by the bounds
+    enzyme_supply_reaction = Reaction("enzyme_supply",
+                                        lower_bound=dictionary_model['enzyme_constraint']['lowerbound'],
+                                        upper_bound=dictionary_model['enzyme_constraint']['upperbound']*percent)
+    model.add_reactions([enzyme_supply_reaction])
+    model.reactions.get_by_id(enzyme_supply_reaction.id).add_metabolites({enzyme_pool: 1})
     model.solver.update()
-    constraint.set_linear_coefficients(coefficients=coefficients)
     return model
 
 def get_fluxes_detail_in_model(model,model_pfba_solution,fluxes_outfile,json_model_file):
@@ -739,7 +751,7 @@ def get_model_substrate_obj(use_model):
                              'EX_mg2_e','EX_ca2_e','EX_so3_e','EX_ni2_e','EX_no_e','EX_cu2_e','EX_hg2_e','EX_cd2_e',\
                              'EX_h2o2_e','EX_h2o_e','EX_no2_e','EX_nh4_e','EX_so4_e','EX_k_e','EX_na1_e','EX_o2_e',\
                              'EX_o2s_e','EX_ag_e','EX_cu_e','EX_so2_e','EX_cl_e','EX_n2o_e','EX_cs1_e','EX_cobalt2_e']
-    EX_exclude_reaction_list=EX_exclude_reaction_list+[i+'_reverse' for i in EX_exclude_reaction_list]
+    EX_exclude_reaction_list=EX_exclude_reaction_list+[i+'_reverse' for i in EX_exclude_reaction_list]+['enzyme_supply']
     for r in use_model.reactions:
         if r.objective_coefficient == 1:
             obj=r.id #Product name
@@ -2240,22 +2252,8 @@ def get_min_enzyme_cost(model, dict_coeff):
     :return: cobra solution.
     """
     with model:
-        bounds = (model.slim_optimize(), model.slim_optimize())
-        cons_obj = model.problem.Constraint(
-            model.objective.expression,
-            lb=min(bounds), ub=max(bounds))
-        model.add_cons_vars(cons_obj)
-
-        dict_obj = dict()
-        for r in model.reactions:
-            if r.id in list(dict_coeff.index):
-                #print(dict_coeff.loc[r.id,'kcat_MW'])
-                dict_obj[r.forward_variable] = 1 / dict_coeff.loc[r.id,'kcat_MW']
-
-        model_obj = model.problem.Objective(Zero, direction="min", sloppy=True)
-        model.objective = model_obj
-        model.objective.set_linear_coefficients(dict_obj)
-
+        model.objective={model.reactions.get_by_id("enzyme_supply"): 1}
+        model.objective_direction='min'
         solution = model.optimize()
     return solution
 
