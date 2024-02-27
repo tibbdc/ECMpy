@@ -15,6 +15,10 @@ from typing import Any, Dict, List
 from Bio import Entrez
 from Bio.SeqUtils.ProtParam import ProteinAnalysis  
 import re#Mr.Mao
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+
+# 禁用警告
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 def create_file(store_path):
     if os.path.exists(store_path):
@@ -638,7 +642,8 @@ def sabio_rk_query_with_string(query_string: str) -> str:
     query = {"fields[]": ["ECNumber", "KeggReactionID", "Organism", "Parameter", "Substrate"], "q": query_string}
 
     # Send the request to SABIO-RK :D
-    request = requests.post(QUERY_URL, params=query)
+    request = requests.post(QUERY_URL, params=query, verify=False)
+
 
     # Error check whether the API call was successful or
     # not. 'Not successful' means that no search result with the given query
