@@ -101,13 +101,6 @@ def convert_to_irreversible(model):
     reactions_to_add = []
     coefficients = {}
     for reaction in model.reactions:
-        if reaction.lower_bound < 0 and reaction.upper_bound == 0:
-            for metabolite in reaction.metabolites:
-                original_coefficient = reaction.get_coefficient(metabolite)
-                reaction.add_metabolites({metabolite: -2*original_coefficient})
-            reaction.id += "_reverse"
-            reaction.upper_bound = -reaction.lower_bound
-            reaction.lower_bound = 0
         # If a reaction is reverse only, the forward reaction (which
         # will be constrained to 0) will be left in the model.
         if reaction.lower_bound < 0 and reaction.upper_bound > 0:
@@ -133,7 +126,6 @@ def convert_to_irreversible(model):
             reactions_to_add.append(reverse_reaction)
     model.add_reactions(reactions_to_add)
     set_objective(model, coefficients, additive=True)
-
     
 def get_genes_and_gpr(model,gene_outfile,gpr_outfile):
     """
@@ -967,30 +959,29 @@ def adj_reaction_kcat_by_database(json_model_path,select_reactionlist, need_chan
     json_model=cobra.io.load_json_model(json_model_path)
     for eachreaction in select_reactionlist:
         need_change_reaction_list.append(eachreaction)
-        if eachreaction in list(reaction_kcat_mw.index):
-            select_reaction = json_model.reactions.get_by_id(eachreaction)
-            if "ec-code" in select_reaction.annotation.keys():
-                ec_number = select_reaction.annotation["ec-code"]
-                kcat_max_list = []
-                if isinstance(ec_number, str):
-                    if ec_number in Brenda_sabio_combined_select.keys():
-                        reaction_kcat_max = Brenda_sabio_combined_select[ec_number]['kcat_max']
-                        if reaction_kcat_mw.loc[eachreaction, 'kcat'] < reaction_kcat_max:
-                            reaction_kcat_mw.loc[eachreaction,'kcat'] = reaction_kcat_max#h_1
-                            reaction_kcat_mw.loc[eachreaction, 'kcat_MW'] = reaction_kcat_max * 3600*1000/reaction_kcat_mw.loc[eachreaction, 'MW']
-                            changed_reaction_list.append(eachreaction) 
-                else:
-                    for eachec in ec_number:
-                        if eachec in Brenda_sabio_combined_select.keys():
-                            kcat_max_list.append(Brenda_sabio_combined_select[eachec]['kcat_max'])
-                    if len(kcat_max_list)>0:        
-                        reaction_kcat_max = np.max(kcat_max_list)  
-                    else:
-                        reaction_kcat_max = 0  
+        select_reaction = json_model.reactions.get_by_id(eachreaction)
+        if "ec-code" in select_reaction.annotation.keys():
+            ec_number = select_reaction.annotation["ec-code"]
+            kcat_max_list = []
+            if isinstance(ec_number, str):
+                if ec_number in Brenda_sabio_combined_select.keys():
+                    reaction_kcat_max = Brenda_sabio_combined_select[ec_number]['kcat_max']
                     if reaction_kcat_mw.loc[eachreaction, 'kcat'] < reaction_kcat_max:
-                        reaction_kcat_mw.loc[eachreaction,'kcat'] = reaction_kcat_max
+                        reaction_kcat_mw.loc[eachreaction,'kcat'] = reaction_kcat_max#h_1
                         reaction_kcat_mw.loc[eachreaction, 'kcat_MW'] = reaction_kcat_max * 3600*1000/reaction_kcat_mw.loc[eachreaction, 'MW']
-                        changed_reaction_list.append(eachreaction)    
+                        changed_reaction_list.append(eachreaction) 
+            else:
+                for eachec in ec_number:
+                    if eachec in Brenda_sabio_combined_select.keys():
+                        kcat_max_list.append(Brenda_sabio_combined_select[eachec]['kcat_max'])
+                if len(kcat_max_list)>0:        
+                    reaction_kcat_max = np.max(kcat_max_list)  
+                else:
+                    reaction_kcat_max = 0  
+                if reaction_kcat_mw.loc[eachreaction, 'kcat'] < reaction_kcat_max:
+                    reaction_kcat_mw.loc[eachreaction,'kcat'] = reaction_kcat_max
+                    reaction_kcat_mw.loc[eachreaction, 'kcat_MW'] = reaction_kcat_max * 3600*1000/reaction_kcat_mw.loc[eachreaction, 'MW']
+                    changed_reaction_list.append(eachreaction)    
                 
     return(need_change_reaction_list,changed_reaction_list,reaction_kcat_mw)
 
@@ -1063,7 +1054,7 @@ def change_enz_model_by_enz_usage(json_model_path, reaction_flux_file, EC_max_fi
 
     i=0
     select_reaction = reaction_fluxes.index[0]
-    while ((select_reaction in need_change_reaction_list) and (i<len(list(reaction_fluxes.index)))):
+    while (select_reaction in need_change_reaction_list):
         i=i+1
         #print(i)
         select_reaction = reaction_fluxes.index[i+1]
@@ -1929,7 +1920,7 @@ def draw_cdf_fig(data_cdf_data, output_file, x_name, y_name, y_index, nticks):
         xaxis=dict(
             title=dict(
                 text=x_name,
-                font=dict(size=20, family='Times New Roman')
+                font=dict(size=30, family='Times New Roman')
             ),
             type="log",
             rangemode="tozero",
@@ -1959,7 +1950,7 @@ def draw_cdf_fig(data_cdf_data, output_file, x_name, y_name, y_index, nticks):
         yaxis=dict(
             title=dict(
                 text=y_name,
-                font=dict(size=20, family='Times New Roman')
+                font=dict(size=30, family='Times New Roman')
             ),
             range=[0, 1],
             showgrid=False,
@@ -2017,25 +2008,25 @@ def draw_3d_rbas(z_data, substrate_bound, o2_bound, obj_bound, number, PhPP_outp
         scene=dict(
             xaxis=dict(
                 range=[0, o2_bound],
-                tickfont=dict(size=13, family='Times New Roman'),
+                tickfont=dict(size=15, family='Times New Roman'),
                 backgroundcolor="lightgrey",
                 title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",
-                           font=dict(size=18, family='Times New Roman'))
+                           font=dict(size=20, family='Times New Roman'))
             ),
             yaxis=dict(
                 range=[0, substrate_bound],
-                tickfont=dict(size=13, family='Times New Roman'),
+                tickfont=dict(size=15, family='Times New Roman'),
                 backgroundcolor="lightgrey",
                 title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",
-                           font=dict(size=18, family='Times New Roman'))
+                           font=dict(size=20, family='Times New Roman'))
             ),
             zaxis=dict(
                 range=[0, obj_bound],
-                tickfont=dict(size=13, family='Times New Roman'),
+                tickfont=dict(size=15, family='Times New Roman'),
                 backgroundcolor="grey",
                 gridcolor="white",
                 title=dict(text="<b>Growth rates<br>(1/h)</b>",
-                           font=dict(size=18, family='Times New Roman'))
+                           font=dict(size=20, family='Times New Roman'))
             )
         ),
         autosize=False,
@@ -2048,7 +2039,7 @@ def draw_3d_rbas(z_data, substrate_bound, o2_bound, obj_bound, number, PhPP_outp
     fig = go.Figure(data=[go.Surface(x=x_values, y=y_values, z=z_data.values)], layout=layout)
 
     fig.update_traces(contours_z=dict(usecolormap=True, highlightcolor="mistyrose", project_z=True))
-    fig.update_scenes(yaxis_tickangle=0, xaxis_tickangle=0)
+    #fig.update_scenes(yaxis_tickangle=0, xaxis_tickangle=0)
 
     fig.write_image(PhPP_output_fig_file)
     return fig
@@ -2160,8 +2151,8 @@ def draw_overfolw_fig(GEMyield_list, ecGEMyield_list, column_list, y_axis_loc_li
         plot_bgcolor='white',
         xaxis=dict(
             title=dict(text="<b>Substrate uptake rate (mmol/gDW/h)</b>",
-                       font=dict(size=20, family='Times New Roman')),
-            tickfont=dict(color='black', size=15, family='Times New Roman'),
+                       font=dict(size=30, family='Times New Roman')),
+            tickfont=dict(color='black', size=20, family='Times New Roman'),
             range=[1, substrate_bound],
             linecolor='black',
             ticks='inside',
@@ -2176,8 +2167,8 @@ def draw_overfolw_fig(GEMyield_list, ecGEMyield_list, column_list, y_axis_loc_li
         ),
         yaxis=dict(
             title=dict(text="<b>Growth rate (h<sup>-1</sup>)</b>",
-                       font=dict(size=20, family='Times New Roman')),
-            tickfont=dict(color='black', size=15, family='Times New Roman'),
+                       font=dict(size=30, family='Times New Roman')),
+            tickfont=dict(color='black', size=20, family='Times New Roman'),
             ticks='inside',
             tickcolor='black',
             linecolor='black',
@@ -2185,9 +2176,9 @@ def draw_overfolw_fig(GEMyield_list, ecGEMyield_list, column_list, y_axis_loc_li
         ),
         yaxis2=dict(
             title=dict(text="<b>Secrete rate (mmol/gDW/h)</b>",
-                       font=dict(size=20, family='Times New Roman')),
+                       font=dict(size=30, family='Times New Roman')),
             overlaying='y',
-            tickfont=dict(color='black', size=15, family='Times New Roman'),
+            tickfont=dict(color='black', size=20, family='Times New Roman'),
             ticks='inside',
             tickcolor='black',
             linecolor='black',
@@ -2325,14 +2316,14 @@ def draw_trade_off(efficiency_pfba, trade_off_enzyme_efficiency_figfile):
         mode='lines',
         line={'dash': 'dash', 'color': 'red', 'width': 3},
         name='biomass yield',
-        marker={'color': 'red', 'size': 10}
+        marker={'color': 'red', 'size': 20}
     )
     trace1 = go.Scatter(
         x=efficiency_pfba['glucose_set'],
         y=efficiency_pfba['enzyme efficiency'],
         mode='lines',
         name='enzyme efficiency',
-        marker={'color': 'blue', 'symbol': 5, 'size': 10},
+        marker={'color': 'blue', 'symbol': 5, 'size': 20},
         line={'color': 'blue', 'width': 3},
         xaxis='x2',
         yaxis='y2'
@@ -2342,8 +2333,8 @@ def draw_trade_off(efficiency_pfba, trade_off_enzyme_efficiency_figfile):
     layout = go.Layout(
         plot_bgcolor='white',
         xaxis=dict(
-            title=dict(text="<b>Substrate uptake rate (mmol/gDW/h)<b>", font=dict(size=20, family='Times New Roman')),
-            tickfont=dict(color='black', size=15, family='Times New Roman'),
+            title=dict(text="<b>Substrate uptake rate (mmol/gDW/h)<b>", font=dict(size=30, family='Times New Roman')),
+            tickfont=dict(color='black', size=20, family='Times New Roman'),
             linecolor='black',
             ticks='inside',
             tickcolor='black',
@@ -2357,18 +2348,18 @@ def draw_trade_off(efficiency_pfba, trade_off_enzyme_efficiency_figfile):
             range=[1, np.max(efficiency_pfba['glucose_simu']) + 0.1]
         ),
         yaxis=dict(
-            title=dict(text="<b>Biomass yield (gDW/g glucose)<b>", font=dict(size=20, family='Times New Roman')),
+            title=dict(text="<b>Biomass yield (gDW/g glucose)<b>", font=dict(size=30, family='Times New Roman')),
             range=[np.min(efficiency_pfba['biomass yield']) - 0.1, np.max(efficiency_pfba['biomass yield']) + 0.1],
-            tickfont=dict(color='black', size=15, family='Times New Roman'),
+            tickfont=dict(color='black', size=20, family='Times New Roman'),
             ticks='inside',
             tickcolor='black',
             linecolor='black'
         ),
         yaxis2=dict(
-            title=dict(text="<b>Enzyme efficiency (gDW/g enzyme)<b>", font=dict(size=20, family='Times New Roman')),
+            title=dict(text="<b>Enzyme efficiency (gDW/g enzyme)<b>", font=dict(size=30, family='Times New Roman')),
             range=[np.min(efficiency_pfba['enzyme efficiency']) - 0.1, np.max(efficiency_pfba['enzyme efficiency']) + 0.1],
             overlaying='y',
-            tickfont=dict(color='black', size=15, family='Times New Roman'),
+            tickfont=dict(color='black', size=20, family='Times New Roman'),
             ticks='inside',
             tickcolor='black',
             linecolor='black',
@@ -2446,8 +2437,8 @@ def get_enz_foldchange(ecModel_file, obj, substrate, substrate_con, biomass_id, 
     enzcost_diff.loc[valid_values, 'log2_foldchange(max/min)'] = np.log2(enzcost_max.loc[valid_values, 'E'] / enzcost_min.loc[valid_values, 'E'])
     enzcost_diff.loc[valid_values, 'log2_foldchange(min/max)'] = np.log2(enzcost_min.loc[valid_values, 'E'] / enzcost_max.loc[valid_values, 'E'])
 
-    weaken_target = enzcost_diff['log2_foldchange(max/min)'] > FC_threshold
-    enhance_target = enzcost_diff['log2_foldchange(min/max)'] > FC_threshold
+    enhance_target = enzcost_diff['log2_foldchange(max/min)'] > 1.5
+    weaken_target = enzcost_diff['log2_foldchange(min/max)'] > 1.5
     enzcost_diff['type'] = np.select([enhance_target, weaken_target], ['enhance_target', 'weaken_target'], 'normal')
 
     enzcost_diff['foldchange(max/min)'] = enzcost_max['E'] / enzcost_min['E']
@@ -2534,20 +2525,61 @@ def run_FSEOF(model, substrate, substrate_con, biomass_id, obj,FSEOF_file):
     always_up['regulation'] = 'up'
 
     FSEOFdf_done = pd.concat([always_up, unchanged, always_down])
-    FSEOFdf_done.loc[FSEOFdf_done['FC_mean'] == 0, 'regulation'] = 'knockout'
 
-    reaction_ids = FSEOFdf_done.index.tolist()
-    unique_reaction_ids = list(set(reaction_ids))
+    FSEOFdf_done['GPR1'] = FSEOFdf_done['GPR'].str.replace(' and ', ' or ')
 
-    reactions_equ = {}
-    for r_id in unique_reaction_ids:
-        reactions_equ[r_id] = model.reactions.get_by_id(r_id).reaction
+    FSEOFdf_gene = FSEOFdf_done['GPR1'].str.split(' or ', expand=True).stack()
+    FSEOFdf_gene = FSEOFdf_gene.reset_index(level=1, drop=True).rename('genes')
 
-    FSEOFdf_done['reactions'] = FSEOFdf_done.index.map(reactions_equ)   
+    FSEOFdf_g = FSEOFdf_done.drop('GPR1', axis=1).join(FSEOFdf_gene)
+    cols = list(FSEOFdf_g.columns.values)
+    cols.pop(cols.index('genes'))
+    FSEOFdf_g = FSEOFdf_g[cols[0:3] + ['genes'] + cols[3:]]
+    FSEOFdf_g['genes'] = FSEOFdf_g['genes'].str.replace('(', '').str.replace(')', '').str.replace(' ', '')
 
-    FSEOFdf_done.to_csv(FSEOF_file)
+    FSEOFdf_filter = FSEOFdf_g.set_index('genes')
 
-    return FSEOFdf_done
+    for eachg in FSEOFdf_filter.index:
+        FSEOFdf_filter.loc[eachg, 'check'] = 'no'
+        if 'yes' not in FSEOFdf_filter.loc[eachg, 'check']:
+            df_temp_re = FSEOFdf_filter.loc[eachg, 'regulation']
+            if isinstance(df_temp_re, str):
+                FSEOFdf_filter.loc[eachg, 'regulation'] = df_temp_re
+                FSEOFdf_filter.loc[eachg, 'check'] = 'yes'
+            else:
+                if list(df_temp_re).count(df_temp_re[0]) != len(list(df_temp_re)):
+                    FSEOFdf_filter.loc[eachg, 'regulation'] = 'drop'
+                    FSEOFdf_filter.loc[eachg, 'check'] = 'yes'
+                else:
+                    FSEOFdf_filter.loc[eachg, 'regulation'] = df_temp_re[0]
+                    FSEOFdf_filter.loc[eachg, 'check'] = 'yes'
+
+    FSEOFdf_f = FSEOFdf_filter.reset_index()
+    FSEOFdf_f.loc[FSEOFdf_f['FC_mean'] == 0, 'regulation'] = 'knockout'
+    FSEOFdf_f = FSEOFdf_f[FSEOFdf_f['regulation'] != 'drop']
+    FSEOFdf_f = FSEOFdf_f.sort_values(by=['FC_mean'],ascending=False)
+
+    gene_ids = FSEOFdf_f['genes'].tolist()
+    unique_gene_ids = list(set(gene_ids))
+
+    gene_reactions = {}
+    for gene_id in unique_gene_ids:
+        gene = model.genes.get_by_id(gene_id)
+        reactions = []
+        if gene:
+            for reaction in gene.reactions:
+                reactions.append(reaction.id)
+        gene_reactions[gene_id] = reactions
+
+    FSEOFdf_f['reactions'] = FSEOFdf_f['genes'].map(gene_reactions)   
+
+    FESEOF_gene = pd.concat([FSEOFdf_f['genes'], FSEOFdf_f['regulation'], FSEOFdf_f['reactions'], FSEOFdf_f['check']], axis=1)
+    #print(FESEOF_gene.shape)
+    #FESEOF_gene_uni = FESEOF_gene.drop_duplicates()
+    #FESEOF_gene_uni = FESEOF_gene_uni.reset_index(drop=True)
+    #print(FESEOF_gene_uni.shape)
+    FESEOF_gene.to_csv(FSEOF_file, sep='\t', index=False)
+    return FSEOFdf_f, FESEOF_gene
 
 def Determine_suitable_ecGEM(model_file, bigg_met_file):
     '''
