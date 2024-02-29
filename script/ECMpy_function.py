@@ -2786,3 +2786,56 @@ def get_reaction_kcatmw_onestop(work_folder, kcat_method, model_file, bigg_metab
         print('The method you provided is not supported, please check the spelling!')
         
     return reaction_kcat_MW_file
+
+def visulization_phenotype_results(phenotypes,exp_col_namw,sim_col_name,x_max,y_max,out_figfile):
+    color_dim=np.random.randint(0,255,len(phenotypes[exp_col_namw]))
+    #Create traces
+    data1=[]
+    i=0
+    for eachmet in list(phenotypes.index):  
+        trace0 = go.Scatter(name=eachmet,x=[phenotypes.loc[eachmet,exp_col_namw]], y=[phenotypes.loc[eachmet,sim_col_name]], 
+                            marker={'color': color_dim[i], 'size': 20}, mode='markers',showlegend=True)
+        #marker={'color': color_dim[i], 'size': 20, 'symbol':i}
+        data1.append(trace0)
+        i=i+1
+
+    trace1 = go.Scatter(x = [0,1],y = [0,1],mode = 'lines',marker = dict(color = 'rgb(127, 127, 127)'),showlegend=False)
+    data1.append(trace1)
+
+    layout = go.Layout(
+        xaxis= dict(title=dict(text="<b>Measured growth rate (h<sup>-1</sup>)<b>", font=dict(size=30,family='Times New Roman')),range=[0,x_max],tickfont=dict(color= 'black',size=15,family='Times New Roman')),
+        yaxis=dict(title=dict(text="<b>Predicted growth rate (h<sup>-1</sup>)<b>", font=dict(size=30,family='Times New Roman')),range=[0,y_max],tickfont=dict(color= 'black',size=15,family='Times New Roman')),
+        showlegend=True,width=1200,height=800)
+    fig = go.Figure(data=data1, layout=layout)
+    fig.update_layout(
+        legend=dict(
+            title_font_family="Times New Roman",  # 图例标题字体
+            font=dict(  # 图例字体
+                family="Times New Roman",
+                size=16,
+                color="black"  # 颜色：红色
+            )
+        )
+    )
+    fig.write_image(out_figfile, scale=1, width=1200, height=800)
+    fig.show()
+
+def compare_phenotype_results(phenotypes,exp_col_name,sim1_col_name,sim1_name,sim2_col_name,sim2_name,out_figfile):
+    EXP_2_ori=abs(phenotypes[exp_col_name]-phenotypes[sim2_col_name])/phenotypes[exp_col_name]
+    EXP_2_ECMpy=abs(phenotypes[exp_col_name]-phenotypes[sim1_col_name])/phenotypes[exp_col_name]
+
+    #Create traces
+    trace0 = go.Box(y=EXP_2_ori, name=sim2_name)
+    trace1 = go.Box(y=EXP_2_ECMpy, name=sim1_name)
+
+    data1 = [trace0,trace1]
+
+    layout = go.Layout(
+        xaxis= dict(title=dict(font=dict(size=30,family='Times New Roman')),tickfont=dict(color= 'black',size=30,family='Times New Roman')),
+        yaxis=dict(title=dict(text="<b>Estimation error<b>", font=dict(size=30,family='Times New Roman')),tickfont=dict(color= 'black',size=30,family='Times New Roman')),
+        showlegend=False,width=1200,height=800)
+    fig = go.Figure(data=data1, layout=layout)
+
+    fig.write_image(out_figfile, scale=1, width=1200, height=800)
+    fig.show()
+    
