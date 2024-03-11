@@ -1,0 +1,20 @@
+{
+    "h2o;gln__L": {
+        "Streptococcus pyogenes": [
+            0.019,
+            0.017,
+            0.14
+        ]
+    },
+    "atp;gln__L;glutrna_gln": {
+        "Streptococcus pyogenes": [
+            0.96,
+            0.51,
+            0.59,
+            0.3,
+            0.3,
+            0.3,
+            0.3
+        ]
+    }
+}

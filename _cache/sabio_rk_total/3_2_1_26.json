@@ -1,0 +1,21 @@
+{
+    "REST": {
+        "Lactobacillus reuteri": [
+            10.0,
+            88.9
+        ],
+        "Solanum lycopersicum": [
+            7250.0
+        ],
+        "Solanum tuberosum": [
+            18.75
+        ],
+        "Saccharum officinarum": [
+            21.0
+        ],
+        "Arabidopsis thaliana": [
+            59.0,
+            21.0
+        ]
+    }
+}

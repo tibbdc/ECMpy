@@ -1,0 +1,30 @@
+{
+    "REST": {
+        "Streptomyces griseus": [
+            0.2
+        ],
+        "Escherichia coli": [
+            132.5,
+            5.6,
+            64.9,
+            203.8,
+            21.9
+        ]
+    },
+    "acald;pyr": {
+        "Escherichia coli": [
+            205.4,
+            219.5
+        ]
+    },
+    "gcald;pyr": {
+        "Escherichia coli": [
+            175.5
+        ]
+    },
+    "ppal;pyr": {
+        "Escherichia coli": [
+            358.4
+        ]
+    }
+}

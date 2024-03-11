@@ -1,0 +1,1441 @@
+reactions,metabolites,metabolitestotal,gpr,genes
+ASPCT,asp__L_c,asp__L,Mbar_A1168,Mbar_A1168
+ASPCT,cbp_c,cbp,Mbar_A1168,Mbar_A1168
+ASPK,asp__L_c,asp__L,Mbar_A0861,Mbar_A0861
+ASPTA,akg_c,akg,Mbar_A2080,Mbar_A2080
+ASPTA,asp__L_c,asp__L,Mbar_A2080,Mbar_A2080
+ASPTRS,asp__L_c,asp__L,Mbar_A3173,Mbar_A3173
+ASPTRS,trnaasp_c,trnaasp,Mbar_A3173,Mbar_A3173
+ATGH_num1,dggpg_c,dggpg,Mbar_A1604,Mbar_A1604
+ATIH_num1,dggpi_c,dggpi,Mbar_A1604,Mbar_A1604
+ATPPRT,prpp_c,prpp,Mbar_A1312,Mbar_A1312
+ATRZCH,atrz_c,atrz,Mbar_A3252,Mbar_A3252
+ATSH_num1,dgggps_c,dgggps,Mbar_A1604,Mbar_A1604
+ACS2,ppa_c,ppa,Mbar_A2172,Mbar_A2172
+BACCL,btn_c,btn,Mbar_A1588,Mbar_A1588
+BLAT,36dahx_c,36dahx,Mbar_A0671,Mbar_A0671
+BLAT,accoa_c,accoa,Mbar_A0671,Mbar_A0671
+BRFAPS,4abz_c,4abz,Mbar_A1222,Mbar_A1222
+BRFAPS,prpp_c,prpp,Mbar_A1222,Mbar_A1222
+ACYP,13dpg_c,13dpg,Mbar_A3282,Mbar_A3282
+BTS3r,dtbt_c,dtbt,Mbar_A0838,Mbar_A0838
+BTS3r,s_c,s,Mbar_A0838,Mbar_A0838
+ACYP_2,actp_c,actp,Mbar_A3282,Mbar_A3282
+ABTA,4abut_c,4abut,Mbar_A2386,Mbar_A2386
+ABTA,akg_c,akg,Mbar_A2386,Mbar_A2386
+ACBIPGT,adocbip_c,adocbip,Mbar_A3457,Mbar_A3457
+ACCOAL,ppa_c,ppa,Mbar_A3662,Mbar_A3662
+ACGK,acglu_c,acglu,Mbar_A1181,Mbar_A1181
+ACGS_num1,accoa_c,accoa,Mbar_A0723,Mbar_A0723
+ACGS_num1,glu__L_c,glu__L,Mbar_A0723,Mbar_A0723
+ACHBS_num1,2obut_c,2obut,Mbar_A0219,Mbar_A0219
+ACHBS_num1,pyr_c,pyr,Mbar_A0219,Mbar_A0219
+ADCPS2,adcobhex_c,adcobhex,Mbar_A3454,Mbar_A3454
+ADCPS2,applp_c,applp,Mbar_A3454,Mbar_A3454
+ADCYRS,adcobdam_c,adcobdam,Mbar_A3191,Mbar_A3191
+ADCYRS,gln__L_c,gln__L,Mbar_A3191,Mbar_A3191
+ADD,ade_c,ade,Mbar_A3342,Mbar_A3342
+ACKr,ac_c,ac,Mbar_A1820,Mbar_A1820
+ACLDC_num1,alac__S_c,alac__S,Mbar_A2916,Mbar_A2916
+ACLS_num1,pyr_c,pyr,Mbar_A0219,Mbar_A0219
+ACONMT,acon_T_c,acon_T,Mbar_A3635,Mbar_A3635
+ACONMT,amet_c,amet,Mbar_A3635,Mbar_A3635
+CBIAT,cbi_c,cbi,Mbar_A1365,Mbar_A1365
+ACOTA_num1,acorn_c,acorn,Mbar_A3279,Mbar_A3279
+ACOTA_num1,akg_c,akg,Mbar_A3279,Mbar_A3279
+ACP1_FMN,fmn_c,fmn,Mbar_A1192,Mbar_A1192
+CBLAT2,cbl1hbi_c,cbl1hbi,Mbar_A1365,Mbar_A1365
+ADNK1,adn_c,adn,Mbar_A0086,Mbar_A0086
+ADOCBIAH,adocbi_c,adocbi,Mbar_A3636,Mbar_A3636
+ADOCBLS2,agdpcbi_c,agdpcbi,Mbar_A3456,Mbar_A3456
+ADOCBLS2,r5hbzi_c,r5hbzi,Mbar_A3456,Mbar_A3456
+ADPT,ade_c,ade,Mbar_A1633,Mbar_A1633
+ADPT,prpp_c,prpp,Mbar_A1633,Mbar_A1633
+CBPS,gln__L_c,gln__L,Mbar_A2374 and Mbar_A2375,Mbar_A2375
+CBPS,gln__L_c,gln__L,Mbar_A2374 and Mbar_A2375,Mbar_A2374
+CBPS,hco3_c,hco3,Mbar_A2374 and Mbar_A2375,Mbar_A2375
+CBPS,hco3_c,hco3,Mbar_A2374 and Mbar_A2375,Mbar_A2374
+ADSS,asp__L_c,asp__L,Mbar_A0403,Mbar_A0403
+AGAIAGT,dpgpi_c,dpgpi,Mbar_A1731,Mbar_A1731
+AGAIAGT,uacgam_c,uacgam,Mbar_A1731,Mbar_A1731
+AGAID,agdpgpi_c,agdpgpi,Mbar_A0408,Mbar_A0408
+CPC2MT,amet_c,amet,Mbar_A0626,Mbar_A0626
+CPC2MT,copre2_c,copre2,Mbar_A0626,Mbar_A0626
+CPC3MT,amet_c,amet,Mbar_A0628 and MBd4270) and Mbar_A0629,MBd4270
+CPC3MT,amet_c,amet,Mbar_A0628 and MBd4270) and Mbar_A0629,Mbar_A0629
+CPC3MT,amet_c,amet,Mbar_A0628 and MBd4270) and Mbar_A0629,Mbar_A0628
+CPC3MT,copre3_c,copre3,Mbar_A0628 and MBd4270) and Mbar_A0629,MBd4270
+CPC3MT,copre3_c,copre3,Mbar_A0628 and MBd4270) and Mbar_A0629,Mbar_A0629
+CPC3MT,copre3_c,copre3,Mbar_A0628 and MBd4270) and Mbar_A0629,Mbar_A0628
+AGMT,agm_c,agm,Mbar_A0694,Mbar_A0694
+AGPR,acg5sa_c,acg5sa,Mbar_A2001,Mbar_A2001
+CDGGGPP3,cdgggp_c,cdgggp,Mbar_A1250,Mbar_A1250
+CDGGGPP3,glyc1p_c,glyc1p,Mbar_A1250,Mbar_A1250
+AHCi,ahcys_c,ahcys,Mbar_A3251,Mbar_A3251
+CPC4MT,amet_c,amet,Mbar_A0627,Mbar_A0627
+CPC4MT,copre4_c,copre4,Mbar_A0627,Mbar_A0627
+AHGDx,S2hglut_c,S2hglut,Mbar_A0309,Mbar_A0309
+CDGGGPP4,3hcdgggp_c,3hcdgggp,Mbar_A1250,Mbar_A1250
+CDGGGPP4,glyc1p_c,glyc1p,Mbar_A1250,Mbar_A1250
+AHMMPS_num1,air_c,air,Mbar_A2129,Mbar_A2129
+AHSERL2,achms_c,achms,Mbar_A2427,Mbar_A2427
+CPC5MT,amet_c,amet,Mbar_A1493,Mbar_A1493
+CPC5MT,copre5_c,copre5,Mbar_A1493,Mbar_A1493
+CPC6MT,amet_c,amet,Mbar_A0625 and Mbar_A1492,Mbar_A0625
+CPC6MT,amet_c,amet,Mbar_A0625 and Mbar_A1492,Mbar_A1492
+CPC6MT,codhpre6_c,codhpre6,Mbar_A0625 and Mbar_A1492,Mbar_A0625
+CPC6MT,codhpre6_c,codhpre6,Mbar_A0625 and Mbar_A1492,Mbar_A1492
+AHXDH,6ax6ax_c,6ax6ax,Mbar_A1202,Mbar_A1202
+AICART,10fthf_c,10fthf,Mbar_A0571,Mbar_A0571
+AICART,aicar_c,aicar,Mbar_A0571,Mbar_A0571
+AIRC2_num1,air_c,air,Mbar_A3125,Mbar_A3125
+AIRC2_num1,hco3_c,hco3,Mbar_A3125,Mbar_A3125
+AKACAL,accoa_c,accoa,Mbar_A2192,Mbar_A2192
+AKACAL,ohexa_c,ohexa,Mbar_A2192,Mbar_A2192
+AKGCAL,accoa_c,accoa,Mbar_A2192,Mbar_A2192
+AKGCAL,akg_c,akg,Mbar_A2192,Mbar_A2192
+AKP1,ahdt_c,ahdt,Mbar_A1231,Mbar_A1231
+AKPCAL,accoa_c,accoa,Mbar_A2192,Mbar_A2192
+AKPCAL,ohepa_c,ohepa,Mbar_A2192,Mbar_A2192
+CS,accoa_c,accoa,Mbar_A0715,Mbar_A0715
+CS,oaa_c,oaa,Mbar_A0715,Mbar_A0715
+CSND_num1,csn_c,csn,Mbar_A1948,Mbar_A1948
+CTPS2,gln__L_c,gln__L,Mbar_A3518,Mbar_A3518
+CDGGGSAT,cdgggp_c,cdgggp,Mbar_A0874,Mbar_A0874
+CDGGGSAT,ser__L_c,ser__L,Mbar_A0874,Mbar_A0874
+CYRDAAT,co1dam_c,co1dam,Mbar_A1365,Mbar_A1365
+ALATA_L,akg_c,akg,Mbar_A1546,Mbar_A1546
+ALATA_L,ala__L_c,ala__L,Mbar_A1546,Mbar_A1546
+CDGGGSAT2,3hcdgggp_c,3hcdgggp,Mbar_A0874,Mbar_A0874
+CDGGGSAT2,ser__L_c,ser__L,Mbar_A0874,Mbar_A0874
+CYRDAS_num1,cobya_c,cobya,Mbar_A1187,Mbar_A1187
+CYRDAS_num1,gln__L_c,gln__L,Mbar_A1187,Mbar_A1187
+ALATRS_num1,ala__L_c,ala__L,Mbar_A1361,Mbar_A1361
+ALATRS_num1,trnaala_c,trnaala,Mbar_A1361,Mbar_A1361
+CDGGIPT,cdgggp_c,cdgggp,Mbar_A1498,Mbar_A1498
+CDGGIPT,inost_c,inost,Mbar_A1498,Mbar_A1498
+ALAt4,ala__L_e,ala__L,Mbar_A2656,Mbar_A2656
+ALCD20y_num1,2ppoh_c,2ppoh,Mbar_A0784,Mbar_A0784
+CYSDS,cys__L_c,cys__L,Mbar_A3023,Mbar_A3023
+CDGGIPT2,3hcdgggp_c,3hcdgggp,Mbar_A1498,Mbar_A1498
+CDGGIPT2,inost_c,inost,Mbar_A1498,Mbar_A1498
+CYSS,acser_c,acser,Mbar_A2422,Mbar_A2422
+ALCD2y_num1,etoh_c,etoh,Mbar_A0784,Mbar_A0784
+ALDD1,fald_c,fald,Mbar_A0775 and Mbar_A0774,Mbar_A0775
+ALDD1,fald_c,fald,Mbar_A0775 and Mbar_A0774,Mbar_A0774
+CYSTRS,cys__L_c,cys__L,Mbar_A1653,Mbar_A1653
+CYSTRS,trnacys_c,trnacys,Mbar_A1653,Mbar_A1653
+ALDD2x,acald_c,acald,Mbar_A2387,Mbar_A2387
+ALKP,dhap_c,dhap,Mbar_A1231,Mbar_A1231
+ANPRT,anth_c,anth,Mbar_A3624,Mbar_A3624
+ANPRT,prpp_c,prpp,Mbar_A3624,Mbar_A3624
+DAPDC,26dap__M_c,26dap__M,Mbar_A1641,Mbar_A1641
+ANS,chor_c,chor,Mbar_A3626 and Mbar_A3627,Mbar_A3626
+ANS,chor_c,chor,Mbar_A3626 and Mbar_A3627,Mbar_A3627
+ANS,gln__L_c,gln__L,Mbar_A3626 and Mbar_A3627,Mbar_A3626
+ANS,gln__L_c,gln__L,Mbar_A3626 and Mbar_A3627,Mbar_A3627
+CF3Sa_num1,f420_2_c,f420_2,Mbar_A0211,Mbar_A0211
+CF3Sg_num1,f420_2_c,f420_2,Mbar_A0211,Mbar_A0211
+APPLP,appl_c,appl,Mbar_A3455,Mbar_A3455
+CH2ACH,h2acon_C_c,h2acon_C,Mbar_A1961 and Mbar_A0244,Mbar_A0244
+CH2ACH,h2acon_C_c,h2acon_C,Mbar_A1961 and Mbar_A0244,Mbar_A1961
+ARGDC_num1,arg__L_c,arg__L,Mbar_A2039,Mbar_A2039
+CH3ACH,h3acon_C_c,h3acon_C,Mbar_A0244 and Mbar_A1961,Mbar_A0244
+CH3ACH,h3acon_C_c,h3acon_C,Mbar_A0244 and Mbar_A1961,Mbar_A1961
+ARGDr,arg__L_c,arg__L,Mbar_A1693,Mbar_A1693
+DGGPGP,dggpgp_c,dggpgp,Mbar_A3582,Mbar_A3582
+DGGPGP2,3hdggpgp_c,3hdggpgp,Mbar_A3582,Mbar_A3582
+ARGSS_num1,asp__L_c,asp__L,Mbar_A2373,Mbar_A2373
+ARGSS_num1,citr__L_c,citr__L,Mbar_A2373,Mbar_A2373
+ARGTRS,arg__L_c,arg__L,Mbar_A1008,Mbar_A1008
+ARGTRS,trnaarg_c,trnaarg,Mbar_A1008,Mbar_A1008
+ASAD,aspsa_c,aspsa,Mbar_A0760,Mbar_A0760
+ASD,dpgps_c,dpgps,Mbar_A0875,Mbar_A0875
+DHDPRy,23dhdp_c,23dhdp,Mbar_A1151,Mbar_A1151
+DHDPS,aspsa_c,aspsa,Mbar_A1150,Mbar_A1150
+DHDPS,pyr_c,pyr,Mbar_A1150,Mbar_A1150
+DHFS_num1,dhpt_c,dhpt,Mbar_A0890,Mbar_A0890
+DHFS_num1,glu__L_c,glu__L,Mbar_A0890,Mbar_A0890
+ASNN,asn__L_c,asn__L,Mbar_A0003,Mbar_A0003
+ASNS1,asp__L_c,asp__L,Mbar_A2257,Mbar_A2257
+ASNS1,gln__L_c,gln__L,Mbar_A2257,Mbar_A2257
+ASP1DC_num1,asp__L_c,asp__L,Mbar_A0977,Mbar_A0977
+DHORD7,dhor__S_c,dhor__S,Mbar_A1466,Mbar_A1466
+DHORD7,f420_2_c,f420_2,Mbar_A1466,Mbar_A1466
+CHACH,hacon_C_c,hacon_C,Mbar_A1961 and Mbar_A0244,Mbar_A0244
+CHACH,hacon_C_c,hacon_C,Mbar_A1961 and Mbar_A0244,Mbar_A1961
+DHORTS,dhor__S_c,dhor__S,Mbar_A1783,Mbar_A1783
+DMAt_num1,dma_e,dma,Mbar_A0847,Mbar_A0847
+DMHDRFS_num1,34hpp_c,34hpp,Mbar_A3415 and (Mbar_A3416,Mbar_A3415
+DMHDRFS_num1,34hpp_c,34hpp,Mbar_A3415 and (Mbar_A3416,Mbar_A3416
+DMHDRFS_num1,4r5au_c,4r5au,Mbar_A3415 and (Mbar_A3416,Mbar_A3415
+DMHDRFS_num1,4r5au_c,4r5au,Mbar_A3415 and (Mbar_A3416,Mbar_A3416
+DHPM1_num1,56dura_c,56dura,Mbar_A2491,Mbar_A2491
+DHPM2_num1,56dthm_c,56dthm,Mbar_A2491,Mbar_A2491
+DHPS2_num1,4abz_c,4abz,Mbar_A2459,Mbar_A2459
+DHPS2_num1,6hmhptpp_c,6hmhptpp,Mbar_A2459,Mbar_A2459
+DOHDUS,dohau_c,dohau,Mbar_A0921,Mbar_A0921
+DHPS3,6hmhptpp_c,6hmhptpp,Mbar_A2125,Mbar_A2125
+DHPS3,Brfap_c,Brfap,Mbar_A2125,Mbar_A2125
+DPCOAK,dpcoa_c,dpcoa,Mbar_A0975,Mbar_A0975
+DIPS,amet_c,amet,Mbar_A2900,Mbar_A2900
+DIPS,caphis_c,caphis,Mbar_A2900,Mbar_A2900
+COBS,7mht_c,7mht,Mbar_A0806,Mbar_A0806
+DKMPASPL,aspsa_c,aspsa,Mbar_A0920,Mbar_A0920
+DKMPASPL,dkmp_c,dkmp,Mbar_A0920,Mbar_A0920
+DMAMT_num1,com_c,com,MBd3608 and Mbar_A1506,Mbar_A1506
+DMAMT_num1,com_c,com,MBd3608 and Mbar_A1506,MBd3608
+DMAMT_num1,dma_c,dma,MBd3608 and Mbar_A1506,Mbar_A1506
+DMAMT_num1,dma_c,dma,MBd3608 and Mbar_A1506,MBd3608
+DMATT,dmpp_c,dmpp,Mbar_A1417,Mbar_A1417
+DMATT,ipdp_c,ipdp,Mbar_A1417,Mbar_A1417
+DMATT2,ipdp_c,ipdp,Mbar_A1417,Mbar_A1417
+DMATT2,m3hdp_c,m3hdp,Mbar_A1417,Mbar_A1417
+DROPPRx,25dhpp_c,25dhpp,Mbar_A0752 and Mbar_A0489,Mbar_A0489
+DROPPRx,25dhpp_c,25dhpp,Mbar_A0752 and Mbar_A0489,Mbar_A0752
+DROPPRy,25dhpp_c,25dhpp,Mbar_A0752 and Mbar_A0489,Mbar_A0489
+DROPPRy,25dhpp_c,25dhpp,Mbar_A0752 and Mbar_A0489,Mbar_A0752
+COCHL_num1,hgbam_c,hgbam,Mbar_A3731,Mbar_A3731
+DRTPPD,25dthpp_c,25dthpp,Mbar_A0752 and Mbar_A0489,Mbar_A0489
+DRTPPD,25dthpp_c,25dthpp,Mbar_A0752 and Mbar_A0489,Mbar_A0752
+CODH2r_num1,co_c,co,Mbar_A3526 and (Mbar_A3717,Mbar_A3526
+CODH2r_num1,co_c,co,Mbar_A3526 and (Mbar_A3717,Mbar_A3717
+CODH2r_num1,fdox_c,fdox,Mbar_A3526 and (Mbar_A3717,Mbar_A3526
+CODH2r_num1,fdox_c,fdox,Mbar_A3526 and (Mbar_A3717,Mbar_A3717
+DURIPP,duri_c,duri,Mbar_A3188,Mbar_A3188
+ECHH_10,fdred_c,fdred,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0151
+ECHH_10,fdred_c,fdred,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0147
+ECHH_10,fdred_c,fdred,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0149
+ECHH_10,fdred_c,fdred,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0150
+ECHH_10,fdred_c,fdred,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0148
+ECHH_10,fdred_c,fdred,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0152
+CODHr_num1,accoa_c,accoa,Mbar_A0204,Mbar_A0204
+CODHr_num1,fdox_c,fdox,Mbar_A0204,Mbar_A0204
+CODHr_num1,h4spt_c,h4spt,Mbar_A0204,Mbar_A0204
+ETHAt6_num1,etha_e,etha,Mbar_A0847,Mbar_A0847
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A0255
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3404
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3401
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3408
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3406
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3411
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3402
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3403
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3412
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3405
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3400
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3409
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3407
+F4D,f420_2h2_c,f420_2h2,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3410
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A0255
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3404
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3401
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3408
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3406
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3411
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3402
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3403
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3412
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3405
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3400
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3409
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3407
+F4D,mphen_c,mphen,Mbar_A3403 and (Mbar_A3406 and Mbar_A3405) and Mbar_A3408 and Mbar_A3404 and Mbar_A3412 and Mbar_A0255 and Mbar_A3407 and Mbar_A3411 and Mbar_A3409 and Mbar_A3400 and Mbar_A3402 and Mbar_A3401 and Mbar_A3410,Mbar_A3410
+F4H2O_num1,f420_2h2_c,f420_2h2,Mbar_A2179,Mbar_A2179
+F4MTSPD,f420_2h2_c,f420_2h2,Mbar_A1095,Mbar_A1095
+F4MTSPD,menylh4spt_c,menylh4spt,Mbar_A1095,Mbar_A1095
+GF4GL_6_num1,f420_6_c,f420_6,Mbar_A0855,Mbar_A0855
+GF4GL_6_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+F4MTSPR,f420_2h2_c,f420_2h2,Mbar_A0254,Mbar_A0254
+F4MTSPR,mleneh4spt_c,mleneh4spt,Mbar_A0254,Mbar_A0254
+F4NH_num1,mphen_c,mphen,Mbar_A1846,Mbar_A1846
+F4NPR,f420_2_c,f420_2,Mbar_A0647,Mbar_A0647
+F4RHi_num1,f420_2_c,f420_2,Mbar_A0449,Mbar_A0449
+GF6PTA,f6p_c,f6p,Mbar_A2022,Mbar_A2022
+GF6PTA,gln__L_c,gln__L,Mbar_A2022,Mbar_A2022
+GGGPS,ggdp_c,ggdp,Mbar_A0675,Mbar_A0675
+GGGPS,glyc1p_c,glyc1p,Mbar_A0675,Mbar_A0675
+GHMT2r,ser__L_c,ser__L,Mbar_A2316,Mbar_A2316
+GHMT2r,thf_c,thf,Mbar_A2316,Mbar_A2316
+FBP,fdp_c,fdp,Mbar_A1836,Mbar_A1836
+FDH,for_c,for,Mbar_A1562 and Mbar_A1561,Mbar_A1561
+FDH,for_c,for,Mbar_A1562 and Mbar_A1561,Mbar_A1562
+GK_adp,glc__D_c,glc__D,Mbar_A2005,Mbar_A2005
+GLCGSD_num1,glycogen_c,glycogen,Mbar_A2517,Mbar_A2517
+FEDCabc_num1,cit_e,cit,Mbar_A1868 and (Mbar_A0466,Mbar_A0466
+FEDCabc_num1,cit_e,cit,Mbar_A1868 and (Mbar_A0466,Mbar_A1868
+FMETTRS,10fthf_c,10fthf,Mbar_A0915,Mbar_A0915
+FMETTRS,mettrna_c,mettrna,Mbar_A0915,Mbar_A0915
+GLCNt2r_num1,glcn_e,glcn,Mbar_A0991,Mbar_A0991
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A2922
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1290
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A0795
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1287
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1289
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1288
+FMFD_b_num1,fdred_c,fdred,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1291
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A2922
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1290
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A0795
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1287
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1289
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1288
+FMFD_b_num1,mfr_b_c,mfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1291
+FMFTSPFT_b,formmfr_b_c,formmfr_b,Mbar_A0980,Mbar_A0980
+FMFTSPFT_b,h4spt_c,h4spt,Mbar_A0980,Mbar_A0980
+FRTT_num1,frdp_c,frdp,Mbar_A0394,Mbar_A0394
+FRTT_num1,ipdp_c,ipdp,Mbar_A0394,Mbar_A0394
+GLCP_num1,glycogen_c,glycogen,Mbar_A1369,Mbar_A1369
+FRTT2_num1,3hfrdp_c,3hfrdp,Mbar_A0394,Mbar_A0394
+FRTT2_num1,ipdp_c,ipdp,Mbar_A0394,Mbar_A0394
+FUM_num1,fum_c,fum,Mbar_A0425,Mbar_A0425
+G1PACT_num1,accoa_c,accoa,Mbar_A2023,Mbar_A2023
+G1PACT_num1,gam1p_c,gam1p,Mbar_A2023,Mbar_A2023
+G1PDH,dhap_c,dhap,Mbar_A0291,Mbar_A0291
+G1PTT,g1p_c,g1p,Mbar_A0233,Mbar_A0233
+GLNS_num1,glu__L_c,glu__L,Mbar_A2180,Mbar_A2180
+G5SD2,glu5p_c,glu5p,Mbar_A0482,Mbar_A0482
+G6PDH3,f420_2_c,f420_2,Mbar_A0420,Mbar_A0420
+G6PDH3,g6p_c,g6p,Mbar_A0420,Mbar_A0420
+GLNTRAT_num1,gln__L_c,gln__L,Mbar_A0882 and Mbar_A0883 and (Mbar_A2389,Mbar_A0882
+GLNTRAT_num1,gln__L_c,gln__L,Mbar_A0882 and Mbar_A0883 and (Mbar_A2389,Mbar_A0883
+GLNTRAT_num1,gln__L_c,gln__L,Mbar_A0882 and Mbar_A0883 and (Mbar_A2389,Mbar_A2389
+GLNTRAT_num1,glutrna_gln_c,glutrna_gln,Mbar_A0882 and Mbar_A0883 and (Mbar_A2389,Mbar_A0882
+GLNTRAT_num1,glutrna_gln_c,glutrna_gln,Mbar_A0882 and Mbar_A0883 and (Mbar_A2389,Mbar_A0883
+GLNTRAT_num1,glutrna_gln_c,glutrna_gln,Mbar_A0882 and Mbar_A0883 and (Mbar_A2389,Mbar_A2389
+GALT,gal1p_c,gal1p,Mbar_A0295,Mbar_A0295
+GALUi_num1,g1p_c,g1p,Mbar_A1121,Mbar_A1121
+GAPD_num1,g3p_c,g3p,Mbar_A3564,Mbar_A3564
+GAPDi_nadp_num1,13dpg_c,13dpg,Mbar_A3564,Mbar_A3564
+GLU5K,glu__L_c,glu__L,Mbar_A0481,Mbar_A0481
+GARFT_num1,10fthf_c,10fthf,Mbar_A2317,Mbar_A2317
+GARFT_num1,gar_c,gar,Mbar_A2317,Mbar_A2317
+GF4GL_0_num1,f420_0_c,f420_0,Mbar_A0855,Mbar_A0855
+GF4GL_0_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+GLUDC_num1,glu__L_c,glu__L,Mbar_A0977,Mbar_A0977
+GF4GL_1_num1,f420_1_c,f420_1,Mbar_A0855,Mbar_A0855
+GF4GL_1_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+GF4GL_2_num1,f420_2_c,f420_2,Mbar_A0855,Mbar_A0855
+GF4GL_2_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+GF4GL_3_num1,f420_3_c,f420_3,Mbar_A0855,Mbar_A0855
+GF4GL_3_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+GF4GL_4_num1,f420_4_c,f420_4,Mbar_A0855,Mbar_A0855
+GF4GL_4_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+GLUDxi,glu__L_c,glu__L,Mbar_A2938,Mbar_A2938
+GF4GL_5_num1,f420_5_c,f420_5,Mbar_A0855,Mbar_A0855
+GF4GL_5_num1,glu__L_c,glu__L,Mbar_A0855,Mbar_A0855
+GLUDy,glu__L_c,glu__L,Mbar_A2938,Mbar_A2938
+GLUPRT,gln__L_c,gln__L,Mbar_A3498,Mbar_A3498
+GLUPRT,prpp_c,prpp,Mbar_A3498,Mbar_A3498
+HETZK,4mhetz_c,4mhetz,Mbar_A3319,Mbar_A3319
+HEX7,fru_c,fru,Mbar_A2838,Mbar_A2838
+GLUS_F420_num1,akg_c,akg,Mbar_A0663,Mbar_A0663
+GLUS_F420_num1,f420_2h2_c,f420_2h2,Mbar_A0663,Mbar_A0663
+GLUS_F420_num1,gln__L_c,gln__L,Mbar_A0663,Mbar_A0663
+HISDC,his__L_c,his__L,Mbar_A2979,Mbar_A2979
+HISTD,histd_c,histd,Mbar_A3507,Mbar_A3507
+HISTP,hisp_c,hisp,Mbar_A1310,Mbar_A1310
+HISTRS,his__L_c,his__L,Mbar_A3452,Mbar_A3452
+HISTRS,trnahis_c,trnahis,Mbar_A3452,Mbar_A3452
+GLUTRR,glutrna_c,glutrna,Mbar_A1462,Mbar_A1462
+GLUTRS,glu__L_c,glu__L,Mbar_A1470,Mbar_A1470
+GLUTRS,trnaglu_c,trnaglu,Mbar_A1470,Mbar_A1470
+HMBS,ppbng_c,ppbng,Mbar_A1465,Mbar_A1465
+GLUTRS_Gln,glu__L_c,glu__L,Mbar_A1470,Mbar_A1470
+GLUTRS_Gln,trnagln_c,trnagln,Mbar_A1470,Mbar_A1470
+HMGCOAR,mev__R_c,mev__R,Mbar_A1972,Mbar_A1972
+HMGCOAS,hmgcoa_c,hmgcoa,Mbar_A0551,Mbar_A0551
+HMPK1,4ahmmp_c,4ahmmp,Mbar_A3501,Mbar_A3501
+HSDy,hom__L_c,hom__L,Mbar_A1898,Mbar_A1898
+MDHy,mal__L_c,mal__L,Mbar_A1748,Mbar_A1748
+GLYBabc,glyb_e,glyb,Mbar_A2376 and Mbar_A2378 and Mbar_A2377,Mbar_A2377
+GLYBabc,glyb_e,glyb,Mbar_A2376 and Mbar_A2378 and Mbar_A2377,Mbar_A2378
+GLYBabc,glyb_e,glyb,Mbar_A2376 and Mbar_A2378 and Mbar_A2377,Mbar_A2376
+ME1,mal__L_c,mal__L,Mbar_A3045,Mbar_A3045
+HSERTA,accoa_c,accoa,Mbar_A2428,Mbar_A2428
+HSERTA,hom__L_c,hom__L,Mbar_A2428,Mbar_A2428
+GLYTRS,gly_c,gly,Mbar_A1209,Mbar_A1209
+GLYTRS,trnagly_c,trnagly,Mbar_A1209,Mbar_A1209
+METAT_num1,met__L_c,met__L,Mbar_A1862,Mbar_A1862
+METGL,met__L_c,met__L,Mbar_A3023,Mbar_A3023
+METS_num1,5mthf_c,5mthf,Mbar_A1023,Mbar_A1023
+METS_num1,hcys__L_c,hcys__L,Mbar_A1023,Mbar_A1023
+HSTPT,glu__L_c,glu__L,Mbar_A0872,Mbar_A0872
+HSTPT,imacp_c,imacp,Mbar_A0872,Mbar_A0872
+ICDHyr_num1,icit_c,icit,Mbar_A0623,Mbar_A0623
+IG3PS,gln__L_c,gln__L,Mbar_A1514 and Mbar_A3476,Mbar_A1514
+IG3PS,gln__L_c,gln__L,Mbar_A1514 and Mbar_A3476,Mbar_A3476
+IG3PS,prlp_c,prlp,Mbar_A1514 and Mbar_A3476,Mbar_A1514
+IG3PS,prlp_c,prlp,Mbar_A1514 and Mbar_A3476,Mbar_A3476
+IGPS,2cpr5p_c,2cpr5p,Mbar_A3621,Mbar_A3621
+ILETA,akg_c,akg,Mbar_A0576,Mbar_A0576
+ILETA,ile__L_c,ile__L,Mbar_A0576,Mbar_A0576
+ILETRS_num1,ile__L_c,ile__L,Mbar_A3613,Mbar_A3613
+ILETRS_num1,trnaile_c,trnaile,Mbar_A3613,Mbar_A3613
+METTRS,met__L_c,met__L,Mbar_A0543,Mbar_A0543
+METTRS,trnamet_c,trnamet,Mbar_A0543,Mbar_A0543
+GLYt4,gly_e,gly,Mbar_A2656,Mbar_A2656
+MEVK1,mev__R_c,mev__R,Mbar_A1421,Mbar_A1421
+ILEt2r,ile__L_e,ile__L,Mbar_A2616 and Mbar_A2617,Mbar_A2616
+ILEt2r,ile__L_e,ile__L,Mbar_A2616 and Mbar_A2617,Mbar_A2617
+INS2D,inost_c,inost,Mbar_A1138,Mbar_A1138
+IOR_num1,fdox_c,fdox,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR_num1,fdox_c,fdox,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR_num1,indpyr_c,indpyr,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR_num1,indpyr_c,indpyr,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR2_num1,fdox_c,fdox,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR2_num1,fdox_c,fdox,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR2_num1,phpyr_c,phpyr,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR2_num1,phpyr_c,phpyr,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+MI1PP,mi1p__D_c,mi1p__D,Mbar_A2190,Mbar_A2190
+IOR3_num1,34hpp_c,34hpp,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR3_num1,34hpp_c,34hpp,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR3_num1,fdox_c,fdox,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR3_num1,fdox_c,fdox,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IPDDI3x,f420_2_c,f420_2,Mbar_A1419,Mbar_A1419
+IPDDI3x,ipdp_c,ipdp,Mbar_A1419,Mbar_A1419
+IPDDI3y,f420_2_c,f420_2,Mbar_A1419,Mbar_A1419
+IPDDI3y,ipdp_c,ipdp,Mbar_A1419,Mbar_A1419
+MMAMT_num1,com_c,com,Mbar_A1688,Mbar_A1688
+MMAMT_num1,mma_c,mma,Mbar_A1688,Mbar_A1688
+MMAt_num1,mma_e,mma,Mbar_A0847,Mbar_A0847
+MOBDabc_num1,mobd_e,mobd,Mbar_A1557,Mbar_A1557
+MPML_num1,ppp9_c,ppp9,Mbar_A2144,Mbar_A2144
+IPMD,3c2hmp_c,3c2hmp,Mbar_A1339,Mbar_A1339
+IPPMIb_num1,2ippm_c,2ippm,Mbar_A1338 and (Mbar_A2270,Mbar_A1338
+IPPMIb_num1,2ippm_c,2ippm,Mbar_A1338 and (Mbar_A2270,Mbar_A2270
+IPPS_num1,3mob_c,3mob,Mbar_A0624,Mbar_A0624
+IPPS_num1,accoa_c,accoa,Mbar_A0624,Mbar_A0624
+KARA1,23dhmb_c,23dhmb,Mbar_A0220,Mbar_A0220
+KARA2,2ahbut_c,2ahbut,Mbar_A0220,Mbar_A0220
+MTAP,5mta_c,5mta,Mbar_A3594,Mbar_A3594
+MTCMMT,com_c,com,Mbar_A3585 and Mbar_A3584,Mbar_A3585
+MTCMMT,com_c,com,Mbar_A3585 and Mbar_A3584,Mbar_A3584
+MTCMMT,dms_c,dms,Mbar_A3585 and Mbar_A3584,Mbar_A3585
+MTCMMT,dms_c,dms,Mbar_A3585 and Mbar_A3584,Mbar_A3584
+GMPS2_num1,gln__L_c,gln__L,Mbar_A2989,Mbar_A2989
+MTHFC,methf_c,methf,Mbar_A2315,Mbar_A2315
+MTHFD2i,mlthf_c,mlthf,Mbar_A2315,Mbar_A2315
+LEUTA,akg_c,akg,Mbar_A0576,Mbar_A0576
+LEUTA,leu__L_c,leu__L,Mbar_A0576,Mbar_A0576
+MTHFR3,mlthf_c,mlthf,Mbar_A2312,Mbar_A2312
+HXPRT_num1,hxan_c,hxan,Mbar_A3178,Mbar_A3178
+HXPRT_num1,prpp_c,prpp,Mbar_A3178,Mbar_A3178
+MTSPC,formh4spt_c,formh4spt,Mbar_A2233,Mbar_A2233
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1260
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1259
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1256
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1257
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1262
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1261
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1258
+MTSPCMMT,com_c,com,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1255
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1260
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1259
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1256
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1257
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1262
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1261
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1258
+MTSPCMMT,mh4spt_c,mh4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1255
+LEUTRS,leu__L_c,leu__L,Mbar_A2048,Mbar_A2048
+LEUTRS,trnaleu_c,trnaleu,Mbar_A2048,Mbar_A2048
+LEUt2r,leu__L_e,leu__L,Mbar_A2616 and Mbar_A2617,Mbar_A2616
+LEUt2r,leu__L_e,leu__L,Mbar_A2616 and Mbar_A2617,Mbar_A2617
+LPFPLT,ddhrb_c,ddhrb,Mbar_A1631,Mbar_A1631
+LPFPLT,lppg_c,lppg,Mbar_A1631,Mbar_A1631
+LPPGS,2plac__L_c,2plac__L,Mbar_A3457,Mbar_A3457
+GOFUCR_num1,gdpofuc_c,gdpofuc,Mbar_A0037,Mbar_A0037
+NADS1_num1,dnad_c,dnad,Mbar_A0269,Mbar_A0269
+GRTT_num1,grdp_c,grdp,Mbar_A1417,Mbar_A1417
+GRTT_num1,ipdp_c,ipdp,Mbar_A1417,Mbar_A1417
+NADS2_num1,dnad_c,dnad,Mbar_A0269,Mbar_A0269
+NADS2_num1,gln__L_c,gln__L,Mbar_A0269,Mbar_A0269
+GRTT2_num1,3hgrdp_c,3hgrdp,Mbar_A1417,Mbar_A1417
+GRTT2_num1,ipdp_c,ipdp,Mbar_A1417,Mbar_A1417
+NAPRT,nac_c,nac,Mbar_A3022,Mbar_A3022
+NAPRT,prpp_c,prpp,Mbar_A3022,Mbar_A3022
+GTHOr_num1,gthox_c,gthox,Mbar_A0570,Mbar_A0570
+NBAHH_ir,carn_c,carn,Mbar_A3039,Mbar_A3039
+LYSTRS_num1,lys__L_c,lys__L,Mbar_A1667,Mbar_A1667
+LYSTRS_num1,trnalys_c,trnalys,Mbar_A1667,Mbar_A1667
+GUAD,gua_c,gua,Mbar_A3057,Mbar_A3057
+LYSt3r_num1,lys__L_c,lys__L,Mbar_A2583,Mbar_A2583
+MAN1PT2_num1,man1p_c,man1p,Mbar_A0229,Mbar_A0229
+GUAPRT_num1,gua_c,gua,Mbar_A3178,Mbar_A3178
+GUAPRT_num1,prpp_c,prpp,Mbar_A3178,Mbar_A3178
+MCMMT_num1,com_c,com,Mbar_A3639,Mbar_A3639
+MCMMT_num1,meoh_c,meoh,Mbar_A3639,Mbar_A3639
+MCR,cob_c,cob,Mbar_A0894 and Mbar_A0897 and Mbar_A0893,Mbar_A0897
+MCR,cob_c,cob,Mbar_A0894 and Mbar_A0897 and Mbar_A0893,Mbar_A0893
+MCR,cob_c,cob,Mbar_A0894 and Mbar_A0897 and Mbar_A0893,Mbar_A0894
+MCR,mcom_c,mcom,Mbar_A0894 and Mbar_A0897 and Mbar_A0893,Mbar_A0897
+MCR,mcom_c,mcom,Mbar_A0894 and Mbar_A0897 and Mbar_A0893,Mbar_A0893
+MCR,mcom_c,mcom,Mbar_A0894 and Mbar_A0897 and Mbar_A0893,Mbar_A0894
+MDH,mal__L_c,mal__L,Mbar_A0309,Mbar_A0309
+NIT_n1p4_num1,fdred_c,fdred,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2278
+NIT_n1p4_num1,fdred_c,fdred,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2281
+NIT_n1p4_num1,fdred_c,fdred,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2277
+NIT_n1p4_num1,fdred_c,fdred,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2276
+NIT_n1p4_num1,n2_c,n2,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2278
+NIT_n1p4_num1,n2_c,n2,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2281
+NIT_n1p4_num1,n2_c,n2,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2277
+NIT_n1p4_num1,n2_c,n2,Mbar_A2281 and Mbar_A2278 and Mbar_A2277 and Mbar_A2276,Mbar_A2276
+NIabc,ni2_e,ni2,Mbar_A0471 and Mbar_A0473 and Mbar_A0469 and Mbar_A0470 and Mbar_A0472,Mbar_A0472
+NIabc,ni2_e,ni2,Mbar_A0471 and Mbar_A0473 and Mbar_A0469 and Mbar_A0470 and Mbar_A0472,Mbar_A0470
+NIabc,ni2_e,ni2,Mbar_A0471 and Mbar_A0473 and Mbar_A0469 and Mbar_A0470 and Mbar_A0472,Mbar_A0469
+NIabc,ni2_e,ni2,Mbar_A0471 and Mbar_A0473 and Mbar_A0469 and Mbar_A0470 and Mbar_A0472,Mbar_A0473
+NIabc,ni2_e,ni2,Mbar_A0471 and Mbar_A0473 and Mbar_A0469 and Mbar_A0470 and Mbar_A0472,Mbar_A0471
+NMNAT,nmn_c,nmn,Mbar_A0256,Mbar_A0256
+MDHi2,oaa_c,oaa,Mbar_A1748,Mbar_A1748
+NN5HBPRT,5hbzid_c,5hbzid,Mbar_A0178,Mbar_A0178
+NN5HBPRT,nicrnt_c,nicrnt,Mbar_A0178,Mbar_A0178
+NNATr,nicrnt_c,nicrnt,Mbar_A0256,Mbar_A0256
+NNDPR_num1,prpp_c,prpp,Mbar_A1304,Mbar_A1304
+NNDPR_num1,quln_c,quln,Mbar_A1304,Mbar_A1304
+OCBT,cbp_c,cbp,Mbar_A3512,Mbar_A3512
+OCBT,orn_c,orn,Mbar_A3512,Mbar_A3512
+H4MPTGL_atp,glu__L_c,glu__L,Mbar_A3203,Mbar_A3203
+H4MPTGL_atp,h4mpt_c,h4mpt,Mbar_A3203,Mbar_A3203
+H4MPTGL_gtp,glu__L_c,glu__L,Mbar_A3203,Mbar_A3203
+H4MPTGL_gtp,h4mpt_c,h4mpt,Mbar_A3203,Mbar_A3203
+OMPDC,orot5p_c,orot5p,Mbar_A0060,Mbar_A0060
+OORr,akg_c,akg,Mbar_A2215 and Mbar_A2214,Mbar_A2214
+OORr,akg_c,akg,Mbar_A2215 and Mbar_A2214,Mbar_A2215
+OORr,fdox_c,fdox,Mbar_A2215 and Mbar_A2214,Mbar_A2214
+OORr,fdox_c,fdox,Mbar_A2215 and Mbar_A2214,Mbar_A2215
+PRATPP,prbatp_c,prbatp,Mbar_A2166,Mbar_A2166
+PRFGS_num1,fgam_c,fgam,Mbar_A2755,Mbar_A2755
+PRFGS_num1,gln__L_c,gln__L,Mbar_A2755,Mbar_A2755
+OPAH,5oxpro_c,5oxpro,Mbar_A3345,Mbar_A3345
+ORNDC,orn_c,orn,Mbar_A2177,Mbar_A2177
+ORNTAC,acorn_c,acorn,Mbar_A2003,Mbar_A2003
+ORNTAC,glu__L_c,glu__L,Mbar_A2003,Mbar_A2003
+ORPT_num1,orot5p_c,orot5p,Mbar_A3515,Mbar_A3515
+PROTRS,pro__L_c,pro__L,Mbar_A0179,Mbar_A0179
+PROTRS,trnapro_c,trnapro,Mbar_A0179,Mbar_A0179
+PROabc,pro__L_e,pro__L,Mbar_A2376 and Mbar_A2378 and Mbar_A2377,Mbar_A2377
+PROabc,pro__L_e,pro__L,Mbar_A2376 and Mbar_A2378 and Mbar_A2377,Mbar_A2378
+PROabc,pro__L_e,pro__L,Mbar_A2376 and Mbar_A2378 and Mbar_A2377,Mbar_A2376
+PROt2r_num1,pro__L_e,pro__L,Mbar_A3721,Mbar_A3721
+PRPPS,r5p_c,r5p,Mbar_A0363,Mbar_A0363
+PSCVT,pep_c,pep,Mbar_A0891,Mbar_A0891
+PSCVT,skm5p_c,skm5p,Mbar_A0891,Mbar_A0891
+PSERT,3php_c,3php,Mbar_A1294,Mbar_A1294
+PSERT,glu__L_c,glu__L,Mbar_A1294,Mbar_A1294
+PSLP,slp__L_c,slp__L,Mbar_A0511,Mbar_A0511
+PSP_L_num1,pser__L_c,pser__L,Mbar_A3182,Mbar_A3182
+HASD,3hdpgps_c,3hdpgps,Mbar_A0875,Mbar_A0875
+PTAr,accoa_c,accoa,Mbar_A1821,Mbar_A1821
+HATGH_num1,3hdggpg_c,3hdggpg,Mbar_A1604,Mbar_A1604
+PTPATi,pan4p_c,pan4p,Mbar_A2339,Mbar_A2339
+HATIH_num1,3hdggpi_c,3hdggpi,Mbar_A1604,Mbar_A1604
+HATSH_num1,3hdgggps_c,3hdgggps,Mbar_A1604,Mbar_A1604
+PYK,pep_c,pep,Mbar_A0175,Mbar_A0175
+PYRDC,pyr_c,pyr,Mbar_A1429,Mbar_A1429
+HCITS_num1,accoa_c,accoa,Mbar_A2268,Mbar_A2268
+HCITS_num1,akg_c,akg,Mbar_A2268,Mbar_A2268
+QULNS_num1,dhap_c,dhap,MBd0933,MBd0933
+QULNS_num1,iasp_c,iasp,MBd0933,MBd0933
+HDR_num1,hsfd_c,hsfd,Mbar_A0639,Mbar_A0639
+HDR_num1,mphenh2_c,mphenh2,Mbar_A0639,Mbar_A0639
+RBFSa,4r5au_c,4r5au,Mbar_A2082 and Mbar_A2081,Mbar_A2081
+RBFSa,4r5au_c,4r5au,Mbar_A2082 and Mbar_A2081,Mbar_A2082
+RBFSa,db4p_c,db4p,Mbar_A2082 and Mbar_A2081,Mbar_A2081
+RBFSa,db4p_c,db4p,Mbar_A2082 and Mbar_A2081,Mbar_A2082
+RBK,rib__D_c,rib__D,Mbar_A2903,Mbar_A2903
+RBPC,rb15bp_c,rb15bp,Mbar_A0902,Mbar_A0902
+TDPDRR,dtdp4d6dm_c,dtdp4d6dm,Mbar_A0232,Mbar_A0232
+RNDR1,trdrd_c,trdrd,Mbar_A3615,Mbar_A3615
+RNDR2,trdrd_c,trdrd,Mbar_A3615,Mbar_A3615
+RNDR3,trdrd_c,trdrd,Mbar_A3615,Mbar_A3615
+RNDR4,trdrd_c,trdrd,Mbar_A3615,Mbar_A3615
+RNTR1,trdrd_c,trdrd,Mbar_A1037,Mbar_A1037
+RNTR2,trdrd_c,trdrd,Mbar_A1037,Mbar_A1037
+RNTR3,trdrd_c,trdrd,Mbar_A1037,Mbar_A1037
+RNTR4,trdrd_c,trdrd,Mbar_A1037,Mbar_A1037
+P5CRx,1pyr5c_c,1pyr5c,Mbar_A0480,Mbar_A0480
+PACCOAL,pac_c,pac,Mbar_A2986,Mbar_A2986
+THRPDC,thrp_c,thrp,Mbar_A3453,Mbar_A3453
+RZ5PP2,5pr5hbz_c,5pr5hbz,Mbar_A3455,Mbar_A3455
+SERAT,accoa_c,accoa,Mbar_A2421,Mbar_A2421
+SERAT,ser__L_c,ser__L,Mbar_A2421,Mbar_A2421
+SERTRS_num1,ser__L_c,ser__L,Mbar_A0541,Mbar_A0541
+SERTRS_num1,trnaser_c,trnaser,Mbar_A0541,Mbar_A0541
+PACCOAL2,4hphac_c,4hphac,Mbar_A2986,Mbar_A2986
+SHCHCC_num1,dscl_c,dscl,Mbar_A0344,Mbar_A0344
+PACCOAL3,ind3ac_c,ind3ac,Mbar_A2986,Mbar_A2986
+SHCHD2,dscl_c,dscl,Mbar_A1461 and Mbar_A1791,Mbar_A1461
+SHCHD2,dscl_c,dscl,Mbar_A1461 and Mbar_A1791,Mbar_A1791
+SHCHF,scl_c,scl,Mbar_A1461 and Mbar_A1791,Mbar_A1461
+SHCHF,scl_c,scl,Mbar_A1461 and Mbar_A1791,Mbar_A1791
+SHK3Dr,3dhsk_c,3dhsk,Mbar_A0923,Mbar_A0923
+SHKK_num1,skm_c,skm,Mbar_A3127,Mbar_A3127
+PANTS,ala_B_c,ala_B,Mbar_A3254,Mbar_A3254
+PANTS,pant__R_c,pant__R,Mbar_A3254,Mbar_A3254
+PAPSR_num1,paps_c,paps,Mbar_A0559,Mbar_A0559
+PAPSR_num1,trdrd_c,trdrd,Mbar_A0559,Mbar_A0559
+PC,hco3_c,hco3,Mbar_A1587 and Mbar_A1586,Mbar_A1587
+PC,hco3_c,hco3,Mbar_A1587 and Mbar_A1586,Mbar_A1586
+PC,pyr_c,pyr,Mbar_A1587 and Mbar_A1586,Mbar_A1587
+PC,pyr_c,pyr,Mbar_A1587 and Mbar_A1586,Mbar_A1586
+THRS_num1,phom_c,phom,Mbar_A3541,Mbar_A3541
+PFK_adp,f6p_c,f6p,Mbar_A2004,Mbar_A2004
+SLDx,sl__L_c,sl__L,Mbar_A0309,Mbar_A0309
+SLDxi2,3spyr_c,3spyr,Mbar_A1748,Mbar_A1748
+SLDy,sl__L_c,sl__L,Mbar_A1748,Mbar_A1748
+PGCD,3pg_c,3pg,Mbar_A1431,Mbar_A1431
+THRTRS,thr__L_c,thr__L,Mbar_A2945,Mbar_A2945
+THRTRS,trnathr_c,trnathr,Mbar_A2945,Mbar_A2945
+PGK_num1,3pg_c,3pg,Mbar_A1808,Mbar_A1808
+PGLYCP_num1,2pglyc_c,2pglyc,Mbar_A2726,Mbar_A2726
+SPDC,3spyr_c,3spyr,Mbar_A3542,Mbar_A3542
+THZPSN,cys__L_c,cys__L,Mbar_A1238 and Mbar_A0010,Mbar_A1238
+THZPSN,cys__L_c,cys__L,Mbar_A1238 and Mbar_A0010,Mbar_A0010
+THZPSN,dxyl5p_c,dxyl5p,Mbar_A1238 and Mbar_A0010,Mbar_A1238
+THZPSN,dxyl5p_c,dxyl5p,Mbar_A1238 and Mbar_A0010,Mbar_A0010
+THZPSN,tyr__L_c,tyr__L,Mbar_A1238 and Mbar_A0010,Mbar_A1238
+THZPSN,tyr__L_c,tyr__L,Mbar_A1238 and Mbar_A0010,Mbar_A0010
+SSALx_num1,sucsal_c,sucsal,Mbar_A2542,Mbar_A2542
+TIH2CD,tih2cit_c,tih2cit,Mbar_A0248,Mbar_A0248
+SSALy_num1,sucsal_c,sucsal,Mbar_A2542,Mbar_A2542
+TIH3CD,tih3cit_c,tih3cit,Mbar_A0248,Mbar_A0248
+PHETA1_num1,akg_c,akg,Mbar_A3133,Mbar_A3133
+PHETA1_num1,phe__L_c,phe__L,Mbar_A3133,Mbar_A3133
+PHETRS_num1,phe__L_c,phe__L,Mbar_A2752 and Mbar_A1375,Mbar_A1375
+PHETRS_num1,phe__L_c,phe__L,Mbar_A2752 and Mbar_A1375,Mbar_A2752
+PHETRS_num1,trnaphe_c,trnaphe,Mbar_A2752 and Mbar_A1375,Mbar_A1375
+PHETRS_num1,trnaphe_c,trnaphe,Mbar_A2752 and Mbar_A1375,Mbar_A2752
+TIHCD,ihcit_T_c,ihcit_T,Mbar_A0248,Mbar_A0248
+PMPK,4ampm_c,4ampm,Mbar_A3501,Mbar_A3501
+PNTK,pnto__R_c,pnto__R,Mbar_A3255,Mbar_A3255
+POR2_num1,fdox_c,fdox,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR2_num1,fdox_c,fdox,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR2_num1,fdox_c,fdox,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+POR2_num1,pyr_c,pyr,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR2_num1,pyr_c,pyr,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR2_num1,pyr_c,pyr,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+POR3_num1,2obut_c,2obut,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR3_num1,2obut_c,2obut,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR3_num1,2obut_c,2obut,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+POR3_num1,fdox_c,fdox,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR3_num1,fdox_c,fdox,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR3_num1,fdox_c,fdox,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+TMAMT_num1,com_c,com,Mbar_A1502 and MBd3602) and (Mbar_A3639,MBd3602
+TMAMT_num1,com_c,com,Mbar_A1502 and MBd3602) and (Mbar_A3639,Mbar_A3639
+TMAMT_num1,com_c,com,Mbar_A1502 and MBd3602) and (Mbar_A3639,Mbar_A1502
+TMAMT_num1,tma_c,tma,Mbar_A1502 and MBd3602) and (Mbar_A3639,MBd3602
+TMAMT_num1,tma_c,tma,Mbar_A1502 and MBd3602) and (Mbar_A3639,Mbar_A3639
+TMAMT_num1,tma_c,tma,Mbar_A1502 and MBd3602) and (Mbar_A3639,Mbar_A1502
+PPAKr,ppap_c,ppap,Mbar_A1820,Mbar_A1820
+TMAt2,tma_e,tma,Mbar_A1504,Mbar_A1504
+TMDK1,thymd_c,thymd,Mbar_A1098,Mbar_A1098
+PPCDC,4ppcys_c,4ppcys,Mbar_A3256,Mbar_A3256
+TMDPP,thymd_c,thymd,Mbar_A3188,Mbar_A3188
+PPDK,pyr_c,pyr,Mbar_A1396,Mbar_A1396
+TMDS_num1,mlthf_c,mlthf,Mbar_A0890,Mbar_A0890
+PPNCL2,4ppan_c,4ppan,Mbar_A3256,Mbar_A3256
+PPNCL2,cys__L_c,cys__L,Mbar_A3256,Mbar_A3256
+PPND,pphn_c,pphn,Mbar_A0924,Mbar_A0924
+PPNDH,pphn_c,pphn,Mbar_A1930,Mbar_A1930
+PPS_num1,pyr_c,pyr,Mbar_A2223,Mbar_A2223
+PRAGSr,gly_c,gly,Mbar_A3513,Mbar_A3513
+PRAGSr,pram_c,pram,Mbar_A3513,Mbar_A3513
+TMPK_num1,thmmp_c,thmmp,Mbar_A1035,Mbar_A1035
+PRAIS,fpram_c,fpram,Mbar_A0862,Mbar_A0862
+PRAMPC,prbamp_c,prbamp,Mbar_A3654,Mbar_A3654
+PRASCSi,5aizc_c,5aizc,Mbar_A0531,Mbar_A0531
+PRASCSi,asp__L_c,asp__L,Mbar_A0531,Mbar_A0531
+TMPPP,2mahmp_c,2mahmp,Mbar_A3318,Mbar_A3318
+TMPPP,4mpetz_c,4mpetz,Mbar_A3318,Mbar_A3318
+TRDR_num1,trdox_c,trdox,Mbar_A2310,Mbar_A2310
+TRPS1_num1,3ig3p_c,3ig3p,Mbar_A3622,Mbar_A3622
+TRPS1_num1,ser__L_c,ser__L,Mbar_A3622,Mbar_A3622
+TRPS2_num1,indole_c,indole,Mbar_A3503,Mbar_A3503
+TRPS2_num1,ser__L_c,ser__L,Mbar_A3503,Mbar_A3503
+TRPTA_num1,akg_c,akg,Mbar_A3133,Mbar_A3133
+TRPTA_num1,trp__L_c,trp__L,Mbar_A3133,Mbar_A3133
+TRPTRS,trnatrp_c,trnatrp,Mbar_A1374,Mbar_A1374
+TRPTRS,trp__L_c,trp__L,Mbar_A1374,Mbar_A1374
+TSULabc_num1,tsul_e,tsul,Mbar_A2559,Mbar_A2559
+TYRTA_num1,akg_c,akg,Mbar_A2083,Mbar_A2083
+TYRTA_num1,tyr__L_c,tyr__L,Mbar_A2083,Mbar_A2083
+TYRTRS,trnatyr_c,trnatyr,Mbar_A1745,Mbar_A1745
+TYRTRS,tyr__L_c,tyr__L,Mbar_A1745,Mbar_A1745
+UAG2EMA_num1,uacgam_c,uacgam,Mbar_A0052,Mbar_A0052
+UAGCVT,pep_c,pep,Mbar_A0022,Mbar_A0022
+UAGCVT,uacgam_c,uacgam,Mbar_A0022,Mbar_A0022
+UAGDP_num1,acgam1p_c,acgam1p,Mbar_A2020,Mbar_A2020
+UAPGR,uaccg_c,uaccg,Mbar_A0023,Mbar_A0023
+UDPGD_num1,udpg_c,udpg,Mbar_A1120,Mbar_A1120
+UPP3MT,amet_c,amet,Mbar_A1461 and Mbar_A1791,Mbar_A1461
+UPP3MT,amet_c,amet,Mbar_A1461 and Mbar_A1791,Mbar_A1791
+UPP3MT,uppg3_c,uppg3,Mbar_A1461 and Mbar_A1791,Mbar_A1461
+UPP3MT,uppg3_c,uppg3,Mbar_A1461 and Mbar_A1791,Mbar_A1791
+VALTA,akg_c,akg,Mbar_A0576,Mbar_A0576
+VALTA,val__L_c,val__L,Mbar_A0576,Mbar_A0576
+VALTRS,trnaval_c,trnaval,Mbar_A1976,Mbar_A1976
+VALTRS,val__L_c,val__L,Mbar_A1976,Mbar_A1976
+VALt2r,val__L_e,val__L,Mbar_A2616 and Mbar_A2617,Mbar_A2616
+VALt2r,val__L_e,val__L,Mbar_A2616 and Mbar_A2617,Mbar_A2617
+VOR,3mob_c,3mob,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+VOR,3mob_c,3mob,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+VOR,3mob_c,3mob,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+VOR,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+VOR,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+VOR,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+XPPT_num1,prpp_c,prpp,Mbar_A3178,Mbar_A3178
+XPPT_num1,xan_c,xan,Mbar_A3178,Mbar_A3178
+YUMPS_num1,r5p_c,r5p,Mbar_A0082,Mbar_A0082
+YUMPS_num1,ura_c,ura,Mbar_A0082,Mbar_A0082
+ASPTA_reverse,glu__L_c,glu__L,Mbar_A2080,Mbar_A2080
+ASPTA_reverse,oaa_c,oaa,Mbar_A2080,Mbar_A2080
+BTS3r_reverse,btn_c,btn,Mbar_A0838,Mbar_A0838
+ACCOAL_reverse,ppcoa_c,ppcoa,Mbar_A3662,Mbar_A3662
+ACKr_reverse,actp_c,actp,Mbar_A1820,Mbar_A1820
+CBIAT_reverse,adocbi_c,adocbi,Mbar_A1365,Mbar_A1365
+ACOTA_reverse_num1,acg5sa_c,acg5sa,Mbar_A3279,Mbar_A3279
+ACOTA_reverse_num1,glu__L_c,glu__L,Mbar_A3279,Mbar_A3279
+AGPR_reverse,acg5p_c,acg5p,Mbar_A2001,Mbar_A2001
+AHCi_reverse,adn_c,adn,Mbar_A3251,Mbar_A3251
+AHCi_reverse,hcys__L_c,hcys__L,Mbar_A3251,Mbar_A3251
+AHGDx_reverse,akg_c,akg,Mbar_A0309,Mbar_A0309
+AICART_reverse,fprica_c,fprica,Mbar_A0571,Mbar_A0571
+AICART_reverse,thf_c,thf,Mbar_A0571,Mbar_A0571
+ALATA_L_reverse,glu__L_c,glu__L,Mbar_A1546,Mbar_A1546
+ALATA_L_reverse,pyr_c,pyr,Mbar_A1546,Mbar_A1546
+ALAt4_reverse,ala__L_c,ala__L,Mbar_A2656,Mbar_A2656
+ALCD20y_reverse_num1,acetone_c,acetone,Mbar_A0784,Mbar_A0784
+CYSS_reverse,ac_c,ac,Mbar_A2422,Mbar_A2422
+CYSS_reverse,cys__L_c,cys__L,Mbar_A2422,Mbar_A2422
+ALCD2y_reverse_num1,acald_c,acald,Mbar_A0784,Mbar_A0784
+ARGDr_reverse,citr__L_c,citr__L,Mbar_A1693,Mbar_A1693
+ARGSL_reverse,arg__L_c,arg__L,Mbar_A0004,Mbar_A0004
+ARGSL_reverse,fum_c,fum,Mbar_A0004,Mbar_A0004
+DHORD7_reverse,f420_2h2_c,f420_2h2,Mbar_A1466,Mbar_A1466
+DHORD7_reverse,orot_c,orot,Mbar_A1466,Mbar_A1466
+DHORTS_reverse,cbasp_c,cbasp,Mbar_A1783,Mbar_A1783
+DMAt_reverse_num1,dma_c,dma,Mbar_A0847,Mbar_A0847
+DHQTi_reverse,3dhsk_c,3dhsk,Mbar_A0922,Mbar_A0922
+DURIPP_reverse,2dr1p_c,2dr1p,Mbar_A3188,Mbar_A3188
+DURIPP_reverse,ura_c,ura,Mbar_A3188,Mbar_A3188
+ECHH_10_reverse,fdox_c,fdox,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0151
+ECHH_10_reverse,fdox_c,fdox,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0147
+ECHH_10_reverse,fdox_c,fdox,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0149
+ECHH_10_reverse,fdox_c,fdox,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0150
+ECHH_10_reverse,fdox_c,fdox,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0148
+ECHH_10_reverse,fdox_c,fdox,Mbar_A0151 and Mbar_A0152 and Mbar_A0149 and Mbar_A0147 and Mbar_A0150 and Mbar_A0148,Mbar_A0152
+CODHr_reverse_num1,fdred_c,fdred,Mbar_A0204,Mbar_A0204
+CODHr_reverse_num1,mh4spt_c,mh4spt,Mbar_A0204,Mbar_A0204
+ENO_reverse,pep_c,pep,Mbar_A2850,Mbar_A2850
+ETHAt6_reverse_num1,etha_c,etha,Mbar_A0847,Mbar_A0847
+F4H2O_reverse_num1,f420_2_c,f420_2,Mbar_A2179,Mbar_A2179
+F4MTSPD_reverse,f420_2_c,f420_2,Mbar_A1095,Mbar_A1095
+F4MTSPD_reverse,mleneh4spt_c,mleneh4spt,Mbar_A1095,Mbar_A1095
+F4MTSPR_reverse,f420_2_c,f420_2,Mbar_A0254,Mbar_A0254
+F4MTSPR_reverse,mh4spt_c,mh4spt,Mbar_A0254,Mbar_A0254
+F4NPR_reverse,f420_2h2_c,f420_2h2,Mbar_A0647,Mbar_A0647
+FBA_reverse_num1,dhap_c,dhap,Mbar_A2224,Mbar_A2224
+FBA_reverse_num1,g3p_c,g3p,Mbar_A2224,Mbar_A2224
+FBA2_reverse_num1,dhap_c,dhap,Mbar_A2224,Mbar_A2224
+FBA2_reverse_num1,glyald_c,glyald,Mbar_A2224,Mbar_A2224
+FCLPA_reverse,dhap_c,dhap,Mbar_A1249,Mbar_A1249
+FCLPA_reverse,lald__L_c,lald__L,Mbar_A1249,Mbar_A1249
+GLCNt2r_reverse_num1,glcn_c,glcn,Mbar_A0991,Mbar_A0991
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A2922
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1290
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A0795
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1287
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1289
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1288
+FMFD_b_reverse_num1,fdox_c,fdox,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1291
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A2922
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1290
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A0795
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1287
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1289
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1288
+FMFD_b_reverse_num1,formmfr_b_c,formmfr_b,Mbar_A2922 and Mbar_A1289 and Mbar_A1288 and Mbar_A1290 and Mbar_A1287 and Mbar_A1291 and (Mbar_A0795,Mbar_A1291
+FMFTSPFT_b_reverse,formh4spt_c,formh4spt,Mbar_A0980,Mbar_A0980
+FMFTSPFT_b_reverse,mfr_b_c,mfr_b,Mbar_A0980,Mbar_A0980
+G1PDH_reverse,glyc1p_c,glyc1p,Mbar_A0291,Mbar_A0291
+GALT_reverse,udpgal_c,udpgal,Mbar_A0295,Mbar_A0295
+GAPD_reverse_num1,13dpg_c,13dpg,Mbar_A3564,Mbar_A3564
+GAPDi_nadp_reverse_num1,g3p_c,g3p,Mbar_A3564,Mbar_A3564
+GARFT_reverse_num1,fgam_c,fgam,Mbar_A2317,Mbar_A2317
+GARFT_reverse_num1,thf_c,thf,Mbar_A2317,Mbar_A2317
+HSDy_reverse,aspsa_c,aspsa,Mbar_A1898,Mbar_A1898
+MDHy_reverse,oaa_c,oaa,Mbar_A1748,Mbar_A1748
+ME1_reverse,pyr_c,pyr,Mbar_A3045,Mbar_A3045
+HSERTA_reverse,achms_c,achms,Mbar_A2428,Mbar_A2428
+ICDHyr_reverse_num1,akg_c,akg,Mbar_A0623,Mbar_A0623
+ILETA_reverse,3mop_c,3mop,Mbar_A0576,Mbar_A0576
+ILETA_reverse,glu__L_c,glu__L,Mbar_A0576,Mbar_A0576
+GLYt4_reverse,gly_c,gly,Mbar_A2656,Mbar_A2656
+ILEt2r_reverse,ile__L_c,ile__L,Mbar_A2616 and Mbar_A2617,Mbar_A2616
+ILEt2r_reverse,ile__L_c,ile__L,Mbar_A2616 and Mbar_A2617,Mbar_A2617
+IOR_reverse_num1,fdred_c,fdred,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR_reverse_num1,fdred_c,fdred,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR_reverse_num1,indaccoa_c,indaccoa,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR_reverse_num1,indaccoa_c,indaccoa,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR2_reverse_num1,fdred_c,fdred,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR2_reverse_num1,fdred_c,fdred,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR2_reverse_num1,phaccoa_c,phaccoa,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR2_reverse_num1,phaccoa_c,phaccoa,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR3_reverse_num1,fdred_c,fdred,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR3_reverse_num1,fdred_c,fdred,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR3_reverse_num1,hphaccoa_c,hphaccoa,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR3_reverse_num1,hphaccoa_c,hphaccoa,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+MMAt_reverse_num1,mma_c,mma,Mbar_A0847,Mbar_A0847
+MPML_reverse_num1,mppp9_c,mppp9,Mbar_A2144,Mbar_A2144
+IPPMIa_reverse_num1,2ippm_c,2ippm,Mbar_A1338 and (Mbar_A2270,Mbar_A1338
+IPPMIa_reverse_num1,2ippm_c,2ippm,Mbar_A1338 and (Mbar_A2270,Mbar_A2270
+KARA1_reverse,alac__S_c,alac__S,Mbar_A0220,Mbar_A0220
+KARA2_reverse,23dhmp_c,23dhmp,Mbar_A0220,Mbar_A0220
+MTHFC_reverse,10fthf_c,10fthf,Mbar_A2315,Mbar_A2315
+LEUTA_reverse,4mop_c,4mop,Mbar_A0576,Mbar_A0576
+LEUTA_reverse,glu__L_c,glu__L,Mbar_A0576,Mbar_A0576
+MTSPC_reverse,menylh4spt_c,menylh4spt,Mbar_A2233,Mbar_A2233
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1260
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1259
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1256
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1257
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1262
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1261
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1258
+MTSPCMMT_reverse,h4spt_c,h4spt,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1255
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1260
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1259
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1256
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1257
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1262
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1261
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1258
+MTSPCMMT_reverse,mcom_c,mcom,Mbar_A1257 and Mbar_A1260 and Mbar_A1258 and Mbar_A1259 and Mbar_A1262 and Mbar_A1261 and Mbar_A1255 and Mbar_A1256,Mbar_A1255
+LEUt2r_reverse,leu__L_c,leu__L,Mbar_A2616 and Mbar_A2617,Mbar_A2616
+LEUt2r_reverse,leu__L_c,leu__L,Mbar_A2616 and Mbar_A2617,Mbar_A2617
+NAPRT_reverse,nicrnt_c,nicrnt,Mbar_A3022,Mbar_A3022
+GTHOr_reverse_num1,gthrd_c,gthrd,Mbar_A0570,Mbar_A0570
+NBAHH_ir_reverse,ala_B_c,ala_B,Mbar_A3039,Mbar_A3039
+NBAHH_ir_reverse,his__L_c,his__L,Mbar_A3039,Mbar_A3039
+LYSt3r_reverse_num1,lys__L_e,lys__L,Mbar_A2583,Mbar_A2583
+MAN1PT2_reverse_num1,gdpmann_c,gdpmann,Mbar_A0229,Mbar_A0229
+MDH_reverse,oaa_c,oaa,Mbar_A0309,Mbar_A0309
+OCBT_reverse,citr__L_c,citr__L,Mbar_A3512,Mbar_A3512
+OORr_reverse,fdred_c,fdred,Mbar_A2215 and Mbar_A2214,Mbar_A2214
+OORr_reverse,fdred_c,fdred,Mbar_A2215 and Mbar_A2214,Mbar_A2215
+OORr_reverse,succoa_c,succoa,Mbar_A2215 and Mbar_A2214,Mbar_A2214
+OORr_reverse,succoa_c,succoa,Mbar_A2215 and Mbar_A2214,Mbar_A2215
+OPAH_reverse,glu__L_c,glu__L,Mbar_A3345,Mbar_A3345
+ORNTAC_reverse,acglu_c,acglu,Mbar_A2003,Mbar_A2003
+ORNTAC_reverse,orn_c,orn,Mbar_A2003,Mbar_A2003
+ORPT_reverse_num1,orot_c,orot,Mbar_A3515,Mbar_A3515
+ORPT_reverse_num1,prpp_c,prpp,Mbar_A3515,Mbar_A3515
+PRPPS_reverse,prpp_c,prpp,Mbar_A0363,Mbar_A0363
+PSCVT_reverse,3psme_c,3psme,Mbar_A0891,Mbar_A0891
+PTAr_reverse,actp_c,actp,Mbar_A1821,Mbar_A1821
+HCO3E_reverse,hco3_c,hco3,Mbar_A3020,Mbar_A3020
+RH2CD_reverse,h2acon_C_c,h2acon_C,Mbar_A0244 and Mbar_A1961,Mbar_A0244
+RH2CD_reverse,h2acon_C_c,h2acon_C,Mbar_A0244 and Mbar_A1961,Mbar_A1961
+RH3CD_reverse,h3acon_C_c,h3acon_C,Mbar_A0244 and Mbar_A1961,Mbar_A0244
+RH3CD_reverse,h3acon_C_c,h3acon_C,Mbar_A0244 and Mbar_A1961,Mbar_A1961
+THRA_reverse,acald_c,acald,Mbar_A2316,Mbar_A2316
+THRA_reverse,gly_c,gly,Mbar_A2316,Mbar_A2316
+SERAT_reverse,acser_c,acser,Mbar_A2421,Mbar_A2421
+SHK3Dr_reverse,skm_c,skm,Mbar_A0923,Mbar_A0923
+SLDx_reverse,3spyr_c,3spyr,Mbar_A0309,Mbar_A0309
+SLDy_reverse,3spyr_c,3spyr,Mbar_A1748,Mbar_A1748
+PGK_reverse_num1,13dpg_c,13dpg,Mbar_A1808,Mbar_A1808
+PHETA1_reverse_num1,glu__L_c,glu__L,Mbar_A3133,Mbar_A3133
+PHETA1_reverse_num1,phpyr_c,phpyr,Mbar_A3133,Mbar_A3133
+POR2_reverse_num1,accoa_c,accoa,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR2_reverse_num1,accoa_c,accoa,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR2_reverse_num1,accoa_c,accoa,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+POR2_reverse_num1,fdred_c,fdred,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR2_reverse_num1,fdred_c,fdred,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR2_reverse_num1,fdred_c,fdred,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+POR3_reverse_num1,fdred_c,fdred,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR3_reverse_num1,fdred_c,fdred,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR3_reverse_num1,fdred_c,fdred,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+POR3_reverse_num1,ppcoa_c,ppcoa,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1001
+POR3_reverse_num1,ppcoa_c,ppcoa,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A1000
+POR3_reverse_num1,ppcoa_c,ppcoa,Mbar_A1000 and Mbar_A1001 and (Mbar_A3180,Mbar_A3180
+PPAKr_reverse,ppa_c,ppa,Mbar_A1820,Mbar_A1820
+TMAt2_reverse,tma_c,tma,Mbar_A1504,Mbar_A1504
+TMDPP_reverse,2dr1p_c,2dr1p,Mbar_A3188,Mbar_A3188
+TMDPP_reverse,thym_c,thym,Mbar_A3188,Mbar_A3188
+PRAGSr_reverse,gar_c,gar,Mbar_A3513,Mbar_A3513
+TMPK_reverse_num1,thmpp_c,thmpp,Mbar_A1035,Mbar_A1035
+PRASCSi_reverse,25aics_c,25aics,Mbar_A0531,Mbar_A0531
+TRPTA_reverse_num1,glu__L_c,glu__L,Mbar_A3133,Mbar_A3133
+TRPTA_reverse_num1,indpyr_c,indpyr,Mbar_A3133,Mbar_A3133
+TYRTA_reverse_num1,34hpp_c,34hpp,Mbar_A2083,Mbar_A2083
+TYRTA_reverse_num1,glu__L_c,glu__L,Mbar_A2083,Mbar_A2083
+UAG2EMA_reverse_num1,acmana_c,acmana,Mbar_A0052,Mbar_A0052
+UDPGD_reverse_num1,udpglcur_c,udpglcur,Mbar_A1120,Mbar_A1120
+VALTA_reverse,3mob_c,3mob,Mbar_A0576,Mbar_A0576
+VALTA_reverse,glu__L_c,glu__L,Mbar_A0576,Mbar_A0576
+VALt2r_reverse,val__L_c,val__L,Mbar_A2616 and Mbar_A2617,Mbar_A2616
+VALt2r_reverse,val__L_c,val__L,Mbar_A2616 and Mbar_A2617,Mbar_A2617
+VOR_reverse,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+VOR_reverse,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+VOR_reverse,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+VOR_reverse,ibcoa_c,ibcoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+VOR_reverse,ibcoa_c,ibcoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+VOR_reverse,ibcoa_c,ibcoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+YUMPS_reverse_num1,psd5p_c,psd5p,Mbar_A0082,Mbar_A0082
+ATGH_num2,dggpg_c,dggpg,Mbar_A1602,Mbar_A1602
+ATGH_num3,dggpg_c,dggpg,Mbar_A1603,Mbar_A1603
+ATGH_num4,dggpg_c,dggpg,Mbar_A3422,Mbar_A3422
+ATIH_num2,dggpi_c,dggpi,Mbar_A1602,Mbar_A1602
+ATIH_num3,dggpi_c,dggpi,Mbar_A1603,Mbar_A1603
+ATIH_num4,dggpi_c,dggpi,Mbar_A3422,Mbar_A3422
+ATSH_num2,dgggps_c,dgggps,Mbar_A1602,Mbar_A1602
+ATSH_num3,dgggps_c,dgggps,Mbar_A1603,Mbar_A1603
+ATSH_num4,dgggps_c,dgggps,Mbar_A3422,Mbar_A3422
+ACGS_num2,accoa_c,accoa,Mbar_A0587,Mbar_A0587
+ACGS_num2,glu__L_c,glu__L,Mbar_A0587,Mbar_A0587
+ACGS_num3,accoa_c,accoa,Mbar_A2003,Mbar_A2003
+ACGS_num3,glu__L_c,glu__L,Mbar_A2003,Mbar_A2003
+ACHBS_num2,2obut_c,2obut,Mbar_A0210) and (Mbar_A2541,Mbar_A2541
+ACHBS_num2,2obut_c,2obut,Mbar_A0210) and (Mbar_A2541,Mbar_A0210
+ACHBS_num2,pyr_c,pyr,Mbar_A0210) and (Mbar_A2541,Mbar_A2541
+ACHBS_num2,pyr_c,pyr,Mbar_A0210) and (Mbar_A2541,Mbar_A0210
+ACHBS_num3,2obut_c,2obut,Mbar_A0428,Mbar_A0428
+ACHBS_num3,pyr_c,pyr,Mbar_A0428,Mbar_A0428
+ACHBS_num4,2obut_c,2obut,Mbar_A0438,Mbar_A0438
+ACHBS_num4,pyr_c,pyr,Mbar_A0438,Mbar_A0438
+ACHBS_num5,2obut_c,2obut,Mbar_A0218,Mbar_A0218
+ACHBS_num5,pyr_c,pyr,Mbar_A0218,Mbar_A0218
+ACLDC_num2,alac__S_c,alac__S,Mbar_A2915,Mbar_A2915
+ACLS_num2,pyr_c,pyr,Mbar_A0210) and (Mbar_A2541,Mbar_A2541
+ACLS_num2,pyr_c,pyr,Mbar_A0210) and (Mbar_A2541,Mbar_A0210
+ACLS_num3,pyr_c,pyr,Mbar_A0428,Mbar_A0428
+ACLS_num4,pyr_c,pyr,Mbar_A0438,Mbar_A0438
+ACLS_num5,pyr_c,pyr,Mbar_A0218,Mbar_A0218
+ACOTA_num2,acorn_c,acorn,Mbar_A0871,Mbar_A0871
+ACOTA_num2,akg_c,akg,Mbar_A0871,Mbar_A0871
+AHMMPS_num2,air_c,air,Mbar_A0597,Mbar_A0597
+AIRC2_num2,air_c,air,Mbar_A0762,Mbar_A0762
+AIRC2_num2,hco3_c,hco3,Mbar_A0762,Mbar_A0762
+AIRC2_num3,air_c,air,Mbar_A3291,Mbar_A3291
+AIRC2_num3,hco3_c,hco3,Mbar_A3291,Mbar_A3291
+CSND_num2,csn_c,csn,Mbar_A3003,Mbar_A3003
+CYRDAS_num2,cobya_c,cobya,Mbar_A2158,Mbar_A2158
+CYRDAS_num2,gln__L_c,gln__L,Mbar_A2158,Mbar_A2158
+CYRDAS_num3,cobya_c,cobya,Mbar_A0348,Mbar_A0348
+CYRDAS_num3,gln__L_c,gln__L,Mbar_A0348,Mbar_A0348
+ALATRS_num2,ala__L_c,ala__L,Mbar_A2092,Mbar_A2092
+ALATRS_num2,trnaala_c,trnaala,Mbar_A2092,Mbar_A2092
+ALCD20y_num2,2ppoh_c,2ppoh,Mbar_A0771,Mbar_A0771
+ALCD20y_num3,2ppoh_c,2ppoh,Mbar_A2344,Mbar_A2344
+ALCD2y_num2,etoh_c,etoh,Mbar_A0771,Mbar_A0771
+ALCD2y_num3,etoh_c,etoh,Mbar_A2344,Mbar_A2344
+CF3Sa_num2,f420_2_c,f420_2,Mbar_A0508,Mbar_A0508
+CF3Sa_num3,f420_2_c,f420_2,Mbar_A2872,Mbar_A2872
+CF3Sg_num2,f420_2_c,f420_2,Mbar_A0508,Mbar_A0508
+CF3Sg_num3,f420_2_c,f420_2,Mbar_A2872,Mbar_A2872
+ARGDC_num2,arg__L_c,arg__L,Mbar_A2492,Mbar_A2492
+ARGSS_num2,asp__L_c,asp__L,MBd0198,MBd0198
+ARGSS_num2,citr__L_c,citr__L,MBd0198,MBd0198
+DHFS_num2,dhpt_c,dhpt,Mbar_A2087,Mbar_A2087
+DHFS_num2,glu__L_c,glu__L,Mbar_A2087,Mbar_A2087
+ASP1DC_num2,asp__L_c,asp__L,Mbar_A2744,Mbar_A2744
+DMAt_num2,dma_e,dma,Mbar_A0848,Mbar_A0848
+DMHDRFS_num2,34hpp_c,34hpp,Mbar_A3417,Mbar_A3417
+DMHDRFS_num2,4r5au_c,4r5au,Mbar_A3417,Mbar_A3417
+DHPM1_num2,56dura_c,56dura,Mbar_A1068,Mbar_A1068
+DHPM1_num3,56dura_c,56dura,Mbar_A0141,Mbar_A0141
+DHPM1_num4,56dura_c,56dura,Mbar_A1067,Mbar_A1067
+DHPM1_num5,56dura_c,56dura,Mbar_A2490,Mbar_A2490
+DHPM2_num2,56dthm_c,56dthm,Mbar_A1068,Mbar_A1068
+DHPM2_num3,56dthm_c,56dthm,Mbar_A0141,Mbar_A0141
+DHPM2_num4,56dthm_c,56dthm,Mbar_A1067,Mbar_A1067
+DHPM2_num5,56dthm_c,56dthm,Mbar_A2490,Mbar_A2490
+DHPS2_num2,4abz_c,4abz,Mbar_A2314,Mbar_A2314
+DHPS2_num2,6hmhptpp_c,6hmhptpp,Mbar_A2314,Mbar_A2314
+DMAMT_num2,com_c,com,MBd1413 and Mbar_A3605)) and (Mbar_A1501,MBd1413
+DMAMT_num2,com_c,com,MBd1413 and Mbar_A3605)) and (Mbar_A1501,Mbar_A1501
+DMAMT_num2,com_c,com,MBd1413 and Mbar_A3605)) and (Mbar_A1501,Mbar_A3605
+DMAMT_num2,dma_c,dma,MBd1413 and Mbar_A3605)) and (Mbar_A1501,MBd1413
+DMAMT_num2,dma_c,dma,MBd1413 and Mbar_A3605)) and (Mbar_A1501,Mbar_A1501
+DMAMT_num2,dma_c,dma,MBd1413 and Mbar_A3605)) and (Mbar_A1501,Mbar_A3605
+DMAMT_num3,com_c,com,Mbar_A3604) and (Mbar_A0841,Mbar_A3604
+DMAMT_num3,com_c,com,Mbar_A3604) and (Mbar_A0841,Mbar_A0841
+DMAMT_num3,dma_c,dma,Mbar_A3604) and (Mbar_A0841,Mbar_A3604
+DMAMT_num3,dma_c,dma,Mbar_A3604) and (Mbar_A0841,Mbar_A0841
+DMAMT_num4,com_c,com,Mbar_A1688,Mbar_A1688
+DMAMT_num4,dma_c,dma,Mbar_A1688,Mbar_A1688
+COCHL_num2,hgbam_c,hgbam,Mbar_A1795,Mbar_A1795
+COCHL_num3,hgbam_c,hgbam,Mbar_A0797,Mbar_A0797
+COCHL_num4,hgbam_c,hgbam,Mbar_A1771,Mbar_A1771
+CODH2r_num2,co_c,co,Mbar_A3525,Mbar_A3525
+CODH2r_num2,fdox_c,fdox,Mbar_A3525,Mbar_A3525
+CODHr_num2,accoa_c,accoa,Mbar_A0434) and (Mbar_A0203,Mbar_A0203
+CODHr_num2,accoa_c,accoa,Mbar_A0434) and (Mbar_A0203,Mbar_A0434
+CODHr_num2,fdox_c,fdox,Mbar_A0434) and (Mbar_A0203,Mbar_A0203
+CODHr_num2,fdox_c,fdox,Mbar_A0434) and (Mbar_A0203,Mbar_A0434
+CODHr_num2,h4spt_c,h4spt,Mbar_A0434) and (Mbar_A0203,Mbar_A0203
+CODHr_num2,h4spt_c,h4spt,Mbar_A0434) and (Mbar_A0203,Mbar_A0434
+CODHr_num3,accoa_c,accoa,Mbar_A0433) and (Mbar_A3525,Mbar_A3525
+CODHr_num3,accoa_c,accoa,Mbar_A0433) and (Mbar_A3525,Mbar_A0433
+CODHr_num3,fdox_c,fdox,Mbar_A0433) and (Mbar_A3525,Mbar_A3525
+CODHr_num3,fdox_c,fdox,Mbar_A0433) and (Mbar_A3525,Mbar_A0433
+CODHr_num3,h4spt_c,h4spt,Mbar_A0433) and (Mbar_A3525,Mbar_A3525
+CODHr_num3,h4spt_c,h4spt,Mbar_A0433) and (Mbar_A3525,Mbar_A0433
+CODHr_num4,accoa_c,accoa,Mbar_A3717) and (Mbar_A0200,Mbar_A0200
+CODHr_num4,accoa_c,accoa,Mbar_A3717) and (Mbar_A0200,Mbar_A3717
+CODHr_num4,fdox_c,fdox,Mbar_A3717) and (Mbar_A0200,Mbar_A0200
+CODHr_num4,fdox_c,fdox,Mbar_A3717) and (Mbar_A0200,Mbar_A3717
+CODHr_num4,h4spt_c,h4spt,Mbar_A3717) and (Mbar_A0200,Mbar_A0200
+CODHr_num4,h4spt_c,h4spt,Mbar_A3717) and (Mbar_A0200,Mbar_A3717
+CODHr_num5,accoa_c,accoa,MBd0274) and ((MBd3024 and MBd3023,MBd3023
+CODHr_num5,accoa_c,accoa,MBd0274) and ((MBd3024 and MBd3023,MBd3024
+CODHr_num5,accoa_c,accoa,MBd0274) and ((MBd3024 and MBd3023,MBd0274
+CODHr_num5,fdox_c,fdox,MBd0274) and ((MBd3024 and MBd3023,MBd3023
+CODHr_num5,fdox_c,fdox,MBd0274) and ((MBd3024 and MBd3023,MBd3024
+CODHr_num5,fdox_c,fdox,MBd0274) and ((MBd3024 and MBd3023,MBd0274
+CODHr_num5,h4spt_c,h4spt,MBd0274) and ((MBd3024 and MBd3023,MBd3023
+CODHr_num5,h4spt_c,h4spt,MBd0274) and ((MBd3024 and MBd3023,MBd3024
+CODHr_num5,h4spt_c,h4spt,MBd0274) and ((MBd3024 and MBd3023,MBd0274
+CODHr_num6,accoa_c,accoa,Mbar_A0432) and (Mbar_A0429,Mbar_A0429
+CODHr_num6,accoa_c,accoa,Mbar_A0432) and (Mbar_A0429,Mbar_A0432
+CODHr_num6,fdox_c,fdox,Mbar_A0432) and (Mbar_A0429,Mbar_A0429
+CODHr_num6,fdox_c,fdox,Mbar_A0432) and (Mbar_A0429,Mbar_A0432
+CODHr_num6,h4spt_c,h4spt,Mbar_A0432) and (Mbar_A0429,Mbar_A0429
+CODHr_num6,h4spt_c,h4spt,Mbar_A0432) and (Mbar_A0429,Mbar_A0432
+CODHr_num7,accoa_c,accoa,MBd0275,MBd0275
+CODHr_num7,fdox_c,fdox,MBd0275,MBd0275
+CODHr_num7,h4spt_c,h4spt,MBd0275,MBd0275
+ETHAt6_num2,etha_e,etha,Mbar_A0848,Mbar_A0848
+F4H2O_num2,f420_2h2_c,f420_2h2,Mbar_A3353,Mbar_A3353
+GF4GL_6_num2,f420_6_c,f420_6,Mbar_A2311,Mbar_A2311
+GF4GL_6_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+F4NH_num2,mphen_c,mphen,Mbar_A1840) and (Mbar_A1839,Mbar_A1840
+F4NH_num2,mphen_c,mphen,Mbar_A1840) and (Mbar_A1839,Mbar_A1839
+F4NH_num3,mphen_c,mphen,Mbar_A1845) and (Mbar_A1841,Mbar_A1841
+F4NH_num3,mphen_c,mphen,Mbar_A1845) and (Mbar_A1841,Mbar_A1845
+F4NH_num4,mphen_c,mphen,Mbar_A1847,Mbar_A1847
+F4RHi_num2,f420_2_c,f420_2,Mbar_A2290) and (Mbar_A0452,Mbar_A2290
+F4RHi_num2,f420_2_c,f420_2,Mbar_A2290) and (Mbar_A0452,Mbar_A0452
+F4RHi_num3,f420_2_c,f420_2,Mbar_A2287) and (Mbar_A2289,Mbar_A2287
+F4RHi_num3,f420_2_c,f420_2,Mbar_A2287) and (Mbar_A2289,Mbar_A2289
+F4RHi_num4,f420_2_c,f420_2,Mbar_A0450) and Mbar_A0451,Mbar_A0450
+F4RHi_num4,f420_2_c,f420_2,Mbar_A0450) and Mbar_A0451,Mbar_A0451
+GLCGSD_num2,glycogen_c,glycogen,Mbar_A0540,Mbar_A0540
+GLCGSD_num3,glycogen_c,glycogen,Mbar_A1916,Mbar_A1916
+FEDCabc_num2,cit_e,cit,Mbar_A1871) and (Mbar_A1870,Mbar_A1870
+FEDCabc_num2,cit_e,cit,Mbar_A1871) and (Mbar_A1870,Mbar_A1871
+FEDCabc_num3,cit_e,cit,Mbar_A0467) and Mbar_A1869 and (Mbar_A0465,Mbar_A0467
+FEDCabc_num3,cit_e,cit,Mbar_A0467) and Mbar_A1869 and (Mbar_A0465,Mbar_A1869
+FEDCabc_num3,cit_e,cit,Mbar_A0467) and Mbar_A1869 and (Mbar_A0465,Mbar_A0465
+FEDCabc_num4,cit_e,cit,Mbar_A1872,Mbar_A1872
+GLCNt2r_num2,glcn_e,glcn,MBd3435,MBd3435
+FMFD_b_num2,fdred_c,fdred,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2923
+FMFD_b_num2,fdred_c,fdred,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2921
+FMFD_b_num2,fdred_c,fdred,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A1292
+FMFD_b_num2,fdred_c,fdred,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A0931
+FMFD_b_num2,mfr_b_c,mfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2923
+FMFD_b_num2,mfr_b_c,mfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2921
+FMFD_b_num2,mfr_b_c,mfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A1292
+FMFD_b_num2,mfr_b_c,mfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A0931
+FRTT_num2,frdp_c,frdp,Mbar_A2346,Mbar_A2346
+FRTT_num2,ipdp_c,ipdp,Mbar_A2346,Mbar_A2346
+FRTT_num3,frdp_c,frdp,Mbar_A1074,Mbar_A1074
+FRTT_num3,ipdp_c,ipdp,Mbar_A1074,Mbar_A1074
+FRTT_num4,frdp_c,frdp,Mbar_A0263,Mbar_A0263
+FRTT_num4,ipdp_c,ipdp,Mbar_A0263,Mbar_A0263
+GLCP_num2,glycogen_c,glycogen,Mbar_A3653,Mbar_A3653
+GLCP_num3,glycogen_c,glycogen,Mbar_A3640,Mbar_A3640
+GLCP_num4,glycogen_c,glycogen,Mbar_A2997,Mbar_A2997
+FRTT2_num2,3hfrdp_c,3hfrdp,Mbar_A2346,Mbar_A2346
+FRTT2_num2,ipdp_c,ipdp,Mbar_A2346,Mbar_A2346
+FRTT2_num3,3hfrdp_c,3hfrdp,Mbar_A1074,Mbar_A1074
+FRTT2_num3,ipdp_c,ipdp,Mbar_A1074,Mbar_A1074
+FRTT2_num4,3hfrdp_c,3hfrdp,Mbar_A0263,Mbar_A0263
+FRTT2_num4,ipdp_c,ipdp,Mbar_A0263,Mbar_A0263
+FUM_num2,fum_c,fum,Mbar_A2417 and Mbar_A2418,Mbar_A2418
+FUM_num2,fum_c,fum,Mbar_A2417 and Mbar_A2418,Mbar_A2417
+G1PACT_num2,accoa_c,accoa,Mbar_A2020,Mbar_A2020
+G1PACT_num2,gam1p_c,gam1p,Mbar_A2020,Mbar_A2020
+GLNS_num2,glu__L_c,glu__L,Mbar_A0666,Mbar_A0666
+GLNTRAT_num2,gln__L_c,gln__L,Mbar_A0884,Mbar_A0884
+GLNTRAT_num2,glutrna_gln_c,glutrna_gln,Mbar_A0884,Mbar_A0884
+GALUi_num2,g1p_c,g1p,Mbar_A2905,Mbar_A2905
+GAPD_num2,g3p_c,g3p,Mbar_A2189,Mbar_A2189
+GAPDi_nadp_num2,13dpg_c,13dpg,Mbar_A2189,Mbar_A2189
+GARFT_num2,10fthf_c,10fthf,Mbar_A1295,Mbar_A1295
+GARFT_num2,gar_c,gar,Mbar_A1295,Mbar_A1295
+GF4GL_0_num2,f420_0_c,f420_0,Mbar_A2311,Mbar_A2311
+GF4GL_0_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+GLUDC_num2,glu__L_c,glu__L,Mbar_A2744,Mbar_A2744
+GLUDC_num3,glu__L_c,glu__L,Mbar_A2492,Mbar_A2492
+GLUDC_num4,glu__L_c,glu__L,Mbar_A2039,Mbar_A2039
+GF4GL_1_num2,f420_1_c,f420_1,Mbar_A2311,Mbar_A2311
+GF4GL_1_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+GF4GL_2_num2,f420_2_c,f420_2,Mbar_A2311,Mbar_A2311
+GF4GL_2_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+GF4GL_3_num2,f420_3_c,f420_3,Mbar_A2311,Mbar_A2311
+GF4GL_3_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+GF4GL_4_num2,f420_4_c,f420_4,Mbar_A2311,Mbar_A2311
+GF4GL_4_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+GF4GL_5_num2,f420_5_c,f420_5,Mbar_A2311,Mbar_A2311
+GF4GL_5_num2,glu__L_c,glu__L,Mbar_A2311,Mbar_A2311
+GLUS_F420_num2,akg_c,akg,Mbar_A0664,Mbar_A0664
+GLUS_F420_num2,f420_2h2_c,f420_2h2,Mbar_A0664,Mbar_A0664
+GLUS_F420_num2,gln__L_c,gln__L,Mbar_A0664,Mbar_A0664
+GLUS_F420_num3,akg_c,akg,Mbar_A0665) and Mbar_A0227,Mbar_A0227
+GLUS_F420_num3,akg_c,akg,Mbar_A0665) and Mbar_A0227,Mbar_A0665
+GLUS_F420_num3,f420_2h2_c,f420_2h2,Mbar_A0665) and Mbar_A0227,Mbar_A0227
+GLUS_F420_num3,f420_2h2_c,f420_2h2,Mbar_A0665) and Mbar_A0227,Mbar_A0665
+GLUS_F420_num3,gln__L_c,gln__L,Mbar_A0665) and Mbar_A0227,Mbar_A0227
+GLUS_F420_num3,gln__L_c,gln__L,Mbar_A0665) and Mbar_A0227,Mbar_A0665
+METAT_num2,met__L_c,met__L,Mbar_A1313,Mbar_A1313
+METS_num2,5mthf_c,5mthf,Mbar_A1022,Mbar_A1022
+METS_num2,hcys__L_c,hcys__L,Mbar_A1022,Mbar_A1022
+ICDHyr_num2,icit_c,icit,MBd1561,MBd1561
+ILETRS_num2,ile__L_c,ile__L,Mbar_A1414,Mbar_A1414
+ILETRS_num2,trnaile_c,trnaile,Mbar_A1414,Mbar_A1414
+ILETRS_num3,ile__L_c,ile__L,Mbar_A0352,Mbar_A0352
+ILETRS_num3,trnaile_c,trnaile,Mbar_A0352,Mbar_A0352
+IOR_num2,fdox_c,fdox,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR_num2,fdox_c,fdox,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR_num2,indpyr_c,indpyr,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR_num2,indpyr_c,indpyr,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR2_num2,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+IOR2_num2,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+IOR2_num2,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+IOR2_num2,phpyr_c,phpyr,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+IOR2_num2,phpyr_c,phpyr,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+IOR2_num2,phpyr_c,phpyr,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+IOR2_num3,fdox_c,fdox,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR2_num3,fdox_c,fdox,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR2_num3,phpyr_c,phpyr,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR2_num3,phpyr_c,phpyr,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR3_num2,34hpp_c,34hpp,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR3_num2,34hpp_c,34hpp,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR3_num2,fdox_c,fdox,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR3_num2,fdox_c,fdox,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+MMAMT_num2,com_c,com,Mbar_A0841) and (Mbar_A0846,Mbar_A0841
+MMAMT_num2,com_c,com,Mbar_A0841) and (Mbar_A0846,Mbar_A0846
+MMAMT_num2,mma_c,mma,Mbar_A0841) and (Mbar_A0846,Mbar_A0841
+MMAMT_num2,mma_c,mma,Mbar_A0841) and (Mbar_A0846,Mbar_A0846
+MMAMT_num3,com_c,com,Mbar_A3633,Mbar_A3633
+MMAMT_num3,mma_c,mma,Mbar_A3633,Mbar_A3633
+MMAMT_num4,com_c,com,Mbar_A0843) and (Mbar_A3634,Mbar_A3634
+MMAMT_num4,com_c,com,Mbar_A0843) and (Mbar_A3634,Mbar_A0843
+MMAMT_num4,mma_c,mma,Mbar_A0843) and (Mbar_A3634,Mbar_A3634
+MMAMT_num4,mma_c,mma,Mbar_A0843) and (Mbar_A3634,Mbar_A0843
+MMAMT_num5,com_c,com,Mbar_A0842,Mbar_A0842
+MMAMT_num5,mma_c,mma,Mbar_A0842,Mbar_A0842
+MMAMT_num6,com_c,com,Mbar_A0845,Mbar_A0845
+MMAMT_num6,mma_c,mma,Mbar_A0845,Mbar_A0845
+MMAMT_num7,com_c,com,MBd4022,MBd4022
+MMAMT_num7,mma_c,mma,MBd4022,MBd4022
+MMAMT_num8,com_c,com,MBd1438,MBd1438
+MMAMT_num8,mma_c,mma,MBd1438,MBd1438
+MMAMT_num9,com_c,com,MBd4025) and (Mbar_A1688,Mbar_A1688
+MMAMT_num9,com_c,com,MBd4025) and (Mbar_A1688,MBd4025
+MMAMT_num9,mma_c,mma,MBd4025) and (Mbar_A1688,Mbar_A1688
+MMAMT_num9,mma_c,mma,MBd4025) and (Mbar_A1688,MBd4025
+MMAMT_num10,com_c,com,Mbar_A0841) and (Mbar_A3634,Mbar_A0841
+MMAMT_num10,com_c,com,Mbar_A0841) and (Mbar_A3634,Mbar_A3634
+MMAMT_num10,mma_c,mma,Mbar_A0841) and (Mbar_A3634,Mbar_A0841
+MMAMT_num10,mma_c,mma,Mbar_A0841) and (Mbar_A3634,Mbar_A3634
+MMAMT_num11,com_c,com,Mbar_A0842,Mbar_A0842
+MMAMT_num11,mma_c,mma,Mbar_A0842,Mbar_A0842
+MMAMT_num12,com_c,com,Mbar_A0845,Mbar_A0845
+MMAMT_num12,mma_c,mma,Mbar_A0845,Mbar_A0845
+MMAt_num2,mma_e,mma,Mbar_A0848,Mbar_A0848
+MOBDabc_num2,mobd_e,mobd,Mbar_A2559,Mbar_A2559
+MOBDabc_num3,mobd_e,mobd,Mbar_A1306) and (Mbar_A2560,Mbar_A2560
+MOBDabc_num3,mobd_e,mobd,Mbar_A1306) and (Mbar_A2560,Mbar_A1306
+MOBDabc_num4,mobd_e,mobd,Mbar_A1558,Mbar_A1558
+MOBDabc_num5,mobd_e,mobd,Mbar_A1307) and (Mbar_A1305,Mbar_A1307
+MOBDabc_num5,mobd_e,mobd,Mbar_A1307) and (Mbar_A1305,Mbar_A1305
+MOBDabc_num6,mobd_e,mobd,Mbar_A1556) and Mbar_A1559,Mbar_A1559
+MOBDabc_num6,mobd_e,mobd,Mbar_A1556) and Mbar_A1559,Mbar_A1556
+MPML_num2,ppp9_c,ppp9,Mbar_A1776,Mbar_A1776
+IPPMIb_num2,2ippm_c,2ippm,Mbar_A2167,Mbar_A2167
+IPPS_num2,3mob_c,3mob,Mbar_A0942,Mbar_A0942
+IPPS_num2,accoa_c,accoa,Mbar_A0942,Mbar_A0942
+IPPS_num3,3mob_c,3mob,Mbar_A0217,Mbar_A0217
+IPPS_num3,accoa_c,accoa,Mbar_A0217,Mbar_A0217
+GMPS2_num2,gln__L_c,gln__L,Mbar_A1178,Mbar_A1178
+GMPS2_num3,gln__L_c,gln__L,Mbar_A1837,Mbar_A1837
+GMPS2_num4,gln__L_c,gln__L,Mbar_A0919,Mbar_A0919
+HXPRT_num2,hxan_c,hxan,Mbar_A0913,Mbar_A0913
+HXPRT_num2,prpp_c,prpp,Mbar_A0913,Mbar_A0913
+GOFUCR_num2,gdpofuc_c,gdpofuc,Mbar_A0035,Mbar_A0035
+NADS1_num2,dnad_c,dnad,Mbar_A2320,Mbar_A2320
+GRTT_num2,grdp_c,grdp,Mbar_A1074,Mbar_A1074
+GRTT_num2,ipdp_c,ipdp,Mbar_A1074,Mbar_A1074
+GRTT_num3,grdp_c,grdp,Mbar_A2346,Mbar_A2346
+GRTT_num3,ipdp_c,ipdp,Mbar_A2346,Mbar_A2346
+GRTT_num4,grdp_c,grdp,Mbar_A0263,Mbar_A0263
+GRTT_num4,ipdp_c,ipdp,Mbar_A0263,Mbar_A0263
+NADS2_num2,dnad_c,dnad,Mbar_A2320,Mbar_A2320
+NADS2_num2,gln__L_c,gln__L,Mbar_A2320,Mbar_A2320
+GRTT2_num2,3hgrdp_c,3hgrdp,Mbar_A2346,Mbar_A2346
+GRTT2_num2,ipdp_c,ipdp,Mbar_A2346,Mbar_A2346
+GRTT2_num3,3hgrdp_c,3hgrdp,Mbar_A1074,Mbar_A1074
+GRTT2_num3,ipdp_c,ipdp,Mbar_A1074,Mbar_A1074
+GRTT2_num4,3hgrdp_c,3hgrdp,Mbar_A0263,Mbar_A0263
+GRTT2_num4,ipdp_c,ipdp,Mbar_A0263,Mbar_A0263
+GTHOr_num2,gthox_c,gthox,Mbar_A3561,Mbar_A3561
+LYSTRS_num2,lys__L_c,lys__L,Mbar_A1507,Mbar_A1507
+LYSTRS_num2,trnalys_c,trnalys,Mbar_A1507,Mbar_A1507
+LYSt3r_num2,lys__L_c,lys__L,Mbar_A3244,Mbar_A3244
+MAN1PT2_num2,man1p_c,man1p,Mbar_A1937,Mbar_A1937
+GUAPRT_num2,gua_c,gua,Mbar_A0913,Mbar_A0913
+GUAPRT_num2,prpp_c,prpp,Mbar_A0913,Mbar_A0913
+GUAPRT_num3,gua_c,gua,Mbar_A1633,Mbar_A1633
+GUAPRT_num3,prpp_c,prpp,Mbar_A1633,Mbar_A1633
+MCMMT_num2,com_c,com,Mbar_A1054) and (Mbar_A1064,Mbar_A1054
+MCMMT_num2,com_c,com,Mbar_A1054) and (Mbar_A1064,Mbar_A1064
+MCMMT_num2,meoh_c,meoh,Mbar_A1054) and (Mbar_A1064,Mbar_A1054
+MCMMT_num2,meoh_c,meoh,Mbar_A1054) and (Mbar_A1064,Mbar_A1064
+MCMMT_num3,com_c,com,Mbar_A0741,Mbar_A0741
+MCMMT_num3,meoh_c,meoh,Mbar_A0741,Mbar_A0741
+MCMMT_num4,com_c,com,Mbar_A3638) and (Mbar_A1063,Mbar_A1063
+MCMMT_num4,com_c,com,Mbar_A3638) and (Mbar_A1063,Mbar_A3638
+MCMMT_num4,meoh_c,meoh,Mbar_A3638) and (Mbar_A1063,Mbar_A1063
+MCMMT_num4,meoh_c,meoh,Mbar_A3638) and (Mbar_A1063,Mbar_A3638
+MCMMT_num5,com_c,com,Mbar_A3637,Mbar_A3637
+MCMMT_num5,meoh_c,meoh,Mbar_A3637,Mbar_A3637
+MCMMT_num6,com_c,com,Mbar_A0740,Mbar_A0740
+MCMMT_num6,meoh_c,meoh,Mbar_A0740,Mbar_A0740
+NIT_n1p4_num2,fdred_c,fdred,Mbar_A0167 and Mbar_A0171 and Mbar_A0168,Mbar_A0171
+NIT_n1p4_num2,fdred_c,fdred,Mbar_A0167 and Mbar_A0171 and Mbar_A0168,Mbar_A0168
+NIT_n1p4_num2,fdred_c,fdred,Mbar_A0167 and Mbar_A0171 and Mbar_A0168,Mbar_A0167
+NIT_n1p4_num2,n2_c,n2,Mbar_A0167 and Mbar_A0171 and Mbar_A0168,Mbar_A0171
+NIT_n1p4_num2,n2_c,n2,Mbar_A0167 and Mbar_A0171 and Mbar_A0168,Mbar_A0168
+NIT_n1p4_num2,n2_c,n2,Mbar_A0167 and Mbar_A0171 and Mbar_A0168,Mbar_A0167
+NNDPR_num2,prpp_c,prpp,Mbar_A1867,Mbar_A1867
+NNDPR_num2,quln_c,quln,Mbar_A1867,Mbar_A1867
+PRFGS_num2,fgam_c,fgam,Mbar_A0536,Mbar_A0536
+PRFGS_num2,gln__L_c,gln__L,Mbar_A0536,Mbar_A0536
+ORPT_num2,orot5p_c,orot5p,Mbar_A0547,Mbar_A0547
+PROt2r_num2,pro__L_e,pro__L,Mbar_A1264,Mbar_A1264
+PSP_L_num2,pser__L_c,pser__L,Mbar_A1094,Mbar_A1094
+PSP_L_num3,pser__L_c,pser__L,Mbar_A1590,Mbar_A1590
+PSP_L_num4,pser__L_c,pser__L,Mbar_A1093,Mbar_A1093
+HATGH_num2,3hdggpg_c,3hdggpg,Mbar_A1602,Mbar_A1602
+HATGH_num3,3hdggpg_c,3hdggpg,Mbar_A1603,Mbar_A1603
+HATGH_num4,3hdggpg_c,3hdggpg,Mbar_A3422,Mbar_A3422
+HATIH_num2,3hdggpi_c,3hdggpi,Mbar_A1602,Mbar_A1602
+HATIH_num3,3hdggpi_c,3hdggpi,Mbar_A1603,Mbar_A1603
+HATIH_num4,3hdggpi_c,3hdggpi,Mbar_A3422,Mbar_A3422
+HATSH_num2,3hdgggps_c,3hdgggps,Mbar_A1602,Mbar_A1602
+HATSH_num3,3hdgggps_c,3hdgggps,Mbar_A1603,Mbar_A1603
+HATSH_num4,3hdgggps_c,3hdgggps,Mbar_A3422,Mbar_A3422
+HCITS_num2,accoa_c,accoa,Mbar_A2269,Mbar_A2269
+HCITS_num2,akg_c,akg,Mbar_A2269,Mbar_A2269
+QULNS_num2,dhap_c,dhap,Mbar_A1865,Mbar_A1865
+QULNS_num2,iasp_c,iasp,Mbar_A1865,Mbar_A1865
+HDR_num2,hsfd_c,hsfd,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1954
+HDR_num2,hsfd_c,hsfd,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1599
+HDR_num2,hsfd_c,hsfd,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1598
+HDR_num2,hsfd_c,hsfd,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1952
+HDR_num2,hsfd_c,hsfd,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A0640
+HDR_num2,mphenh2_c,mphenh2,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1954
+HDR_num2,mphenh2_c,mphenh2,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1599
+HDR_num2,mphenh2_c,mphenh2,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1598
+HDR_num2,mphenh2_c,mphenh2,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A1952
+HDR_num2,mphenh2_c,mphenh2,Mbar_A1954) and Mbar_A1599 and Mbar_A1952 and Mbar_A0640 and Mbar_A1598,Mbar_A0640
+SERTRS_num2,ser__L_c,ser__L,Mbar_A2126,Mbar_A2126
+SERTRS_num2,trnaser_c,trnaser,Mbar_A2126,Mbar_A2126
+SHCHCC_num2,dscl_c,dscl,Mbar_A2400,Mbar_A2400
+SHKK_num2,skm_c,skm,Mbar_A3183,Mbar_A3183
+PAPSR_num2,paps_c,paps,Mbar_A2943,Mbar_A2943
+PAPSR_num2,trdrd_c,trdrd,Mbar_A2943,Mbar_A2943
+THRS_num2,phom_c,phom,Mbar_A2049,Mbar_A2049
+PGK_num2,3pg_c,3pg,Mbar_A3562,Mbar_A3562
+PGLYCP_num2,2pglyc_c,2pglyc,Mbar_A2894,Mbar_A2894
+SSALx_num2,sucsal_c,sucsal,Mbar_A0503,Mbar_A0503
+SSALx_num3,sucsal_c,sucsal,Mbar_A1620,Mbar_A1620
+SSALy_num2,sucsal_c,sucsal,Mbar_A0503,Mbar_A0503
+SSALy_num3,sucsal_c,sucsal,Mbar_A1620,Mbar_A1620
+PHETA1_num2,akg_c,akg,Mbar_A2083,Mbar_A2083
+PHETA1_num2,phe__L_c,phe__L,Mbar_A2083,Mbar_A2083
+PHETA1_num3,akg_c,akg,Mbar_A3463,Mbar_A3463
+PHETA1_num3,phe__L_c,phe__L,Mbar_A3463,Mbar_A3463
+PHETRS_num2,phe__L_c,phe__L,Mbar_A2752 and Mbar_A1204,Mbar_A2752
+PHETRS_num2,phe__L_c,phe__L,Mbar_A2752 and Mbar_A1204,Mbar_A1204
+PHETRS_num2,trnaphe_c,trnaphe,Mbar_A2752 and Mbar_A1204,Mbar_A2752
+PHETRS_num2,trnaphe_c,trnaphe,Mbar_A2752 and Mbar_A1204,Mbar_A1204
+POR2_num2,fdox_c,fdox,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR2_num2,fdox_c,fdox,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR2_num2,pyr_c,pyr,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR2_num2,pyr_c,pyr,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR3_num2,2obut_c,2obut,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR3_num2,2obut_c,2obut,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR3_num2,fdox_c,fdox,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR3_num2,fdox_c,fdox,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR3_num3,2obut_c,2obut,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+POR3_num3,2obut_c,2obut,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+POR3_num3,2obut_c,2obut,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+POR3_num3,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+POR3_num3,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+POR3_num3,fdox_c,fdox,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+TMAMT_num2,com_c,com,Mbar_A1054) and Mbar_A1503,Mbar_A1054
+TMAMT_num2,com_c,com,Mbar_A1054) and Mbar_A1503,Mbar_A1503
+TMAMT_num2,tma_c,tma,Mbar_A1054) and Mbar_A1503,Mbar_A1054
+TMAMT_num2,tma_c,tma,Mbar_A1054) and Mbar_A1503,Mbar_A1503
+TMAMT_num3,com_c,com,Mbar_A1502 and MBd3602) and (Mbar_A1688,MBd3602
+TMAMT_num3,com_c,com,Mbar_A1502 and MBd3602) and (Mbar_A1688,Mbar_A1502
+TMAMT_num3,com_c,com,Mbar_A1502 and MBd3602) and (Mbar_A1688,Mbar_A1688
+TMAMT_num3,tma_c,tma,Mbar_A1502 and MBd3602) and (Mbar_A1688,MBd3602
+TMAMT_num3,tma_c,tma,Mbar_A1502 and MBd3602) and (Mbar_A1688,Mbar_A1502
+TMAMT_num3,tma_c,tma,Mbar_A1502 and MBd3602) and (Mbar_A1688,Mbar_A1688
+TMAMT_num4,com_c,com,Mbar_A0841) and Mbar_A1503,Mbar_A0841
+TMAMT_num4,com_c,com,Mbar_A0841) and Mbar_A1503,Mbar_A1503
+TMAMT_num4,tma_c,tma,Mbar_A0841) and Mbar_A1503,Mbar_A0841
+TMAMT_num4,tma_c,tma,Mbar_A0841) and Mbar_A1503,Mbar_A1503
+TMDS_num2,mlthf_c,mlthf,Mbar_A2087,Mbar_A2087
+PPS_num2,pyr_c,pyr,Mbar_A3094,Mbar_A3094
+PPS_num3,pyr_c,pyr,Mbar_A3264,Mbar_A3264
+TMPK_num2,thmmp_c,thmmp,Mbar_A0131,Mbar_A0131
+TRDR_num2,trdox_c,trdox,Mbar_A2898,Mbar_A2898
+TRDR_num3,trdox_c,trdox,Mbar_A0633,Mbar_A0633
+TRPS1_num2,3ig3p_c,3ig3p,Mbar_A3503) and Mbar_A3623,Mbar_A3623
+TRPS1_num2,3ig3p_c,3ig3p,Mbar_A3503) and Mbar_A3623,Mbar_A3503
+TRPS1_num2,ser__L_c,ser__L,Mbar_A3503) and Mbar_A3623,Mbar_A3623
+TRPS1_num2,ser__L_c,ser__L,Mbar_A3503) and Mbar_A3623,Mbar_A3503
+TRPS2_num2,indole_c,indole,Mbar_A3622,Mbar_A3622
+TRPS2_num2,ser__L_c,ser__L,Mbar_A3622,Mbar_A3622
+TRPTA_num2,akg_c,akg,Mbar_A2083,Mbar_A2083
+TRPTA_num2,trp__L_c,trp__L,Mbar_A2083,Mbar_A2083
+TRPTA_num3,akg_c,akg,Mbar_A3463,Mbar_A3463
+TRPTA_num3,trp__L_c,trp__L,Mbar_A3463,Mbar_A3463
+TSULabc_num2,tsul_e,tsul,Mbar_A1557,Mbar_A1557
+TSULabc_num3,tsul_e,tsul,Mbar_A1306) and (Mbar_A1307,Mbar_A1307
+TSULabc_num3,tsul_e,tsul,Mbar_A1306) and (Mbar_A1307,Mbar_A1306
+TSULabc_num4,tsul_e,tsul,Mbar_A1558,Mbar_A1558
+TSULabc_num5,tsul_e,tsul,Mbar_A2560) and (Mbar_A1556,Mbar_A2560
+TSULabc_num5,tsul_e,tsul,Mbar_A2560) and (Mbar_A1556,Mbar_A1556
+TSULabc_num6,tsul_e,tsul,Mbar_A1305) and Mbar_A1559,Mbar_A1559
+TSULabc_num6,tsul_e,tsul,Mbar_A1305) and Mbar_A1559,Mbar_A1305
+TYRTA_num2,akg_c,akg,Mbar_A3463,Mbar_A3463
+TYRTA_num2,tyr__L_c,tyr__L,Mbar_A3463,Mbar_A3463
+TYRTA_num3,akg_c,akg,Mbar_A3133,Mbar_A3133
+TYRTA_num3,tyr__L_c,tyr__L,Mbar_A3133,Mbar_A3133
+UAG2EMA_num2,uacgam_c,uacgam,Mbar_A2140,Mbar_A2140
+UAGDP_num2,acgam1p_c,acgam1p,Mbar_A2023,Mbar_A2023
+UDPGD_num2,udpg_c,udpg,Mbar_A1119,Mbar_A1119
+XPPT_num2,prpp_c,prpp,Mbar_A0913,Mbar_A0913
+XPPT_num2,xan_c,xan,Mbar_A0913,Mbar_A0913
+YUMPS_num2,r5p_c,r5p,Mbar_A1332,Mbar_A1332
+YUMPS_num2,ura_c,ura,Mbar_A1332,Mbar_A1332
+ACOTA_reverse_num2,acg5sa_c,acg5sa,Mbar_A0871,Mbar_A0871
+ACOTA_reverse_num2,glu__L_c,glu__L,Mbar_A0871,Mbar_A0871
+ALCD20y_reverse_num2,acetone_c,acetone,Mbar_A0771,Mbar_A0771
+ALCD20y_reverse_num3,acetone_c,acetone,Mbar_A2344,Mbar_A2344
+ALCD2y_reverse_num2,acald_c,acald,Mbar_A0771,Mbar_A0771
+ALCD2y_reverse_num3,acald_c,acald,Mbar_A2344,Mbar_A2344
+DMAt_reverse_num2,dma_c,dma,Mbar_A0848,Mbar_A0848
+CODHr_reverse_num2,fdred_c,fdred,Mbar_A0434) and (Mbar_A0203,Mbar_A0203
+CODHr_reverse_num2,fdred_c,fdred,Mbar_A0434) and (Mbar_A0203,Mbar_A0434
+CODHr_reverse_num2,mh4spt_c,mh4spt,Mbar_A0434) and (Mbar_A0203,Mbar_A0203
+CODHr_reverse_num2,mh4spt_c,mh4spt,Mbar_A0434) and (Mbar_A0203,Mbar_A0434
+CODHr_reverse_num3,fdred_c,fdred,Mbar_A0433) and (Mbar_A3525,Mbar_A3525
+CODHr_reverse_num3,fdred_c,fdred,Mbar_A0433) and (Mbar_A3525,Mbar_A0433
+CODHr_reverse_num3,mh4spt_c,mh4spt,Mbar_A0433) and (Mbar_A3525,Mbar_A3525
+CODHr_reverse_num3,mh4spt_c,mh4spt,Mbar_A0433) and (Mbar_A3525,Mbar_A0433
+CODHr_reverse_num4,fdred_c,fdred,Mbar_A3717) and (Mbar_A0200,Mbar_A0200
+CODHr_reverse_num4,fdred_c,fdred,Mbar_A3717) and (Mbar_A0200,Mbar_A3717
+CODHr_reverse_num4,mh4spt_c,mh4spt,Mbar_A3717) and (Mbar_A0200,Mbar_A0200
+CODHr_reverse_num4,mh4spt_c,mh4spt,Mbar_A3717) and (Mbar_A0200,Mbar_A3717
+CODHr_reverse_num5,fdred_c,fdred,MBd0274) and ((MBd3024 and MBd3023,MBd3023
+CODHr_reverse_num5,fdred_c,fdred,MBd0274) and ((MBd3024 and MBd3023,MBd3024
+CODHr_reverse_num5,fdred_c,fdred,MBd0274) and ((MBd3024 and MBd3023,MBd0274
+CODHr_reverse_num5,mh4spt_c,mh4spt,MBd0274) and ((MBd3024 and MBd3023,MBd3023
+CODHr_reverse_num5,mh4spt_c,mh4spt,MBd0274) and ((MBd3024 and MBd3023,MBd3024
+CODHr_reverse_num5,mh4spt_c,mh4spt,MBd0274) and ((MBd3024 and MBd3023,MBd0274
+CODHr_reverse_num6,fdred_c,fdred,Mbar_A0432) and (Mbar_A0429,Mbar_A0429
+CODHr_reverse_num6,fdred_c,fdred,Mbar_A0432) and (Mbar_A0429,Mbar_A0432
+CODHr_reverse_num6,mh4spt_c,mh4spt,Mbar_A0432) and (Mbar_A0429,Mbar_A0429
+CODHr_reverse_num6,mh4spt_c,mh4spt,Mbar_A0432) and (Mbar_A0429,Mbar_A0432
+CODHr_reverse_num7,fdred_c,fdred,MBd0275,MBd0275
+CODHr_reverse_num7,mh4spt_c,mh4spt,MBd0275,MBd0275
+ETHAt6_reverse_num2,etha_c,etha,Mbar_A0848,Mbar_A0848
+F4H2O_reverse_num2,f420_2_c,f420_2,Mbar_A3353,Mbar_A3353
+FBA_reverse_num2,dhap_c,dhap,Mbar_A0753,Mbar_A0753
+FBA_reverse_num2,g3p_c,g3p,Mbar_A0753,Mbar_A0753
+FBA_reverse_num3,dhap_c,dhap,Mbar_A0176,Mbar_A0176
+FBA_reverse_num3,g3p_c,g3p,Mbar_A0176,Mbar_A0176
+FBA2_reverse_num2,dhap_c,dhap,Mbar_A0753,Mbar_A0753
+FBA2_reverse_num2,glyald_c,glyald,Mbar_A0753,Mbar_A0753
+FBA2_reverse_num3,dhap_c,dhap,Mbar_A0176,Mbar_A0176
+FBA2_reverse_num3,glyald_c,glyald,Mbar_A0176,Mbar_A0176
+GLCNt2r_reverse_num2,glcn_c,glcn,MBd3435,MBd3435
+FMFD_b_reverse_num2,fdox_c,fdox,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2923
+FMFD_b_reverse_num2,fdox_c,fdox,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2921
+FMFD_b_reverse_num2,fdox_c,fdox,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A1292
+FMFD_b_reverse_num2,fdox_c,fdox,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A0931
+FMFD_b_reverse_num2,formmfr_b_c,formmfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2923
+FMFD_b_reverse_num2,formmfr_b_c,formmfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A2921
+FMFD_b_reverse_num2,formmfr_b_c,formmfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A1292
+FMFD_b_reverse_num2,formmfr_b_c,formmfr_b,Mbar_A0931) and Mbar_A2921 and Mbar_A1292 and Mbar_A2923,Mbar_A0931
+GAPD_reverse_num2,13dpg_c,13dpg,Mbar_A2189,Mbar_A2189
+GAPDi_nadp_reverse_num2,g3p_c,g3p,Mbar_A2189,Mbar_A2189
+GARFT_reverse_num2,fgam_c,fgam,Mbar_A1295,Mbar_A1295
+GARFT_reverse_num2,thf_c,thf,Mbar_A1295,Mbar_A1295
+ICDHyr_reverse_num2,akg_c,akg,MBd1561,MBd1561
+IOR_reverse_num2,fdred_c,fdred,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR_reverse_num2,fdred_c,fdred,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR_reverse_num2,indaccoa_c,indaccoa,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR_reverse_num2,indaccoa_c,indaccoa,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR2_reverse_num2,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+IOR2_reverse_num2,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+IOR2_reverse_num2,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+IOR2_reverse_num2,phaccoa_c,phaccoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+IOR2_reverse_num2,phaccoa_c,phaccoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+IOR2_reverse_num2,phaccoa_c,phaccoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+IOR2_reverse_num3,fdred_c,fdred,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR2_reverse_num3,fdred_c,fdred,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR2_reverse_num3,phaccoa_c,phaccoa,Mbar_A0058 and Mbar_A0057,Mbar_A0057
+IOR2_reverse_num3,phaccoa_c,phaccoa,Mbar_A0058 and Mbar_A0057,Mbar_A0058
+IOR3_reverse_num2,fdred_c,fdred,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR3_reverse_num2,fdred_c,fdred,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+IOR3_reverse_num2,hphaccoa_c,hphaccoa,Mbar_A2988 and Mbar_A2987,Mbar_A2987
+IOR3_reverse_num2,hphaccoa_c,hphaccoa,Mbar_A2988 and Mbar_A2987,Mbar_A2988
+MMAt_reverse_num2,mma_c,mma,Mbar_A0848,Mbar_A0848
+MPML_reverse_num2,mppp9_c,mppp9,Mbar_A1776,Mbar_A1776
+IPPMIa_reverse_num2,2ippm_c,2ippm,Mbar_A2167,Mbar_A2167
+GTHOr_reverse_num2,gthrd_c,gthrd,Mbar_A3561,Mbar_A3561
+LYSt3r_reverse_num2,lys__L_e,lys__L,Mbar_A3244,Mbar_A3244
+MAN1PT2_reverse_num2,gdpmann_c,gdpmann,Mbar_A1937,Mbar_A1937
+ORPT_reverse_num2,orot_c,orot,Mbar_A0547,Mbar_A0547
+ORPT_reverse_num2,prpp_c,prpp,Mbar_A0547,Mbar_A0547
+PGK_reverse_num2,13dpg_c,13dpg,Mbar_A3562,Mbar_A3562
+PHETA1_reverse_num2,glu__L_c,glu__L,Mbar_A2083,Mbar_A2083
+PHETA1_reverse_num2,phpyr_c,phpyr,Mbar_A2083,Mbar_A2083
+PHETA1_reverse_num3,glu__L_c,glu__L,Mbar_A3463,Mbar_A3463
+PHETA1_reverse_num3,phpyr_c,phpyr,Mbar_A3463,Mbar_A3463
+POR2_reverse_num2,accoa_c,accoa,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR2_reverse_num2,accoa_c,accoa,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR2_reverse_num2,fdred_c,fdred,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR2_reverse_num2,fdred_c,fdred,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR3_reverse_num2,fdred_c,fdred,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR3_reverse_num2,fdred_c,fdred,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR3_reverse_num2,ppcoa_c,ppcoa,Mbar_A0999) and Mbar_A1002,Mbar_A0999
+POR3_reverse_num2,ppcoa_c,ppcoa,Mbar_A0999) and Mbar_A1002,Mbar_A1002
+POR3_reverse_num3,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+POR3_reverse_num3,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+POR3_reverse_num3,fdred_c,fdred,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+POR3_reverse_num3,ppcoa_c,ppcoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2173
+POR3_reverse_num3,ppcoa_c,ppcoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2174
+POR3_reverse_num3,ppcoa_c,ppcoa,Mbar_A2175 and Mbar_A2174 and Mbar_A2173,Mbar_A2175
+TMPK_reverse_num2,thmpp_c,thmpp,Mbar_A0131,Mbar_A0131
+TRPTA_reverse_num2,glu__L_c,glu__L,Mbar_A2083,Mbar_A2083
+TRPTA_reverse_num2,indpyr_c,indpyr,Mbar_A2083,Mbar_A2083
+TRPTA_reverse_num3,glu__L_c,glu__L,Mbar_A3463,Mbar_A3463
+TRPTA_reverse_num3,indpyr_c,indpyr,Mbar_A3463,Mbar_A3463
+TYRTA_reverse_num2,34hpp_c,34hpp,Mbar_A3463,Mbar_A3463
+TYRTA_reverse_num2,glu__L_c,glu__L,Mbar_A3463,Mbar_A3463
+TYRTA_reverse_num3,34hpp_c,34hpp,Mbar_A3133,Mbar_A3133
+TYRTA_reverse_num3,glu__L_c,glu__L,Mbar_A3133,Mbar_A3133
+UAG2EMA_reverse_num2,acmana_c,acmana,Mbar_A2140,Mbar_A2140
+UDPGD_reverse_num2,udpglcur_c,udpglcur,Mbar_A1119,Mbar_A1119
+YUMPS_reverse_num2,psd5p_c,psd5p,Mbar_A1332,Mbar_A1332

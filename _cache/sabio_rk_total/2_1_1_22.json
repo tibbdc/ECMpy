@@ -1,0 +1,20 @@
+{
+    "REST": {
+        "Rattus norvegicus": [
+            0.07816667,
+            0.0025
+        ],
+        "Homo sapiens": [
+            0.0015,
+            0.0595
+        ],
+        "Gallus gallus": [
+            0.002333333,
+            0.04183333
+        ],
+        "Saccharomyces cerevisiae": [
+            0.01233333,
+            0.006333333
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "REST": {
+        "Fusarium oxysporum": [
+            0.01216667,
+            0.01066667,
+            0.01116667,
+            0.0015,
+            0.011
+        ],
+        "Pseudomonas aeruginosa": [
+            0.11,
+            0.021
+        ],
+        "Pyricularia oryzae": [
+            2.7,
+            3.9,
+            4.4,
+            2.9
+        ],
+        "Mycobacterium abscessus": [
+            97.8
+        ]
+    }
+}

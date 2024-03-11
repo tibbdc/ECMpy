@@ -1,0 +1,72 @@
+{
+    "REST": {
+        "Lactococcus lactis subsp. cremoris": [
+            0.21
+        ],
+        "Arabidopsis thaliana": [
+            0.0006
+        ],
+        "Escherichia coli": [
+            0.33,
+            0.28,
+            1.19,
+            0.0174,
+            0.0048,
+            0.71,
+            0.15,
+            0.13
+        ],
+        "Homo sapiens": [
+            0.42
+        ],
+        "Crotalus durissus collilineatus": [
+            0.14
+        ]
+    },
+    "dgtp;h2o": {
+        "Arabidopsis thaliana": [
+            0.3
+        ],
+        "Escherichia coli": [
+            0.001972222
+        ]
+    },
+    "prpp;h2o": {
+        "Deinococcus radiodurans": [
+            1.5
+        ],
+        "Homo sapiens": [
+            0.057,
+            1.0
+        ]
+    },
+    "gtp;h2o": {
+        "Escherichia coli": [
+            0.002611111,
+            0.00225
+        ]
+    },
+    "atp;h2o": {
+        "Escherichia coli": [
+            0.0009722222
+        ],
+        "Homo sapiens": [
+            0.075
+        ]
+    },
+    "ctp;h2o": {
+        "Escherichia coli": [
+            0.0005833333
+        ]
+    },
+    "h2o;itp": {
+        "Escherichia coli": [
+            0.00125
+        ]
+    },
+    "datp;h2o": {
+        "Escherichia coli": [
+            0.001444444
+        ]
+    }
+}

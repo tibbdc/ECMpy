@@ -1,0 +1,37 @@
+{
+    "trp__L;o2": {
+        "Cupriavidus metallidurans": [
+            22.6
+        ],
+        "Xanthomonas campestris": [
+            19.7,
+            21.7,
+            21.6,
+            18.3,
+            19.0,
+            19.5,
+            35.4
+        ],
+        "Homo sapiens": [
+            0.54,
+            0.976,
+            1.071,
+            1.4
+        ],
+        "Monosiga brevicollis": [
+            8.513333
+        ]
+    },
+    "REST": {
+        "Xanthomonas campestris": [
+            41.0,
+            3.59,
+            37.3,
+            2.4
+        ],
+        "Homo sapiens": [
+            0.073,
+            0.18
+        ]
+    }
+}

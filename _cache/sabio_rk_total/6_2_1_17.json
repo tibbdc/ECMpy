@@ -1,0 +1,32 @@
+{
+    "ac;atp;coa": {
+        "Ralstonia solanacearum": [
+            6.8
+        ],
+        "Salmonella enterica": [
+            4.8
+        ]
+    },
+    "REST": {
+        "Ralstonia solanacearum": [
+            1.7,
+            1.3
+        ],
+        "Salmonella enterica": [
+            0.87,
+            1.1
+        ]
+    },
+    "atp;coa;prpnte": {
+        "Salmonella enterica": [
+            1.2,
+            1.0,
+            1.1
+        ],
+        "Ralstonia solanacearum": [
+            1.8,
+            1.5,
+            2.4
+        ]
+    }
+}

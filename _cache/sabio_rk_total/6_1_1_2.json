@@ -1,0 +1,24 @@
+{
+    "atp;trp__L;trnatrp": {
+        "Escherichia coli": [
+            2.0,
+            1.5,
+            2.0
+        ],
+        "Bacillus subtilis": [
+            0.9,
+            0.61,
+            0.59,
+            0.9,
+            0.61,
+            0.59,
+            0.4
+        ]
+    },
+    "atp;trp__L": {
+        "Escherichia coli": [
+            111.0,
+            111.0
+        ]
+    }
+}

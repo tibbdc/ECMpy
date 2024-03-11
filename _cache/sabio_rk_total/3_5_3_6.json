@@ -1,0 +1,16 @@
+{
+    "h2o;arg__L": {
+        "Pseudomonas aeruginosa": [
+            6.3
+        ],
+        "Mycoplasma arthritidis": [
+            29.0
+        ]
+    },
+    "REST": {
+        "Pseudomonas aeruginosa": [
+            0.01,
+            7.0
+        ]
+    }
+}

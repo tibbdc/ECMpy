@@ -2076,7 +2076,10 @@ def get_protein_mass_mapping(model: cobra.Model, project_folder: str, project_na
         # Create the pickled cache files for the searched protein masses
         for uniprot_id in batch:
             cache_filepath = cache_basepath + uniprot_id
-            pickle_write(cache_filepath, uniprot_id_protein_mass_mapping[uniprot_id])
+            try:
+                pickle_write(cache_filepath, uniprot_id_protein_mass_mapping[uniprot_id])
+            except:
+                print(uniprot_id)
 
         # Continue with the next batch :D
         batch_start += batch_size

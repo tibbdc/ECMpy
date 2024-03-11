@@ -1,0 +1,155 @@
+{
+    "ala__D;h2o;o2": {
+        "Sus scrofa": [
+            12.7,
+            8.5,
+            6.5,
+            6.6,
+            8.5
+        ],
+        "Rhodosporidium toruloides": [
+            83.33333,
+            350.0,
+            350.0,
+            345.0
+        ],
+        "Cyprinus carpio": [
+            190.0
+        ],
+        "Caenorhabditis elegans": [
+            3.63,
+            14.9
+        ],
+        "Trigonopsis variabilis": [
+            52.5
+        ],
+        "Homo sapiens": [
+            3.66
+        ]
+    },
+    "pro__D;h2o;o2": {
+        "Sus scrofa": [
+            87.2,
+            10.33333,
+            9.8,
+            21.0
+        ],
+        "Cyprinus carpio": [
+            142.0
+        ]
+    },
+    "met__D;h2o;o2": {
+        "Sus scrofa": [
+            143.0,
+            6.833333,
+            6.5
+        ],
+        "Rhodosporidium toruloides": [
+            76.66667
+        ],
+        "Caenorhabditis elegans": [
+            4.98
+        ]
+    },
+    "phe__D;h2o;o2": {
+        "Sus scrofa": [
+            55.9,
+            16.66667,
+            17.0,
+            2.4
+        ],
+        "Cyprinus carpio": [
+            119.0
+        ],
+        "Caenorhabditis elegans": [
+            25.1
+        ],
+        "Homo sapiens": [
+            9.89,
+            15.5
+        ]
+    },
+    "arg__D;h2o;o2": {
+        "Sus scrofa": [
+            3.166667,
+            3.5,
+            3.2
+        ],
+        "Caenorhabditis elegans": [
+            1.69,
+            2.83
+        ],
+        "Homo sapiens": [
+            0.34
+        ]
+    },
+    "lys__D;h2o;o2": {
+        "Sus scrofa": [
+            0.8
+        ],
+        "Cyprinus carpio": [
+            42.3
+        ]
+    },
+    "REST": {
+        "Sus scrofa": [
+            2.5,
+            4.8,
+            2.5
+        ],
+        "Rhodosporidium toruloides": [
+            21.66667,
+            18.91667,
+            28.8
+        ],
+        "Cyprinus carpio": [
+            170.0,
+            117.0,
+            116.0,
+            76.7
+        ],
+        "Trigonopsis variabilis": [
+            42.0
+        ],
+        "Caenorhabditis elegans": [
+            1.51
+        ],
+        "Homo sapiens": [
+            0.68,
+            21.66667,
+            14.83333
+        ]
+    },
+    "ser__D;h2o;o2": {
+        "Sus scrofa": [
+            3.0,
+            3.1,
+            2.7
+        ],
+        "Cyprinus carpio": [
+            34.5
+        ],
+        "Caenorhabditis elegans": [
+            1.51
+        ],
+        "Homo sapiens": [
+            1.23,
+            4.0
+        ]
+    },
+    "asp__D;h2o;o2": {
+        "Rhodosporidium toruloides": [
+            0.4833333
+        ]
+    },
+    "glu__D;h2o;o2": {
+        "Rhodosporidium toruloides": [
+            1.0
+        ]
+    },
+    "pro__D;o2": {
+        "Rhodosporidium toruloides": [
+            77.33333
+        ]
+    }
+}

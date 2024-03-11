@@ -1,0 +1,95 @@
+{
+    "atp;pro__L;trnapro": {
+        "Methanocaldococcus jannaschii": [
+            63.0
+        ],
+        "Methanothermobacter thermautotrophicus": [
+            3.4,
+            1.8,
+            5.1,
+            6.9,
+            2.9
+        ],
+        "Escherichia coli": [
+            14.0
+        ],
+        "Rhodopseudomonas palustris": [
+            14.0
+        ],
+        "Aquifex aeolicus": [
+            15.0
+        ],
+        "Deinococcus radiodurans": [
+            32.0
+        ],
+        "Clostridium sticklandii": [
+            60.0
+        ],
+        "Thermus thermophilus": [
+            35.0
+        ],
+        "Borrelia burgdorferi": [
+            5.8
+        ],
+        "Cytophaga hutchinsonii": [
+            19.0
+        ],
+        "Novosphingobium aromaticivorans": [
+            26.0
+        ],
+        "Magnetospirillum magnetotacticum": [
+            35.0
+        ],
+        "Saccharomyces cerevisiae": [
+            5.6
+        ]
+    },
+    "atp;cys__L;trnacys": {
+        "Methanocaldococcus jannaschii": [
+            0.19
+        ],
+        "Methanothermobacter thermautotrophicus": [
+            0.02
+        ],
+        "Escherichia coli": [
+            0.022
+        ],
+        "Rhodopseudomonas palustris": [
+            0.025
+        ],
+        "Aquifex aeolicus": [
+            0.09
+        ],
+        "Deinococcus radiodurans": [
+            0.014
+        ],
+        "Clostridium sticklandii": [
+            0.39
+        ],
+        "Thermus thermophilus": [
+            0.042
+        ],
+        "Borrelia burgdorferi": [
+            0.022
+        ],
+        "Cytophaga hutchinsonii": [
+            0.083
+        ],
+        "Novosphingobium aromaticivorans": [
+            0.065
+        ],
+        "Magnetospirillum magnetotacticum": [
+            0.11
+        ],
+        "Saccharomyces cerevisiae": [
+            0.003
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            70.0,
+            1.7,
+            0.035
+        ]
+    }
+}

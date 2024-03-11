@@ -1,0 +1,28 @@
+{
+    "1pipdn2c;o2": {
+        "Streptomyces tendae": [
+            0.6166667,
+            1.2
+        ]
+    },
+    "REST": {
+        "Streptomyces tendae": [
+            0.3166667,
+            0.3
+        ],
+        "Escherichia coli": [
+            0.3833333,
+            19.83333,
+            4.183333,
+            4.366667,
+            3.883333
+        ],
+        "Aspergillus fumigatus": [
+            3.5,
+            8.5,
+            8.2,
+            3.9,
+            3.5
+        ]
+    }
+}

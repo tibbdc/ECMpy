@@ -34,6 +34,29 @@ from optlang.symbolics import Zero, add
 #from tqdm import tqdm
 import subprocess
 from AutoPACMEN_function import *
+import warnings
+warnings.filterwarnings("ignore")
+from requests.adapters import HTTPAdapter, Retry
+warnings.filterwarnings("ignore", message="status is not ok with Bad Request", category=Warning)
+
+re_next_link = re.compile(r'<(.+)>; rel="next"')
+retries = Retry(total=5, backoff_factor=0.25, status_forcelist=[500, 502, 503, 504])
+session = requests.Session()
+session.mount("https://", HTTPAdapter(max_retries=retries))
+
+def get_next_link(headers):
+    if "Link" in headers:
+        match = re_next_link.match(headers["Link"])
+        if match:
+            return match.group(1)
+
+def get_batch(batch_url):
+    while batch_url:
+        response = session.get(batch_url)
+        response.raise_for_status()
+        total = response.headers["x-total-results"]
+        yield response, total
+        batch_url = get_next_link(response.headers)
 
 def create_file(store_path):
     """
@@ -228,9 +251,15 @@ def get_reaction_mw(sbml_path,project_folder,project_name,json_output_file,enzym
                                 subunit_number = row['subunitnumber'].values[0]
                             else:
                                 subunit_number = 1
-                            mass_sum += protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                            try:
+                                mass_sum += protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                            except:
+                                mass_sum += protein_id_mass_mapping[eachgene] * int(subunit_number)
                         else:
-                            mass_sum += protein_id_mass_mapping[eachgene]['mw']
+                            try:
+                                mass_sum += protein_id_mass_mapping[eachgene]['mw']
+                            except:
+                                mass_sum += protein_id_mass_mapping[eachgene]
                 #print(mass_sum)
                 reaction_mw[r.id]=mass_sum
             else:  # Single enzyme
@@ -246,11 +275,18 @@ def get_reaction_mw(sbml_path,project_folder,project_name,json_output_file,enzym
                             subunit_number = row['subunitnumber'].values[0]
                         else:
                             subunit_number = 1
-                        reaction_mw[r.id]=protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                        #print(eachgene,subunit_number)
+                        try:
+                            reaction_mw[r.id]=protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                        except:
+                            reaction_mw[r.id]=protein_id_mass_mapping[eachgene] * int(subunit_number)
                     else:
-                        reaction_mw[r.id]=protein_id_mass_mapping[eachgene]['mw']
+                        try:
+                            reaction_mw[r.id]=protein_id_mass_mapping[eachgene]['mw']
+                        except:
+                            reaction_mw[r.id]=protein_id_mass_mapping[eachgene]
     json_write(json_output_file, reaction_mw)        
-        
+
 def get_reaction_kcat_mw(model,project_folder, project_name,type_of_default_kcat_selection,enzyme_unit_number_file,json_output_file):
     """Adds proteomic constraints according to sMOMENT to the given stoichiometric model and stores it as SBML.
 
@@ -388,9 +424,16 @@ def get_reaction_kcat_mw(model,project_folder, project_name,type_of_default_kcat
                             subunit_number = row['subunitnumber'].values[0]
                         else:
                             subunit_number = 1
-                        mass_sum += protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                        try:
+                            mass_sum += protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                        except:
+                            mass_sum += protein_id_mass_mapping[eachgene] * int(subunit_number)
+
                     else:
-                        mass_sum += protein_id_mass_mapping[eachgene]['mw']
+                        try:
+                            mass_sum += protein_id_mass_mapping[eachgene]['mw']
+                        except:
+                            mass_sum += protein_id_mass_mapping[eachgene]
             #print(mass_sum)
             if mass_sum>0:
                 reaction_mw[reaction.id]=mass_sum
@@ -408,9 +451,15 @@ def get_reaction_kcat_mw(model,project_folder, project_name,type_of_default_kcat
                         subunit_number = row['subunitnumber'].values[0]
                     else:
                         subunit_number = 1
-                    reaction_mw[reaction.id]=protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                    try:
+                        reaction_mw[reaction.id]=protein_id_mass_mapping[eachgene]['mw'] * int(subunit_number)
+                    except:
+                        reaction_mw[reaction.id]=protein_id_mass_mapping[eachgene] * int(subunit_number)
                 else:
-                    reaction_mw[reaction.id]=protein_id_mass_mapping[eachgene]['mw']
+                    try:
+                        reaction_mw[reaction.id]=protein_id_mass_mapping[eachgene]['mw']
+                    except:
+                        reaction_mw[reaction.id]=protein_id_mass_mapping[eachgene]                       
         #print(model_reaction_id,reaction_mw.keys())
         if model_reaction_id in reaction_mw.keys():
             #print(model_reaction_id,reaction_mw[model_reaction_id])
@@ -632,6 +681,27 @@ def GENENAME_2_ACC_from_uniprot(query,outfile):
     outFile.write(namesRegex.sub('Gene ID\n',page.decode('utf-8')))
     #print(namesRegex.sub('Protein AC\t',page.decode('utf-8')))
     outFile.close()
+
+def GENEID_2_ACC_from_uniprot_new(query_list,strain_name,gene_uniprot_outfile):# 
+    with open(gene_uniprot_outfile, 'w') as f:
+        col_name = 'Entry\tEntry Name\tProtein names\tGene Names\tOrganism\tEC number\tMass\tSequence\tGene Ontology IDs\tKEGG\tGene ID\n'
+        f.write(col_name)
+        for query in query_list:
+            url = 'https://rest.uniprot.org/uniprotkb/search?query=accession:%s AND organism_name: %s &format=tsv&fields=accession,id,protein_name,gene_names,organism_name,ec,mass,sequence,go_id,xref_kegg'%(query,strain_name)
+            for batch, total in get_batch(url):
+                lines = batch.text.splitlines()
+                #print(lines[0])
+                #print(lines[1:])
+                #col_name = lines[0]+'\tGene ID'
+                try:
+                    lines[1:][0]
+                except:
+                    pass
+                else:
+                    data = lines[1:][0]+'\t'+query+'\n'
+                    f.write(data)
+                #print(col_name, data)
+        f.close() 
 
 def calculate_f(model_file, gene_abundance_file, gene_mw_file, gene_mw_colname, gene_abundance_colname):
     """
@@ -1238,8 +1308,9 @@ def get_model_protein_sequence_and_mass(model, subbnumdf, prodf_file):
     for gene in model.genes:
         if 'uniprot' in gene.annotation:
             pro = gene.annotation['uniprot']
-            genelist.append(gene.id)
-            prolist.append(str(pro))
+            if str(pro) not in prolist:
+                genelist.append(gene.id)
+                prolist.append(str(pro))
     prodf = pd.DataFrame(columns=['geneid', 'pro'])
     prodf['geneid'] = genelist
     prodf['pro'] = prolist
@@ -1255,10 +1326,32 @@ def get_model_protein_sequence_and_mass(model, subbnumdf, prodf_file):
 
     prodf['aaseq'] = prodf['pro'].apply(fetch_protein_data)
     prodf.dropna(subset=['aaseq'], inplace=True)
-    prodf['mass'] = prodf['aaseq'].apply(lambda seq: ProteinAnalysis(seq, monoisotopic=False).molecular_weight())
-    prodf['subunitmass'] = prodf.apply(lambda row: row['mass'] * int(enzyme_unit_number.loc[row['pro'], 'subunitnumber'])
-                                      if row['pro'] in enzyme_unit_number.index else row['mass'], axis=1)
 
+    prodf['mass'] = prodf['aaseq'].apply(lambda seq: ProteinAnalysis(seq.replace('X', ''), monoisotopic=False).molecular_weight())
+  
+    def calculate_subunitmass(row):  
+        if row['pro'] in enzyme_unit_number.index:
+            try:  
+                # 尝试直接获取值，可能是单一值  
+                subunit_number = int(enzyme_unit_number.loc[row['pro'], 'subunitnumber'])  
+                return row['mass'] * subunit_number  
+            except (TypeError, ValueError):  
+                # 如果直接获取值失败（可能是因为返回了多个值），尝试获取 Series 并取第一个值  
+                try:  
+                    subunit_series = enzyme_unit_number.loc[row['pro'], 'subunitnumber']  
+                    if isinstance(subunit_series, pd.Series) and not subunit_series.empty:  
+                        subunit_number = int(subunit_series.iat[0])  # 取 Series 的第一个值  
+                        return row['mass'] * subunit_number  
+                except (TypeError, ValueError, IndexError):  
+                    # 如果 Series 也是空的或无法转换，返回默认值  
+                    pass  
+            # 如果所有尝试都失败了，返回 row['mass'] 作为默认值  
+            return row['mass']  
+    
+    # 应用函数到 prodf DataFrame 的每一行  
+    prodf['subunitmass'] = prodf.apply(calculate_subunitmass, axis=1)
+    #prodf['subunitmass'] = prodf.apply(lambda row: row['mass'] * int(enzyme_unit_number.loc[row['pro'], 'subunitnumber'])
+    #                                  if row['pro'] in enzyme_unit_number.index else row['mass'], axis=1)
     prodf.to_csv(prodf_file, index=False)
     return prodf
 
@@ -1445,8 +1538,6 @@ def DL_kcat_mw_calculation(DLouputdf, metdf):
 
     # Sort by Kcat value and keep only the first occurrence of each reaction
     DLoutputdf_rex = DLoutputdf_rex.sort_values('Kcat value (1/s)', ascending=False).drop_duplicates(subset=['reactions'], keep='first')
-
-    # Calculate kcat_mw
     DLoutputdf_rex['kcat_mw'] = DLoutputdf_rex['Kcat value (1/s)'] * 3600 * 1000 / DLoutputdf_rex['totalmass']
 
     # Prepare DL_reaction_kact_mw DataFrame
@@ -1486,7 +1577,8 @@ def get_gene_subunitDescription(sub_description_path, model):
     lAllProteinNames = []
     lAllGeneNames = []
     lsubunits = []
-    
+    subunitDescription = ''
+
     for el in probar(gprlist):
         res = u.search("%s" % el, frmt="xml")
         time.sleep(3.0)
@@ -1535,8 +1627,6 @@ def get_gene_subunitDescription(sub_description_path, model):
                                     geneNames.append(val)
                     except:
                         pass
-
-                    subunitDescription = ''
 
                     if 'entry' in dRes['uniprot'].keys():
                         if 'comment' in dRes['uniprot']['entry'].keys() and type(dRes['uniprot']['entry']['comment']) == list:
@@ -1673,24 +1763,27 @@ def get_subunit_number(sub_description_path, gene_subnum_path):
                             namesWithSubunitsIndication = row.txt_subunit[0]
                         except:
                             namesWithSubunitsIndication = row.txt_subunit
-                        
-                        if re.search(p, str(namesWithSubunitsIndication)):
-                            if re.search('FGAM|RNAP', namesWithSubunitsIndication):
-                                try:
-                                    sub_num = namesWithSubunitsIndication.split(p)[0].split()[-1].strip(',')
-                                except:
-                                    sub_num == 'manual'
-                            elif 'CF' in namesWithSubunitsIndication:
-                                sub_num = namesWithSubunitsIndication.split(p)[1].split()[0].strip(',')
-                                if p == 'a':
+
+                        try:
+                            if re.search(p, str(namesWithSubunitsIndication)):
+                                if re.search('FGAM|RNAP', namesWithSubunitsIndication):
+                                    try:
+                                        sub_num = namesWithSubunitsIndication.split(p)[0].split()[-1].strip(',')
+                                    except:
+                                        sub_num == 'manual'
+                                elif 'CF' in namesWithSubunitsIndication:
+                                    sub_num = namesWithSubunitsIndication.split(p)[1].split()[0].strip(',')
+                                    if p == 'a':
+                                        sub_num = '1'
+                                        break
+                                else:
                                     sub_num = '1'
-                                    break
+                                
+                                if re.search('UreD', p):
+                                    sub_num = '1'
                             else:
                                 sub_num = '1'
-                            
-                            if re.search('UreD', p):
-                                sub_num = '1'
-                        else:
+                        except:
                             sub_num = '1'
                 else:
                     sub_num = '1'
@@ -2662,40 +2755,62 @@ def get_reaction_kcatmw_onestop_by_AutoPACMEN(autopacmen_folder,sbml_path,bigg_m
 
     # Step 3: Select Brenda kcat for model
     print("Starting to deal brenda json for model...")
-    parse_brenda_json_for_model(sbml_path, brenda_json_path, brenda_output_json_path)
-    print("BRENDA json for model done!")
+    if os.path.exists(brenda_output_json_path):
+        print("BRENDA file exists. Running the next segment of code.")
+    else:
+        parse_brenda_json_for_model(sbml_path, brenda_json_path, brenda_output_json_path)
+        print("BRENDA json for model done!")
 
     # Step 4: SABIO-RK kcat for model
     print("Starting EC numbers kcat search in SABIO-RK...")
-    parse_sabio_rk_for_model_with_sbml(sbml_path, sabio_rk_json_path, bigg_id_name_mapping_path)
-    print("SABIO-RK done!")
+    if os.path.exists(sabio_rk_json_path):
+        print("SABIO-RK file exists. Running the next segment of code.")
+    else:
+        parse_sabio_rk_for_model_with_sbml(sbml_path, sabio_rk_json_path, bigg_id_name_mapping_path)
+        print("SABIO-RK done!")
 
     # Step 5: Brenda and SABIO-RK kcat combined
     print("Combining kcat database...")
-    create_combined_kcat_database(sabio_rk_json_path, brenda_output_json_path, combined_output_path)
-    print("Combining kcat database done!")
+    if os.path.exists(combined_output_path):
+        print("Combining file exists. Running the next segment of code.")
+    else:
+        create_combined_kcat_database(sabio_rk_json_path, brenda_output_json_path, combined_output_path)
+        print("Combining kcat database done!")
 
     # Step 6: subunit number of each reaction
     print("Starting to fetch subunit number of each enzyme")
-    #model=cobra.io.read_sbml_model(sbml_path)
-    if re.search('\.xml',sbml_path):
-        model = cobra.io.read_sbml_model(sbml_path)
-    elif re.search('\.json',sbml_path):
-        model = cobra.io.json.load_json_model(sbml_path)   
-    get_gene_subunitDescription(sub_description_path,model)#从uniprot的api下载，运行一次就行
-    subbnumdf = get_subunit_number(sub_description_path,gene_subnum_path)
-    print("Calculation done!")
+    if os.path.exists(gene_subnum_path):
+        print("sub_description file exists. Running the next segment of code.")
+    else:
+        #model=cobra.io.read_sbml_model(sbml_path)
+        if re.search('\.xml',sbml_path):
+            model = cobra.io.read_sbml_model(sbml_path)
+        elif re.search('\.json',sbml_path):
+            model = cobra.io.json.load_json_model(sbml_path) 
+            
+        get_gene_subunitDescription(sub_description_path,model)#从uniprot的api下载，运行一次就行
+        subbnumdf = get_subunit_number(sub_description_path,gene_subnum_path)
+        print("Calculation done!")
 
     # Step 7: get mw for model gene (must be uniprot ID)
     print("Starting UniProt ID<->Protein mass search using UniProt...")
-    get_protein_mass_mapping_from_local(sbml_path, autopacmen_folder, project_name, uniprot_data_file)
-    get_reaction_mw(sbml_path,autopacmen_folder, project_name, reaction_mw_path, gene_subnum_path)
-    print("Protein ID<->Mass mapping done!")
+    if os.path.exists(reaction_mw_path):
+        print("reaction_mw file exists. Running the next segment of code.")
+    else:
+        #get_protein_mass_mapping_from_local(sbml_path, autopacmen_folder, project_name, uniprot_data_file)#The running speed is fast, but it cannot cover all UniProt IDs.
+        get_protein_mass_mapping_with_sbml(sbml_path, autopacmen_folder, project_name)
+        get_reaction_mw(sbml_path,autopacmen_folder, project_name, reaction_mw_path, gene_subnum_path)
+        print("Protein ID<->Mass mapping done!")
 
     # Step 8: kcat assignment for model(include sa)
     print("Starting to assign kcat for model...")
-    get_reactions_kcat_mapping(sbml_path, autopacmen_folder, project_name, organism, combined_output_path,brenda_json_path2, reaction_mw_path,protein_kcat_database_path,kcat_gap_fill)
-    print("kcat assignment done!")
+    basepath = autopacmen_folder + project_name
+    reactions_kcat_mapping_combined_path =basepath+"_reactions_kcat_mapping_combined.json"
+    if os.path.exists(reactions_kcat_mapping_combined_path):
+        print("reactions_kcat_mapping_combined file exists. Running the next segment of code.")
+    else:
+        get_reactions_kcat_mapping(sbml_path, autopacmen_folder, project_name, organism, combined_output_path,brenda_json_path2, reaction_mw_path,protein_kcat_database_path,kcat_gap_fill)
+        print("kcat assignment done!")
 
     # Step 9: get_reaction_kcat_mw for model
     print("Starting to get reaction kcat_mw for model...")
@@ -2703,7 +2818,7 @@ def get_reaction_kcatmw_onestop_by_AutoPACMEN(autopacmen_folder,sbml_path,bigg_m
         model = cobra.io.read_sbml_model(sbml_path)
     elif re.search('\.json',sbml_path):
         model = cobra.io.json.load_json_model(sbml_path)   
-    get_reaction_kcat_mw(model,autopacmen_folder, project_name, reaction_gap_fill,gene_subnum_path,reaction_kcat_mw_path)       
+    get_reaction_kcat_mw(model,autopacmen_folder, project_name, reaction_gap_fill,gene_subnum_path,reaction_kcat_mw_path)        
     print("Reaction kcat_mw done!")
     return reaction_kcat_mw_path
 
@@ -2728,48 +2843,74 @@ def get_reaction_kcatmw_onestop_by_DLKcat(dlkcat_folder,sbml_path):
 
     # Step 1: subunit number of each reaction
     print("Starting to fetch subunit number of each enzyme")
-    get_gene_subunitDescription(sub_description_path,model)#Download from the UniProt API, run it once.
-    subbnumdf = get_subunit_number(sub_description_path,gene_subnum_path)
-    print("Calculation done!")
+    if os.path.exists(gene_subnum_path):
+        print("sub_description file exists. Running the next segment of code.")
+    else:
+        get_gene_subunitDescription(sub_description_path,model)#Download from the UniProt API, run it once.
+        subbnumdf = get_subunit_number(sub_description_path,gene_subnum_path)
+        print("Calculation done!")
 
     # Step 2: convert metbolites bigg id to smiles 
     print("Starting to convert metbolites bigg id to smiles...")
-    metdf_name = get_met_bigg_id(model)
-    inchkeydf = convert_bigg_met_to_inchikey(metdf_name['met'],inchikey_list_file)#from BIGG
-    inchkeydf = pd.read_csv('./data/inchikey_list.csv')
-    smilesdf = convert_inchikey_to_smiles(inchkeydf,inchikey_list_smilesfile)#from pubchem
-    print("Converting done!")
+    if os.path.exists(inchikey_list_smilesfile):
+        print("inchikey_list_smiles file exists. Running the next segment of code.")
+    else:
+        metdf_name = get_met_bigg_id(model)
+        inchkeydf = convert_bigg_met_to_inchikey(metdf_name['met'],inchikey_list_file)#from BIGG
+        smilesdf = convert_inchikey_to_smiles(inchkeydf,inchikey_list_smilesfile)#from pubchem
+        print("Converting done!")
     
     # Step 3: get protein sequence and mass in model 
     print("Starting to get protein sequence and mass in model...")
-    subbnumdf = pd.read_csv(gene_subnum_path,index_col=0)
-    prodf = get_model_protein_sequence_and_mass(model,subbnumdf,prodf_file)
-    print("Getting done!")
+    if os.path.exists(prodf_file):
+        print("prodf_file exists. Running the next segment of code.")
+    else:
+        subbnumdf = pd.read_csv(gene_subnum_path,index_col=0)
+        prodf = get_model_protein_sequence_and_mass(model,subbnumdf,prodf_file)
+        print("Getting done!")
 
     # Step 4: split the substrate of reactions to match the gene
     print("Starting to split the substrate of reactions to match the gene...")
-    spdf = split_substrate_to_match_gene(model,metabolites_reactions_gpr_file)
-    print("Splitting done!")
+    if os.path.exists(metabolites_reactions_gpr_file):
+        print("metabolites_reactions_gpr_file exists. Running the next segment of code.")
+    else:
+        spdf = split_substrate_to_match_gene(model,metabolites_reactions_gpr_file)
+        print("Splitting done!")
 
     # Step 5: combine the reaction--substrate--gene--protein_sequnce--mass and formate DLKcat input file
     print("Starting to combine data...")
-    comdf = combine_reactions_simles_sequence(spdf,smilesdf,prodf,comdf_file)
-    DLinputdf = generate_DLKCAT_input(comdf,metdf_name,metdf_outfile,DLinput_file)
-    print("Combinning done!")
+    if os.path.exists(DLinput_file):
+        print("DLinput_file exists. Running the next segment of code.")
+    else:
+        metdf_name = get_met_bigg_id(model)
+        spdf = pd.read_csv(metabolites_reactions_gpr_file)
+        smilesdf = pd.read_csv(inchikey_list_smilesfile)
+        prodf = pd.read_csv(prodf_file)        
+        comdf = combine_reactions_simles_sequence(spdf,smilesdf,prodf,comdf_file)
+        DLinputdf = generate_DLKCAT_input(comdf,metdf_name,metdf_outfile,DLinput_file)
+        print("Combinning done!")
 
     # Step 6: use DLKcat calculate kcat
     print("Starting to Use DLKcat calculate kcat...")
-    cmd_str = "python ./script/prediction_for_input.py %s/DLinput.tsv %s/DLoutput.tsv"%(dlkcat_folder,dlkcat_folder)
-    subprocess.run(cmd_str, shell=True)
-    print("DLKcat done!")
+    if os.path.exists(DLouputdf_file):
+        print("DLouputdf_file exists. Running the next segment of code.")
+    else:
+        cmd_str = "python ./script/prediction_for_input.py %s/DLinput.tsv %s/DLoutput.tsv"%(dlkcat_folder,dlkcat_folder)
+        subprocess.run(cmd_str, shell=True)
+        print("DLKcat done!")
 
     # Step 7: get the kcat_mw file
     print("Starting to get reaction kcat_mw for model......")
-    DLouputdf = pd.read_csv(DLouputdf_file, sep='\t')
-    DL_reaction_kact_mw = DL_kcat_mw_calculation(DLouputdf, comdf)
-    DL_reaction_kact_mw.to_csv(DL_reaction_kact_mw_file, index=False)
-    print("Reaction kcat_mw done!")    
-    return DL_reaction_kact_mw_file
+    if os.path.exists(DL_reaction_kact_mw_file):
+        print("DL_reaction_kact_mw_file exists. Running the next segment of code.")
+        return DL_reaction_kact_mw_file
+    else:
+        DLouputdf = pd.read_csv(DLouputdf_file, sep='\t')
+        comdf = pd.read_csv(comdf_file)        
+        DL_reaction_kact_mw = DL_kcat_mw_calculation(DLouputdf, comdf)
+        DL_reaction_kact_mw.to_csv(DL_reaction_kact_mw_file, index=False)
+        print("Reaction kcat_mw done!")    
+        return DL_reaction_kact_mw_file
 
 def get_reaction_kcatmw_onestop(work_folder, kcat_method, model_file, bigg_metabolites_file, brenda_textfile_path, uniprot_data_file, organism, kcat_gap_fill, reaction_gap_fill):
     if kcat_method == 'AutoPACMEN':

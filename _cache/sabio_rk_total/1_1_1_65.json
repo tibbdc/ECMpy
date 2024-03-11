@@ -1,0 +1,17 @@
+{
+    "h;nadph;pydx": {
+        "Schizosaccharomyces pombe": [
+            0.935
+        ]
+    },
+    "REST": {
+        "Schizosaccharomyces pombe": [
+            0.56,
+            0.003266667,
+            0.02133333,
+            0.2516667,
+            0.003383333,
+            0.02966667
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "h2o2": {
+        "Rattus norvegicus": [
+            0.0005833333,
+            0.0001933333,
+            0.002333333
+        ]
+    },
+    "REST": {
+        "Agrocybe aegerita": [
+            0.21
+        ],
+        "Amycolatopsis sp.": [
+            87.0
+        ]
+    }
+}

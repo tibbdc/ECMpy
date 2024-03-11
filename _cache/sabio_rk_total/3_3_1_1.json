@@ -1,0 +1,21 @@
+{
+    "h2o;ahcys": {
+        "Homo sapiens": [
+            3.8
+        ],
+        "Thermotoga maritima": [
+            0.24
+        ]
+    },
+    "adn;hcys__L": {
+        "Homo sapiens": [
+            9.7,
+            9.8
+        ]
+    },
+    "REST": {
+        "Thermotoga maritima": [
+            0.14
+        ]
+    }
+}

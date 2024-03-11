@@ -1,0 +1,34 @@
+{
+    "atp;val__L;trnaval": {
+        "Thermus thermophilus": [
+            6.7,
+            1.3,
+            4.2,
+            1.2,
+            0.21,
+            5.3
+        ],
+        "Escherichia coli": [
+            1.7,
+            1.5
+        ]
+    },
+    "REST": {
+        "Escherichia coli": [
+            51.0,
+            50.0,
+            0.37,
+            0.18
+        ],
+        "Geobacillus stearothermophilus": [
+            18.1,
+            12.8,
+            1.47
+        ]
+    },
+    "h2o;valtrna": {
+        "Escherichia coli": [
+            0.00016
+        ]
+    }
+}

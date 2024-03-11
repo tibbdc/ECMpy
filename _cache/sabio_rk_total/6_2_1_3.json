@@ -1,0 +1,19 @@
+{
+    "REST": {
+        "Escherichia coli": [
+            0.029
+        ],
+        "Arabidopsis thaliana": [
+            1.26,
+            2.31,
+            2.79,
+            2.0
+        ]
+    },
+    "atp;coa;C01601": {
+        "Arabidopsis thaliana": [
+            1.38,
+            19.87
+        ]
+    }
+}

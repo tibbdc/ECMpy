@@ -1,0 +1,90 @@
+{
+    "REST": {
+        "Bombyx mori": [
+            0.94,
+            14.57,
+            3.53,
+            0.14,
+            0.85,
+            0.94
+        ],
+        "Escherichia coli": [
+            3.09
+        ],
+        "Methanocaldococcus jannaschii": [
+            906.0
+        ],
+        "Homo sapiens": [
+            0.55,
+            0.42,
+            0.78,
+            0.86,
+            0.27,
+            2.75,
+            0.2066667,
+            1.383333e-07
+        ],
+        "Legionella pneumophila": [
+            14.3
+        ]
+    },
+    "4nphp;h2o": {
+        "Bombyx mori": [
+            135.0,
+            90.1
+        ],
+        "Escherichia coli": [
+            10.3
+        ],
+        "Homo sapiens": [
+            0.22,
+            3.52,
+            0.75,
+            0.02666667,
+            0.03333333,
+            0.1266667
+        ]
+    },
+    "ppi;h2o": {
+        "Escherichia coli": [
+            2.51
+        ]
+    },
+    "h2o;nadp": {
+        "Escherichia coli": [
+            14.9
+        ],
+        "Methanocaldococcus jannaschii": [
+            906.0
+        ]
+    },
+    "adp;h2o": {
+        "Escherichia coli": [
+            1.24
+        ]
+    },
+    "atp;h2o": {
+        "Escherichia coli": [
+            3.78
+        ],
+        "Saccharomyces cerevisiae": [
+            0.0003833333,
+            0.0025
+        ]
+    },
+    "cdp;h2o": {
+        "Escherichia coli": [
+            4.83
+        ]
+    },
+    "ctp;h2o": {
+        "Escherichia coli": [
+            3.36
+        ]
+    },
+    "h2o;nadph": {
+        "Methanocaldococcus jannaschii": [
+            1007.0
+        ]
+    }
+}

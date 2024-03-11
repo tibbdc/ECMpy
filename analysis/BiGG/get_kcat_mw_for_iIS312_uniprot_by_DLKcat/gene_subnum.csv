@@ -1,0 +1,303 @@
+UniProtID,Unnamed: 0,proteinNames,txt_subunit,geneNames,subunitnumber
+V5B8F9,7,['ATP synthase subunit beta'],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.",[],1
+V5B9K0,8,['ATPase subunit 9'],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.",[],1
+V5BLX9,9,"['ATP synthase subunit gamma, mitochondrial']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.",[],1
+V5ARU6,10,['V-type proton ATPase subunit'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5BSS9,11,['Vacuolar ATP synthase subunit d'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5AVB0,12,['ATPase alpha subunit'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5BGR0,13,['Vacuolar ATP synthase subunit B'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5BW59,14,['H(+)-transporting two-sector ATPase'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5B9V5,15,['(H )-ATPase G subunit'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5B1U1,16,['ATP synthase'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5BAS5,17,['Nitroreductase'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5DLP7,18,['NADH dehydrogenase'],V-ATPase is a heteromultimeric enzyme made up of two complexes: the ATP-hydrolytic V1 complex and the proton translocation V0 complex.,[],1
+V5BVY2,19,['Aspartate aminotransferase'],Homodimer.,[],2
+V5BPC6,20,['Calcium-transporting ATPase'],Homodimer.,[],2
+V5BLM1,21,['Calcium-transporting ATPase'],Homodimer.,[],2
+V5B873,22,['Calcium-transporting ATPase'],Homodimer.,[],2
+V5BSS0,23,['Aspartate aminotransferase'],Homodimer.,[],2
+V5BQ82,24,['Alternative oxidase'],Homodimer.,[],2
+V5DRT6,25,['L-ribulokinase'],Homodimer.,[],2
+V5C2V4,26,"['6-phosphogluconate dehydrogenase, decarboxylating']",Homodimer.,[],2
+V5DGS5,27,['asparagine--tRNA ligase'],Homodimer.,[],2
+V5DCW6,28,['Ribose 5-phosphate isomerase'],Homodimer.,[],2
+V5BZ97,29,['Asparagine synthetase a'],Homodimer.,[],2
+V5BMZ6,30,"['phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)']",Homodimer.,[],2
+V5B6A2,31,['Phosphomannomutase-like protein'],Homodimer.,[],2
+V5BF33,32,['Transketolase'],Homodimer.,[],2
+V5AS93,33,['aspartate--tRNA ligase'],Homodimer.,[],2
+V5BHK0,34,['Transaldolase'],Homodimer.,[],2
+V5AJF7,35,['glucose-6-phosphate dehydrogenase (NADP(+))'],Homodimer.,[],2
+V5BCV0,36,['Ribulose-phosphate 3-epimerase'],Homodimer.,[],2
+V5D050,37,"['6-phosphogluconolactonase', '6PGL']",Homodimer.,[],2
+V5AR14,38,['aspartate--tRNA ligase'],Homodimer.,[],2
+V5BQA6,39,['Phosphoribosylpyrophosphate synthetase'],Homodimer.,[],2
+V5BEF5,40,['Phosphoribosylpyrophosphate synthetase'],Homodimer.,[],2
+V5BUU3,41,['asparaginase'],Homodimer.,[],2
+V5DQE3,42,['ribose-phosphate diphosphokinase'],Homodimer.,[],2
+V5B6R2,43,"['Pyridoxal phosphate homeostasis protein', 'PLP homeostasis protein']",Homodimer.,[],2
+V5BQZ6,44,['Ribose-phosphate pyrophosphokinase'],Homodimer.,[],2
+V5BHA6,45,['Ribulose-phosphate 3-epimerase'],Homodimer.,[],2
+V5BC96,46,['Alanine racemase 2'],Homodimer.,[],2
+V5BXE5,47,"['Ribokinase', 'RK']",Homodimer.,[],2
+V5BBY0,48,['Alanine--tRNA ligase'],Monomer.,[],1
+V5DHA5,49,['phenylalanine--tRNA ligase'],Monomer.,[],1
+V5B123,50,['phenylalanine--tRNA ligase'],Monomer.,[],1
+V5AW05,51,['tyrosine--tRNA ligase'],Monomer.,[],1
+V5ANS4,52,['Multifunctional fusion protein'],Monomer.,[],1
+V5BYI4,53,['UDP-N-acetylglucosamine diphosphorylase'],Monomer.,[],1
+V5AZ66,54,['proline--tRNA ligase'],Monomer.,[],1
+V5B9I1,55,['adenine phosphoribosyltransferase'],Homodimer.,[],2
+V5B892,56,"['Phosphoacetylglucosamine mutase', 'PAGM', 'Acetylglucosamine phosphomutase', 'N-acetylglucosamine-phosphate mutase']",Homodimer.,[],2
+V5BQ29,57,['adenine phosphoribosyltransferase'],Homodimer.,[],2
+V5DH46,58,['Ribonucleoside-diphosphate reductase'],Homodimer.,[],2
+V5ASN2,59,['Ribonucleoside-diphosphate reductase small chain'],Homodimer.,[],2
+V5BBP4,60,['Adenylosuccinate synthetase'],Homodimer.,[],2
+V5DPM3,61,['glutamine--fructose-6-phosphate transaminase (isomerizing)'],Homodimer.,[],2
+V5BLW1,62,['adenosine kinase'],Homodimer.,[],2
+V5B941,63,"['Adenosine kinase', 'AK']",Homodimer.,[],2
+V5B6B6,64,['Uncharacterized protein'],Homodimer.,[],2
+V5BRJ2,65,['Uncharacterized protein'],Homodimer.,[],2
+V5BVI6,66,['Glucosamine-6-phosphate isomerase'],Homodimer.,[],2
+V5DEL0,67,['Hypoxanthine-guanine phosphoribosyltransferase'],Homodimer.,[],2
+V5B6T5,68,['Adenylate kinase'],Homodimer.,[],2
+V5BHT0,69,['Adenylate kinase'],Homodimer.,[],2
+V5BI73,70,['Glucosamine 6-phosphate N-acetyltransferase'],Homodimer.,[],2
+V5DL03,71,['Adenylate kinase'],Homodimer.,[],2
+V5BMU5,72,['Adenylate kinase'],Monomer.,[],1
+V5BRV4,73,['Adenylate kinase'],Monomer.,[],1
+V5BH98,74,['adenylate kinase'],Monomer.,[],1
+V5BE01,75,"['Adenylosuccinate lyase', 'ASL']",Monomer.,[],1
+V5C1U3,76,['Arginase'],Monomer.,[],1
+V5BDG8,77,"[""Inosine-5'-monophosphate dehydrogenase""]",Homotetramer.,[],4
+V5BJ89,78,['AMP deaminase'],Homotetramer.,[],4
+V5BQK5,79,['arginine--tRNA ligase'],Homotetramer.,[],4
+V5ARK9,80,['AMP deaminase'],Homotetramer.,[],4
+V5BVR2,81,['Pyrroline-5-carboxylate reductase'],Homotetramer.,[],4
+V5BI86,82,['Adenosine monophosphate deaminase'],Homotetramer.,[],4
+V5BDR7,83,['Adenosine monophosphate deaminase'],Homotetramer.,[],4
+V5BPS0,84,['Short chain 3-hydroxyacyl-CoA dehydrogenase'],Homotetramer.,[],4
+V5BB33,85,['Putative AMP deaminase'],Homotetramer.,[],4
+V5BK58,86,['AMP deaminase'],Homotetramer.,[],4
+V5DLW4,87,['Nucleoside diphosphate kinase'],Homotetramer.,[],4
+V5BXY9,88,['Nucleoside diphosphate kinase'],Homotetramer.,[],4
+V5BGH8,89,['fumarate hydratase'],Homodimer.,[],2
+V5BBK5,90,"['adenylate cyclase', 'ATP pyrophosphate-lyase', 'Adenylyl cyclase']",Homodimer.,[],2
+V5DHC0,91,"['adenylate cyclase', 'ATP pyrophosphate-lyase', 'Adenylyl cyclase']",Homodimer.,[],2
+V5B829,92,"['Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial']",Heterodimer of an alpha and a beta subunit.,[],1
+V5DC93,93,['adenylate cyclase'],Heterodimer of an alpha and a beta subunit.,[],1
+V5B9G3,94,['Isocitrate dehydrogenase [NADP]'],Homodimer.,[],2
+V5B1C8,95,"['adenylate cyclase', 'ATP pyrophosphate-lyase', 'Adenylyl cyclase']",Homodimer.,[],2
+V5B0B5,96,['Succinyl-CoA ligase [GDP-forming] beta-chain'],Homodimer.,[],2
+V5AW53,97,['adenylate cyclase'],Homodimer.,[],2
+V5CJA3,98,['adenylate cyclase'],Homodimer.,[],2
+V5B6G9,99,"['Aconitate hydratase', 'Aconitase']",Homodimer.,[],2
+V5AYH7,100,"['adenylate cyclase', 'ATP pyrophosphate-lyase', 'Adenylyl cyclase']",Homodimer.,[],2
+V5BRQ9,101,['Malate dehydrogenase'],Homodimer.,[],2
+V5BBU2,102,['Guanylate kinase'],Homodimer.,[],2
+V5AZT5,103,['Putative guanylate kinase'],Homodimer.,[],2
+V5B917,104,['NADH-dependent fumarate reductase'],Homodimer.,[],2
+V5DJK9,105,['NADH-dependent fumarate reductase'],Homodimer.,[],2
+V5DBV2,106,['GMP synthase (glutamine-hydrolyzing)'],Homodimer.,[],2
+V5BLN7,107,"['Guanine deaminase', 'Guanase']",Homodimer.,[],2
+V5BWU3,108,['oxoglutarate dehydrogenase (succinyl-transferring)'],Homodimer.,[],2
+V5D8L8,109,['RNase H type-1 domain-containing protein'],Homodimer.,[],2
+V5BCM3,110,['Acyl-CoA binding protein'],Homodimer.,[],2
+V5BXQ7,111,['Deoxyuridine triphosphatase'],Homodimer.,[],2
+V5BIL1,112,['2-oxoglutarate dehydrogenase subunit'],Homodimer.,[],2
+V5DPL1,113,['Bifunctional dihydrofolate reductase-thymidylate synthase'],Homodimer.,[],2
+V5DCU5,114,['dihydrolipoyllysine-residue succinyltransferase'],Homodimer.,[],2
+V5B553,115,['thymidine kinase'],Homodimer.,[],2
+V5BWC7,116,['Citrate synthase'],Homodimer.,[],2
+V5AU19,117,['dTMP kinase'],Homodimer.,[],2
+V5BA93,118,['Uracil phosphoribosyltransferase'],Homodimer.,[],2
+V5BFJ9,119,"['Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial']",Homodimer.,[],2
+V5BQU2,120,['CTP synthase'],Homodimer.,[],2
+V5BWY7,121,['cysteine synthase'],Homodimer.,[],2
+V5BFB8,122,['tRNA pseudouridine synthase'],Homodimer.,[],2
+V5ATQ7,123,['RNA pseudouridylate synthase protein'],Homodimer.,[],2
+V5BNL9,124,['Mercaptopyruvate sulfurtransferase'],Homodimer.,[],2
+V5BPI0,125,['tRNA pseudouridine synthase A'],Homodimer.,[],2
+V5BV11,126,['serine O-acetyltransferase'],Homodimer.,[],2
+V5BNI6,127,['tRNA pseudouridine synthase A-like protein'],Homodimer.,[],2
+V5DSI1,128,['Malic enzyme'],Homodimer.,[],2
+V5BAP6,129,['Malic enzyme'],Homodimer.,[],2
+V5BJS7,130,['alanine transaminase'],Homodimer.,[],2
+V5BHV2,131,['cysteine--tRNA ligase'],Homodimer.,[],2
+V5B0M9,132,['Dihydrolipoamide acetyltransferase'],Homodimer.,[],2
+V5DC06,133,['very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase'],Homodimer.,[],2
+V5BFP9,134,['dihydrolipoyllysine-residue acetyltransferase'],Homodimer.,[],2
+V5ASG2,135,['Acetyl-coenzyme A synthetase'],Homodimer.,[],2
+V5B6P6,136,['Dihydrolipoamide dehydrogenase'],Homodimer.,[],2
+V5DQB8,137,['Succinyl-CoA:3-ketoacid-coenzyme A transferase'],Homodimer.,[],2
+V5BB42,138,['Cyclic nucleotide-binding domain-containing protein'],Homodimer.,[],2
+V5DIT8,139,['Pyruvate dehydrogenase E1 component subunit beta'],Homodimer.,[],2
+V5AZ52,140,['Pyruvate dehydrogenase E1 component subunit alpha'],Homodimer.,[],2
+V5AVR1,141,['DNA primase'],Homodimer.,[],2
+V5DBS9,142,['Nucleoporin'],Homodimer.,[],2
+V5DJP6,143,['serine C-palmitoyltransferase'],Homodimer.,[],2
+V5BLV3,144,['serine C-palmitoyltransferase'],Homodimer.,[],2
+V5BFP8,145,['Uncharacterized protein'],Homodimer.,[],2
+V5B376,146,['3-dehydrosphinganine reductase'],Homodimer.,[],2
+V5AWV1,147,['sphinganine-1-phosphate aldolase'],Homodimer.,[],2
+V5BM01,148,['Phosphatidic acid phosphatase'],Homodimer.,[],2
+V5BWA7,149,['Phosphatidic acid phosphatase'],Homodimer.,[],2
+V5BXT5,150,['Lipin'],Homodimer.,[],2
+V5AV31,151,['beta-ketoacyl-[acyl-carrier-protein] synthase I'],Homodimer.,[],2
+V5B5J9,152,['Phosphatidic acid phosphatase protein'],Homodimer.,[],2
+V5D707,153,['3-oxoacyl-ACP reductase'],Homodimer.,[],2
+V5DPQ5,154,['medium-chain acyl-CoA dehydrogenase'],Homodimer.,[],2
+V5DCV2,155,['Acyl-CoA dehydrogenase'],Homodimer.,[],2
+V5BUI2,156,"['Putative sphingosine kinase A, B']",Homodimer.,[],2
+V5BZA8,157,"['Putative sphingosine kinase A, B']",Homodimer.,[],2
+V5BCF5,158,['Fatty acyl CoA synthetase 2'],Homodimer.,[],2
+V5BKN3,159,['C-14 sterol reductase'],Homodimer.,[],2
+V5BH13,160,['Fatty acyl CoA synthetase 2'],Homodimer.,[],2
+V5BPF1,161,['Sterol C-24 reductase'],Homodimer.,[],2
+V5BEI4,162,['Diphosphomevalonate decarboxylase'],Homodimer.,[],2
+V5AUI9,163,['Long-chain-fatty-acid-CoA ligase'],Homodimer.,[],2
+V5BLJ2,164,['Fatty acyl CoA synthetase 2'],Homodimer.,[],2
+V5B780,165,"['3-hydroxy-3-methylglutaryl coenzyme A reductase', 'HMG-CoA reductase']",Homodimer.,[],2
+V5BPC4,166,['Isopentenyl-diphosphate delta-isomerase'],Homooctamer. Dimer of tetramers.,[],8
+V5DPI3,167,['Lanosterol synthase'],Homooctamer. Dimer of tetramers.,[],8
+V5BIH8,168,['Mevalonate kinase'],Homooctamer. Dimer of tetramers.,[],8
+V5AZ02,169,['Fatty acyl CoA synthetase'],Homooctamer. Dimer of tetramers.,[],8
+V5BPT7,170,['Uncharacterized protein'],Homooctamer. Dimer of tetramers.,[],8
+V5D9X5,171,['Fatty acyl CoA synthetase 2'],Homooctamer. Dimer of tetramers.,[],8
+V5B836,172,['inositol-3-phosphate synthase'],Homooctamer. Dimer of tetramers.,[],8
+V5AX22,173,['Fatty acyl CoA synthetase 2'],Homooctamer. Dimer of tetramers.,[],8
+V5BDL7,174,['Plasma membrane ATPase'],Homooctamer. Dimer of tetramers.,[],8
+V5B5L8,175,['Delta-1-pyrroline-5-carboxylate synthase'],Homooctamer. Dimer of tetramers.,[],8
+V5BBD2,176,['Agmatinase'],Homooctamer. Dimer of tetramers.,[],8
+V5D5L9,177,['Fatty acid desaturase'],Homooctamer. Dimer of tetramers.,[],8
+V5B774,178,['leucine--tRNA ligase'],Homooctamer. Dimer of tetramers.,[],8
+V5BK66,179,['Thiolase protein-like protein'],Homooctamer. Dimer of tetramers.,[],8
+V5ARP0,180,['propanoyl-CoA C-acyltransferase'],Homooctamer. Dimer of tetramers.,[],8
+V5BA48,181,['Fatty acid desaturase'],Homooctamer. Dimer of tetramers.,[],8
+V5DIA0,182,['2-oxoisovalerate dehydrogenase subunit alpha'],Homooctamer. Dimer of tetramers.,[],8
+V5BGP0,183,['Acetyl-CoA carboxylase'],Homooctamer. Dimer of tetramers.,[],8
+V5BIR9,184,['3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)'],Homooctamer. Dimer of tetramers.,[],8
+V5BJ49,185,['isoleucine--tRNA ligase'],Homooctamer. Dimer of tetramers.,[],8
+V5DFU6,186,['mannose-6-phosphate isomerase'],Homooctamer. Dimer of tetramers.,[],8
+V5B8K6,187,['Isovaleryl-coA dehydrogenase'],Homooctamer. Dimer of tetramers.,[],8
+V5B7D4,188,['valine--tRNA ligase'],Homooctamer. Dimer of tetramers.,[],8
+V5BWB7,189,"['methylcrotonoyl-CoA carboxylase', '3-methylcrotonyl-CoA carboxylase 2', '3-methylcrotonyl-CoA:carbon dioxide ligase subunit beta']",Homooctamer. Dimer of tetramers.,[],8
+V5BQZ7,190,['3-hydroxyisobutyryl-CoA hydrolase'],Homooctamer. Dimer of tetramers.,[],8
+V5BJF4,191,['Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex'],Homooctamer. Dimer of tetramers.,[],8
+V5AWD8,192,['Phosphomannomutase'],Homodimer.,[],2
+V5ALW0,193,['mannose-1-phosphate guanylyltransferase'],Homodimer.,[],2
+V5BSQ3,194,['6-phosphofructo-2-kinase/fructose-2'],Homodimer.,[],2
+V5DPX3,195,['6-phosphofructo-2-kinase/fructose-2'],Homodimer.,[],2
+V5C004,196,['Fructose-6-phosphate2-kinase/fructose-2'],Homodimer.,[],2
+V5B6M0,197,['UTP--glucose-1-phosphate uridylyltransferase'],Homodimer.,[],2
+V5BD26,198,['Galactokinase-like protein'],Homodimer.,[],2
+V5DUN6,199,['Galactokinase'],Homodimer.,[],2
+V5DQC0,200,['UDP-galactose 4-epimerase'],Homodimer.,[],2
+V5BLY6,201,['UDP-galactopyranose mutase'],Homodimer.,[],2
+V5AND5,202,['glutamate dehydrogenase (NADP(+))'],Homodimer.,[],2
+V5B4M0,203,['Glutamate dehydrogenase'],Homodimer.,[],2
+V5BDE4,204,"['Glutamate--cysteine ligase', 'Gamma-ECS', 'Gamma-glutamylcysteine synthetase']",Homodimer.,[],2
+V5BSE6,205,['glutamate--tRNA ligase'],Homodimer.,[],2
+V5B4P6,206,['glutamine--tRNA ligase'],Homodimer.,[],2
+V5BNE3,207,"['Glutathione synthetase', 'GSH-S']",Homodimer.,[],2
+V5CHQ8,208,['glutamine synthetase'],Homodimer.,[],2
+V5AZI9,209,['NAD synthase'],Homodimer.,[],2
+V5B9J0,210,['Glutathione peroxidase'],Homodimer.,[],2
+V5BZH0,211,['Glutathione peroxidase'],Homodimer.,[],2
+V5DN77,212,['5-oxoprolinase'],Homodimer.,[],2
+V5BRQ8,213,['Alcohol dehydrogenase'],Homodimer.,[],2
+V5C2U9,214,['Dihydroxyacetone kinase'],Homodimer.,[],2
+V5BDI6,215,['Phospholipid:diacylglycerol acyltransferase'],Homodimer.,[],2
+V5BPI2,216,['Putative monoglyceride lipase'],Homodimer.,[],2
+V5B761,217,['Lipase'],Homodimer.,[],2
+V5BLR1,218,['Lipase domain protein'],Homodimer.,[],2
+V5AXK4,219,['Glycerate kinase'],Homodimer.,[],2
+V5AWH3,220,"['Diacylglycerol kinase', 'DAG kinase']",Homodimer.,[],2
+V5DJ39,221,"['Diacylglycerol kinase', 'DAG kinase']",Homodimer.,[],2
+V5DHH9,222,['ethanolamine-phosphate cytidylyltransferase'],Homodimer.,[],2
+V5B455,223,['Glycerol-3-phosphate acyltransferase'],Homodimer.,[],2
+V5BC85,224,['Choline ethanolamine kinase'],Homodimer.,[],2
+V5BT39,225,['phosphatidylserine decarboxylase'],Homodimer.,[],2
+V5BT10,226,['Putative katanin'],Homodimer.,[],2
+V5ALB6,227,['1-acyl-sn-glycerol-3-phosphate acyltransferase'],Homodimer.,[],2
+V5DJS7,228,['Dihydroxyacetone phosphate acyltransferase'],Homodimer.,[],2
+V5BFX7,229,['Cardiolipin synthetase'],Homodimer.,[],2
+V5AXY5,230,['Phosphatidate cytidylyltransferase-like protein'],Homodimer.,[],2
+V5D1I7,231,['Phosphatidate cytidylyltransferase'],Homodimer.,[],2
+V5BQJ5,232,['Choline kinase'],Homodimer.,[],2
+V5ATE0,233,['CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase'],Homodimer.,[],2
+V5B3K4,234,['Choline/ethanolamine phosphotransferase (CEPT)'],Homodimer.,[],2
+V5BD69,235,['Threonine synthase'],Homodimer.,[],2
+V5BEA8,236,['2-amino-3-ketobutyrate coenzyme A ligase'],Homodimer.,[],2
+V5BMT3,237,['Homoserine kinase'],Homodimer.,[],2
+V5DSV1,238,['serine--tRNA ligase'],Homodimer.,[],2
+V5ANN4,239,['Glycine dehydrogenase'],Homodimer.,[],2
+V5ASA0,240,['threonine--tRNA ligase'],Homodimer.,[],2
+V5BU59,241,"['dTDP-glucose 4,6-dehydratase']",Homodimer.,[],2
+V5AU76,242,['glycine--tRNA ligase'],Homodimer.,[],2
+V5BI57,243,['Malate dehydrogenase'],Homodimer.,[],2
+V5BBD4,244,"['pyruvate, phosphate dikinase']",Homodimer.,[],2
+V5BQ43,245,['Phosphotransferase'],Homodimer.,[],2
+V5DME2,246,['phosphopyruvate hydratase'],Homodimer.,[],2
+V5BRU1,247,['phosphopyruvate hydratase'],Homodimer.,[],2
+V5D3E1,248,['Putative malate dehydrogenase'],Homodimer.,[],2
+V5BHN5,249,['Malate dehydrogenase'],Homodimer.,[],2
+V5BN69,250,['phosphoenolpyruvate carboxykinase (ATP)'],Homodimer.,[],2
+V5DRF2,251,['Fructose-bisphosphate aldolase'],Homodimer.,[],2
+V5DG44,252,['Glucose-6-phosphate isomerase'],Homodimer.,[],2
+V5C1M1,253,['Pyruvate kinase'],Homotetramer.,[],4
+V5DTU9,254,['ATP-dependent 6-phosphofructokinase'],Homotetramer.,"['pfk', 'TCDM_00278']",4
+V5BIQ8,255,['glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)'],Homotetramer.,[],4
+V5AYW7,256,['glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)'],Homotetramer.,[],4
+V5AJS6,257,['glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)'],Homotetramer.,[],4
+V5B797,258,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,[],4
+V5AUH1,259,['Glycerol-3-phosphate dehydrogenase'],Homotetramer.,[],4
+V5BBU8,260,['Glucokinase'],Homotetramer.,[],4
+V5C0L2,261,['Triosephosphate isomerase'],Homodimer.,[],2
+V5BX24,262,['Phosphoglycerate kinase'],Monomer.,[],1
+V5BGD8,263,['Phosphoglycerate kinase'],Monomer.,[],1
+V5BVH7,264,['Glycerol-3-phosphate dehydrogenase (FAD-dependent)'],Monomer.,[],1
+V5BAG7,265,['Phosphoglycerate kinase'],Monomer.,[],1
+V5AY67,266,['fructose-bisphosphatase'],Monomer.,[],1
+V5BY50,267,['glycerol kinase'],Monomer.,[],1
+V5B7Z0,268,['Aldose 1-epimerase'],Monomer.,[],1
+V5DSN1,269,['fumarate hydratase'],Homodimer.,[],2
+V5B6V2,270,"['Serine/threonine-protein phosphatase PGAM5, mitochondrial']",Homodimer.,[],2
+V5BM55,271,"['phosphoglycerate mutase (2,3-diphosphoglycerate-independent)']",Homodimer.,[],2
+V5D5P0,272,"['2,3-bisphosphoglycerate-independent phosphoglycerate mutase']",Homodimer.,[],2
+V5BGT0,273,['histidine--tRNA ligase'],Homodimer.,[],2
+V5AS37,274,"[""3'(2'),5'-bisphosphate nucleotidase""]",Homodimer.,[],2
+V5DJN2,275,['Phosphatidylinositol-4-phosphate 5-kinase'],Homodimer.,[],2
+V5BV28,276,['Phosphatidylinositol-4-phosphate 5-kinase'],Homodimer.,[],2
+V5B692,277,['non-specific serine/threonine protein kinase'],Homodimer.,[],2
+V5ASU4,278,['Putative target of rapamycin (TOR) kinase 1'],Homodimer.,[],2
+V5DRY4,279,['non-specific serine/threonine protein kinase'],Homodimer.,[],2
+V5B659,280,['Serine/threonine-protein kinase TOR'],Homodimer.,[],2
+V5AV20,281,['phosphatidylinositol 3-kinase'],Homodimer.,[],2
+V5B8A9,282,['Serine/threonine-protein kinase TOR'],Homodimer.,[],2
+V5AW82,283,['Phosphatidylinositol kinase'],Homodimer.,[],2
+V5B4K7,284,['Inositol-1-monophosphatase'],Homodimer.,[],2
+V5BJH0,285,['Inositol-1-monophosphatase'],Homodimer.,[],2
+V5DI64,286,['Phosphatidylinositol 4-kinase alpha'],Homodimer.,[],2
+V5BLS0,287,['1-phosphatidylinositol 4-kinase'],Homodimer.,[],2
+V5DMW0,288,['Phosphatidylinositol 4-kinase'],Homodimer.,[],2
+V5BWK2,289,['Phosphoinositide phospholipase C'],Homodimer.,[],2
+V5C1E4,290,['Phosphoinositide phospholipase C'],Homodimer.,[],2
+V5DT49,291,"['Inositol-1,4,5-trisphosphate (IP3) 5-phosphatase']",Homodimer.,[],2
+V5AWX5,292,['Lysine--tRNA ligase'],Homodimer.,[],2
+V5ASS1,293,['Lysine--tRNA ligase'],Homodimer.,[],2
+V5B654,294,"['1,2-Dihydroxy-3-keto-5-methylthiopentene dioxygenase']",Homodimer.,[],2
+V5D947,295,['acireductone dioxygenase (Fe(2+)-requiring)'],Homodimer.,[],2
+V5B9M2,296,['Adenosylhomocysteinase'],Homodimer.,[],2
+V5B756,297,['S-adenosylmethionine synthase'],Homodimer.,[],2
+V5DNV4,298,['S-adenosylmethionine decarboxylase proenzyme'],Homodimer.,[],2
+V5B784,299,['S-adenosylmethionine decarboxylase proenzyme'],Homodimer.,[],2
+V5BXP8,300,['Inorganic polyphosphate/ATP-NAD kinase'],Homodimer.,[],2
+V5AZU7,301,['nicotinate phosphoribosyltransferase'],Homodimer.,[],2
+V5BSM6,302,['Inosine-adenosine-guanosine-nucleoside hydrolase'],Homodimer.,[],2
+V5B7R2,303,['Nitrate reductase'],Homodimer.,[],2
+V5ALW5,304,['thioredoxin-dependent peroxiredoxin'],Homodimer.,[],2
+V5BKV6,305,['Carbonic anhydrase-like protein'],Homodimer.,[],2
+V5BSV4,306,['inorganic diphosphatase'],Homodimer.,[],2
+V5BCE6,307,['Trypanothione synthetase'],Homodimer.,[],2
+V5BQ93,308,['Trypanothione synthetase'],Homodimer.,[],2

@@ -1,0 +1,458 @@
+{
+    "REST": {
+        "Bacillus subtilis": [
+            2.07,
+            1.37,
+            3.96,
+            1.09,
+            2.08
+        ],
+        "Homo sapiens": [
+            0.02033333,
+            0.01,
+            0.003,
+            0.0015,
+            0.002333333,
+            0.04683333,
+            0.0025,
+            0.0735,
+            0.01233333,
+            0.033,
+            0.05133333,
+            0.008833333,
+            0.004,
+            0.05466667,
+            0.0125,
+            0.01666667,
+            0.05116667,
+            0.01466667,
+            0.2116667,
+            0.0305,
+            0.03166667,
+            0.2016667,
+            0.02,
+            2.3,
+            2.5,
+            1.8,
+            1.1,
+            0.305,
+            0.195,
+            0.2066667,
+            0.21,
+            0.19,
+            0.2583333,
+            0.135,
+            0.068,
+            0.2533333,
+            0.6666667,
+            0.195,
+            4.0,
+            1.5,
+            0.011,
+            0.001,
+            0.0004333333,
+            0.003,
+            2.283333,
+            5.233333,
+            0.001666667,
+            0.1125,
+            0.0006666667,
+            0.4333333,
+            0.2666667,
+            0.5833333,
+            0.2,
+            0.04333333,
+            0.01833333
+        ],
+        "Enterococcus faecium": [
+            35.0,
+            35.0,
+            5.2,
+            2.4
+        ],
+        "Xanthomonas campestris": [
+            6.0,
+            9.8
+        ],
+        "Pseudomonas putida": [
+            0.34,
+            1.22,
+            0.79,
+            2.78,
+            2.5
+        ],
+        "Pseudomonas sp.": [
+            400.0,
+            400.0
+        ],
+        "Arthrobacter sp.": [
+            10.0
+        ],
+        "Rattus norvegicus": [
+            1.56,
+            0.55,
+            1.276667,
+            2.746667,
+            0.7133333,
+            1.371667,
+            2.003333,
+            1.546667,
+            1.425
+        ],
+        "Lactobacillus confusus": [
+            360000.0,
+            18000.0,
+            52.0
+        ],
+        "Lactobacillus delbrueckii subsp. bulgaricus": [
+            13.0,
+            19.0,
+            47.0,
+            15.0
+        ],
+        "Drosophila melanogaster": [
+            25.1,
+            40.0
+        ],
+        "Escherichia coli": [
+            50.8,
+            74.9,
+            2.0
+        ],
+        "Rhizobium meliloti": [
+            16.7,
+            6.6,
+            2.0
+        ],
+        "Schizosaccharomyces pombe": [
+            11.8,
+            4.2,
+            1.4,
+            33.0,
+            2.5
+        ],
+        "Thermotoga maritima": [
+            0.75,
+            3.3,
+            4.0,
+            4.8
+        ],
+        "Lactobacillus brevis": [
+            4.4,
+            38.1,
+            5.4,
+            44.5
+        ],
+        "Mus musculus": [
+            0.7,
+            0.8833333,
+            0.8,
+            1.016667,
+            0.5333333,
+            0.8666667
+        ],
+        "Cochlearia officinalis": [
+            1.01,
+            11.8,
+            0.16,
+            0.45,
+            2.34,
+            0.17,
+            3.54,
+            0.17,
+            0.06,
+            0.16,
+            0.16,
+            0.57,
+            0.31,
+            0.02,
+            0.12,
+            0.46,
+            0.07,
+            0.06,
+            0.09
+        ],
+        "Arabidopsis thaliana": [
+            1.06,
+            0.28,
+            0.35,
+            0.02,
+            0.7,
+            0.34,
+            0.03,
+            1.61,
+            0.17,
+            0.34,
+            0.02,
+            0.2,
+            0.03,
+            0.78,
+            0.03,
+            0.09,
+            0.01,
+            0.2,
+            0.03,
+            0.08,
+            0.01,
+            0.02,
+            0.47,
+            0.56,
+            0.13,
+            0.02,
+            0.09,
+            0.02,
+            0.83,
+            0.19,
+            0.02,
+            0.04,
+            0.17,
+            0.47,
+            0.11,
+            0.25,
+            0.28,
+            6.35,
+            3.033333,
+            2.066667,
+            1.116667,
+            0.3666667,
+            0.3166667,
+            0.1333333,
+            0.7,
+            0.002166667,
+            0.0025,
+            0.001833333,
+            0.001666667,
+            0.006,
+            5.733333,
+            1.366667,
+            1.1,
+            1.9,
+            9.966667,
+            3.666667,
+            4.45,
+            5.85,
+            1.466667,
+            0.5,
+            3.533333,
+            0.25,
+            9.683333,
+            9.666667,
+            1.7,
+            1.1,
+            7.3,
+            4.3,
+            29.6,
+            6.4,
+            1.8,
+            0.6,
+            0.4,
+            9.1,
+            0.27,
+            0.4,
+            7.3,
+            7.9,
+            9.5,
+            18.0,
+            6.6,
+            21.0
+        ],
+        "Bombyx mori": [
+            2.7,
+            7.8,
+            250.0,
+            0.87
+        ],
+        "Trichoderma reesei": [
+            0.65,
+            1.17
+        ]
+    },
+    "erthrs;h;nadph": {
+        "Bacillus subtilis": [
+            2.97,
+            4.02
+        ]
+    },
+    "h;mthgxl;nadph": {
+        "Bacillus subtilis": [
+            5.33
+        ],
+        "Escherichia coli": [
+            29.15,
+            27.61667,
+            2.85,
+            11.01667
+        ],
+        "Arabidopsis thaliana": [
+            3.2,
+            15.05,
+            2.4,
+            28.8,
+            24.0,
+            11.5
+        ]
+    },
+    "bzal;h;nadph": {
+        "Bacillus subtilis": [
+            2.59
+        ],
+        "Arabidopsis thaliana": [
+            6.25
+        ]
+    },
+    "h;nadph;pyr": {
+        "Enterococcus faecium": [
+            40.0
+        ]
+    },
+    "4mop;h;nadph": {
+        "Enterococcus faecium": [
+            5.2
+        ]
+    },
+    "2ddara;nad": {
+        "Xanthomonas campestris": [
+            7.3
+        ]
+    },
+    "andrstndn;h;nadph": {
+        "Mus musculus": [
+            0.3678333
+        ]
+    },
+    "h;mndn;nadph": {
+        "Homo sapiens": [
+            0.2116667
+        ]
+    },
+    "4mop;h;nadh": {
+        "Lactobacillus confusus": [
+            2400.0
+        ],
+        "Lactobacillus delbrueckii subsp. bulgaricus": [
+            20.0,
+            130.0,
+            128.0,
+            102.0,
+            170.0
+        ]
+    },
+    "h;nadh;phpyr": {
+        "Lactobacillus confusus": [
+            7300.0
+        ],
+        "Lactobacillus delbrueckii subsp. bulgaricus": [
+            20.0
+        ]
+    },
+    "h;nadh;pyr": {
+        "Lactobacillus confusus": [
+            90.0
+        ],
+        "Lactobacillus delbrueckii subsp. bulgaricus": [
+            48.0
+        ]
+    },
+    "mthgxl;nadh": {
+        "Escherichia coli": [
+            5.6,
+            15.7
+        ]
+    },
+    "nadh;hx2coa": {
+        "Homo sapiens": [
+            11.7
+        ]
+    },
+    "nadh;dc2coa": {
+        "Homo sapiens": [
+            6.7
+        ]
+    },
+    "andrstandn;h;nadph": {
+        "Homo sapiens": [
+            0.007833333
+        ],
+        "Arabidopsis thaliana": [
+            0.4166667,
+            0.007666667
+        ]
+    },
+    "cytc;h;nadh": {
+        "Homo sapiens": [
+            0.9
+        ],
+        "Mus musculus": [
+            0.7666667,
+            0.5,
+            0.8333333
+        ]
+    },
+    "17ahprgstrn;h;nadph": {
+        "Bombyx mori": [
+            2.9
+        ]
+    },
+    "xyl__D;h;nadph": {
+        "Trichoderma reesei": [
+            16.43,
+            12.87
+        ]
+    },
+    "rib__D;h;nadph": {
+        "Trichoderma reesei": [
+            9.15
+        ]
+    },
+    "h;arab__L;nadph": {
+        "Trichoderma reesei": [
+            12.76
+        ]
+    },
+    "gal;h;nadph": {
+        "Trichoderma reesei": [
+            1.28
+        ]
+    },
+    "glc__D;h;nadph": {
+        "Trichoderma reesei": [
+            4.8
+        ]
+    },
+    "xyl__D;h;nadh": {
+        "Trichoderma reesei": [
+            0.031
+        ]
+    },
+    "galt;nadp": {
+        "Trichoderma reesei": [
+            0.69
+        ]
+    },
+    "nadp;rbt": {
+        "Trichoderma reesei": [
+            0.66
+        ]
+    },
+    "sbt__D;nadp": {
+        "Trichoderma reesei": [
+            1.3
+        ]
+    },
+    "CE2209;nadp": {
+        "Arabidopsis thaliana": [
+            0.1066667,
+            0.001
+        ]
+    },
+    "CE2006;h;nadph": {
+        "Arabidopsis thaliana": [
+            3.6
+        ]
+    },
+    "h;nadph;ppal": {
+        "Arabidopsis thaliana": [
+            44.0
+        ]
+    }
+}

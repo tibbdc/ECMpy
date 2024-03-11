@@ -1,0 +1,48 @@
+{
+    "REST": {
+        "Shigella flexneri": [
+            0.7,
+            0.59,
+            0.024,
+            1.28,
+            0.0001,
+            0.37,
+            1.09
+        ],
+        "Salmonella typhimurium": [
+            1.94,
+            10.6,
+            1.06,
+            1.94,
+            4.76,
+            8.39,
+            22.6,
+            32.0,
+            36.0
+        ],
+        "Pseudomonas syringae": [
+            0.7
+        ],
+        "Coprinopsis cinerea": [
+            0.067,
+            0.0025
+        ],
+        "Nostoc sp.": [
+            0.053
+        ],
+        "Aspergillus clavatus": [
+            0.0069
+        ]
+    },
+    "grdp;h2o": {
+        "Nostoc sp.": [
+            0.002
+        ]
+    },
+    "grdp": {
+        "Coprinopsis cinerea": [
+            0.00016,
+            0.035
+        ]
+    }
+}

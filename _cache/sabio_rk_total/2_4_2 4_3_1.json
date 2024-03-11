@@ -1,0 +1,14 @@
+{
+    "REST": {
+        "Thermotoga maritima": [
+            0.8,
+            0.4
+        ]
+    },
+    "h2o;gln__L": {
+        "Thermotoga maritima": [
+            0.1,
+            0.1
+        ]
+    }
+}

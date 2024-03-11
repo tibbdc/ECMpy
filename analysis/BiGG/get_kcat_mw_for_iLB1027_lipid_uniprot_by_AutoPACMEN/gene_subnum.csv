@@ -1,0 +1,698 @@
+UniProtID,Unnamed: 0,proteinNames,txt_subunit,geneNames,subunitnumber
+B7FS46,2,['ATP synthase subunit beta'],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['atpB', 'PHATRDRAFT_54086']",1
+B7GA40,3,"['Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['SDH2', 'PHATRDRAFT_52539']",1
+B7FUM8,4,['Oligomycin sensitivity conferral protein'],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.",[],1
+B7G5Z8,5,['Glycine cleavage system P protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['GDCP', 'PHATRDRAFT_22187']",1
+B7FVF5,6,['Fumarate reductase flavoprotein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7G8H7,7,"[""pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)""]","The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FST3,8,['Glycine cleavage system H protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['GDCH', 'PHATRDRAFT_32847']",1
+B7FRE6,9,['ATPase F1/V1/A1 complex alpha/beta subunit nucleotide-binding domain-containing protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FR45,10,['3-methyl-2-oxobutanoate hydroxymethyltransferase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FUP6,11,['2-isopropylmalate synthase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FSH7,12,['DNA/pantothenate metabolism flavoprotein C-terminal domain-containing protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FZP8,13,['D-lactate dehydrogenase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['D-LCR', 'PHATRDRAFT_20192']",1
+B7G1X4,14,['5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FTE2,15,"['ATP synthase subunit gamma, mitochondrial']","The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7G287,16,['Uncharacterized protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7GDA8,17,['3-hydroxyacyl-[acyl-carrier-protein] dehydratase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['FABZ_2', 'PHATRDRAFT_55157']",1
+B7GB47,18,['Uncharacterized protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B5Y5A5,19,['proton-translocating NAD(P)(+) transhydrogenase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7G529,20,['inorganic diphosphatase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FT09,21,['inorganic diphosphatase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FS72,22,['Enoyl-acp reductase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['FABI', 'PHATRDRAFT_10068']",1
+B7GBF1,23,['ornithine carbamoyltransferase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.",[],1
+B7FUT6,24,['Uroporphyrinogen decarboxylase'],Homodimer.,"['HemE_2', 'PHATRDRAFT_19188']",2
+B7G0Z0,25,['Uroporphyrinogen decarboxylase'],Homodimer.,"['HemE_1', 'PHATRDRAFT_20757']",2
+B7FZ15,26,['Adenylate kinase'],Homodimer.,[],2
+B7G5D7,27,['DUF1995 domain-containing protein'],Homodimer.,[],2
+B7G2T4,28,['Adenylate kinase'],Homodimer.,[],2
+B7G5A1,29,['Glutamine synthetase'],Homodimer.,[],2
+B7FZ42,30,['AMP-dependent synthetase/ligase domain-containing protein'],Homodimer.,[],2
+B7FZB0,31,['Synthase of glutamate synthase'],Homodimer.,"['GltD', 'PHATRDRAFT_20342']",2
+B7GAZ5,32,"['Ferredoxin-dependent glutamate synthase, fusion of large and small subunits']",Homodimer.,"['GltX', 'PHATRDRAFT_51214']",2
+B7FXX6,33,['Long chain acyl-coa synthetase'],Homodimer.,"['ACS4', 'PHATRDRAFT_45510']",2
+B7G9G9,34,['fructose-bisphosphate aldolase'],Homodimer.,"['FbaC2', 'PHATRDRAFT_22993']",2
+B7G9F0,35,['Acetyl-coenzyme A synthetase'],Homodimer.,[],2
+B7G0H9,36,['Ornithine aminotransferase'],Homodimer.,"['OAT', 'PHATRDRAFT_27726']",2
+B7G3T2,37,['Geranylgeranyl diphosphate synthase'],Homodimer.,[],2
+B7GCP7,38,['CTP synthase'],Homodimer.,[],2
+B7FRU6,39,['Aminotransferase class I/classII domain-containing protein'],Homodimer.,[],2
+B7G2V2,40,['hydroxymethylglutaryl-CoA lyase'],Homodimer.,"['HCL1', 'PHATRDRAFT_13643']",2
+B7G3D4,41,['Malonyl-CoA:ACP transacylase'],Homodimer.,"['FABD', 'PHATRDRAFT_37652']",2
+B7FSG4,42,['Aminotransferase class I/classII domain-containing protein'],Homodimer.,[],2
+B7GDJ7,43,['Uncharacterized protein'],Homodimer.,[],2
+B7GDE4,44,['Aspartate aminotransferase'],Homodimer.,"['AAT_2', 'PHATRDRAFT_23871']",2
+B7FVX7,45,['Histidine decarboxylase'],Homodimer.,[],2
+B7FV67,46,['threonine ammonia-lyase'],Homodimer.,[],2
+B7G9B5,47,['Threonine dehydratase'],Homodimer.,"['TDH', 'PHATRDRAFT_49047']",2
+B7G713,48,['Catalase'],Homodimer.,[],2
+B7GAR0,49,['fructose-bisphosphatase'],Homodimer.,"['FBP', 'PHATRDRAFT_23247']",2
+B7GBU6,50,['methylmalonate-semialdehyde dehydrogenase (CoA acylating)'],Homodimer.,[],2
+B7FPB5,51,['Serine hydroxymethyltransferase'],Homodimer.,[],2
+B7G3F1,52,['Tryptophan synthase beta chain-like PALP domain-containing protein'],Homodimer.,[],2
+B7FUH0,53,['alanine transaminase'],Homodimer.,[],2
+B7G5R1,54,['Dehydrogenase'],Homodimer.,[],2
+B7GDK9,55,['Glucose-6-phosphate isomerase'],Homodimer.,"['GPI_1', 'PHATRDRAFT_23924']",2
+B7G997,56,['Nitrate reductase'],Homodimer.,[],2
+B7G3C1,57,['Triosephosphate isomerase'],Homodimer.,"['TIM_1', 'PHATRDRAFT_54738']",2
+B7FR81,58,['chorismate mutase'],Homodimer.,[],2
+B7G137,59,['Aldolase fructose-6-phosphate-aldolase'],Homodimer.,"['FSA', 'PHATRDRAFT_20779']",2
+B7G0H8,60,['fumarate hydratase'],Homodimer.,"['Fum', 'PHATRDRAFT_36139']",2
+B7G8F0,61,['Selenocysteine lyase'],Homodimer.,"['CsdB', 'PHATRDRAFT_2966']",2
+B7GDS3,62,['Spermine/spermidine synthase'],Homodimer.,[],2
+B7G0K7,63,"['Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial']",Heterodimer of an alpha and a beta subunit.,"['SCS-alpha', 'PHATRDRAFT_42015']",1
+B7GEM7,64,['Carbamate kinase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FXA2,65,"['Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial']",Heterodimer of an alpha and a beta subunit.,[],1
+B7FY24,66,['Ribulose-phosphate 3-epimerase'],Heterodimer of an alpha and a beta subunit.,"['RPE2', 'PHATRDRAFT_20015']",1
+B7G5R3,67,['transketolase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FRG3,68,['Ribulose-phosphate 3-epimerase'],Heterodimer of an alpha and a beta subunit.,"['Rpe', 'PHATRDRAFT_53935']",1
+B7G0B2,69,['dihydroxy-acid dehydratase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FXL7,70,['Formyl transferase N-terminal domain-containing protein'],Heterodimer of an alpha and a beta subunit.,[],1
+B7G718,71,"['tetrahydrofolate synthase', 'Folylpoly-gamma-glutamate synthetase', 'Tetrahydrofolylpolyglutamate synthase']",Heterodimer of an alpha and a beta subunit.,[],1
+B7FSS9,72,['Pyrroline-5-carboxylate reductase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FW28,73,['Formyltetrahydrofolate deformylase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FV89,74,['diaminopimelate epimerase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FRJ9,75,['Phospho-2-dehydro-3-deoxyheptonate aldolase'],Heterodimer of an alpha and a beta subunit.,"['AroA', 'PHATRDRAFT_24353']",1
+B7GEJ6,76,['acetylornithine transaminase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7FZ92,77,['Acetyl-CoA C-acyltransferase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7G9X0,78,['formate--tetrahydrofolate ligase'],Heterodimer of an alpha and a beta subunit.,"['FTHFS', 'PHATRDRAFT_49229']",1
+B7FTL5,79,['Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex'],Heterodimer of an alpha and a beta subunit.,"['DHLTA_4', 'PHATRDRAFT_54219']",1
+B7FT50,80,['asparagine synthase (glutamine-hydrolyzing)'],Heterodimer of an alpha and a beta subunit.,[],1
+B7G9B7,81,"['Pantoate--beta-alanine ligase', 'Pantoate-activating enzyme', 'Pantothenate synthetase']",Heterodimer of an alpha and a beta subunit.,[],1
+B7FQE2,82,['2-oxoisovalerate dehydrogenase subunit alpha'],Heterodimer of an alpha and a beta subunit.,[],1
+B7G4R3,83,['fructose-bisphosphate aldolase'],Heterodimer of an alpha and a beta subunit.,"['Fba3', 'PHATRDRAFT_29014']",1
+B7FRC1,84,['fructose-bisphosphate aldolase'],Heterodimer of an alpha and a beta subunit.,"['Fba4', 'PHATRDRAFT_42447']",1
+B7G1R8,85,['3-oxoacyl-[acyl-carrier protein'],Heterodimer of an alpha and a beta subunit.,"['FABG', 'PHATRDRAFT_13073']",1
+B7GCN5,86,['Agmatinase'],Heterodimer of an alpha and a beta subunit.,[],1
+B7G4F0,87,['Anthranilate phosphoribosyltransferase'],Heterodimer of an alpha and a beta subunit.,"['PHATRDRAFT_14230', 'PHATRDRAFT_28937']",1
+B7G4F0,88,['Anthranilate phosphoribosyltransferase'],Heterodimer of an alpha and a beta subunit.,"['PHATRDRAFT_14230', 'PHATRDRAFT_28937']",1
+B7FYT1,89,"['ATP-citrate synthase', 'ATP-citrate (pro-S-)-lyase', 'Citrate cleavage enzyme']",Homotetramer.,"['ACL', 'PHATRDRAFT_54477']",4
+B7G9P5,90,['Citrate synthase'],Homotetramer.,[],4
+B7FUY5,91,['3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)'],Homotetramer.,[],4
+B7FQ11,92,['Glycerol-3-phosphate dehydrogenase [NAD(+)]'],Homotetramer.,[],4
+B7G1X8,93,['3-isopropylmalate dehydrogenase'],Homodimer.,"['IPMDH', 'PHATRDRAFT_20934']",2
+B7FPF7,94,['3-dehydroquinate synthase domain-containing protein'],Homodimer.,[],2
+B7FT67,95,['Triosephosphate isomerase'],Homodimer.,[],2
+B7FNW0,96,['NADPH--hemoprotein reductase'],Homodimer.,[],2
+B7G177,97,['3-dehydroquinate synthase'],Homodimer.,"['AroB', 'PHATRDRAFT_20809']",2
+B7FSQ0,98,['Triosephosphate isomerase'],Homodimer.,[],2
+B7FPB6,99,['Ribonucleoside-diphosphate reductase'],Homodimer.,[],2
+B7G0T4,100,['Heme oxygenase (biliverdin-producing)'],Homodimer.,[],2
+B7FYD5,101,['Heme oxygenase'],Homodimer.,[],2
+B7GE26,102,['Hydratase enyol-coa hydratase'],Homodimer.,[],2
+B7GBG1,103,['pyruvate carboxylase'],Homodimer.,"['PYC1', 'PHATRDRAFT_30519']",2
+B7FQI2,104,['Tryptophan synthase'],Homodimer.,[],2
+B7G2W2,105,['3-oxoacyl-[acyl-carrier-protein] synthase'],Homodimer.,"['FABFa', 'PHATRDRAFT_37367']",2
+B7GDA9,106,['Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex'],Homodimer.,"['DHLTA_3', 'PHATRDRAFT_23850']",2
+B7GCM0,107,['Nodulation protein E'],Homodimer.,"['FABB', 'PHATRDRAFT_52648']",2
+B7GBQ6,108,['serine--tRNA ligase'],Homodimer.,[],2
+B7FQ66,109,['Serine hydroxymethyltransferase'],Homodimer.,"['SHMT2', 'PHATRDRAFT_54015']",2
+B7FS76,110,['Chorismate synthase'],Homodimer.,[],2
+B7G1G6,111,['phosphoenolpyruvate carboxylase'],Homodimer.,"['PEPCase_1', 'PHATRDRAFT_27976']",2
+B7G4H5,112,['2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase'],Homodimer.,[],2
+B7G9H4,113,['Pyruvate kinase'],Homotetramer.,"['PK2', 'PHATRDRAFT_49098']",4
+B7G0P4,114,['glutamate N-acetyltransferase'],Homotetramer.,[],4
+B7G9I8,115,"['homogentisate 1,2-dioxygenase']",Homotetramer.,[],4
+B7FZG0,116,['Pyruvate kinase'],Homotetramer.,"['PK4a', 'PHATRDRAFT_45997']",4
+B7FUX7,117,['aspartate-semialdehyde dehydrogenase'],Homodimer.,[],2
+B7G0U4,118,['Phosphoketolase'],Homodimer.,[],2
+B7GB77,119,['uroporphyrinogen decarboxylase'],Homodimer.,"['hemE', 'PHATRDRAFT_16140']",2
+B7G5P2,120,['Bifunctional aspartokinase'],Homodimer.,[],2
+B7G585,121,"['pyruvate, phosphate dikinase']",Homodimer.,"['PPdK', 'PHATRDRAFT_21988']",2
+B7GCY9,122,['Solanesyl diphosphate synthase'],Homodimer.,[],2
+B7GD47,123,"['Methylthioribose-1-phosphate isomerase', 'S-methyl-5-thioribose-1-phosphate isomerase', 'Translation initiation factor eIF-2B subunit alpha/beta/delta-like protein']",Homodimer.,[],2
+B7G5Q3,124,['Nucleoside phosphorylase domain-containing protein'],Homodimer.,[],2
+B7FQJ9,125,['Bifunctional dihydrofolate reductase-thymidylate synthase'],Homodimer.,[],2
+B7FRH0,126,['Cysteine synthase'],Homodimer.,"['cysK', 'PHATRDRAFT_3311']",2
+B7FPZ8,127,"['3-isopropylmalate dehydratase', 'Alpha-IPM isomerase', 'Isopropylmalate isomerase']",Homodimer.,[],2
+B7FZN6,128,['Pyruvate dehydrogenase E1 component subunit beta'],Homodimer.,"['PDHB1', 'PHATRDRAFT_20183']",2
+B7FV31,129,['Argininosuccinate lyase'],Homodimer.,[],2
+B7G3I7,130,['Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex'],Homodimer.,"['DHLTA_2', 'PHATRDRAFT_13894']",2
+B7G430,131,['thymidylate synthase'],Homodimer.,[],2
+B7FP61,132,['Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex'],Homodimer.,"['DHLTA_1', 'PHATRDRAFT_17401']",2
+B7FV10,133,['1-hydroxy-2-methyl-2-(E)-butenyl-4-diphosphate synthase'],Homodimer.,"['HDS', 'PHATRDRAFT_44955']",2
+B7GB64,134,['Alanine glyoxylate aminotransferase'],Homodimer.,[],2
+B7FRY0,135,['aspartate carbamoyltransferase'],Homodimer.,[],2
+B7FWU0,136,['dihydroorotase'],Homodimer.,[],2
+B7FYT9,137,['Malate synthase'],Homodimer.,"['MS', 'PHATRDRAFT_54478']",2
+B7FUR4,138,"['Aconitate hydratase B', '(2R,3S)-2-methylisocitrate dehydratase', '(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase', '2-methyl-cis-aconitate hydratase']",Homodimer.,[],2
+B7FUR5,139,['Photosystem II 12 kDa extrinsic protein'],Homodimer.,[],2
+B7G786,140,['CN hydrolase domain-containing protein'],Homodimer.,[],2
+B7FZ96,141,['Oxygen-evolving enhancer protein 1'],Homodimer.,"['PsbO', 'PHATRDRAFT_20331']",2
+B7FZ94,142,['Oxygen-evolving enhancer protein 3'],Homodimer.,"['OEE3', 'PHATRDRAFT_54499']",2
+B7G9G3,143,['Lipoamide dehydrogenase'],Homodimer.,"['pDLDH1', 'PHATRDRAFT_30113']",2
+B7FVM3,144,['Dihydrolipoyl dehydrogenase'],Homodimer.,"['DLDH', 'PHATRDRAFT_26432']",2
+B7FUM7,145,['Adenylosuccinate synthetase'],Homodimer.,[],2
+B7FSU4,146,"['UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase', 'GlcNAc-1-P transferase', 'N-acetylglucosamine-1-phosphate transferase']",Homodimer.,[],2
+B7GAS5,147,['Photosystem II subunit'],Homodimer.,"['PsbM', 'PHATRDRAFT_55057']",2
+B7FR40,148,['pyridoxal kinase'],Homodimer.,[],2
+B7G027,149,['Tocopherol o-methyltransferase'],Homodimer.,"['TMT', 'PHATRDRAFT_20470']",2
+B7FQ34,150,['Helicase ATP-binding domain-containing protein'],Homodimer.,[],2
+B7G2B9,151,['Trifunctional purine biosynthetic protein adenosine-3'],Homodimer.,[],2
+B7FQW0,152,['Phosphoribosyltransferase domain-containing protein'],Homodimer.,[],2
+B7FQE5,153,"['phosphoribosylformylglycinamidine synthase', 'Formylglycinamide ribonucleotide amidotransferase', 'Formylglycinamide ribotide amidotransferase']",Homodimer.,[],2
+B7GBW9,154,['Glucose transport protein'],Homodimer.,[],2
+B7FZR4,155,['Major facilitator superfamily (MFS) profile domain-containing protein'],Homodimer.,[],2
+B7G0I5,156,['GMP synthase [glutamine-hydrolyzing]'],Homodimer.,[],2
+B7GBH2,157,['Delta-1-pyrroline-5-carboxylate synthase'],Homodimer.,"['P5CS', 'PHATRDRAFT_55086']",2
+B7FP55,158,"[""Inosine-5'-monophosphate dehydrogenase""]",Homotetramer.,[],4
+B7GCG9,159,"['Pyrophosphate--fructose 6-phosphate 1-phosphotransferase', '6-phosphofructokinase, pyrophosphate dependent', 'PPi-dependent phosphofructokinase', 'PPi-PFK', 'Pyrophosphate-dependent 6-phosphofructose-1-kinase']",Homodimer or homotetramer.,[],2
+B7FPZ7,160,['histidinol dehydrogenase'],Homodimer or homotetramer.,[],2
+B7GAB0,161,['Pyruvate dehydrogenase E1 component subunit alpha'],Homodimer or homotetramer.,"['PDHA1', 'PHATRDRAFT_55035']",2
+B7G307,162,['Alcohol dehydrogenase'],Homodimer or homotetramer.,"['ADH_1', 'PHATRDRAFT_52208']",2
+B7FTQ8,163,['Magnesium-protoporphyrin IX methyltransferase'],Homodimer or homotetramer.,"['chlM', 'PHATRDRAFT_18872']",2
+B7G0N4,164,['Alcohol dehydrogenase'],Homodimer or homotetramer.,"['ADH_2', 'PHATRDRAFT_12757']",2
+B7G938,165,['Phosphoglycerate kinase'],Monomer.,"['PGK', 'PHATRDRAFT_48983']",1
+B7GAM1,166,['Cycloeucalenol cycloisomerase'],Monomer.,[],1
+B7GEJ8,167,['Uncharacterized protein'],Monomer.,[],1
+B7GAD6,168,['Aromatic amino acid beta-eliminating lyase/threonine aldolase domain-containing protein'],Monomer.,[],1
+B7GA44,169,"['sulfate adenylyltransferase', 'ATP-sulfurylase', 'Sulfate adenylate transferase']",Monomer.,[],1
+B7G6Z9,170,['Pyruvate kinase'],Homotetramer.,"['PK1', 'PHATRDRAFT_22404']",4
+B7G3D2,171,['prephenate dehydratase'],Homotetramer.,[],4
+B7GBV4,172,['Amine oxidase'],Homotetramer.,"['PDS2', 'PHATRDRAFT_55102']",4
+B7GBP0,173,['Sugar phosphate transporter domain-containing protein'],Homotetramer.,[],4
+B7FWX4,174,['Dolichol-phosphate mannosyltransferase subunit 1'],Component of the dolichol-phosphate mannose (DPM) synthase complex.,"['DPM1', 'PHATRDRAFT_19705']",1
+B7FWQ7,175,['Uncharacterized protein'],Component of the dolichol-phosphate mannose (DPM) synthase complex.,[],1
+B7FWY2,176,['hydroxymethylbilane synthase'],Component of the dolichol-phosphate mannose (DPM) synthase complex.,"['hemC', 'PHATRDRAFT_51811']",1
+B7FXR7,177,['Coproporphyrinogen oxidase'],Component of the dolichol-phosphate mannose (DPM) synthase complex.,"['HemF_3', 'PHATRDRAFT_12186']",1
+B7G7B7,178,['cysteine synthase'],Component of the dolichol-phosphate mannose (DPM) synthase complex.,"['CysK', 'PHATRDRAFT_54915']",1
+B7FUS9,179,['2-dehydro-3-deoxy-phosphogluconate aldolase'],Component of the dolichol-phosphate mannose (DPM) synthase complex.,[],1
+B7G7A5,180,['coproporphyrinogen oxidase'],Homodimer.,"['HemF_1', 'PHATRDRAFT_15068']",2
+B7G0U3,181,['Probable acetate kinase'],Homodimer.,[],2
+B7GDU9,182,['Protoporphyrinogen oxidase'],Homodimer.,"['PPO', 'PHATRDRAFT_31109']",2
+B7FVQ7,183,['Imidazole glycerol phosphate synthase hisHF'],Homodimer.,[],2
+B7FT14,184,['Adenosylhomocysteinase'],Homodimer.,[],2
+B7GA98,185,['pyruvate carboxylase'],Homodimer.,"['PYC2', 'PHATRDRAFT_49339']",2
+B7FV03,186,['phosphoserine phosphatase'],Homodimer.,"['PSP', 'PHATRDRAFT_19244']",2
+B7FVA8,187,['Isocitrate dehydrogenase (NADP(+))'],Homodimer.,[],2
+B7G6K6,188,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,"['GapC2a', 'GapC2b', 'PHATRDRAFT_51128', 'PHATRDRAFT_51129']",4
+B7GBE7,189,['dihydrolipoyllysine-residue succinyltransferase'],Homotetramer.,[],4
+B7G4T8,190,"['2-oxoglutarate dehydrogenase, mitochondrial']",Homotetramer.,"['OGD1', 'PHATRDRAFT_29016']",4
+B7G620,191,"['Isocitrate dehydrogenase [NAD(+)] 1, mitochondrial', 'PtIDH1']",Homodimer.,"['IDH1', 'PHATRDRAFT_14762']",2
+B7FSS5,192,['3-phosphoshikimate 1-carboxyvinyltransferase'],Homodimer.,"['EPSPsy', 'PHATRDRAFT_18246']",2
+B7G627,193,['Arginase'],Homodimer.,[],2
+B7GC94,194,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,"['GAPDH_3', 'PHATRDRAFT_23598']",4
+B7G5Q1,195,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,"['GapC1', 'PHATRDRAFT_22122']",4
+B7G959,196,['LL-diaminopimelate aminotransferase'],Homotetramer.,[],4
+B7G5G4,197,['Phosphoglycerate kinase'],Monomer.,[],1
+B7G3X3,198,['Glutamate dehydrogenase'],Homohexamer.,[],6
+B7FT68,199,['4-hydroxy-tetrahydrodipicolinate reductase'],Homohexamer.,[],6
+B7FQ83,200,['glutamate--tRNA ligase'],Homohexamer.,"['GluRS_1', 'PHATRDRAFT_51430']",6
+B7FWY4,201,['Glutamate/phenylalanine/leucine/valine/L-tryptophan dehydrogenase C-terminal domain-containing protein'],Homohexamer.,[],6
+B7FSI4,202,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,"['GapC4', 'PHATRDRAFT_32747']",4
+B7FSI3,203,['glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)'],Homotetramer.,"['TPI/GapC3', 'PHATRDRAFT_25308']",4
+B7FT63,204,['Glutamyl-tRNA reductase'],Homotetramer.,"['HemA', 'PHATRDRAFT_54134']",4
+B7FPN7,205,['Aldehyde dehydrogenase'],Homotetramer.,[],4
+B7G798,206,"['Methionyl-tRNA formyltransferase, mitochondrial']",Homotetramer.,[],4
+B7GDA6,207,['Acetohydroxy-acid reductoisomerase'],Homotetramer.,[],4
+B7FYS6,208,['Formidase'],Homotetramer.,[],4
+B7FXR0,209,['Formamidase'],Homotetramer.,[],4
+B7FYV2,210,['Ornithine cyclodeaminase'],Homotetramer.,[],4
+B7G2E3,211,['Uncharacterized protein'],Homotetramer.,[],4
+B7G754,212,['cystathionine gamma-lyase'],Homotetramer.,[],4
+B7G6I8,213,['Uncharacterized protein'],Homotetramer.,[],4
+B7FZ04,214,['isopentenyl-diphosphate Delta-isomerase'],Homotetramer.,[],4
+B7FUA8,215,['Aspartate/glutamate/uridylate kinase domain-containing protein'],Homotetramer.,[],4
+B7FNT8,216,['Succinate semialdehyde dehydrogenase'],Homotetramer.,"['SSDH', 'PHATRDRAFT_31599']",4
+B7GAN1,217,['ethanolamine-phosphate cytidylyltransferase'],Homotetramer.,[],4
+B7G052,218,['arginine--tRNA ligase'],Homotetramer.,[],4
+B7FU89,219,['Farnesyltranstransferase'],Homotetramer.,[],4
+B7G3D5,220,['tRNA synthetases class I catalytic domain-containing protein'],Homotetramer.,[],4
+B7FU99,221,['Amidohydrolase-related domain-containing protein'],Homotetramer.,[],4
+B7FUX6,222,['cysteine--tRNA ligase'],Homotetramer.,[],4
+B7FX58,223,['glycine--tRNA ligase'],Homotetramer.,[],4
+B7FWI9,224,['inositol-3-phosphate synthase'],Homotetramer.,[],4
+B7GE55,225,['histidine--tRNA ligase'],Homotetramer.,[],4
+B7FRF4,226,['isoleucine--tRNA ligase'],Homotetramer.,[],4
+B7G888,227,['isoleucine--tRNA ligase'],Homotetramer.,[],4
+B7GC47,228,"['Divinyl chlorophyllide a 8-vinyl-reductase, chloroplastic']",Homotetramer.,[],4
+B7FUC3,229,['leucine--tRNA ligase'],Homotetramer.,[],4
+B7FQH9,230,['Lysine--tRNA ligase'],Homotetramer.,[],4
+B7G7W5,231,['Urease'],Homotetramer.,[],4
+B7GC21,232,['proline--tRNA ligase'],Homotetramer.,[],4
+B7FRT7,233,['Uncharacterized protein'],Homotetramer.,[],4
+B7G6K7,234,['Fe2OG dioxygenase domain-containing protein'],Homotetramer.,[],4
+B7FQC5,235,['valine--tRNA ligase'],Homotetramer.,[],4
+B7G3Y1,236,['valine--tRNA ligase'],Homotetramer.,[],4
+B7FYY7,237,['NAD(+) kinase'],Homotetramer.,[],4
+B7G6Q6,238,"['GLNA, glutamine synthase']",Homotetramer.,"['GLNA', 'PHATRDRAFT_22357']",4
+B7FTA8,239,['Triose phosphate/phosphate translocator'],Homotetramer.,"['TPT2', 'PHATRDRAFT_50742']",4
+B7G3Q8,240,['Phosphatidate cytidylyltransferase'],Homotetramer.,[],4
+B7FQ79,241,['Plastidic triose-phosphate/phosphate translocator'],Homotetramer.,"['Tpt3', 'PHATRDRAFT_54017']",4
+B7FRV2,242,['Sugar phosphate transporter domain-containing protein'],Homotetramer.,[],4
+B7G4M3,243,"['Diacylglycerol kinase', 'DAG kinase']",Homotetramer.,[],4
+B7FPD9,244,['Triose phosphate/phosphate translocator'],Homotetramer.,"['Tpt1', 'PHATRDRAFT_24610']",4
+B7FWX5,245,['fumarate hydratase'],Homodimer.,"['FUM1', 'PHATRDRAFT_19708']",2
+B7FQB8,246,['CDP-diacylglycerol--inositol 3-phosphatidyltransferase'],Homodimer.,[],2
+B7G1A1,247,['Choline kinase'],Homodimer.,[],2
+B7GD69,248,['Phosphoglycerate mutase'],Homodimer.,[],2
+B7FU06,249,['Phosphoglycerate mutase'],Homodimer.,"['PGAM_6', 'PHATRDRAFT_33839']",2
+B7GA25,250,['PI3K/PI4K catalytic domain-containing protein'],Homodimer.,[],2
+B7G377,251,['PIPK domain-containing protein'],Homodimer.,[],2
+B7G237,252,['procollagen-proline 4-dioxygenase'],Homodimer.,[],2
+B7G2E7,253,"[""Pyridoxamine 5'-phosphate oxidase Alr4036 family FMN-binding domain-containing protein""]",Homodimer.,[],2
+B7FSU6,254,['Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein'],Homodimer.,[],2
+B7FY73,255,['phosphoglycerate dehydrogenase'],Homodimer.,[],2
+B7FY72,256,['phosphoglycerate dehydrogenase'],Homodimer.,[],2
+B7GAW8,257,['PIPK domain-containing protein'],Homodimer.,[],2
+B7G492,258,['Phosphomannomutase'],Homodimer.,"['PMM1', 'PHATRDRAFT_28882']",2
+B7FXK7,259,['glycine--tRNA ligase'],Homodimer.,[],2
+B7FSY9,260,['Rho-GAP domain-containing protein'],Homodimer.,[],2
+B7FRD6,261,['phosphoserine transaminase'],Homodimer.,"['PSAT', 'PHATRDRAFT_42458']",2
+B7FVX2,262,['NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12'],Homodimer.,[],2
+B7GCX8,263,['Aromatic amino acid beta-eliminating lyase/threonine aldolase domain-containing protein'],Homodimer.,[],2
+B7GAC4,264,['PI3K/PI4K catalytic domain-containing protein'],Homodimer.,[],2
+B7G3W2,265,['NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13'],Homodimer.,[],2
+B7GCU5,266,['Myotubularin phosphatase domain-containing protein'],Homodimer.,[],2
+B7FQ48,267,['NAD-dependent epimerase/dehydratase domain-containing protein'],Homodimer.,[],2
+B7G7E3,268,['Homoserine dehydrogenase'],Homodimer.,[],2
+B7FXG3,269,['NADH:ubiquinone reductase (non-electrogenic)'],Homodimer.,[],2
+B7FWT4,270,['Homoserine dehydrogenase'],Homodimer.,[],2
+B7GBU7,271,['Phosphoinositide phospholipase C'],Homodimer.,[],2
+B7G757,272,['Phosphatidylinositol-specific phospholipase C X domain-containing protein'],Homodimer.,[],2
+B7GES5,273,['NADH:ubiquinone oxidoreductase-like 20kDa subunit domain-containing protein'],Homodimer.,[],2
+B7FVM2,274,['Kinase'],Homodimer.,[],2
+B7FQK3,275,['Inositol-pentakisphosphate 2-kinase'],Homodimer.,[],2
+B7FTN8,276,['Phospholipase/carboxylesterase/thioesterase domain-containing protein'],Homodimer.,[],2
+B7G4G0,277,['Lysophospholipase'],Homodimer.,[],2
+B7G1B0,278,['homoserine kinase'],Homodimer.,[],2
+B7G9C6,279,['Threonine synthase'],Homodimer.,[],2
+B7FYQ1,280,['Threonine synthase'],Homodimer.,[],2
+B7FVC5,281,['4-hydroxy-tetrahydrodipicolinate synthase'],Homodimer.,[],2
+B7G3A2,282,['Diaminopimelate decarboxylase'],Homodimer.,[],2
+B7FRC2,283,['Acyl carrier protein'],Homodimer.,"['ACPZ', 'PHATRDRAFT_31440']",2
+B7GBA8,284,['glycerophosphodiester phosphodiesterase'],Homodimer.,[],2
+B7FV69,285,['NADH:ubiquinone reductase (non-electrogenic)'],Homodimer.,[],2
+B7FQ33,286,['glycerophosphodiester phosphodiesterase'],Homodimer.,[],2
+B7G4H7,287,['4Fe-4S ferredoxin-type domain-containing protein'],Homodimer.,[],2
+B7GCV4,288,['AB hydrolase-1 domain-containing protein'],Homodimer.,[],2
+B7FV90,289,"['NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9', 'Complex I-B22', 'NADH-ubiquinone oxidoreductase B22 subunit']",Homodimer.,[],2
+B7G117,290,['O-acetylhomoserine'],Homodimer.,[],2
+B7GAN7,291,['Acyltransferase'],Homodimer.,[],2
+B7G964,292,['Uncharacterized protein'],Homodimer.,[],2
+B7FT04,293,['diacylglycerol O-acyltransferase'],Homodimer.,[],2
+B7G0B1,294,['Cystathionine beta-synthase'],Homodimer.,"['Cbs', 'PHATRDRAFT_42003']",2
+B7GAW0,295,['cystathionine gamma-lyase'],Homodimer.,[],2
+B7FTW1,296,['Aspartate--ammonia ligase'],Homodimer.,[],2
+B7FW24,297,['Aminoacyl-transfer RNA synthetases class-II family profile domain-containing protein'],Homodimer.,[],2
+B7G1S2,298,['asparaginase'],Homodimer.,[],2
+B7FST0,299,['ATP phosphoribosyltransferase'],Homodimer.,[],2
+B7FZT2,300,['imidazoleglycerol-phosphate dehydratase'],Homodimer.,"['PHATRDRAFT_12810', 'PHATRDRAFT_12888']",2
+B7G747,301,['histidinol-phosphate transaminase'],Homodimer.,[],2
+B7FRR8,302,['Prephenate dehydrogenase'],Homodimer.,[],2
+B7G1T1,303,['phenylalanine 4-monooxygenase'],Homodimer.,[],2
+B7G4I9,304,['4a-hydroxytetrahydrobiopterin dehydratase'],Homodimer.,[],2
+B7FRL0,305,['p-aminobenzoic acid synthase'],Homodimer.,[],2
+B7GAZ3,306,['Acyltransferase'],Homodimer.,[],2
+B7FP00,307,['Acyltransferase'],Homodimer.,[],2
+B7GBI2,308,['Phospholipid:diacylglycerol acyltransferase'],Homodimer.,[],2
+B7G3I9,309,['Fungal lipase-like domain-containing protein'],Homodimer.,[],2
+B7FSB2,310,['sn-1-specific diacylglycerol lipase'],Homodimer.,[],2
+B7G8E6,311,['PNPLA domain-containing protein'],Homodimer.,[],2
+B7GBW0,312,['PNPLA domain-containing protein'],Homodimer.,[],2
+B7GDZ4,313,['Fungal lipase-like domain-containing protein'],Homodimer.,[],2
+B7G4A2,314,['sn-1-specific diacylglycerol lipase'],Homodimer.,[],2
+B7FW66,315,['Serine aminopeptidase S33 domain-containing protein'],Homodimer.,[],2
+B7GDQ6,316,['Serine aminopeptidase S33 domain-containing protein'],Homodimer.,[],2
+B7FYF6,317,['PNPLA domain-containing protein'],Homodimer.,[],2
+B7G4N1,318,['GTP cyclohydrolase 1'],Homodimer.,[],2
+B7GAW2,319,"['L-galactono-1,4-lactone dehydrogenase']",Homodimer.,[],2
+B7FTA7,320,['6-pyruvoyltetrahydropterin synthase'],Homodimer.,[],2
+B7FY54,321,['1-acyl-sn-glycerol-3-phosphate acyltransferase'],Homodimer.,[],2
+B7G384,322,['Ascorbate peroxidase'],Homodimer.,"['APX1', 'PHATRDRAFT_54731']",2
+B7FQ58,323,['Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein'],Homodimer.,[],2
+B7G386,324,['Plant heme peroxidase family profile domain-containing protein'],Homodimer.,[],2
+B7FX65,325,['Sepiapterin reductase'],Homodimer.,[],2
+B7G1X6,326,['glutathione dehydrogenase (ascorbate)'],Homodimer.,[],2
+B7FQK1,327,['Acyl-[acyl-carrier-protein] desaturase'],Homodimer.,[],2
+B7FQ04,328,['monogalactosyldiacylglycerol synthase'],Homodimer.,[],2
+B7G3E0,329,['Glutathione S-transferase'],Homodimer.,[],2
+B7G3X5,330,['monogalactosyldiacylglycerol synthase'],Homodimer.,[],2
+B7GEB5,331,['Biotin carboxylase'],Homodimer.,"['ACC2', 'PHATRDRAFT_55209']",2
+B7FX80,332,['glutathione transferase'],Homodimer.,[],2
+B7FYN6,333,['GST N-terminal domain-containing protein'],Homodimer.,[],2
+B7G730,334,['Precursor of desaturase omega-6 desaturase'],Homodimer.,"['PTD12', 'PHATRDRAFT_48423']",2
+B7G817,335,['Ethanolamine kinase'],Homodimer.,[],2
+B7G9E9,336,['Glutathione transferase'],Homodimer.,[],2
+B7G9E8,337,['Methyltransferase domain-containing protein'],Homodimer.,[],2
+B7FUQ0,338,['Fatty acid desaturase domain-containing protein'],Homodimer.,[],2
+B7FQ32,339,['1-aminocyclopropane-1-carboxylate synthase'],Homodimer.,[],2
+B7G114,340,['Fatty acid desaturase domain-containing protein'],Homodimer.,[],2
+B7FY87,341,['Fe2OG dioxygenase domain-containing protein'],Homodimer.,[],2
+B7FVM7,342,['digalactosyldiacylglycerol synthase'],Homodimer.,[],2
+B7FUK6,343,['ethanolamine-phosphate cytidylyltransferase'],Homodimer.,[],2
+B7GDY8,344,"['Probable methylthioribulose-1-phosphate dehydratase', 'MTRu-1-P dehydratase']",Homodimer.,[],2
+B7FT16,345,['Inositol-1-monophosphatase'],Homodimer.,[],2
+B7GDV1,346,"['Glycosyl transferase, group 1']",Homodimer.,"['SQD2', 'PHATRDRAFT_50356']",2
+B7FQT4,347,['acireductone dioxygenase (Fe(2+)-requiring)'],Homodimer.,[],2
+B7FRK2,348,['Inositol-1-monophosphatase'],Homodimer.,[],2
+B7G6A0,349,['Rhodanese domain-containing protein'],Homodimer.,[],2
+B7G403,350,['Phosphatidate cytidylyltransferase'],Homodimer.,"['CDS1', 'PHATRDRAFT_54756']",2
+B7FRH3,351,['Rhodanese domain-containing protein'],Homodimer.,[],2
+B7G4P9,352,['Inositol-1-monophosphatase'],Homodimer.,[],2
+B7FZU9,353,['Rhodanese domain-containing protein'],Homodimer.,[],2
+B7FZ25,354,['UTP-monosaccharide-1-phosphate uridylyltransferase'],Homodimer.,[],2
+B7G454,355,['CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase'],Homodimer.,[],2
+B7FNT2,356,['Alpha-carbonic anhydrase domain-containing protein'],Homodimer.,[],2
+B7FUE9,357,['carbonic anhydrase'],Homodimer.,[],2
+B7FP30,358,['CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase'],Homodimer.,[],2
+B7GDV2,359,['Lipid desaturase domain-containing protein'],Homodimer.,[],2
+B7GCG1,360,['UTP-monosaccharide-1-phosphate uridylyltransferase'],Homodimer.,[],2
+B7GA80,361,['carbonic anhydrase'],Homodimer.,[],2
+B7FYB6,362,['Alpha-carbonic anhydrase domain-containing protein'],Homodimer.,[],2
+B7GCP2,363,['FAD-binding FR-type domain-containing protein'],Homodimer.,[],2
+B7FXP8,364,['Carbonic anhydrase'],Homodimer.,[],2
+B7G7M5,365,['cytochrome-b5 reductase'],Homodimer.,[],2
+B7G002,366,['Digalactosyldiacylglycerol synthase'],Homodimer.,[],2
+B7FUE7,367,['Alpha-carbonic anhydrase domain-containing protein'],Homodimer.,[],2
+B7G7M6,368,['cytochrome-b5 reductase'],Homodimer.,[],2
+B7FSB9,369,['Acyltransferase'],Homodimer.,[],2
+B7FYF1,370,['Bicarbonate transporter-like transmembrane domain-containing protein'],Homodimer.,"['SLC4A_1', 'PHATRDRAFT_45656']",2
+B7G3I3,371,['Desaturase delta 9 desaturase'],Homodimer.,"['PTD9', 'PHATRDRAFT_28797']",2
+B7FQY4,372,['Bicarbonate transporter-like transmembrane domain-containing protein'],Homodimer.,"['SLC4A_2', 'PHATRDRAFT_43194']",2
+B7G3Q6,373,['Glycerol-3-phosphate o-acyltransferase'],Homodimer.,"['GPT1', 'PHATRDRAFT_54709']",2
+B7G0D5,374,['PNPLA domain-containing protein'],Homodimer.,[],2
+B7FYK0,375,['Long chain acyl-coa synthetase'],Homodimer.,"['ACS1', 'PHATRDRAFT_20143']",2
+B7G957,376,['Hydrolase'],Homodimer.,[],2
+B7FXP9,377,['Bicarbonate transporter-like transmembrane domain-containing protein'],Homodimer.,[],2
+B7GDX1,378,['Alpha-galactosidase'],Homodimer.,[],2
+B7FTF0,379,['LNS2/PITP domain-containing protein'],Homodimer.,[],2
+B7GE09,380,['Major facilitator superfamily (MFS) profile domain-containing protein'],Homodimer.,[],2
+B7GAY0,381,['Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein'],Homodimer.,[],2
+B7FYA7,382,['UDP-glucose 4-epimerase'],Homodimer.,[],2
+B7GA23,383,['Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein'],Homodimer.,[],2
+B7G8J1,384,['digalactosyldiacylglycerol synthase'],Homodimer.,[],2
+B7FU30,385,['Ethanolaminephosphotransferase'],Homodimer.,[],2
+B7G063,386,['Cytochrome b-c1 complex subunit 7'],Homodimer.,[],2
+B7G235,387,['Uncharacterized protein'],Homodimer.,[],2
+B7FQP0,388,['Digalactosyldiacylglycerol synthase'],Homodimer.,[],2
+B7FYB7,389,"['Cytochrome b-c1 complex subunit Rieske, mitochondrial']",Homodimer.,[],2
+B7G8L4,390,['ABC transporter ATP-binding protein'],Homodimer.,[],2
+B7G6R1,391,['Delta 6 fatty acid desaturase'],Homodimer.,"['PTD6', 'PHATRDRAFT_29488']",2
+B7FVX0,392,"['Cytochrome c1, heme protein, mitochondrial', 'Complex III subunit 4', 'Complex III subunit IV', 'Cytochrome b-c1 complex subunit 4']",Homodimer.,[],2
+B7GEK2,393,['Precursor of desaturase omega-3 desaturase'],Homodimer.,"['PTD15', 'PHATRDRAFT_41570']",2
+B7FQ93,394,['Precursor of ligase long chain acyl-coa ligase'],Homodimer.,"['ACL1', 'PHATRDRAFT_17720']",2
+B7FUS0,395,['Uncharacterized protein'],Homodimer.,[],2
+B7FXZ0,396,['Acyl-coenzyme A oxidase'],Homodimer.,"['AOX1', 'PHATRDRAFT_19979']",2
+B7FXY6,397,['Calmodulin'],Homodimer.,[],2
+B7G4Y9,398,['Udp-n-acetylglucosamine n-acetylglucosaminyltransferase'],Homodimer.,[],2
+B7G1P3,399,['PNPLA domain-containing protein'],Homodimer.,[],2
+B7GB36,400,['Peroxisomal bifunctional enzyme'],Homodimer.,"['FAO1', 'PHATRDRAFT_55069']",2
+B7FP96,401,['N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase'],Homodimer.,[],2
+B7FZQ9,402,['acetyl-CoA C-acyltransferase'],Homodimer.,"['KCT1', 'PHATRDRAFT_41969']",2
+B7G3V4,403,['Beta-mannosyltransferase'],Homodimer.,[],2
+B7G9M2,404,['PNPLA domain-containing protein'],Homodimer.,[],2
+B7G7S6,405,"['Alpha-1,3/1,6-mannosyltransferase ALG2']",Homodimer.,[],2
+B7FW77,406,"['2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]']",Homodimer.,"['DER1', 'PHATRDRAFT_11319']",2
+B7G5X2,407,['Carnitine o-acetyltransferase'],Homodimer.,"['CAT2', 'PHATRDRAFT_48078']",2
+B7FWF7,408,['3-ketoacyl-CoA synthase'],Homodimer.,"['KAS1', 'PHATRDRAFT_26714']",2
+B7FU52,409,['Mannosyltransferase'],Homodimer.,[],2
+B7GAR2,410,"['trimethyllysine dioxygenase', 'Epsilon-trimethyllysine 2-oxoglutarate dioxygenase', 'TML hydroxylase', 'TML-alpha-ketoglutarate dioxygenase']",Homodimer.,[],2
+B7FUJ6,411,['Mannosyltransferase'],Homodimer.,[],2
+B7FUI1,412,['Branched-chain amino acid aminotransferase'],Homodimer.,[],2
+B7FSQ7,413,['Short-chain dehydrogenase/reductase acting with NAD or NADP as acceptor'],Homodimer.,[],2
+B7FU21,414,['Mannosyltransferase'],Homodimer.,[],2
+B7GDP6,415,['TauD/TfdA-like domain-containing protein'],Homodimer.,[],2
+B7G7J8,416,['dolichol kinase'],Homodimer.,[],2
+B7G476,417,['Choline/carnitine acyltransferase domain-containing protein'],Homodimer.,[],2
+B7FVT1,418,['very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase'],Homodimer.,[],2
+B7FVP6,419,['Dolichol phosphate glucosyltransferase'],Homodimer.,[],2
+B7G1M2,420,['Steroid 5-alpha reductase C-terminal domain-containing protein'],Homodimer.,[],2
+B7FZD8,421,['dolichyl-phosphate beta-glucosyltransferase'],Homodimer.,[],2
+B7G655,422,['Glycerol-3-phosphate dehydrogenase'],Homodimer.,[],2
+B7G6E0,423,['Elongation of fatty acids protein'],Homodimer.,"['ELO6b_1', 'PHATRDRAFT_22274']",2
+B7FW27,424,"['Alpha-1,3-glucosyltransferase']",Homodimer.,[],2
+B7FTR6,425,['Acyl-coenzyme A dehydrogenase'],Homodimer.,[],2
+B7GE38,426,['dolichyl-diphosphooligosaccharide--protein glycotransferase'],Homodimer.,[],2
+B7FXY5,427,['enoyl-CoA hydratase'],Homodimer.,[],2
+B7G072,428,['Elongation of fatty acids protein'],Homodimer.,"['ELO6b_2', 'PHATRDRAFT_20508']",2
+B7GE39,429,['dolichyl-diphosphooligosaccharide--protein glycotransferase'],Homodimer.,[],2
+B7G018,430,['Lysophospholipid acyltransferase'],Homodimer.,[],2
+B7FV18,431,['3-hydroxyacyl-coenzyme A dehydrogenase'],Homodimer.,"['HAD1', 'PHATRDRAFT_41886']",2
+B7G5V7,432,"['alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase']",Homodimer.,[],2
+B7G9C0,433,['3-hydroxyacyl-coenzyme A dehydrogenase'],Homodimer.,"['HAD2', 'PHATRDRAFT_39681']",2
+B7G776,434,['Delta 5 fatty acid desaturase'],Homodimer.,"['PTD5b', 'PHATRDRAFT_22459']",2
+B7G9Z1,435,['Hcy-binding domain-containing protein'],Homodimer.,[],2
+B7FPC5,436,['Elongation of fatty acids protein'],Homodimer.,[],2
+B7G6P4,437,['Hcy-binding domain-containing protein'],Homodimer.,[],2
+B7FW62,438,['Elongation of fatty acids protein'],Homodimer.,"['ELO5b', 'PHATRDRAFT_34485']",2
+B7FZ70,439,['short-chain 2-methylacyl-CoA dehydrogenase'],Homotetramer.,[],4
+B7GE13,440,"['3-hydroxy-3-methylglutaryl coenzyme A reductase', 'HMG-CoA reductase']",Homotetramer.,[],4
+B7GDK2,441,['Acetyl-coa c-acetyltransferase'],Homotetramer.,[],4
+B7FRB3,442,"['Mevalonate kinase', 'MK']",Homotetramer.,"['MK', 'PHATRDRAFT_53929']",4
+B7FRZ1,443,['Enoyl-CoA hydratase'],Homotetramer.,[],4
+B7G7I8,444,['Cytochrome b5 heme-binding domain-containing protein'],Homotetramer.,[],4
+B7G133,445,['PLD phosphodiesterase domain-containing protein'],Homotetramer.,[],4
+B7FZB6,446,['phospholipase D'],Homotetramer.,[],4
+B7GEN5,447,['Uncharacterized protein'],Homotetramer.,[],4
+B7G7B4,448,['Enoyl-CoA hydratase'],Homotetramer.,[],4
+B7GDJ5,449,['Scaffold protein Nfu/NifU N-terminal domain-containing protein'],Homotetramer.,[],4
+B7G3Y9,450,"['Lipoyl synthase 2, mitochondrial', 'Lipoate synthase 2']",Homotetramer.,[],4
+B7G805,451,['Uncharacterized protein'],Homotetramer.,[],4
+B7FRU7,452,"['Lipoyl synthase 1, mitochondrial', 'Lipoate synthase 1']",Homotetramer.,[],4
+B7FYW4,453,['Zeaxanthin epoxidase'],Homotetramer.,"['ZEP1', 'PHATRDRAFT_45845']",4
+B7FYW5,454,['Precursor of protein violaxanthin deepoxidase-like protein'],Homotetramer.,"['VDL2', 'PHATRDRAFT_45846']",4
+B7FT51,455,['Uncharacterized protein'],Homotetramer.,[],4
+B7FWQ5,456,['Uncharacterized protein'],Homotetramer.,[],4
+B7FUS8,457,['cysteine desulfurase'],Homotetramer.,"['IscS', 'PHATRDRAFT_34119']",4
+B7FT13,458,['Coumaryl-coa ligase'],Homotetramer.,"['CCL1', 'PHATRDRAFT_9896']",4
+B7FZA9,459,"['4-hydroxybenzoate polyprenyltransferase, mitochondrial', '4-HB polyprenyltransferase']",Homotetramer.,[],4
+B7G902,460,"['Selenide, water dikinase']",Homotetramer.,[],4
+B7GBY6,461,['FeS cluster biogenesis domain-containing protein'],Homotetramer.,[],4
+B7FQP2,462,['lipoyl(octanoyl) transferase'],Homotetramer.,[],4
+B7FV09,463,['cysteine desulfurase'],Homotetramer.,"['sufS', 'PHATRDRAFT_19482']",4
+B7G7H6,464,"['Ubiquinone biosynthesis protein COQ4 homolog, mitochondrial']",Component of a multi-subunit COQ enzyme complex.,[],1
+B7FZC3,465,['Glutathione reductase'],Component of a multi-subunit COQ enzyme complex.,"['Gsr_2', 'PHATRDRAFT_35819']",1
+B7FXG7,466,['Ubiquinone biosynthesis protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FTY6,467,['3-oxoacyl-[acyl-carrier-protein] synthase'],Component of a multi-subunit COQ enzyme complex.,"['FABFb', 'PHATRDRAFT_18940']",1
+B7FTF3,468,"['Ubiquinone biosynthesis O-methyltransferase, mitochondrial', '3-demethylubiquinol 3-O-methyltransferase', 'Polyprenyldihydroxybenzoate methyltransferase']",Component of a multi-subunit COQ enzyme complex.,[],1
+B7G0V9,469,['Glutathione peroxidase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GCV6,470,['Thioredoxin domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GC71,471,['FAD-binding domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G2U2,472,"['2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial']",Component of a multi-subunit COQ enzyme complex.,[],1
+B7G675,473,['Hemerythrin-like domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FV59,474,['MaoC-like domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G8X2,475,['FAD-binding domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G408,476,['Enoyl-[acyl-carrier-protein] reductase (NADH)'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GBB4,477,['FAD-binding domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G673,478,['Uncharacterized protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FU36,479,['Methyltransferase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FYH7,480,['Uncharacterized protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GCT8,481,['ferredoxin--NADP(+) reductase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FUY9,482,['Fatty acid hydroxylase domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G8M9,483,['Reductase with NAD or NADP as acceptor'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FQL9,484,['1-acylglycerol-3-phosphate O-acyltransferase'],Component of a multi-subunit COQ enzyme complex.,"['LPT1', 'PHATRDRAFT_43099']",1
+B7G0M5,485,['ferredoxin--NADP(+) reductase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G425,486,['Fatty acid hydroxylase domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G9P6,487,['Uncharacterized protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FW67,488,['Cytochrome P450'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FPS6,489,['Uncharacterized protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GB43,490,['7-dehydrocholesterol reductase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G932,491,['3-dehydrosphinganine reductase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FSX7,492,"['GDP-mannose 4,6-dehydratase']",Component of a multi-subunit COQ enzyme complex.,"['GMD1', 'PHATRDRAFT_25417']",1
+B7FVQ2,493,['DAGKc domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G7K4,494,['GDP-L-fucose synthase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G8G5,495,['AB hydrolase-1 domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G9P7,496,['Longevity assurance protein'],Component of a multi-subunit COQ enzyme complex.,"['LAG1', 'PHATRDRAFT_49163']",1
+B7G1S9,497,['TLC domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FY25,498,['Acyltransferase C-terminal domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FYD1,499,['Neutral ceramidase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FRL4,500,['Glycerol kinase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G870,501,['Dihydroderamide delta-4 desaturase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GCM7,502,['Xylose isomerase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G9X7,503,['sphinganine-1-phosphate aldolase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FV38,504,['Apyrase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G669,505,['Galactokinase'],Component of a multi-subunit COQ enzyme complex.,"['GALK1', 'PHATRDRAFT_3369']",1
+B7FUG6,506,['NADP-dependent oxidoreductase domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FXH1,507,['Uncharacterized protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FVN9,508,['Aldehyde reductase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G4W8,509,['ThiC-associated domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FPE8,510,['Nucleoside diphosphate kinase'],Component of a multi-subunit COQ enzyme complex.,"['NDK1', 'PHATRDRAFT_41676']",1
+B7G3W4,511,['Uncharacterized protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G2S9,512,['Nucleoside diphosphate kinase'],Component of a multi-subunit COQ enzyme complex.,"['NDK2', 'PHATRDRAFT_42104']",1
+B7GAV2,513,['RmlD-like substrate binding domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G7A1,514,['Aminotransferase class V domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G2N7,515,['NAD(P)-binding domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FZ80,516,['Rhodanese domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GC62,517,['Inosine triphosphate pyrophosphatase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FRM1,518,['4a-hydroxytetrahydrobiopterin dehydratase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7GEG8,519,"['CPS III, carbamoyl-phosphate synthase mitochindrial']",Component of a multi-subunit COQ enzyme complex.,[],1
+B7FZ00,520,['Thiamine phosphate synthase/TenI domain-containing protein'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FPB3,521,"[""5'-nucleotidase""]",Component of a multi-subunit COQ enzyme complex.,[],1
+B7FZC7,522,['Acid phosphatase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7FYG8,523,['tRNA pseudouridine synthase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G5W9,524,['Iron permease 1'],Component of a multi-subunit COQ enzyme complex.,"['ZIP1', 'PHATRDRAFT_52343']",1
+B7FZY3,525,['thiamine diphosphokinase'],Component of a multi-subunit COQ enzyme complex.,[],1
+B7G2I1,526,['Thiamine-triphosphatase'],Monomer.,[],1
+B7FX02,527,['Thiaminase-2/PQQC domain-containing protein'],Monomer.,[],1
+B7FVG9,528,['Uncharacterized protein'],Monomer.,[],1
+B7G5W8,529,['Zinc transporter ZupT'],Monomer.,[],1
+B7FY99,530,['tRNA pseudouridine(55) synthase'],Monomer.,[],1
+B7FUW5,531,['Uracil phosphoribosyltransferase'],Monomer.,[],1
+B7G5W7,532,['Zinc transporter'],Monomer.,[],1
+B7G078,533,['Uncharacterized protein'],Monomer.,[],1
+B7FX04,534,['Uracil phosphoribosyltransferase'],Monomer.,[],1
+B7FQV8,535,['dCMP deaminase'],Monomer.,[],1
+B7FRP4,536,['Major facilitator superfamily (MFS) profile domain-containing protein'],Monomer.,[],1
+B7G0K3,537,['Aminotransferase class I/classII domain-containing protein'],Monomer.,[],1
+B7FW79,538,['Mitochondrial carrier protein'],Monomer.,[],1
+B7FX59,539,['Uncharacterized protein'],Monomer.,[],1
+B7G277,540,['biotin synthase'],Monomer.,[],1
+B7G6K2,541,['Mitochondrial carrier protein'],Monomer.,[],1
+B7FUB3,542,['Mitochondrial phosphate carrier protein'],Monomer.,[],1
+B7G8V6,543,['Major facilitator superfamily (MFS) profile domain-containing protein'],Monomer.,[],1
+B7G7Y6,544,"['Thymidine phosphorylase', 'TP']",Homodimer.,[],2
+B7FWC7,545,"['6,7-dimethyl-8-ribityllumazine synthase', 'DMRL synthase']",Homodimer.,[],2
+B7G545,546,['Lumazine-binding domain-containing protein'],Homodimer.,[],2
+B7G610,547,['Dihydroorotate dehydrogenase domain-containing protein'],Homodimer.,[],2
+B7G767,548,['RCK C-terminal domain-containing protein'],Homodimer.,[],2
+B7FXN4,549,['riboflavin kinase'],Homodimer.,[],2
+B7GA78,550,['ADP/ATP translocase'],Monomer.,[],1
+B7G3A9,551,['riboflavin kinase'],Monomer.,"['RFK', 'PHATRDRAFT_52223']",1
+B7FUV8,552,"['1,4-dihydroxy-2-naphthoate octaprenyltransferase']",Monomer.,[],1
+B7FS29,553,"['Adenylosuccinate lyase', 'ASL']",Homotetramer. Residues from neighboring subunits contribute catalytic and substrate-binding residues to each active site.,[],4
+B7FZY6,554,"['FAD synthase', 'FAD pyrophosphorylase', 'FMN adenylyltransferase']",Homotetramer. Residues from neighboring subunits contribute catalytic and substrate-binding residues to each active site.,[],4
+B7G7K1,555,['adenine phosphoribosyltransferase'],Homodimer.,[],2
+B7G1B8,556,['Ubiquinone/menaquinone biosynthesis methyltransferase'],Homodimer.,[],2
+B7FP35,557,['NAD(P)-binding domain-containing protein'],Homodimer.,[],2
+B7GCU2,558,['Uncharacterized protein'],Homodimer.,[],2
+B7GBN9,559,['MGS-like domain-containing protein'],Homodimer.,[],2
+B7G5Y1,560,['Nudix hydrolase domain-containing protein'],Homodimer.,[],2
+B7FYM2,561,['Hypoxanthine phosphoribosyltransferase'],Homodimer.,[],2
+B7GD43,562,['Amino acid transporter'],Homodimer.,[],2
+B7FYY2,563,['glutamine--tRNA ligase'],Homodimer.,[],2
+B7GCH3,564,['Mitochondrial carrier protein'],Homodimer.,[],2
+B7FPI4,565,"[""5'-nucleotidase""]",Homodimer.,[],2
+B7GCE4,566,"['Adenosine kinase', 'AK']",Homodimer.,[],2
+B7FQZ1,567,['Mitochondrial carrier protein'],Homodimer.,[],2
+B7GE88,568,['glutamine--tRNA ligase'],Homodimer.,[],2
+B7G920,569,['Mitochondrial carrier protein'],Homodimer.,[],2
+B7FQZ2,570,['Amino acid transporter transmembrane domain-containing protein'],Homodimer.,[],2
+B7G533,571,['Folate/biopterin transporter'],Homodimer.,[],2
+B7G5P7,572,['Adenosine deaminase domain-containing protein'],Monomer.,[],1
+B7GAV1,573,['Xanthine dehydrogenase'],Monomer.,[],1
+B7GB25,574,['Amino acid transporter transmembrane domain-containing protein'],Monomer.,[],1
+B7G8C3,575,"['Electron transfer flavoprotein-ubiquinone oxidoreductase', 'ETF-QO']",Monomer.,[],1
+B7G5M3,576,['Alanine--tRNA ligase'],Monomer.,[],1
+B7G802,577,['factor independent urate hydroxylase'],Monomer.,[],1
+B7GAW6,578,['Parahox neighbor'],Monomer.,[],1
+B7FQS4,579,"['Electron transfer flavoprotein subunit beta', 'Beta-ETF']",Heterodimer of an alpha and a beta subunit.,[],1
+B7G7J0,580,['Alanine--tRNA ligase'],Monomer.,[],1
+B7FZ93,581,['Electron transfer flavoprotein subunit alpha'],Monomer.,[],1
+B7G4F2,582,['Sodium-dependent transporter'],Monomer.,[],1
+B7FXK2,583,['Amidohydrolase-related domain-containing protein'],Monomer.,[],1
+B7G9E3,584,['Amino acid transporter transmembrane domain-containing protein'],Monomer.,[],1
+B7GCT1,585,['Uncharacterized protein'],Monomer.,[],1
+B7GD24,586,['aspartate--tRNA ligase'],Monomer.,[],1
+B7G6N9,587,['Cytidyltransferase-like domain-containing protein'],Monomer.,[],1
+B7G038,588,['Allantoicase domain-containing protein'],Monomer.,[],1
+B7G8H8,589,['asparagine--tRNA ligase'],Monomer.,[],1
+B7FTB9,590,['Phosphopantetheine adenylyltransferase'],Monomer.,[],1
+B7G8G1,591,"['Serine--tRNA ligase', 'Seryl-tRNA synthetase', 'Seryl-tRNA(Ser/Sec) synthetase']",Monomer.,[],1
+B7G9K5,592,['Urea transporter'],Monomer.,[],1
+B7FXQ3,593,['Uncharacterized protein'],Monomer.,[],1
+B7G8I9,594,['Cationic amino acid transporter'],Monomer.,[],1
+B7GAX8,595,"['ADP,ATP carrier protein']",Monomer.,"['NTT1', 'PHATRDRAFT_49533']",1
+B7GDK8,596,['histidine--tRNA ligase'],Monomer.,[],1
+B7G322,597,['Calcineurin-like phosphoesterase domain-containing protein'],Monomer.,[],1
+B7G0G3,598,['phenylalanine--tRNA ligase'],Monomer.,[],1
+B7GCG6,599,['Pyrroline-5-carboxylate reductase'],Monomer.,[],1
+B7FSL5,600,['phenylalanine--tRNA ligase'],Monomer.,[],1
+B7GEB1,601,['Guanylate cyclase domain-containing protein'],Monomer.,[],1
+B7FX61,602,['Enoyl-coa hydratase'],Monomer.,[],1
+B7FVR3,603,['guanylate kinase'],Monomer.,[],1
+B7G8X9,604,['tryptophan--tRNA ligase'],Monomer.,[],1
+B7FVM9,605,['guanylate kinase'],Monomer.,[],1
+B7FVN0,606,['N-acetyltransferase domain-containing protein'],Monomer.,[],1
+B7FRB9,607,['Uncharacterized protein'],Monomer.,[],1
+B7G2T1,608,['UDP-N-acetylglucosamine diphosphorylase'],Monomer.,[],1
+B7FYG6,609,"['Glutamate--cysteine ligase', 'Gamma-ECS', 'Gamma-glutamylcysteine synthetase']",Monomer.,[],1
+B7FYN7,610,['DHHA2 domain-containing protein'],Monomer.,[],1
+B7G7W1,611,['Glycolate oxidase'],Monomer.,"['GOX', 'PHATRDRAFT_22568']",1
+B7FUG8,612,['Glycolate oxidase'],Monomer.,[],1
+B7FWC8,613,['Glycerate dehydrogenase'],Monomer.,[],1
+B7FQ25,614,['Mitochondrial 2-oxoglutarate/malate carrier protein'],Monomer.,[],1
+B7G327,615,['Cytosine-specific methyltransferase'],Monomer.,[],1
+B7FWM5,616,['Carboxylyase'],Monomer.,[],1
+B7FWW1,617,['Uncharacterized protein'],Monomer.,[],1
+B7FUT2,618,['GTP diphosphokinase'],Monomer.,[],1
+B7G919,619,['2-dehydropantoate 2-reductase'],Monomer.,[],1
+B7GCN0,620,['Aldehyde dehydrogenase domain-containing protein'],Monomer.,[],1
+B7FZD7,621,['Malic enzyme'],Monomer.,[],1
+B7G9T8,622,['ferredoxin--NADP(+) reductase'],Monomer.,[],1
+B7FTG7,623,['Chloride channel protein'],Monomer.,[],1
+B7G788,624,['Pantothenate kinase'],Monomer.,[],1
+B7G021,625,['Chloride channel protein'],Monomer.,[],1
+B7FU98,626,['Cytochrome b5 heme-binding domain-containing protein'],Monomer.,[],1
+B7FT21,627,['Flavoprotein domain-containing protein'],Monomer.,[],1
+B7FPV6,628,['Dephospho-CoA kinase'],Monomer.,[],1
+B7FVR6,629,"[""3'(2'),5'-bisphosphate nucleotidase""]",Monomer.,[],1
+B7G8L3,630,['Chloride channel protein'],Monomer.,[],1
+B7GCP4,631,['L-aspartate oxidase'],Monomer.,[],1
+B7G4H1,632,['Uncharacterized protein'],Monomer.,[],1
+B7G619,633,['quinolinate synthase'],Monomer.,[],1
+B7FST5,634,['Branched-chain-amino-acid transaminase'],Monomer.,[],1
+B7GCX7,635,['Nicotinate-nucleotide pyrophosphorylase [carboxylating]'],Hexamer formed by 3 homodimers.,[],2
+B7G3Q9,636,['Branched-chain-amino-acid aminotransferase'],Hexamer formed by 3 homodimers.,[],2
+B7G2Y3,637,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7GB41,638,['NAD(+) diphosphatase'],Hexamer formed by 3 homodimers.,[],2
+B7FXX5,639,['Glutamine-dependent NAD(+) synthetase'],Hexamer formed by 3 homodimers.,[],2
+B7FT57,640,['Branched-chain-amino-acid aminotransferase'],Hexamer formed by 3 homodimers.,[],2
+B7GC15,641,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7FXN2,642,['NAD(P)(+) transhydrogenase (Si-specific)'],Hexamer formed by 3 homodimers.,[],2
+B7FSQ9,643,['5-formyltetrahydrofolate cyclo-ligase'],Hexamer formed by 3 homodimers.,[],2
+B7GBF0,644,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7GAU3,645,['Aromatic amino acid beta-eliminating lyase/threonine aldolase domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7FUC2,646,['ornithine decarboxylase'],Hexamer formed by 3 homodimers.,[],2
+B7GD88,647,['Phosphate transporter'],Hexamer formed by 3 homodimers.,[],2
+B7FUN6,648,['Uroporphyrinogen-III synthase'],Hexamer formed by 3 homodimers.,"['HemD', 'PHATRDRAFT_44610']",2
+B7FSM0,649,['Cation/H+ exchanger domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7FRZ0,650,['Heme O synthase'],Hexamer formed by 3 homodimers.,[],2
+B7FTT9,651,"['15,16-dihydrobiliverdin:ferredoxin oxidoreductase']",Hexamer formed by 3 homodimers.,[],2
+B7G0U7,652,['ornithine decarboxylase'],Hexamer formed by 3 homodimers.,"['ODC2', 'PHATRDRAFT_12642']",2
+B7FTT8,653,"['15,16-dihydrobiliverdin:ferredoxin oxidoreductase']",Hexamer formed by 3 homodimers.,[],2
+B7G8Q6,654,['Cation/H+ exchanger domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7FXQ2,655,['Phycoerythrobilin:ferredoxin oxidoreductase'],Hexamer formed by 3 homodimers.,"['HY2', 'PHATRDRAFT_45446']",2
+B7G186,656,['Agmatine deiminase'],Hexamer formed by 3 homodimers.,[],2
+B7GE43,657,['NnrU domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7G5U6,658,['Carotenoid isomerase'],Hexamer formed by 3 homodimers.,"['CRTISO3', 'PHATRDRAFT_54842']",2
+B7FQF7,659,"['CRTISO5 carotenoid isomerase 5,phytoene dehydrogenase-related protein']",Hexamer formed by 3 homodimers.,"['CRTISO5', 'PHATRDRAFT_9210']",2
+B7FPB8,660,['adenosylmethionine decarboxylase'],Hexamer formed by 3 homodimers.,[],2
+B7FUG0,661,['H(+)-exporting diphosphatase'],Hexamer formed by 3 homodimers.,[],2
+B7FUS6,662,['Flavin-containing amine oxidase'],Hexamer formed by 3 homodimers.,[],2
+B7FWY8,663,['Carotenoid isomerase'],Hexamer formed by 3 homodimers.,"['CRTISO4', 'PHATRDRAFT_45243']",2
+B7G9Z6,664,['H(+)-exporting diphosphatase'],Hexamer formed by 3 homodimers.,[],2
+B7G5L7,665,['Carotenoid isomerase'],Hexamer formed by 3 homodimers.,"['CRTISO2', 'PHATRDRAFT_54826']",2
+B7FZC8,666,['Plasma membrane ATPase'],Hexamer formed by 3 homodimers.,"['ATPase-3A', 'PHATRDRAFT_12452']",2
+B7FXV4,667,['Carotenoid isomerase'],Hexamer formed by 3 homodimers.,"['CRTISO1', 'PHATRDRAFT_51868']",2
+B7FZZ1,668,['Aldehyde dehydrogenase'],Hexamer formed by 3 homodimers.,[],2
+B7G9D1,669,['CN hydrolase domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7FUI7,670,['Cytochrome P450'],Hexamer formed by 3 homodimers.,[],2
+B7FXZ9,671,['Sulfotransferase domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7FPS8,672,"[""3'(2'),5'-bisphosphate nucleotidase 1""]",Hexamer formed by 3 homodimers.,[],2
+B7FPH9,673,['Aminotransferase'],Hexamer formed by 3 homodimers.,[],2
+B7FPR0,674,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7G6T5,675,['glutamine--fructose-6-phosphate transaminase (isomerizing)'],Hexamer formed by 3 homodimers.,"['GFA1', 'PHATRDRAFT_14994']",2
+B7FTX3,676,['4-hydroxyphenylpyruvate dioxygenase'],Hexamer formed by 3 homodimers.,[],2
+B7G178,677,['GST N-terminal domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7G5C9,678,['Isovaleryl-CoA dehydrogenase'],Hexamer formed by 3 homodimers.,[],2
+B7GD05,679,"['Hydroxymethylglutaryl-CoA synthase', 'HMG-CoA synthase']",Hexamer formed by 3 homodimers.,[],2
+B7GB91,680,['Succinyl-CoA:3-ketoacid-coenzyme A transferase'],Hexamer formed by 3 homodimers.,"['SKT1', 'PHATRDRAFT_23365']",2
+B7G076,681,['3-hydroxyisobutyryl-CoA hydrolase'],Hexamer formed by 3 homodimers.,[],2
+B7FWL3,682,['3-hydroxyisobutyrate dehydrogenase'],Hexamer formed by 3 homodimers.,[],2
+B7GCL6,683,['propionyl-CoA carboxylase'],Hexamer formed by 3 homodimers.,[],2
+B7FZ17,684,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7FX73,685,['methylmalonyl-CoA mutase'],Hexamer formed by 3 homodimers.,[],2
+B7FSU1,686,['Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7GC92,687,['Cystathionine gamma-synthase'],Hexamer formed by 3 homodimers.,[],2
+B7FWV4,688,['1-aminocyclopropane-1-carboxylate synthase'],Hexamer formed by 3 homodimers.,[],2
+B7FXN9,689,['Nad-dependent epimerase/dehydratase'],Hexamer formed by 3 homodimers.,[],2
+B7FPV1,690,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7FRN6,691,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7FVH9,692,['Uncharacterized protein'],Hexamer formed by 3 homodimers.,[],2
+B7GCT3,693,['FAD/NAD(P)-binding domain-containing protein'],Hexamer formed by 3 homodimers.,[],2
+B7GDH2,694,['Ubiquinol oxidase (non-electrogenic)'],Hexamer formed by 3 homodimers.,[],2
+B7FUP3,695,['amino-acid N-acetyltransferase'],Hexamer formed by 3 homodimers.,[],2
+B7FPQ3,696,['Superoxide dismutase'],Hexamer formed by 3 homodimers.,"['SOD2', 'PHATRDRAFT_42832']",2
+B7FZW7,697,['Urea transporter'],Hexamer formed by 3 homodimers.,[],2
+B7FZW5,698,['Urea transporter'],Hexamer formed by 3 homodimers.,[],2

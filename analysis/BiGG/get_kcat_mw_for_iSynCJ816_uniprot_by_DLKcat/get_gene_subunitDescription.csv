@@ -1,0 +1,644 @@
+,UniProtID,proteinNames,txt_subunit,geneNames
+0,Q55128,['Aspartate aminotransferase'],Homodimer.,"['aspC', 'sll0402']"
+1,P74667,"['Diaminopimelate epimerase', 'DAP epimerase']",Homodimer.,"['dapF', 'slr1665']"
+2,P73807,['Histidinol-phosphate aminotransferase'],Homodimer.,"['hisC', 'sll1958']"
+3,P20388,['Delta(12)-fatty-acid desaturase'],Homodimer.,"['desA', 'slr1350']"
+4,Q55484,['Diaminopimelate decarboxylase'],Homodimer.,"['lysA', 'sll0504']"
+5,P74383,"['Isoaspartyl peptidase/L-asparaginase', 'Beta-aspartyl-peptidase', 'Isoaspartyl dipeptidase']",Heterotetramer of two alpha and two beta chains arranged as a dimer of alpha/beta heterodimers.,[]
+6,Q55865,['Sll0585 protein'],Heterotetramer of two alpha and two beta chains arranged as a dimer of alpha/beta heterodimers.,[]
+7,P54735,['Serine/threonine-protein kinase D'],Heterotetramer of two alpha and two beta chains arranged as a dimer of alpha/beta heterodimers.,"['spkD', 'sll0776']"
+8,Q08871,"['Acyl-CoA 6-desaturase', 'Delta(6)-desaturase', 'Linoleoyl-CoA desaturase']",Heterotetramer of two alpha and two beta chains arranged as a dimer of alpha/beta heterodimers.,"['des6', 'sll0262']"
+9,Q55746,"['Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase', 'UDP-N-acetylglucosamine acyltransferase']",Homotrimer.,"['lpxA', 'sll0379']"
+10,P73997,"['3-dehydroquinate synthase', 'DHQS']",Homotrimer.,"['aroB', 'slr2130']"
+11,P73367,"['3-dehydroquinate dehydratase', '3-dehydroquinase']",Homododecamer.,"['aroQ', 'sll1112']"
+12,P72988,"['UDP-3-O-acyl-N-acetylglucosamine deacetylase', 'UDP-3-O-acyl-GlcNAc deacetylase']",Homododecamer.,"['lpxC', 'sll1508']"
+13,Q55612,['UDP-3-O-acylglucosamine N-acyltransferase'],Homotrimer.,"['lpxD', 'slr0776']"
+14,Q57310,['Lipid-A-disaccharide synthase'],Homotrimer.,"['lpxB', 'slr0015']"
+15,P74265,['Slr1677 protein'],Homotrimer.,[]
+16,P74562,"['L-aspartate oxidase', 'LASPO']",Homotrimer.,"['nadB', 'sll0631']"
+17,P74578,['Quinolinate synthase'],Homotrimer.,"['nadA', 'sll0622']"
+18,P74301,['Probable nicotinate-nucleotide pyrophosphorylase [carboxylating]'],Hexamer formed by 3 homodimers.,"['nadC', 'slr0936']"
+19,P37294,"['15-cis-phytoene synthase', 'PSase']",Hexamer formed by 3 homodimers.,"['crtB', 'pys', 'slr1255']"
+20,P29273,['Phytoene dehydrogenase'],Hexamer formed by 3 homodimers.,"['pds', 'crtD', 'slr1254']"
+21,P74591,"['Shikimate dehydrogenase (NADP(+))', 'SDH']",Homodimer.,"['aroE', 'slr1559']"
+22,P74306,"['Zeta-carotene desaturase', ""9,9'-di-cis-zeta-carotene desaturase"", 'Carotene 7,8-desaturase']",Homodimer.,"['crtQ', 'slr0940']"
+23,P73246,"['Probable nicotinate-nucleotide adenylyltransferase', 'Deamido-NAD(+) diphosphorylase', 'Deamido-NAD(+) pyrophosphorylase', 'Nicotinate mononucleotide adenylyltransferase', 'NaMN adenylyltransferase']",Homodimer.,"['nadD', 'sll1916']"
+24,P72796,"['Shikimate kinase', 'SK']",Monomer.,"['aroK', 'sll1669']"
+25,Q55455,['prolycopene isomerase'],Monomer.,[]
+26,Q59975,['3-phosphoshikimate 1-carboxyvinyltransferase'],Monomer.,"['aroA', 'slr0444']"
+27,P74454,['Sll0147 protein'],Monomer.,[]
+28,P74292,['Glutamine-dependent NAD(+) synthetase'],Monomer.,"['nadE', 'slr1691']"
+29,P23353,"['Chorismate synthase', 'CS']",Homotetramer.,"['aroC', 'sll1747']"
+30,P20170,['Anthranilate synthase component 1'],Heterotetramer consisting of two non-identical subunits: a beta subunit (TrpG) and a large alpha subunit (TrpE).,"['trpE', 'slr0738']"
+31,P73955,['NAD kinase 1'],Heterotetramer consisting of two non-identical subunits: a beta subunit (TrpG) and a large alpha subunit (TrpE).,"['nadK1', 'sll1415']"
+32,P74430,['NAD kinase 2'],Heterotetramer consisting of two non-identical subunits: a beta subunit (TrpG) and a large alpha subunit (TrpE).,"['nadK2', 'slr0400']"
+33,Q55929,['Nicotinamide phosphoribosyltransferase'],Heterotetramer consisting of two non-identical subunits: a beta subunit (TrpG) and a large alpha subunit (TrpE).,[]
+34,Q55382,['Aspartate 1-decarboxylase'],Heterooctamer of four alpha and four beta subunits.,"['panD', 'sll0892']"
+35,Q55778,['Glutamate--tRNA ligase'],Monomer.,"['gltX', 'sll0179']"
+36,P28463,"['Glutamyl-tRNA reductase', 'GluTR']",Homodimer.,"['hemA', 'slr1808']"
+37,Q55665,"['Glutamate-1-semialdehyde 2,1-aminomutase', 'GSA']",Homodimer.,"['hemL', 'gsa', 'sll0017']"
+38,P77969,['Delta-aminolevulinic acid dehydratase'],Homooctamer.,"['hemB', 'sll1994']"
+39,P73660,"['Porphobilinogen deaminase', 'PBG', 'Hydroxymethylbilane synthase', 'HMBS', 'Pre-uroporphyrinogen synthase']",Monomer.,"['hemC', 'slr1887']"
+40,P52997,['3-methyl-2-oxobutanoate hydroxymethyltransferase'],Homodecamer; pentamer of dimers.,"['panB', 'slr0526']"
+41,Q55074,['Bifunctional pantoate ligase/cytidylate kinase'],Homodecamer; pentamer of dimers.,"['panC/cmk', 'panC/kcy', 'sll1249']"
+42,P73617,['Anthranilate phosphoribosyltransferase'],Homodimer.,"['trpD', 'slr1867']"
+43,P74045,"['Type III pantothenate kinase', 'PanK-III', 'Pantothenic acid kinase']",Homodimer.,"['coaX', 'slr0812']"
+44,P54224,['Uroporphyrinogen decarboxylase'],Homodimer.,"['hemE', 'slr0536']"
+45,P74435,"[""N-(5'-phosphoribosyl)anthranilate isomerase"", 'PRAI']",Homodimer.,"['trpF', 'sll0356']"
+46,Q55508,"['Indole-3-glycerol phosphate synthase', 'IGPS']",Homodimer.,"['trpC', 'slr0546']"
+47,P73881,"['Coenzyme A biosynthesis bifunctional protein CoaBC', 'DNA/pantothenate metabolism flavoprotein', 'Phosphopantothenoylcysteine synthetase/decarboxylase', 'PPCS-PPCDC']",Homodimer.,"['coaBC', 'dfp', 'sll0250']"
+48,Q59992,['Tryptophan synthase beta chain'],Tetramer of two alpha and two beta chains.,"['trpB', 'slr0543']"
+49,Q55435,"['Phosphopantetheine adenylyltransferase', 'Dephospho-CoA pyrophosphorylase', 'Pantetheine-phosphate adenylyltransferase', 'PPAT']",Homohexamer.,"['coaD', 'kdtB', 'slr0847']"
+50,P72848,['Oxygen-dependent coproporphyrinogen-III oxidase'],Homodimer.,"['hemF', 'sll1185']"
+51,P77960,['Tryptophan synthase alpha chain'],Tetramer of two alpha and two beta chains.,"['trpA', 'slr0966']"
+52,A0A317Y8E3,['Oxygen-independent coproporphyrinogen-III oxidase-like protein sll1917'],Tetramer of two alpha and two beta chains.,"['sll1917', 'Zm00014a_012822']"
+53,Q55515,['Dephospho-CoA kinase'],Tetramer of two alpha and two beta chains.,"['coaE', 'slr0553']"
+54,P72720,"['Glutamine--fructose-6-phosphate aminotransferase [isomerizing]', 'D-fructose-6-phosphate amidotransferase', 'GFAT', 'Glucosamine-6-phosphate synthase', 'Hexosephosphate aminotransferase', 'L-glutamine--D-fructose-6-phosphate amidotransferase']",Homodimer.,"['glmS', 'sll0220']"
+55,P74132,"['Oxygen-independent coproporphyrinogen III oxidase', 'CPO']",Monomer.,"['hemN', 'sll1876']"
+56,P74003,"['Release factor glutamine methyltransferase', 'RF MTase', 'M.Ssp6803HemKP', 'N5-glutamine methyltransferase PrmC', 'Protein-(glutamine-N5) MTase PrmC', 'Protein-glutamine N-methyltransferase PrmC']",Monomer.,"['prmC', 'sll1237']"
+57,P72793,['Protoporphyrinogen IX oxidase'],"Homodimer. Can also form higher oligomers, most probably tetramers. Interacts with Sll1106, however it is unlikely that Sll1106 is required for PPO function.","['hemJ', 'slr1790']"
+58,P73133,"['Acetylornithine aminotransferase', 'ACOAT']",Homodimer.,"['argD', 'slr1022']"
+59,P72772,"['Magnesium-chelatase subunit ChlD', 'Mg-chelatase subunit D']",Homodimer.,"['chlD', 'slr1777']"
+60,P73648,['Phosphoglucosamine mutase'],Homodimer.,"['glmM', 'sll1758']"
+61,Q55504,['Bifunctional protein GlmU'],Homotrimer.,"['glmU', 'sll0899']"
+62,Q55673,"['UDP-N-acetylglucosamine 1-carboxyvinyltransferase', 'Enoylpyruvate transferase', 'UDP-N-acetylglucosamine enolpyruvyl transferase', 'EPT']",Homotrimer.,"['murA', 'murZ', 'slr0017']"
+63,P55037,['Ferredoxin-dependent glutamate synthase 1'],Homotrimer.,"['gltB', 'sll1502']"
+64,P74529,['UDP-N-acetylenolpyruvoylglucosamine reductase'],Homotrimer.,"['murB', 'slr1424']"
+65,P74528,['UDP-N-acetylmuramate--L-alanine ligase'],Homotrimer.,"['murC', 'slr1423']"
+66,P51634,['Magnesium-chelatase subunit ChlI'],Homotrimer.,"['chlI', 'slr1030']"
+67,P77961,"['Glutamine synthetase', 'GS', 'Glutamate--ammonia ligase', 'Glutamine synthetase I beta', 'GSI beta']",Oligomer of 12 subunits arranged in the form of two hexagons.,"['glnA', 'slr1756']"
+68,Q55467,['Magnesium-protoporphyrin O-methyltransferase'],Oligomer of 12 subunits arranged in the form of two hexagons.,"['chlM', 'slr0525']"
+69,P73668,"['UDP-N-acetylmuramoylalanine--D-glutamate ligase', 'D-glutamic acid-adding enzyme', 'UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase']",Oligomer of 12 subunits arranged in the form of two hexagons.,"['murD', 'sll2010']"
+70,P73903,['Glutaminase'],Homotetramer.,"['glsA', 'slr2079']"
+71,P54386,"['NADP-specific glutamate dehydrogenase', 'NADP-GDH']",Homohexamer.,"['gdhA', 'slr0710']"
+72,Q55469,"['UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase', 'Meso-A2pm-adding enzyme', 'Meso-diaminopimelate-adding enzyme', 'UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase', 'UDP-MurNAc-tripeptide synthetase', 'UDP-N-acetylmuramyl-tripeptide synthetase']",Homohexamer.,"['murE', 'slr0528']"
+73,P72584,"['Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase 1', 'Mg-protoporphyrin IX monomethyl ester oxidative cyclase 1']",Homohexamer.,"['acsF1', 'sll1214']"
+74,P73071,['Glutamate 5-kinase'],Homohexamer.,"['proB', 'slr2035']"
+75,P74134,"['Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase 2', 'Mg-protoporphyrin IX monomethyl ester oxidative cyclase 2']",Homohexamer.,"['acsF2', 'sll1874']"
+76,P73737,['Glutamate racemase'],Homohexamer.,"['murI', 'slr1746']"
+77,P54902,"['Gamma-glutamyl phosphate reductase 1', 'GPR 1', 'Glutamate-5-semialdehyde dehydrogenase 1', 'Glutamyl-gamma-semialdehyde dehydrogenase 1', 'GSA dehydrogenase 1']",Homohexamer.,"['proA1', 'proA', 'sll0373']"
+78,P54918,['Alanine racemase'],Homohexamer.,"['alr', 'slr0827']"
+79,P74473,['Slr1923 protein'],Homohexamer.,[]
+80,Q55167,"['Gamma-glutamyl phosphate reductase 2', 'GPR 2', 'Glutamate-5-semialdehyde dehydrogenase 2', 'Glutamyl-gamma-semialdehyde dehydrogenase 2', 'GSA dehydrogenase 2']",Homohexamer.,"['proA2', 'sll0461']"
+81,Q59987,"['Light-dependent protochlorophyllide reductase', 'PCR']",Homohexamer.,"['por', 'pcr', 'slr0506']"
+82,P73632,"['D-alanine--D-alanine ligase', 'D-Ala-D-Ala ligase', 'D-alanylalanine synthetase']",Homohexamer.,"['ddl', 'ddlA', 'slr1874']"
+83,P45450,"['UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase', 'D-alanyl-D-alanine-adding enzyme', 'UDP-MurNAc-pentapeptide synthetase']",Homohexamer.,"['murF', 'slr1351']"
+84,P28372,['Light-independent protochlorophyllide reductase subunit N'],"Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB. Forms a heterotetramer of two ChlB and two ChlN subunits.","['chlN', 'slr0750']"
+85,P74572,['Pyrroline-5-carboxylate reductase'],"Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB. Forms a heterotetramer of two ChlB and two ChlN subunits.","['proC', 'slr0661']"
+86,P28373,['Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein'],"Homodimer. Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB.","['chlL', 'frxC', 'slr0749']"
+87,Q55986,['Phospho-N-acetylmuramoyl-pentapeptide-transferase'],"Homodimer. Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB.","['mraY', 'sll0657']"
+88,P74122,['Arginine biosynthesis bifunctional protein ArgJ'],Heterotetramer of two alpha and two beta chains.,"['argJ', 'sll1883']"
+89,P74657,['UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase'],Heterotetramer of two alpha and two beta chains.,"['murG', 'slr1656']"
+90,Q55607,['Light-independent protochlorophyllide reductase subunit B'],"Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB. Forms a heterotetramer of two ChlB and two ChlN subunits.","['chlB', 'slr0772']"
+91,P54984,['Probable hydrolase sll0100'],"Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB. Forms a heterotetramer of two ChlB and two ChlN subunits.",[]
+92,P73326,"['Acetylglutamate kinase', 'N-acetyl-L-glutamate 5-phosphotransferase', 'NAG kinase', 'NAGK']","Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB. Forms a heterotetramer of two ChlB and two ChlN subunits.","['argB', 'slr1898']"
+93,P73677,['Methylenetetrahydrofolate reductase'],"Protochlorophyllide reductase is composed of three subunits; ChlL, ChlN and ChlB. Forms a heterotetramer of two ChlB and two ChlN subunits.",[]
+94,Q55759,['GTP cyclohydrolase 1'],"Toroid-shaped homodecamer, composed of two pentamers of five dimers.","['folE', 'slr0426']"
+95,P54899,"['N-acetyl-gamma-glutamyl-phosphate reductase', 'AGPR']","Toroid-shaped homodecamer, composed of two pentamers of five dimers.","['argC', 'sll0080']"
+96,Q55928,['Bifunctional NMN adenylyltransferase/Nudix hydrolase'],"Toroid-shaped homodecamer, composed of two pentamers of five dimers.",[]
+97,Q55497,"['Ornithine carbamoyltransferase', 'OTCase']","Toroid-shaped homodecamer, composed of two pentamers of five dimers.","['argF', 'sll0902']"
+98,Q55381,['Slr0920 protein'],"Toroid-shaped homodecamer, composed of two pentamers of five dimers.",[]
+99,Q55684,"['Undecaprenyl-diphosphatase', 'Bacitracin resistance protein', 'Undecaprenyl pyrophosphate phosphatase']","Toroid-shaped homodecamer, composed of two pentamers of five dimers.","['uppP', 'bacA', 'upk', 'sll0210']"
+100,P73257,"['Argininosuccinate lyase', 'ASAL']","Toroid-shaped homodecamer, composed of two pentamers of five dimers.","['argH', 'slr1133']"
+101,P73411,"['Glucose-6-phosphate 1-dehydrogenase', 'G6PD']","Toroid-shaped homodecamer, composed of two pentamers of five dimers.","['zwf', 'slr1843']"
+102,P77973,['Argininosuccinate synthase'],Homotetramer.,"['argG', 'slr0585']"
+103,P74342,"['Probable dihydroneopterin aldolase', 'DHNA']",Homotetramer.,"['folB', 'slr1626']"
+104,P74618,"['6-phosphogluconolactonase', '6PGL']",Homotetramer.,"['pgl', 'devB', 'sll1479']"
+105,Q55756,['Carbamoyl phosphate synthase large chain'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate. Tetramer of heterodimers (alpha,beta)4.","['carB', 'sll0370']"
+106,P72894,['Slr1616 protein'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate. Tetramer of heterodimers (alpha,beta)4.",[]
+107,P52208,"['6-phosphogluconate dehydrogenase, decarboxylating']",Homodimer.,"['gnd', 'sll0329']"
+108,Q55811,['Aldehyde dehydrogenase'],Homodimer.,[]
+109,P74587,['Carbamoyl phosphate synthase small chain'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate. Tetramer of heterodimers (alpha,beta)4.","['carA', 'sll1498']"
+110,Q55766,['Ribose-5-phosphate isomerase A'],Homodimer.,"['rpiA', 'slr0194']"
+111,P74733,['Carbamate kinase'],Homodimer.,"['arcC', 'sll0573']"
+112,P72736,"['2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase', '6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase', 'PPPK', '7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase', 'HPPK']",Homodimer.,"['folK', 'slr1093']"
+113,P73448,['Nitrate reductase'],Homodimer.,"['narB', 'sll1454']"
+114,P73248,"['Dihydropteroate synthase', 'DHPS']",Homodimer.,"['folP', 'slr2026']"
+115,P73575,['Slr0887 protein'],Homodimer.,[]
+116,P55038,['Ferredoxin-dependent glutamate synthase 2'],Homodimer.,"['gltS', 'sll1499']"
+117,P74535,['Sll1336 protein'],Homodimer.,[]
+118,P74130,['Anthranilate synthase component I-like protein'],Tetramer of two components I and two components II.,"['trpE2', 'slr1979']"
+119,P74061,['Ribulose-phosphate 3-epimerase'],Homohexamer.,"['rpe', 'sll0807']"
+120,Q55629,"['L-amino acid dehydrogenase', 'L-amino acid:plastoquinone oxidoreductase', 'L-arginine dehydrogenase']",Homohexamer.,[]
+121,P72797,['Transaldolase'],Homohexamer.,"['tal', 'talB', 'slr1793']"
+122,P73270,['Probable agmatinase 2'],Homohexamer.,"['speB2', 'sll1077']"
+123,P54206,"['Ribulose bisphosphate carboxylase small subunit', 'RuBisCO small subunit']","Heterohexadecamer of 8 large and 8 small subunits. RuBisCO interacts with the C-terminus of CcmM, and can be found in complexes that also include carbonic anhydrase (ccaA) (PubMed:17993516).","['cbbS', 'rbcS', 'slr0012']"
+124,P72703,['Agmatinase 1'],"Heterohexadecamer of 8 large and 8 small subunits. RuBisCO interacts with the C-terminus of CcmM, and can be found in complexes that also include carbonic anhydrase (ccaA) (PubMed:17993516).","['speB1', 'sll0228']"
+125,Q55135,['Formyltetrahydrofolate deformylase'],"Heterohexadecamer of 8 large and 8 small subunits. RuBisCO interacts with the C-terminus of CcmM, and can be found in complexes that also include carbonic anhydrase (ccaA) (PubMed:17993516).","['purU', 'sll0070']"
+126,P73327,['Urease accessory protein UreF'],"UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ureF', 'slr1899']"
+127,Q55626,['Bifunctional protein FolD'],Homodimer.,"['folD', 'sll0753']"
+128,P54205,"['Ribulose bisphosphate carboxylase large chain', 'RuBisCO large subunit']","Heterohexadecamer of 8 large chains and 8 small chains; disulfide-linked. The disulfide link is formed within the large subunit homodimers (By similarity). RuBisCO interacts with the C-terminus of CcmM, and can be found in complexes that also include carbonic anhydrase (ccaA). RuBisCO associates with both the internal and shell portion of carboxysomes (PubMed:17993516).","['cbbL', 'rbcL', 'slr0009']"
+129,P73796,['Urease subunit gamma'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ureA', 'slr1256']"
+130,P72955,['Urease accessory protein UreG'],"Homodimer. UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ureG', 'sll0643']"
+131,P37101,['Phosphoribulokinase'],"Homodimer. UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['prk', 'ptk', 'sll1525']"
+132,P74746,['Slr0600 protein'],"Homodimer. UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.",[]
+133,P74386,['Urease subunit beta'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ureB', 'sll0420']"
+134,Q54735,['Carbonic anhydrase'],A hexamer formed by a trimer of dimers. Interacts with the first 260 residues of CcmM; both the N-terminal 206 residues and the C-terminal tail contribute to CcmM binding (PubMed:27729545). Interacts with full-length and the N-terminal 249 residues of CcmM. A probable CcmM-CcaA-CcmN complex as well as a CcaA-RuBisCO-CcmM complex can also be isolated (PubMed:17993516).,"['ccaA', 'icfA', 'slr1347']"
+135,Q55848,"['Ribose-phosphate pyrophosphokinase', 'RPPK', '5-phospho-D-ribosyl alpha-1-diphosphate synthase', 'Phosphoribosyl diphosphate synthase', 'Phosphoribosyl pyrophosphate synthase']",Homohexamer.,"['prs', 'prsA', 'sll0469']"
+136,P73061,['Urease subunit alpha'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ureC', 'sll1750']"
+137,Q55452,['Uncharacterized protein sll0036'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.",[]
+138,P80507,['Inorganic pyrophosphatase'],Homohexamer.,"['ppa', 'ipyR', 'slr1622']"
+139,P73047,['Urease accessory protein UreD'],"UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ureD', 'sll1639']"
+140,Q55898,"['Polyphosphate kinase', 'ATP-polyphosphate phosphotransferase', 'Polyphosphoric acid kinase']","UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ppk', 'sll0290']"
+141,Q55595,"['Probable lactoylglutathione lyase', 'Aldoketomutase', 'Glyoxalase I', 'Glx I', 'Ketone-aldehyde mutase', 'Methylglyoxalase', 'S-D-lactoylglutathione methylglyoxal lyase']","UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['gloA', 'slr0381']"
+142,P72933,['Hydroxyacylglutathione hydrolase'],Monomer.,"['gloB', 'sll1019']"
+143,P22039,['Uncharacterized PKHD-type hydroxylase sll0191'],Monomer.,[]
+144,P73799,['Slr1259 protein'],Monomer.,[]
+145,P74376,['Sll0428 protein'],Monomer.,[]
+146,P74690,['Probable phosphoketolase'],Monomer.,[]
+147,P77968,['Superoxide dismutase [Fe]'],Homodimer.,"['sodB', 'slr1516']"
+148,P73911,"['Catalase-peroxidase', 'CP']",Homodimer.,"['katG', 'sll1987']"
+149,Q55517,['Sll0529 protein'],Homodimer.,[]
+150,P74576,"['Biosynthetic arginine decarboxylase 1', 'ADC 1']",Homodimer.,"['speA1', 'speA', 'slr0662']"
+151,P19050,"['NAD(P)H-quinone oxidoreductase subunit K 1', 'NAD(P)H dehydrogenase I subunit K 1', 'NDH-1 subunit K 1', 'NDH-K 1']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhK1', 'psbG', 'slr1280']"
+152,P72587,"['Biosynthetic arginine decarboxylase 2', 'ADC 2']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['speA2', 'speA', 'slr1312']"
+153,P26525,"['NAD(P)H-quinone oxidoreductase subunit I', 'NAD(P)H dehydrogenase I subunit I', 'NDH-1 subunit I', 'NDH-I']",NDH-1 is composed of at least 11 different subunits.,"['ndhI', 'sll0520']"
+154,P73824,['Hydroperoxy fatty acid reductase Gpx2'],Monomer.,"['gpx2', 'slr1992']"
+155,P74250,['Hydroperoxy fatty acid reductase gpx1'],Monomer.,"['gpx1', 'slr1171']"
+156,P73492,['Probable glutaredoxin ssr2061'],Monomer.,[]
+157,P19125,"['NAD(P)H-quinone oxidoreductase subunit J', 'NAD(P)H dehydrogenase subunit J', 'NADH-plastoquinone oxidoreductase subunit J', 'NDH-1 subunit J', 'NDH-J', 'ORF 155']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhJ', 'slr1281']"
+158,P19045,"['NAD(P)H-quinone oxidoreductase subunit 3', 'NAD(P)H dehydrogenase subunit 3', 'NADH-plastoquinone oxidoreductase subunit 3', 'NDH-1 subunit 3', 'NDH-C']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhC', 'slr1279']"
+159,P74593,['Probable glutaredoxin slr1562'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,[]
+160,P74193,"['Threonine synthase', 'TS']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['thrC', 'sll1172']"
+161,P74795,['Ssl0352 protein'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,[]
+162,P73646,['Homoserine kinase'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['thrB', 'sll1760']"
+163,P26523,"['NAD(P)H-quinone oxidoreductase chain 6', 'NAD(P)H dehydrogenase I, chain 6', 'NDH-1, chain 6']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhG', 'sll0521']"
+164,P52986,"['Homoserine dehydrogenase', 'HDH']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['hom', 'sll0455']"
+165,P74165,['Beta-monoglucosyldiacylglycerol synthase'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,[]
+166,P26524,"['NAD(P)H-quinone oxidoreductase subunit 4L', 'NAD(P)H dehydrogenase subunit 4L', 'NADH-plastoquinone oxidoreductase subunit 4L', 'NDH-1, subunit 4L', 'NDH-E']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhE', 'sll0522']"
+167,Q55512,['Aspartate-semialdehyde dehydrogenase'],Homodimer.,"['asd', 'slr0549']"
+168,P73948,['Slr1508 protein'],Homodimer.,[]
+169,Q55513,"['4-hydroxy-tetrahydrodipicolinate synthase', 'HTPA synthase']",Homotetramer; dimer of dimers.,"['dapA', 'slr0550']"
+170,P74089,"['Serine acetyltransferase', 'SAT']",Homotetramer; dimer of dimers.,"['cysE', 'slr1348']"
+171,P32421,"['NAD(P)H-quinone oxidoreductase chain 4-1', 'NAD(P)H dehydrogenase I, subunit D-1', 'NDH-1, chain 4-1']",Homotetramer; dimer of dimers.,"['ndhD1', 'ndhD', 'slr0331']"
+172,P72642,"['4-hydroxy-tetrahydrodipicolinate reductase', 'HTPA reductase']",Homotetramer; dimer of dimers.,"['dapB', 'sll1058']"
+173,P74338,['NAD(P)H-quinone oxidoreductase subunit M'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhM', 'slr1623']"
+174,P27724,"['NAD(P)H-quinone oxidoreductase subunit H', 'NAD(P)H dehydrogenase subunit H', 'NADH-plastoquinone oxidoreductase subunit H', 'NDH-1 subunit H', 'NDH-H']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhH', 'slr0261']"
+175,P73410,"['Cysteine synthase', 'CSase', 'O-acetylserine (thiol)-lyase', 'OAS-TL', 'O-acetylserine sulfhydrylase']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['cysK', 'slr1842']"
+176,P74241,"['Sulfate adenylyltransferase', 'ATP-sulfurylase', 'Sulfate adenylate transferase', 'SAT']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['sat', 'slr1165']"
+177,Q55828,['LL-diaminopimelate aminotransferase'],Homodimer.,"['dapL', 'sll0480']"
+178,P72940,"['Probable adenylyl-sulfate kinase', 'APS kinase', ""ATP adenosine-5'-phosphosulfate 3'-phosphotransferase"", ""Adenosine-5'-phosphosulfate kinase""]",Homodimer.,"['cysC', 'slr0676']"
+179,P74025,['Potential NAD-reducing hydrogenase subunit'],Homodimer.,[]
+180,P17253,"['ATP synthase gamma chain', 'ATP synthase F1 sector gamma subunit', 'F-ATPase gamma subunit']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['atpG', 'atpC', 'sll1327']"
+181,P72823,"['NAD(P)H-quinone oxidoreductase chain 4-2', 'NAD(P)H dehydrogenase I, subunit D-2', 'NDH-1, chain 4-2']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['ndhD2', 'slr1291']"
+182,Q55429,"['NAD(P)H-quinone oxidoreductase chain 5', 'NAD(P)H dehydrogenase I, chain 5', 'NDH-1, chain 5']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['ndhF', 'slr0844']"
+183,P26522,"['NAD(P)H-quinone oxidoreductase subunit 1', 'NAD(P)H dehydrogenase I subunit 1', 'NDH-1 subunit 1', 'NDH-A']",NDH-1 is composed of at least 11 different subunits.,"['ndhA', 'sll0519']"
+184,P72794,"[""Phosphoadenosine 5'-phosphosulfate reductase"", 'PAPS reductase', ""3'-phosphoadenylylsulfate reductase"", 'PAPS reductase, thioredoxin dependent', 'PAPS sulfotransferase', 'PAdoPS reductase']",NDH-1 is composed of at least 11 different subunits.,"['cysH', 'slr1791']"
+185,P72854,['Sulfite reductase [ferredoxin]'],Monomer.,"['sir', 'slr0963']"
+186,P27196,['ATP synthase protein I'],Monomer.,"['atpI', 'sll1321']"
+187,P72714,"['NAD(P)H-quinone oxidoreductase subunit 2', 'NAD(P)H dehydrogenase subunit 2', 'NADH-plastoquinone oxidoreductase subunit 2', 'NDH-1, subunit 2']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhB', 'sll0223']"
+188,P77962,['Serine hydroxymethyltransferase'],Homodimer.,"['glyA', 'sll1931']"
+189,P27183,"[""ATP synthase subunit b'"", ""ATP synthase F(0) sector subunit b'"", 'ATPase subunit II', ""F-type ATPase subunit b'"", ""F-ATPase subunit b'""]","F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has four main subunits: a(1), b(1), b'(1) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta, b and b' chains.","['atpF2', 'atpG', 'sll1323']"
+190,P74416,"['Glycine dehydrogenase (decarboxylating)', 'Glycine cleavage system P-protein', 'Glycine decarboxylase', 'Glycine dehydrogenase (aminomethyl-transferring)']","The glycine cleavage system is composed of four proteins: P, T, L and H.","['gcvP', 'slr0293']"
+191,P27372,"['NAD(P)H-quinone oxidoreductase subunit L', 'Inorganic carbon transport protein', 'NAD(P)H dehydrogenase I subunit L', 'NDH-1 subunit L', 'NDH-L']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhL', 'ictA', 'ssr1386']"
+192,P27179,"['ATP synthase subunit alpha', 'ATP synthase F1 sector subunit alpha', 'F-ATPase subunit alpha']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has four main subunits: a(1), b(1), b'(1) and c(9-12) (By similarity).","['atpA', 'sll1326']"
+193,P74069,['NAD(P)H-quinone oxidoreductase subunit N'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhN', 'sll1262']"
+194,P73560,['Glycine cleavage system H protein'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['gcvH', 'slr0879']"
+195,P27178,"['ATP synthase subunit a', 'ATP synthase F0 sector subunit a', 'F-ATPase subunit 6']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has four main subunits: a, b, b' and c.","['atpB', 'atpI', 'sll1322']"
+196,P54261,['Aminomethyltransferase'],"The glycine cleavage system is composed of four proteins: P, T, L and H.","['gcvT', 'sll0171']"
+197,P27182,"['ATP synthase subunit c', 'ATP synthase F(0) sector subunit c', 'F-type ATPase subunit c', 'F-ATPase subunit c', 'Lipid-binding protein']","F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has four main subunits: a(1), b(1), b'(1) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta, b and b' chains.","['atpE', 'atpH', 'ssl2615']"
+198,P17062,"['NAD(P)H-quinone oxidoreductase subunit K 2', 'NAD(P)H dehydrogenase I subunit K 2', 'NDH-1 subunit K 2', 'NDH-K 2']",NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,"['ndhK2', 'psbG2', 'sll8031']"
+199,P73393,['Sll1734 protein'],NDH-1 can be composed of about 15 different subunits; different subcomplexes with different compositions have been identified which probably have different functions.,[]
+200,P26533,"['ATP synthase epsilon chain', 'ATP synthase F1 sector epsilon subunit', 'F-ATPase epsilon subunit']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['atpC', 'atpE', 'slr1330']"
+201,Q55786,"['Methionine synthase', '5-methyltetrahydrofolate--homocysteine methyltransferase', 'Methionine synthase, vitamin-B12 dependent', 'MS']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.","['metH', 'slr0212']"
+202,Q8KX49,['Uncharacterized protein slr1302'],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.",[]
+203,P27181,"['ATP synthase subunit b', 'ATP synthase F(0) sector subunit b', 'ATPase subunit I', 'F-type ATPase subunit b', 'F-ATPase subunit b']","F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has four main subunits: a(1), b(1), b'(1) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta, b and b' chains.","['atpF', 'sll1324']"
+204,P74008,['Adenosylhomocysteinase'],"F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has four main subunits: a(1), b(1), b'(1) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta, b and b' chains.","['ahcY', 'sll1234']"
+205,Q59995,['Cytosine-specific methyltransferase'],"F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has four main subunits: a(1), b(1), b'(1) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta, b and b' chains.",[]
+206,Q55863,"['Pyruvate kinase 1', 'PK 1']",Homotetramer.,"['pyk1', 'sll0587']"
+207,P72871,"['S-adenosylmethionine synthase', 'AdoMet synthase', 'MAT', 'Methionine adenosyltransferase']",Homotetramer; dimer of dimers.,"['metK', 'sll0927']"
+208,P73392,['Uncharacterized protein sll1735'],Homotetramer; dimer of dimers.,[]
+209,P73534,"['Pyruvate kinase 2', 'PK 2']",Homotetramer.,"['pyk2', 'sll1275']"
+210,P73735,['Demethylphylloquinone reductase NdbB'],Homotetramer.,"['ndbB', 'slr1743']"
+211,Q06475,"['Cytochrome c oxidase subunit 3', 'Cytochrome aa3 subunit 3', 'Cytochrome c oxidase polypeptide III', 'Oxidase aa(3) subunit 3']",Homotetramer.,"['ctaE', 'slr1138']"
+212,Q06474,"['Cytochrome c oxidase subunit 2', 'Cytochrome aa3 subunit 2', 'Cytochrome c oxidase polypeptide II', 'Oxidase aa(3) subunit 2']",Homotetramer.,"['ctaC', 'coxB', 'slr1136']"
+213,Q06473,"['Cytochrome c oxidase subunit 1', 'Cytochrome aa3 subunit 1', 'Cytochrome c oxidase polypeptide I', 'Oxidase aa(3) subunit 1']",Homotetramer.,"['ctaD', 'slr1137']"
+214,P73821,"['D-3-phosphoglycerate dehydrogenase', 'PGDH']",Homotetramer.,"['serA', 'sll1908']"
+215,P74281,['Soluble hydrogenase 42 kD subunit'],Homotetramer.,[]
+216,P73408,['Uncharacterized protein slr1840'],Homotetramer.,[]
+217,Q55702,['Uncharacterized oxidoreductase slr0229'],Homotetramer.,[]
+218,P72740,"['Dihydrolipoyl dehydrogenase', 'Dihydrolipoamide dehydrogenase', 'LPD', 'E3 component of pyruvate complex']",Homodimer.,"['lpdA', 'pdhD', 'slr1096']"
+219,P74287,"['Isopentenyl-diphosphate delta-isomerase', 'IPP isomerase', 'Isopentenyl diphosphate:dimethylallyl diphosphate isomerase', 'Isopentenyl pyrophosphate isomerase', 'Type 2 isopentenyl diphosphate isomerase', 'IDI-2']",Homooctamer. Dimer of tetramers.,"['fni', 'sll1556']"
+220,Q55793,['Probable cysteine desulfurase'],Homooctamer. Dimer of tetramers.,"['csd', 'sufS', 'slr0077']"
+221,P74490,['Pyruvate dehydrogenase E1 component subunit alpha'],Heterodimer of an alpha and a beta chain.,"['pdhA', 'slr1934']"
+222,Q01951,['Allophycocyanin alpha chain'],Heterodimer of an alpha and a beta chain.,"['apcA', 'slr2067']"
+223,Q55404,"['Acetyl-coenzyme A synthetase', 'Acetate--CoA ligase', 'Acyl-activating enzyme']",Heterodimer of an alpha and a beta chain.,"['acsA', 'acs', 'sll0542']"
+224,P73138,"['S-(hydroxymethyl)glutathione dehydrogenase', 'Alcohol dehydrogenase class-3', 'Alcohol dehydrogenase class-III', 'Glutathione-dependent formaldehyde dehydrogenase']",Heterodimer of an alpha and a beta chain.,"['frmA', 'sll0990']"
+225,Q55710,['Bifunctional protein ThiO/ThiG'],Interacts with ThiH and ThiS.,"['thiO/thiG', 'slr0633']"
+226,Q57038,['Cytochrome b6'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['petB', 'slr0342']"
+227,P74299,['Phosphoenolpyruvate carboxylase'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['ppc', 'sll0920']"
+228,P72775,['Alanine dehydrogenase'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.",[]
+229,Q55383,['Malate dehydrogenase'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['mdh', 'sll0891']"
+230,P21697,['Plastocyanin'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['petE', 'sll0199']"
+231,Q55905,"['Phosphoenolpyruvate synthase', 'PEP synthase']","The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['ppsA', 'slr0301']"
+232,P73093,['Phycobilisome rod-core linker polypeptide CpcG'],"Part of the phycobilisome, a hemidiscoidal structure that is composed of two distinct substructures: a core complex and a number of rods radiating from the core. This protein is part of a conventional PBS rod (called CpcG-PBS) with on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. Ferredoxin--NADP reductase (petH) is also part of the complex.","['cpcG', 'cpcG1', 'slr2051']"
+233,P74515,['Slr0990 protein'],"Part of the phycobilisome, a hemidiscoidal structure that is composed of two distinct substructures: a core complex and a number of rods radiating from the core. This protein is part of a conventional PBS rod (called CpcG-PBS) with on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. Ferredoxin--NADP reductase (petH) is also part of the complex.",[]
+234,P73493,"['Glutathione synthetase', 'GSH synthetase']","Part of the phycobilisome, a hemidiscoidal structure that is composed of two distinct substructures: a core complex and a number of rods radiating from the core. This protein is part of a conventional PBS rod (called CpcG-PBS) with on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. Ferredoxin--NADP reductase (petH) is also part of the complex.","['gshB', 'slr1238']"
+235,P74582,"['Aconitate hydratase B', '(2R,3S)-2-methylisocitrate dehydratase', '(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase', '2-methyl-cis-aconitate hydratase', 'Iron-responsive protein-like', 'IRP-like', 'RNA-binding protein']",Monomer.,"['acnB', 'slr0665']"
+236,P80046,"['Isocitrate dehydrogenase [NADP]', 'IDH', 'IDP', 'NADP(+)-specific ICDH', 'Oxalosuccinate decarboxylase']",Homodimer.,"['icd', 'slr1289']"
+237,P74625,['Photosystem I-associated linker protein CpcL'],"Part of a specialized phycobilisome (PBS), a structure that is usually composed of two distinct substructures: a core complex and a number of rods radiating from the core. This protein is part of a core-less PBS rod (called CpcL-PBS) with on average 5 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcL connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 3 copies of CpcC2 and the stack is terminated by a single copy of CpcD. Ferredoxin--NADP reductase (petH) is also part of the complex. CpcL-PBS has no central core proteins (allophycocyanin ApcA, ApcB) nor phycobiliprotein ApcE.","['cpcL', 'cpcG2', 'sll1471']"
+238,P74181,['Glutathione hydrolase proenzyme'],"This enzyme consists of two polypeptide chains, which are synthesized in precursor form from a single polypeptide.","['ggt', 'slr1269']"
+239,P53581,['Methionine aminopeptidase C'],Monomer.,[]
+240,P73202,"['Phycobilisome 8.9 kDa linker polypeptide, phycocyanin-associated, rod', 'L-8.9/R']","Part of 2 PBS rod complexes, the conventional CpcG-PBS rod and a photosystem I-specific CpcL-PBS rod, both of which include ferredoxin--NADP reductase (petH). CpcG-PBS has on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. The CpcL-PBS has on average 5 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcL connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 3 copies of CpcC2 and the stack is terminated by a single copy of CpcD.","['cpcD', 'ssl3093']"
+241,Q55674,"['Fumarate hydratase class II', 'Fumarase C', 'Aerobic fumarase', 'Iron-independent fumarase']",Homotetramer.,"['fumC', 'slr0018']"
+242,P74714,"['Cytochrome b6-f complex iron-sulfur subunit 1', 'Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein 1']","The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['petC1', 'slr1185']"
+243,Q54715,['C-phycocyanin alpha subunit'],"Heterodimer of an alpha and a beta chain, which further assembles into trimers. The trimers assemble into hexamers, although these were not seen in the crystallographic studies (PubMed:23201474). Part of 2 PBS rod complexes, the conventional CpcG-PBS rod and a photosystem I-specific CpcL-PBS rod, both of which include ferredoxin--NADP reductase (petH) (PubMed:31015331).","['cpcA', 'sll1578']"
+244,P53580,['Methionine aminopeptidase B'],Monomer.,[]
+245,P73971,"['Probable cytosol aminopeptidase', 'Leucine aminopeptidase', 'LAP', 'Leucyl aminopeptidase']",Monomer.,"['pepA', 'lap', 'sll2001']"
+246,P46445,"['Cytochrome c6', 'Cytochrome c-553', 'Cytochrome c553', 'Soluble cytochrome f']",Monomer.,"['petJ', 'sll1796']"
+247,Q54714,['C-phycocyanin beta subunit'],"Heterodimer of an alpha and a beta chain, which further assembles into trimers. The trimers assemble into hexamers, although these were not seen in the crystallographic studies (PubMed:23201474). Part of 2 PBS rod complexes, the conventional CpcG-PBS rod and a photosystem I-specific CpcL-PBS rod, both of which include ferredoxin--NADP reductase (petH) (PubMed:31015331). Interacts with rod linker CpcC2 via the latter's N-terminal PBS-linker domain (PubMed:21923764).","['cpcB', 'sll1577']"
+248,P74810,"['Cytochrome b6-f complex subunit 7', 'Cytochrome b6-f complex subunit PetM', 'Cytochrome b6-f complex subunit VII']","The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['petM', 'smr0003']"
+249,Q6MY29,['Putative membrane protein'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['htdV', 'SMR0010']"
+250,A0A8X6HP48,['Methionine aminopeptidase A'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['slr0918', 'TNCT_697351']"
+251,P73204,"['Phycobilisome 32.1 kDa linker polypeptide, phycocyanin-associated, rod 2']","Part of 2 PBS rod complexes, the conventional CpcG-PBS rod and a photosystem I-specific CpcL-PBS rod, both of which include ferredoxin--NADP reductase (petH). CpcG-PBS has on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. The CpcL-PBS has on average 5 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcL connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 3 copies of CpcC2 and the stack is terminated by a single copy of CpcD (PubMed:31015331). Interacts with the C-phycocyanin (PC) beta subunit (cpcB), it may fit into the center of the PC hexamer (PubMed:21923764).","['cpcC2', 'sll1579']"
+252,Q59977,['Citrate synthase'],"Part of 2 PBS rod complexes, the conventional CpcG-PBS rod and a photosystem I-specific CpcL-PBS rod, both of which include ferredoxin--NADP reductase (petH). CpcG-PBS has on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. The CpcL-PBS has on average 5 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcL connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 3 copies of CpcC2 and the stack is terminated by a single copy of CpcD (PubMed:31015331). Interacts with the C-phycocyanin (PC) beta subunit (cpcB), it may fit into the center of the PC hexamer (PubMed:21923764).","['gltA', 'sll0401']"
+253,P74551,"['Allophycocyanin subunit beta-18', 'Allophycocyanin subunit B18']",Heterodimer of ApcE and this beta chain.,"['apcF', 'slr1459']"
+254,Q01952,['Allophycocyanin beta chain'],Heterodimer of an alpha and a beta chain.,"['apcB', 'slr1986']"
+255,P73662,['Phosphate acetyltransferase'],Heterodimer of an alpha and a beta chain.,"['pta', 'slr2132']"
+256,Q55855,['Glucokinase'],Heterodimer of an alpha and a beta chain.,"['glk', 'sll0593']"
+257,P52983,"['Glucose-6-phosphate isomerase', 'GPI', 'Phosphoglucose isomerase', 'PGI', 'Phosphohexose isomerase', 'PHI']",Heterodimer of an alpha and a beta chain.,"['pgi', 'slr1349']"
+258,P73162,['Acetate kinase'],Homodimer.,"['ackA', 'sll1299']"
+259,P26287,['Cytochrome f'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer (By similarity).","['petA', 'sll1317']"
+260,P73039,['Slr1762 protein'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer (By similarity).",[]
+261,P27589,['Cytochrome b6-f complex subunit 4'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['petD', 'slr0343']"
+262,P74697,['Slr0458 protein'],"The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.",[]
+263,Q01950,"['Phycobilisome 7.8 kDa linker polypeptide, allophycocyanin-associated, core']","The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['apcC', 'ssr3383']"
+264,P72870,['Allophycocyanin subunit alpha-B'],"Heterohexamer of two alpha chains, one alpha-B chain and three beta chains.","['apcD', 'sll0928']"
+265,P26290,"['Cytochrome b6-f complex iron-sulfur subunit 2', 'Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein 2']","The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer.","['petC2', 'sll1316']"
+266,P73203,"['Phycobilisome 32.1 kDa linker polypeptide, phycocyanin-associated, rod 1']","Part of 2 PBS rod complexes, the conventional CpcG-PBS rod and a photosystem I-specific CpcL-PBS rod, both of which include ferredoxin--NADP reductase (petH). CpcG-PBS has on average 3 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcG connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 1 copy of CpcC2 and the stack is terminated by a single copy of CpcD. The CpcL-PBS has on average 5 stacked phycocyanin hexamers (PC, CpcA and CpcB). Linker CpcL connects the PC stack to the thylakoid, the hexamers are linked by 1 copy of CpcC1, 3 copies of CpcC2 and the stack is terminated by a single copy of CpcD.","['cpcC1', 'sll1580']"
+267,P74324,"['Fructose-1,6-bisphosphatase class 1', 'FBPase class 1']",Homotetramer.,"['fbp', 'slr0952']"
+268,P73922,"['D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase', 'FBPase class 2/SBPase']",Homotetramer.,[]
+269,Q55988,['ATP-dependent 6-phosphofructokinase 2'],Homodimer or homotetramer.,"['pfkA2', 'pfkA', 'sll0745']"
+270,P72830,['ATP-dependent 6-phosphofructokinase 1'],Homodimer or homotetramer.,"['pfkA1', 'pfkA', 'sll1196']"
+271,P72717,"['Cytochrome b6-f complex subunit 8', 'Cytochrome b6-f complex subunit PetN', 'Cytochrome b6-f complex subunit VIII']","The 4 large subunits of the cytochrome b6-f complex are cytochrome b6, subunit IV (17 kDa polypeptide, PetD), cytochrome f and the Rieske protein, while the 4 small subunits are PetG, PetL, PetM and PetN. The complex functions as a dimer (By similarity).","['petN', 'sml0004']"
+272,P73638,['Phycocyanobilin lyase subunit alpha'],CpcE and CpcF associate to form a lyase.,"['cpcE', 'slr1878']"
+273,P52965,['Putative pyruvate-flavodoxin oxidoreductase'],CpcE and CpcF associate to form a lyase.,"['nifJ', 'sll0741']"
+274,P74309,['Fructose-bisphosphate aldolase class 1'],CpcE and CpcF associate to form a lyase.,"['fda', 'fbaB', 'slr0943']"
+275,Q55664,"['Fructose-bisphosphate aldolase class 2', 'Fructose-1,6-bisphosphate aldolase', 'Fructose-bisphosphate aldolase class II']",CpcE and CpcF associate to form a lyase.,"['fbaA', 'fda', 'sll0018']"
+276,P73510,['Sll1358 protein'],CpcE and CpcF associate to form a lyase.,[]
+277,Q55544,"['Phycobiliprotein ApcE', 'Phycobilisome LCM core-membrane linker polypeptide', 'Phycobilisome core-membrane linker phycobiliprotein ApcE']","Heterodimer of ApcF (a variant beta-allophycocyanin). Phycobilisomes of this organism are composed of a two cylinder core, from which six rods radiate. The core is mainly composed of allophycocyanin alpha and beta chains and of minor components (By similarity).","['apcE', 'slr0335']"
+278,Q936A5,[],"Heterodimer of ApcF (a variant beta-allophycocyanin). Phycobilisomes of this organism are composed of a two cylinder core, from which six rods radiate. The core is mainly composed of allophycocyanin alpha and beta chains and of minor components (By similarity).","['htdL', 'trhL', 'SMR0005']"
+279,Q59994,['Triosephosphate isomerase'],Homodimer.,"['tpiA', 'tpi', 'slr0783']"
+280,P80505,"['Glyceraldehyde-3-phosphate dehydrogenase 2', 'GAPDH 2', 'NAD(P)-dependent glyceraldehyde-3-phosphate dehydrogenase', 'NAD-dependent glyceraldehyde-3-phosphate dehydrogenase']",Homotetramer.,"['gap2', 'sll1342']"
+281,P73509,['Sll1359 protein'],Homotetramer.,[]
+282,P49433,"['Glyceraldehyde-3-phosphate dehydrogenase 1', 'GAPDH 1']",Homotetramer.,"['gap1', 'slr0884']"
+283,P72712,['Photosystem I reaction center subunit PsaK 1'],Homotetramer.,"['psaK1', 'psaK', 'ssr0390']"
+284,Q55585,"['Probable succinate-semialdehyde dehydrogenase [NADP(+)]', 'SSDH']",Homotetramer.,"['gabD', 'slr0370']"
+285,P74564,['Photosystem I reaction center subunit PsaK 2'],Homotetramer.,"['psaK2', 'sll0629']"
+286,P37277,"['Photosystem I reaction center subunit XI', 'PSI subunit V', 'PSI-L']",Homotetramer.,"['psaL', 'slr1655']"
+287,P74421,['Phosphoglycerate kinase'],Monomer.,"['pgk', 'slr0394']"
+288,P73454,['Slr1748 protein'],Monomer.,[]
+289,P29256,['Photosystem I reaction center subunit III'],Monomer.,"['psaF', 'sll0819']"
+290,P12975,"['Photosystem I reaction center subunit IV', 'Photosystem I 8.1 kDa protein', 'p30 protein']",Monomer.,"['psaE', 'ssr2831']"
+291,Q6MY35,[],Monomer.,"['trhA', 'CHR63_21970', 'SMR0004']"
+292,Q55329,['Photosystem I reaction center subunit IX'],Monomer.,"['psaJ', 'sml0008']"
+293,Q55734,['Sll0395 protein'],Monomer.,[]
+294,P74507,"['2,3-bisphosphoglycerate-independent phosphoglycerate mutase']",Monomer.,"['gpmI', 'pgm', 'slr1945']"
+295,P74033,['Slr0806 protein'],Monomer.,[]
+296,P77972,"['Enolase', '2-phospho-D-glycerate hydro-lyase', '2-phosphoglycerate dehydratase']",Monomer.,"['eno', 'slr0752']"
+297,Q55621,"['Amidophosphoribosyltransferase', 'ATase']",Monomer.,"['purF', 'sll0757']"
+298,P19569,['Photosystem I reaction center subunit II'],PS I from Synechocystis PCC 6803 contains seven different polypeptides. The polypeptide corresponding to subunit II from higher plants is missing.,"['psaD', 'slr0737']"
+299,P74232,"['Phosphoribosylamine--glycine ligase', 'GARS', 'Glycinamide ribonucleotide synthetase', 'Phosphoribosylglycinamide synthetase']",PS I from Synechocystis PCC 6803 contains seven different polypeptides. The polypeptide corresponding to subunit II from higher plants is missing.,"['purD', 'slr1159']"
+300,P73358,['Ssr2016 protein'],PS I from Synechocystis PCC 6803 contains seven different polypeptides. The polypeptide corresponding to subunit II from higher plants is missing.,[]
+301,P72644,"['Phosphoribosylformylglycinamidine synthase subunit PurL', 'FGAM synthase', 'Formylglycinamide ribonucleotide amidotransferase subunit II']","Monomer. Part of the FGAM synthase complex composed of 1 PurL, 1 PurQ and 2 PurS subunits.","['purL', 'sll1056']"
+302,Q55842,"['Phosphoribosylformylglycinamidine synthase subunit PurS', 'FGAM synthase', 'Formylglycinamide ribonucleotide amidotransferase subunit III']","Homodimer. Part of the FGAM synthase complex composed of 1 PurL, 1 PurQ and 2 PurS subunits (By similarity).","['purS', 'slr0519']"
+303,P29255,['Photosystem I P700 chlorophyll a apoprotein A2'],"The PsaA/B heterodimer binds the P700 chlorophyll special pair and subsequent electron acceptors. PSI consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes (By similarity).","['psaB', 'slr1835']"
+304,Q55843,"['Phosphoribosylformylglycinamidine synthase subunit PurQ', 'FGAM synthase', 'Formylglycinamide ribonucleotide amidotransferase subunit I']","Part of the FGAM synthase complex composed of 1 PurL, 1 PurQ and 2 PurS subunits.","['purQ', 'slr0520']"
+305,P29254,['Photosystem I P700 chlorophyll a apoprotein A1'],"The PsaA/B heterodimer binds the P700 chlorophyll special pair and subsequent electron acceptors. PSI consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.","['psaA', 'slr1834']"
+306,P74027,['Slr1334 protein'],"The PsaA/B heterodimer binds the P700 chlorophyll special pair and subsequent electron acceptors. PSI consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.",[]
+307,Q55422,"['Phosphoribosylformylglycinamidine cyclo-ligase', 'AIR synthase', 'AIRS', 'Phosphoribosyl-aminoimidazole synthetase']","The PsaA/B heterodimer binds the P700 chlorophyll special pair and subsequent electron acceptors. PSI consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.","['purM', 'slr0838']"
+308,P74589,['Mannose-1-phosphate guanyltransferase'],"The PsaA/B heterodimer binds the P700 chlorophyll special pair and subsequent electron acceptors. PSI consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.",[]
+309,P74285,"['UTP--glucose-1-phosphate uridylyltransferase', 'Cyanobacterial UDP-glucose pyrophosphorylase', 'UDP-glucose pyrophosphorylase', 'UDP-Glc PPase']","The PsaA/B heterodimer binds the P700 chlorophyll special pair and subsequent electron acceptors. PSI consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.","['cugP', 'sll1558']"
+310,P32422,"['Photosystem I iron-sulfur center', '9 kDa polypeptide', 'PSI-C', 'Photosystem I subunit VII', 'PsaC']","The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.","['psaC', 'ssl0563']"
+311,P72705,['Photosystem I assembly protein Ycf4'],"The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.","['ycf4', 'sll0226']"
+312,P74063,['Photosystem I assembly protein Ycf3'],"The cyanobacterial PSI reaction center is composed of one copy each of PsaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric complexes.","['ycf3', 'slr0823']"
+313,P74724,"['N5-carboxyaminoimidazole ribonucleotide synthase', 'N5-CAIR synthase']",Homodimer.,"['purK', 'sll0578']"
+314,Q55498,"['N5-carboxyaminoimidazole ribonucleotide mutase', 'N5-CAIR mutase']",Homodimer.,"['purE', 'sll0901']"
+315,P72966,['Photosystem I biogenesis protein BtpA'],Homodimer.,"['btpA', 'sll0634']"
+316,P73471,['Phosphoribosylaminoimidazole-succinocarboxamide synthase'],Homodimer.,"['purC', 'slr1226']"
+317,P74384,"['Adenylosuccinate lyase', 'ASL']",Homooligomer. Residues from neighboring subunits contribute catalytic and substrate-binding residues to each active site (By similarity).,"['purB', 'sll0421']"
+318,P27319,['Flavodoxin'],Homooligomer. Residues from neighboring subunits contribute catalytic and substrate-binding residues to each active site (By similarity).,"['isiB', 'sll0248']"
+319,P74741,['Bifunctional purine biosynthesis protein PurH'],Homooligomer. Residues from neighboring subunits contribute catalytic and substrate-binding residues to each active site (By similarity).,"['purH', 'slr0597']"
+320,P73290,['Adenylosuccinate synthetase'],Homodimer.,"['purA', 'sll1823']"
+321,P74732,['Ribonucleoside-diphosphate reductase subunit beta'],Homodimer.,[]
+322,P74240,['Ribonucleoside-diphosphate reductase subunit alpha'],Tetramer of two alpha and two beta subunits.,"['nrdA', 'slr1164']"
+323,P73440,"[""Putative 5'-nucleotidase alr3139""]",Tetramer of two alpha and two beta subunits.,[]
+324,Q55318,"['Ferredoxin--NADP reductase', 'FNR']",Purifies with both the classic phycobilisome (PBS) supercomplex (CpcG-PBS) and a photosystem I-associated PBS called CpcL-PBS; it accumulates to a higher level in CpcL-PBS. In both PBS it can be cross-linked to both phycocyanin subunits.,"['petH', 'slr1643']"
+325,P27320,['Ferredoxin-1'],"Forms a complex with heterodimeric ferredoxin-thioredoxin reductase (FTR, ftrC) under reducing and oxidizing condition (PubMed:20869472) and thioredoxin (PubMed:20869472, PubMed:17611542). Interacts with a number of proteins including RpaA; binding to RpaA is higher when ferredoxin is reduced (PubMed:20869472).","['petF', 'fed', 'ssl0020']"
+326,Q55781,"['Ferredoxin-thioredoxin reductase, variable chain', 'FTR-V']",Heterodimer of subunit A (variable subunit) and subunit B (catalytic subunit). Heterodimeric FTR forms a complex with ferredoxin and thioredoxin.,"['ftrV', 'ssr0330']"
+327,P74709,"[""5'-nucleotidase SurE""]",Heterodimer of subunit A (variable subunit) and subunit B (catalytic subunit). Heterodimeric FTR forms a complex with ferredoxin and thioredoxin.,"['surE', 'sll1108']"
+328,Q55389,"['Ferredoxin-thioredoxin reductase, catalytic chain', 'FTR-C']",Heterodimer of subunit A (variable subunit) and subunit B (catalytic subunit). Heterodimeric FTR forms a complex with ferredoxin and thioredoxin.,"['ftrC', 'sll0554']"
+329,P73935,"['Adenine phosphoribosyltransferase', 'APRT']",Homodimer.,"['apt', 'sll1430']"
+330,Q55393,"['Diflavin flavoprotein A 1', 'NADH:oxygen oxidoreductase', 'SsATF573']",Homodimer.,"['dfa1', 'sll0550']"
+331,P74494,['Nucleoside diphosphate kinase'],Homotetramer.,"['ndk', 'ndkR', 'sll1852']"
+332,P74373,['Putative diflavin flavoprotein A 3'],Homotetramer.,"['dfa3', 'sll1521']"
+333,Q55013,"['Photosystem II extrinsic protein V', 'PsbV', 'Cytochrome c-550', 'Cytochrome c549', 'Cytochrome c550', 'Low-potential cytochrome c']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700). The cyanobacterial oxygen-evolving complex is composed of PsbO, CyanoQ (PsbQ), PsbV and PsbU.","['psbV', 'petK', 'sll0258']"
+334,O06449,[],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700). The cyanobacterial oxygen-evolving complex is composed of PsbO, CyanoQ (PsbQ), PsbV and PsbU.","['repHIA', 'CHR63_21980', 'SMR0001']"
+335,Q55910,['Slr0306 protein'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700). The cyanobacterial oxygen-evolving complex is composed of PsbO, CyanoQ (PsbQ), PsbV and PsbU.",[]
+336,P74367,['Photosystem II lipoprotein Psb27'],"Monomer. Forms a complex with a monomeric, partially assembled PSII. This is probably the complex in which D1 is assembled and/or replaced. Present in 6-10% of PSII complexes; mostly in monomeric PSII. These PSII do not evolve oxygen, do not have an assembled calcium-manganese-oxide cluster. Psb27-containing PSII seem to be assembly intermediates; a wild-type strain includes the intrinsic membrane proteins, Psb27, Pbs28, substoichiometric amounts of PsbO and PsbQ but no PsbU or PsbV, while a ctpA deletion mutant includes the intrinsic membrane proteins (D1 as precursor), Psb27, a very low amount of PsbO and PsbQ, but no PsbU or PsbV. Small amounts of Psb27 interact with the lumenal domain of CP43 (psbC) in wild-type and a ctpA mutant. A small amount can also be detected in monomeric and trimeric photosystem I (PSI), possibly via association with PsaB.","['psb27', 'slr1645']"
+337,P49057,"['GMP synthase [glutamine-hydrolyzing]', 'GMP synthetase', 'Glutamine amidotransferase']",Homodimer.,"['guaA', 'slr0213']"
+338,P74308,"['Aldo/keto reductase slr0942', 'AKR']",Monomer.,[]
+339,P72648,['Guanylate kinase'],Monomer.,"['gmk', 'slr1123']"
+340,Q55336,"['Formate-dependent phosphoribosylglycinamide formyltransferase', ""5'-phosphoribosylglycinamide transformylase 2"", 'Formate-dependent GAR transformylase', 'GAR transformylase 2', 'GART 2', 'Non-folate glycinamide ribonucleotide transformylase', 'Phosphoribosylglycinamide formyltransferase 2']",Homodimer.,"['purT', 'slr0861']"
+341,P74260,"['Glycerol kinase', 'ATP:glycerol 3-phosphotransferase', 'Glycerokinase', 'GK']",Homodimer.,"['glpK', 'slr1672']"
+342,P16033,"['Photosystem II protein D1 2', 'PSII D1 protein 2']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.",[]
+343,P73676,['Photosystem II reaction center protein Y'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbY', 'sml0007']"
+344,P72641,"['Adenylate kinase 2', 'AK 2', 'ATP-AMP transphosphorylase 2', 'ATP:AMP phosphotransferase 2', 'Adenylate monophosphate kinase 2']",Monomer.,"['adk2', 'sll1059']"
+345,P73033,['Glycerol-3-phosphate dehydrogenase [NAD(P)+]'],Monomer.,"['gpsA', 'slr1755']"
+346,P73302,"['Adenylate kinase 1', 'AK 1', 'ATP-AMP transphosphorylase 1', 'ATP:AMP phosphotransferase 1', 'Adenylate monophosphate kinase 1']",Monomer.,"['adk1', 'sll1815']"
+347,P74257,['Glycerol-3-phosphate dehydrogenase'],Monomer.,"['glpD', 'sll1085']"
+348,Q54697,"['Photosystem II reaction center protein I', 'PSII-I']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbI', 'sml0001']"
+349,P73023,['Regulatory protein for beta-lactamase'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.",[]
+350,P15819,"['Photosystem II reaction center protein K', 'PSII-K']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbK', 'sml0005']"
+351,P74163,['Aspartate carbamoyltransferase catalytic subunit'],"Heterododecamer (2C3:3R2) of six catalytic PyrB chains organized as two trimers (C3), and six regulatory PyrI chains organized as three dimers (R2).","['pyrB', 'slr1476']"
+352,Q9Z4H6,[],"Heterododecamer (2C3:3R2) of six catalytic PyrB chains organized as two trimers (C3), and six regulatory PyrI chains organized as three dimers (R2).","['HtdB', 'trhB', 'CHR63_21945', 'SMR0009']"
+353,P72934,['Probable dihydroorotase-like protein'],"Heterododecamer (2C3:3R2) of six catalytic PyrB chains organized as two trimers (C3), and six regulatory PyrI chains organized as three dimers (R2).","[""pyrC'"", 'sll1018']"
+354,P74325,['sucrose-phosphate phosphatase'],"Heterododecamer (2C3:3R2) of six catalytic PyrB chains organized as two trimers (C3), and six regulatory PyrI chains organized as three dimers (R2).",[]
+355,P74438,"['Dihydroorotase', 'DHOase']",Homodimer.,"['pyrC', 'slr0406']"
+356,P54225,"['Ferrochelatase', 'Heme synthase', 'Protoheme ferro-lyase', 'Small Cab-like protein ScpA']",Homodimer.,"['hemH', 'scpA', 'slr0839']"
+357,P05429,"['Photosystem II CP47 reaction center protein', 'PSII 47 kDa protein', 'Protein CP-47']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:12069591, PubMed:34937700). Contacts PsbQ (PubMed:24550459).","['psbB', 'slr0906']"
+358,P09190,['Cytochrome b559 subunit alpha'],"Heterodimer of an alpha subunit and a beta subunit (PubMed:34937700). PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).","['psbE', 'ssr3451']"
+359,Q55989,['Sll0744 protein'],"Heterodimer of an alpha subunit and a beta subunit (PubMed:34937700). PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).",[]
+360,P72723,['Putative diflavin flavoprotein A 2'],"Heterodimer of an alpha subunit and a beta subunit (PubMed:34937700). PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).","['dfa2', 'sll0217']"
+361,Q79EF2,"['Protoheme IX farnesyltransferase', 'Heme B farnesyltransferase', 'Heme O synthase']","Heterodimer of an alpha subunit and a beta subunit (PubMed:34937700). PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).","['ctaB', 'sll1899']"
+362,Q8KX10,['Uncharacterized protein sll1898'],"Heterodimer of an alpha subunit and a beta subunit (PubMed:34937700). PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).",[]
+363,P74782,"['Dihydroorotate dehydrogenase (quinone)', 'DHOdehase']",Monomer.,"['pyrD', 'slr1418']"
+364,P74592,['ATP phosphoribosyltransferase regulatory subunit'],Heteromultimer composed of HisG and HisZ subunits.,"['hisZ', 'hisS2', 'slr1560']"
+365,P72721,['Putative diflavin flavoprotein A 4'],Heteromultimer composed of HisG and HisZ subunits.,"['dfa4', 'sll0219']"
+366,Q55574,['Orotate phosphoribosyltransferase'],Homodimer.,"['pyrE', 'slr0185']"
+367,P72701,"['Photosystem II reaction center protein M', 'PSII-M']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbM', 'sml0003']"
+368,Q55503,['ATP phosphoribosyltransferase'],Heteromultimer composed of HisG and HisZ subunits.,"['hisG', 'sll0900']"
+369,P73761,"[""Orotidine 5'-phosphate decarboxylase""]",Homodimer.,"['pyrF', 'sll0838']"
+370,P74755,['Histidine biosynthesis bifunctional protein HisIE'],Homodimer.,"['hisI', 'hisIE', 'slr0608']"
+371,P09193,"['Photosystem II CP43 reaction center protein', 'PSII 43 kDa protein', 'Protein CP-43']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbC', 'sll0851']"
+372,P74457,"['Uridylate kinase', 'UK']",Homohexamer.,"['pyrH', 'sll0144']"
+373,P74561,['1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase'],Homohexamer.,"['hisA', 'slr0652']"
+374,Q55805,"['Imidazole glycerol phosphate synthase subunit HisH', 'IGP synthase glutaminase subunit', 'IGP synthase subunit HisH', 'ImGP synthase subunit HisH', 'IGPS subunit HisH']",Heterodimer of HisH and HisF.,"['hisH', 'slr0084']"
+375,P74208,"['CTP synthase', ""Cytidine 5'-triphosphate synthase"", 'Cytidine triphosphate synthetase']",Homotetramer.,"['pyrG', 'sll1443']"
+376,P74106,"['Imidazole glycerol phosphate synthase subunit HisF', 'IGP synthase cyclase subunit', 'IGP synthase subunit HisF', 'ImGP synthase subunit HisF', 'IGPS subunit HisF']",Heterodimer of HisH and HisF.,"['hisF', 'sll1893']"
+377,P72575,['Photosystem II reaction center protein X'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbX', 'sml0002']"
+378,Q936A3,[],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['htdP', 'trhK', 'CHR63_21955', 'SMR0007']"
+379,P74073,['Sll1258 protein'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.",[]
+380,P73069,['Photosystem II assembly lipoprotein Ycf48'],"Part of early PSII assembly complexes which includes D1 (psbA) and PsbI; not found in mature PSII. By two-hybrid analysis in yeast interacts with precursor and intermediate forms of D1, but less with mature D1 (PubMed:18550538). Binds to the lumenal side of PSI and PSII complexes. Coimmunoprecipitates with YidC (PubMed:30061392). Purified chlorophyll- and carotenoid-containing photosystem II (PSII) assembly intermediate complex RCII* (iD1, D1, D2, PsbE, PsbF, PsbI, Ycf39, Ycf48, HliC and HliD) (PubMed:24681620).","['ycf48', 'slr2034']"
+381,P73952,['CyanoP'],"Monomer (PubMed:22414666). Present in about 3% of photosystem II (PSII) preparations (PubMed:15258264). Purifies with partially assembled PSII complexes, in addition to a small amount of monomeric and dimeric PSII, and trimeric PSI (PubMed:27388341).","['psbP', 'sll1418']"
+382,P48054,"['Imidazoleglycerol-phosphate dehydratase', 'IGPD']","Monomer (PubMed:22414666). Present in about 3% of photosystem II (PSII) preparations (PubMed:15258264). Purifies with partially assembled PSII complexes, in addition to a small amount of monomeric and dimeric PSII, and trimeric PSI (PubMed:27388341).","['hisB', 'slr0500']"
+383,Q55593,['Thymidylate kinase'],"Monomer (PubMed:22414666). Present in about 3% of photosystem II (PSII) preparations (PubMed:15258264). Purifies with partially assembled PSII complexes, in addition to a small amount of monomeric and dimeric PSII, and trimeric PSI (PubMed:27388341).","['tmk', 'slr0379']"
+384,P73053,"['Flavin-dependent thymidylate synthase', 'FDTS', 'FAD-dependent thymidylate synthase', 'Thymidylate synthase ThyX']",Homotetramer.,"['thyX', 'sll1635']"
+385,P73726,"['Homogentisate phytyltransferase', 'HPT']",Homotetramer.,[]
+386,Q55332,['Photosystem II extrinsic protein U'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).","['psbU', 'sll1194']"
+387,P73727,['Slr1737 protein'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700).",[]
+388,P16033,"['Photosystem II protein D1 2', 'PSII D1 protein 2']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.",[]
+389,P72946,['Histidinol dehydrogenase homolog'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.",[]
+390,P73058,"['Histidinol dehydrogenase', 'HDH']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['hisD', 'slr1848']"
+391,P09192,"['Photosystem II D2 protein', 'PSII D2 protein']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbD', 'sll0849']"
+392,Q55500,['4-hydroxybenzoate solanesyltransferase'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['plqA', 'slr0926']"
+393,Q936A4,[],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['htdE', 'trhE', 'CHR63_21960', 'SMR0006']"
+394,Q55141,['Acetolactate synthase small subunit'],Dimer of large and small chains.,"['ilvH', 'ilvN', 'sll0065']"
+395,P14835,"['Photosystem II reaction center protein H', 'PSII-H']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbH', 'ssl2598']"
+396,P72835,['Uncharacterized protein slr1300'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.",[]
+397,P10549,"['Photosystem II extrinsic protein O', 'PsbO']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700). Contacts PsbQ (PubMed:24550459).","['psbO', 'psb1', 'sll0427']"
+398,P72743,['Flavin prenyltransferase UbiX'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700). Contacts PsbQ (PubMed:24550459).","['ubiX', 'slr1099']"
+399,P72861,['Uncharacterized protein sll0936'],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes (PubMed:34937700). Contacts PsbQ (PubMed:24550459).",[]
+400,P29107,"['Ketol-acid reductoisomerase (NADP(+))', 'KARI', 'Acetohydroxy-acid isomeroreductase', 'AHIR', 'Alpha-keto-beta-hydroxylacyl reductoisomerase', 'Ketol-acid reductoisomerase type 1', 'Ketol-acid reductoisomerase type I']",Homooctamer.,"['ilvC', 'sll1363']"
+401,P74388,"['2-methyl-6-phytyl-1,4-hydroquinone methyltransferase']",Homooctamer.,[]
+402,P74689,"['Dihydroxy-acid dehydratase', 'DAD']",Homodimer.,"['ilvD', 'slr0452']"
+403,P73731,['Photosystem II reaction center Psb28 protein'],Homodimer.,[]
+404,P07826,"['Photosystem II protein D1 1', 'PSII D1 protein 1']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['psbA1', 'psbA-1', 'slr1181']"
+405,Q936A2,[],"PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['htdO', 'SMR0008']"
+406,P54691,"['Probable branched-chain-amino-acid aminotransferase', 'BCAT']","PSII is composed of 1 copy each of membrane proteins PsbA, PsbB, PsbC, PsbD, PsbE, PsbF, PsbH, PsbI, PsbJ, PsbK, PsbL, PsbM, PsbT, PsbX, PsbY, PsbZ, Psb30/Ycf12, peripheral proteins PsbO, CyanoQ (PsbQ), PsbU, PsbV and a large number of cofactors. It forms dimeric complexes.","['ilvE', 'slr0032']"
+407,P48576,"['2-isopropylmalate synthase', 'Alpha-IPM synthase', 'Alpha-isopropylmalate synthase']",Homodimer.,"['leuA', 'slr0186']"
+408,Q55725,"['2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase', 'SEPHCHC synthase']",Homodimer.,"['menD', 'sll0603']"
+409,P73114,['Esterase'],Homodimer.,[]
+410,P74269,['(R)-citramalate synthase'],Homodimer.,"['cimA', 'sll1564']"
+411,Q55356,"['Photosystem II reaction center Psb28 protein', 'Photosystem II 13 kDa protein', 'Photosystem II reaction center W protein']",Part of the photosystem II complex.,"['psb28', 'psbW', 'sll1398']"
+412,Q55117,"['o-succinylbenzoate synthase', ""4-(2'-carboxyphenyl)-4-oxybutyric acid synthase"", 'o-succinylbenzoic acid synthase']",Part of the photosystem II complex.,"['menC', 'sll0409']"
+413,P26527,"['ATP synthase subunit beta', 'ATP synthase F1 sector subunit beta', 'F-ATPase subunit beta']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has four main subunits: a(1), b(1), b'(1) and c(9-12).","['atpD', 'atpB', 'slr1329']"
+414,P54384,"['3-isopropylmalate dehydratase large subunit', 'Alpha-IPM isomerase', 'IPMI', 'Isopropylmalate isomerase']",Heterodimer of LeuC and LeuD.,"['leuC', 'sll1470']"
+415,P27180,"['ATP synthase subunit delta', 'ATP synthase F(1) sector subunit delta', 'F-type ATPase subunit delta', 'F-ATPase subunit delta']","F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has four main subunits: a(1), b(1), b'(1) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta, b and b' chains.","['atpH', 'atpD', 'sll1325']"
+416,P74207,"['3-isopropylmalate dehydratase small subunit', 'Alpha-IPM isomerase', 'IPMI', 'Isopropylmalate isomerase']",Heterodimer of LeuC and LeuD.,"['leuD', 'sll1444']"
+417,P73960,"['3-isopropylmalate dehydrogenase', '3-IPM-DH', 'Beta-IPM dehydrogenase', 'IMDH']",Homodimer.,"['leuB', 'slr1517']"
+418,C4RSA3,"['1,4-dihydroxy-2-naphthoyl-CoA hydrolase', 'DHNA-CoA hydrolase']",Homodimer.,[]
+419,P73403,['Sll1722 protein'],Homodimer.,[]
+420,P73962,"['2-carboxy-1,4-naphthoquinone phytyltransferase']",Homodimer.,"['menA', 'slr1518']"
+421,P72818,"['2-phytyl-1,4-naphtoquinone methyltransferase']",Homodimer.,"['menG', 'sll1653']"
+422,P74158,['Inositol-1-monophosphatase'],Homodimer.,"['suhB', 'sll1383']"
+423,A0A8X6VKA5,['Uncharacterized protein slr0090'],Homodimer.,"['slr0090', 'TNCV_1123301']"
+424,P74104,['Riboflavin biosynthesis protein RibBA'],Homodimer.,"['ribBA', 'ribA', 'sll1894']"
+425,P74542,['Monophosphatase'],Homodimer.,[]
+426,Q55158,['Riboflavin biosynthesis protein RibD'],Homodimer.,"['ribD', 'slr0066']"
+427,P73951,"['Beta-ketoacyl-[acyl-carrier-protein] synthase III', '3-oxoacyl-[acyl-carrier-protein] synthase 3', '3-oxoacyl-[acyl-carrier-protein] synthase III']",Homodimer.,"['fabH', 'slr1511']"
+428,P73788,"['Phosphate import ATP-binding protein PstB 3', 'ABC phosphate transporter 3', 'Phosphate-transporting ATPase 3']","The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['pstB3', 'slr1250']"
+429,Q55129,['Uncharacterized protein sll0400'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",[]
+430,Q55200,['Protein SphX'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['sphX', 'sll0679']"
+431,P73283,"['3-oxoacyl-[acyl-carrier-protein] synthase 2', '3-oxoacyl-[acyl-carrier-protein] synthase II', 'Beta-ketoacyl-ACP synthase II', 'KAS II']",Homodimer.,"['fabF', 'sll1069']"
+432,P73527,"['6,7-dimethyl-8-ribityllumazine synthase']",Homodimer.,"['ribH', 'sll1282']"
+433,P74638,['Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['accA', 'sll0728']"
+434,P73651,['Bifunctional riboflavin kinase/FMN adenylyltransferase'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['ribF', 'slr1882']"
+435,P74312,['NADPH-dependent quinone reductase ArsH'],Homotetramer.,"['arsH', 'slr0945']"
+436,Q57417,['Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['accD', 'zfpA', 'sll0336']"
+437,Q55660,['Slr0001 protein'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[]
+438,P72598,['Sll1202 protein'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[]
+439,Q55233,['Protein DrgA'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['drgA', 'slr1719']"
+440,P74258,['Glucosylglycerol-phosphate synthase'],Interacts with GGP-P.,"['ggpS', 'sll1566']"
+441,P73242,"['Malonyl CoA-acyl carrier protein transacylase', 'MCT']",Interacts with GGP-P.,"['fabD', 'slr2023']"
+442,Q55034,"['Glucosylglycerol-phosphate phosphatase', 'GGP-P', 'Glucosylglycerol 3-phosphatase', 'Salt tolerance protein A']",Monomer. Interacts with GGPS.,"['stpA', 'slr0746']"
+443,P73574,['3-oxoacyl-[acyl-carrier-protein] reductase'],Monomer. Interacts with GGPS.,"['fabG', 'slr0886']"
+444,P0DJF8,"[""S-methyl-5'-thioadenosine phosphorylase""]",Homohexamer. Dimer of a homotrimer.,"['mtnP', 'sll0135']"
+445,Q55282,['Manganese transport system membrane protein MntB'],Homohexamer. Dimer of a homotrimer.,"['mntB', 'sll1600']"
+446,Q55281,['Manganese transport system ATP-binding protein MntA'],Homohexamer. Dimer of a homotrimer.,"['mntA', 'sll1599']"
+447,P74497,['Methylthioribose-1-phosphate isomerase'],Homohexamer. Dimer of a homotrimer.,"['mtnA', 'slr1938']"
+448,P73867,"['Potassium-transporting ATPase ATP-binding subunit', 'ATP phosphohydrolase [potassium-transporting] B chain', 'Potassium-binding and translocating subunit B', 'Potassium-translocating ATPase B chain']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['kdpB', 'slr1729']"
+449,Q6ZEQ1,['Sll5079 protein'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",[]
+450,P52415,"['Glucose-1-phosphate adenylyltransferase', 'ADP-glucose pyrophosphorylase', 'ADPGlc PPase', 'ADP-glucose synthase']",Homotetramer.,"['glgC', 'agp', 'slr1176']"
+451,P73848,"['3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ', '(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase', '(3R)-hydroxymyristoyl-ACP dehydrase', 'Beta-hydroxyacyl-ACP dehydratase']",Homotetramer.,"['fabZ', 'sll1605']"
+452,P73869,"['Potassium-transporting ATPase KdpC subunit', 'ATP phosphohydrolase [potassium-transporting] C chain', 'Potassium-binding and translocating subunit C', 'Potassium-translocating ATPase C chain']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['kdpC', 'slr1730']"
+453,P74521,['Glycogen synthase 1'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['glgA1', 'glgA', 'sll0945']"
+454,P73870,['Putative sensor protein KdpD'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['kdpD', 'slr1731']"
+455,P73866,"['Potassium-transporting ATPase potassium-binding subunit', 'ATP phosphohydrolase [potassium-transporting] A chain', 'Potassium-binding and translocating subunit A', 'Potassium-translocating ATPase A chain']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['kdpA', 'slr1728']"
+456,P73016,"['Enoyl-[acyl-carrier-protein] reductase [NADH] FabI', 'ENR']",Homotetramer.,"['fabI', 'envM', 'slr1051']"
+457,P72623,['Probable glycogen synthase 2'],Homotetramer.,"['glgA2', 'sll1393']"
+458,Q55608,['Slr0773 protein'],Homotetramer.,[]
+459,P52981,"['1,4-alpha-glucan branching enzyme GlgB', '1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase', 'Alpha-(1->4)-glucan branching enzyme', 'Glycogen branching enzyme', 'BE']",Monomer.,"['glgB', 'sll0158']"
+460,P73511,['Glycogen phosphorylase'],Monomer.,"['glgP', 'sll1356']"
+461,Q55496,['Sll0493 protein'],Monomer.,[]
+462,Q55398,['Sll0545 protein'],Monomer.,[]
+463,Q55598,['Slr0384 protein'],Monomer.,[]
+464,P73086,['ABC transporter'],Monomer.,[]
+465,P73087,['Uncharacterized membrane protein slr2045'],Monomer.,[]
+466,P73825,['Acetyl-CoA acetyltransferase'],Homotetramer (By similarity).,"['phaA', 'slr1993']"
+467,P73826,['Acetoacetyl-CoA reductase'],Homotetramer (By similarity).,"['phaB', 'slr1994']"
+468,Q59997,['Cation-transporting ATPase E1-E2 ATPase'],Homotetramer (By similarity).,[]
+469,P73389,"['Poly(3-hydroxyalkanoate) polymerase subunit PhaE', 'PHA polymerase', 'PHB synthase subunit PhaE', 'Poly(3-hydroxybutyrate) polymerase subunit PhaE', 'PHB polymerase', 'Poly(hydroxyalkanoic acid) synthase subunit PhaE']","Forms a heterodimer with PhaC, which may multimerize in the presence of 3-hydroxybutyryl-CoA (PubMed:25629766). Both subunits are required for PHB synthesis in E.coli and in PHA-negative A.eutrophus.","['phaE', 'slr1829']"
+470,P73390,"['Poly(3-hydroxyalkanoate) polymerase subunit PhaC', 'PHA polymerase', 'PHB synthase subunit PhaC', 'Poly(3-hydroxybutyrate) polymerase subunit PhaC', 'PHB polymerase', 'Poly(hydroxyalkanoic acid) synthase subunit PhaC']","Forms a heterodimer with PhaE, which may multimerize in the presence of 3-hydroxybutyryl-CoA (PubMed:25629766). Both subunits are required for PHB synthesis in E.coli and in PHA-negative A.eutrophus.","['phaC', 'phbC', 'slr1830']"
+471,P73833,['Cyanophycin synthetase'],Homodimer.,"['cphA', 'slr2002']"
+472,Q59998,['Zinc-transporting ATPase'],Homodimer.,"['ziaA', 'slr0798']"
+473,P73725,['ABC transporter'],Homodimer.,[]
+474,P73832,['Cyanophycinase'],Homodimer.,"['cphB', 'slr2001']"
+475,P73067,['1-deoxy-D-xylulose-5-phosphate synthase'],Homodimer.,"['dxs', 'sll1945']"
+476,Q55663,"['1-deoxy-D-xylulose 5-phosphate reductoisomerase', 'DXP reductoisomerase', '1-deoxyxylulose-5-phosphate reductoisomerase', '2-C-methyl-D-erythritol 4-phosphate synthase']",Homodimer.,"['dxr', 'sll0019']"
+477,P74323,"['2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase', '4-diphosphocytidyl-2C-methyl-D-erythritol synthase', 'MEP cytidylyltransferase', 'MCT']",Homodimer.,"['ispD', 'slr0951']"
+478,Q55740,['Putative ABC transporter ATP-binding protein sll0385'],Homodimer.,[]
+479,P72663,"['4-diphosphocytidyl-2-C-methyl-D-erythritol kinase', 'CMK']",Homodimer.,"['ispE', 'sll0711']"
+480,Q8KX06,"['2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase']",Homodimer.,[]
+481,Q55649,['ABC transporter'],Homodimer.,[]
+482,Q55741,['Sll0384 protein'],Homodimer.,[]
+483,P73672,['4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)'],Homodimer.,"['ispG', 'gcpE', 'slr2136']"
+484,P74129,['Slr1978 protein'],Homodimer.,[]
+485,Q55643,"['4-hydroxy-3-methylbut-2-enyl diphosphate reductase', 'HMBPP reductase']",Homodimer.,"['ispH', 'lytB', 'slr0348']"
+486,P73182,['Fe(2+) transporter FeoB'],Homodimer.,"['feoB', 'slr1392']"
+487,Q55482,['Isoprenyl transferase'],Homodimer.,"['uppS', 'sll0506']"
+488,Q55968,['Magnesium transport protein CorA'],Homodimer.,"['corA', 'sll0671']"
+489,Q55087,['Geranylgeranyl diphosphate reductase'],Homodimer.,"['chlP', 'sll1091']"
+490,P72580,['Prenyl transferase'],Homodimer.,"['preA', 'slr0611']"
+491,Q55481,['Magnesium transport protein CorA'],Homodimer.,"['corA', 'sll0507']"
+492,Q55894,"['Phosphomethylpyrimidine synthase', 'Hydroxymethylpyrimidine phosphate synthase']",Homodimer.,"['thiC', 'slr0118']"
+493,A0A0A1X9Z1,['Uncharacterized protein slr0014'],Homodimer.,"['slr0014', 'g.25474']"
+494,P72965,['Thiamine-phosphate synthase'],Homodimer.,"['thiE', 'sll0635']"
+495,P72787,['Thiamine-monophosphate kinase'],Homodimer.,"['thiL', 'slr1787']"
+496,P37367,['Cation-transporting ATPase pma1'],Homodimer.,"['pma1', 'sll1614']"
+497,Q59999,['Na(+)/K(+)-exchanging ATPase'],"The sodium/potassium-transporting ATPase is composed of a catalytic alpha subunit, an auxiliary non-catalytic beta subunit and an additional regulatory subunit.",[]
+498,Q55461,['Bicarbonate transport system permease protein CmpB'],"The complex is composed of two ATP-binding proteins (CmpC and CmpD), a transmembrane protein (CmpB) and a solute-binding protein (CmpA).","['cmpB', 'slr0041']"
+499,P74072,['Ca(2+)/H(+) antiporter'],"The complex is composed of two ATP-binding proteins (CmpC and CmpD), a transmembrane protein (CmpB) and a solute-binding protein (CmpA).",[]
+500,Q55462,['Bicarbonate transport ATP-binding protein CmpC'],"The complex is composed of two ATP-binding proteins (CmpC and CmpD), a transmembrane protein (CmpB) and a solute-binding protein (CmpA).","['cmpC', 'slr0043']"
+501,Q55460,['Bicarbonate-binding protein CmpA'],"The complex is composed of two ATP-binding proteins (CmpC and CmpD), a transmembrane protein (CmpB) and a solute-binding protein (CmpA).","['cmpA', 'slr0040']"
+502,P74393,['Na(+)/H(+) antiporter NhaS2'],"The complex is composed of two ATP-binding proteins (CmpC and CmpD), a transmembrane protein (CmpB) and a solute-binding protein (CmpA).","['nhaS2', 'sll0273']"
+503,Q55463,['Bicarbonate transport ATP-binding protein CmpD'],"The complex is composed of two ATP-binding proteins (CmpC and CmpD), a transmembrane protein (CmpB) and a solute-binding protein (CmpA).","['cmpD', 'slr0044']"
+504,Q55415,['Bicarbonate transporter BicA'],Forms homodimers through the STAS cytoplasmic domain.,"['bicA', 'sll0834']"
+505,P73953,['Slr1512 protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+506,Q55190,['High-affinity Na(+)/H(+) antiporter NhaS3'],Forms homodimers through the STAS cytoplasmic domain.,"['nhaS3', 'sll0689']"
+507,P15729,['Glucose transport protein'],Forms homodimers through the STAS cytoplasmic domain.,"['gtr', 'glcP', 'sll0771']"
+508,Q55736,['Na(+)/H(+) antiporter NhaS5'],Forms homodimers through the STAS cytoplasmic domain.,"['nhaS5', 'napA', 'slr0415']"
+509,P73863,['Low-affinity Na(+)/H(+) antiporter NhaS1'],Forms homodimers through the STAS cytoplasmic domain.,"['nhaS1', 'slr1727']"
+510,P73721,['ABC transporter'],Forms homodimers through the STAS cytoplasmic domain.,[]
+511,P72973,['Na(+)/H(+) antiporter NhaS4'],Forms homodimers through the STAS cytoplasmic domain.,"['nhaS4', 'slr1595']"
+512,Q55388,['Sll0556 protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+513,P73241,['Probable copper-transporting ATPase PacS'],Forms homodimers through the STAS cytoplasmic domain.,"['pacS', 'sll1920']"
+514,P74512,['Cation-transporting ATPase E1-E2 ATPase'],Forms homodimers through the STAS cytoplasmic domain.,[]
+515,Q55993,['ABC transporter'],Forms homodimers through the STAS cytoplasmic domain.,[]
+516,Q55835,"['Iron uptake protein A2', 'Iron deficiency-induced protein A', 'PP2']",Forms homodimers through the STAS cytoplasmic domain.,"['futA2', 'idiA', 'slr0513']"
+517,P74225,['Sll1102 protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+518,P74224,['Sll1103 protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+519,P73900,['Sll0237 protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+520,P73898,['ABC transporter'],Forms homodimers through the STAS cytoplasmic domain.,[]
+521,P72827,['Iron uptake protein A1'],Forms homodimers through the STAS cytoplasmic domain.,"['futA1', 'slr1295']"
+522,P73899,['Sll0238 protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+523,P74455,['High-affinity branched-chain amino acid transport protein BraE'],Forms homodimers through the STAS cytoplasmic domain.,[]
+524,P74127,['ABC transporter'],Forms homodimers through the STAS cytoplasmic domain.,[]
+525,P74431,['Spermidine/putrescine-binding periplasmic protein'],Forms homodimers through the STAS cytoplasmic domain.,[]
+526,P73809,['Aquaporin Z'],Homotetramer.,"['aqpZ', 'slr2057']"
+527,Q55982,['4-hydroxythreonine-4-phosphate dehydrogenase'],Homodimer.,"['pdxA', 'sll0660']"
+528,P72776,"[""Pyridoxine 5'-phosphate synthase"", 'PNP synthase']",Homooctamer; tetramer of dimers.,"['pdxJ', 'slr1779']"
+529,P73351,['Slr1201 protein'],Homooctamer; tetramer of dimers.,[]
+530,P74211,"[""Pyridoxine/pyridoxamine 5'-phosphate oxidase"", 'PNP/PMP oxidase', 'PNPOx', ""Pyridoxal 5'-phosphate synthase""]",Homodimer.,"['pdxH', 'fprA', 'sll1440']"
+531,Q55749,"['Uroporphyrinogen-III C-methyltransferase', 'Urogen III methylase', 'S-adenosyl-L-methionine:uroporphyrinogen III methyltransferase', 'SUMT', 'Uroporphyrinogen III methylase', 'UROM']",Homodimer.,"['cobA', 'sll0378']"
+532,P73452,['Nitrate/nitrite binding protein NrtA'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['nrtA', 'sll1450']"
+533,P73267,['Sll1080 protein'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).",[]
+534,P73266,['Integral membrane components of other binding-protein-dependent transport system'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).",[]
+535,P73450,['Nitrate import ATP-binding protein NrtC'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['nrtC', 'sll1452']"
+536,Q55839,['Sll0473 protein'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).",[]
+537,P73423,['Cobalt-precorrin-5B C(1)-methyltransferase'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['cbiD', 'slr1538']"
+538,P73265,['Nitrate import ATP-binding protein NrtD'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['nrtD', 'sll1082']"
+539,P72711,['Cobalt-precorrin-6A reductase'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['cbiJ', 'cobK', 'slr0252']"
+540,P73451,['Nitrate import permease protein NrtB'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['nrtB', 'sll1451']"
+541,A0A061QIQ2,['Putative ammonium transporter'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).","['sll0108', 'AQ1_02034']"
+542,P72935,['Putative ammonium transporter sll1017'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).",[]
+543,P54148,['Putative ammonium transporter sll0537'],"The complex is composed of two ATP-binding proteins (NrtC and NrtD), two transmembrane proteins (NrtB) and a solute-binding protein (NrtA).",[]
+544,Q01895,['Sulfate transport system permease protein CysT'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).","['cysT', 'slr1453']"
+545,P74304,['Cobalt-precorrin-8 methylmutase'],Homodimer.,"['cbiC', 'cobH', 'sll0916']"
+546,P74547,['Sulfate transport system permease protein CysW'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).","['cysW', 'slr1454']"
+547,Q01903,['Sulfate-binding protein'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).","['sbpA', 'slr1452']"
+548,P74548,['Sulfate/thiosulfate import ATP-binding protein CysA'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).","['cysA', 'slr1455']"
+549,Q55814,['Low affinity sulfate transporter'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).",[]
+550,P74152,['Precorrin isomerase'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).",[]
+551,Q55410,['Sll0540 protein'],"The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).",[]
+552,P73002,"['Cobyrinate a,c-diamide synthase']","The complex is composed of two ATP-binding proteins (CysA), two transmembrane proteins (CysT and CysW) and a solute-binding protein (CysP).","['cbiA', 'sll1501']"
+553,Q55196,"['Phosphate import ATP-binding protein PstB 1', 'ABC phosphate transporter 1', 'Phosphate-transporting ATPase 1']","The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['pstB1', 'sll0683']"
+554,Q55195,"['Phosphate import ATP-binding protein PstB 2', 'ABC phosphate transporter 2', 'Phosphate-transporting ATPase 2']","The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['pstB2', 'sll0684']"
+555,Q55860,['Cobyric acid synthase'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['cobQ', 'cbiP', 'slr0618']"
+556,P74475,['Cobalamin biosynthesis protein CobD'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['cobD', 'slr1925']"
+557,P73003,['UPF0284 protein sll1500'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",[]
+558,Q55714,"['Adenosylcobinamide-GDP ribazoletransferase', 'Cobalamin synthase', ""Cobalamin-5'-phosphate synthase""]","The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).","['cobS', 'slr0636']"
+559,Q55806,['Threonine--tRNA ligase'],Homodimer.,"['thrS', 'sll0078']"
+560,P74423,['Alanine--tRNA ligase'],Homodimer.,"['alaS', 'sll0362']"
+561,P72753,"['Uracil phosphoribosyltransferase', 'UMP pyrophosphorylase', 'UPRTase']",Homodimer.,"['upp', 'sll1035']"
+562,Q55758,['Bifunctional protein PyrR'],Homodimer.,"['pyrR', 'sll0368']"
+563,Q55731,['Deoxyguanosinetriphosphate triphosphohydrolase-like protein'],Homodimer.,[]
+564,Q55187,['Phenylalanine--tRNA ligase alpha subunit'],Tetramer of two alpha and two beta subunits.,"['pheS', 'sll0454']"
+565,P74296,['Phenylalanine--tRNA ligase beta subunit'],Tetramer of two alpha and two beta subunits.,"['pheT', 'sll1553']"
+566,P52276,['Asparagine--tRNA ligase'],Homodimer.,"['asnS', 'sll0495']"
+567,Q55486,['Arginine--tRNA ligase'],Monomer.,"['argS', 'sll0502']"
+568,Q55474,['Sll0513 protein'],Monomer.,[]
+569,P73774,['Adenylate cyclase'],Monomer.,[]
+570,Q55424,['Putative amidase'],Monomer.,[]
+571,P73258,['Slr1134 protein'],Monomer.,[]
+572,P72646,['Sll1054 protein'],Monomer.,[]
+573,P73274,['Leucine--tRNA ligase'],Monomer.,"['leuS', 'sll1074']"
+574,P72849,['Heme oxygenase 1'],Monomer.,"['pbsA1', 'sll1184']"
+575,P74133,['Heme oxygenase 2'],Homodimer.,"['pbsA2', 'sll1875']"
+576,P72585,['GDP-L-fucose synthase'],Homodimer.,"['fcl', 'sll1213']"
+577,P73505,['Isoleucine--tRNA ligase'],Monomer.,"['ileS', 'sll1362']"
+578,P73942,['Proline--tRNA ligase'],Homodimer.,"['proS', 'sll1425']"
+579,P73558,"['Glutamyl-tRNA(Gln) amidotransferase subunit A', 'Glu-ADT subunit A']","Heterotrimer of A, B and C subunits.","['gatA', 'slr0877']"
+580,P74215,"['Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B', 'Asp/Glu-ADT subunit B']","Heterotrimer of A, B and C subunits.","['gatB', 'sll1435']"
+581,Q55450,"['Glutamyl-tRNA(Gln) amidotransferase subunit C', 'Glu-ADT subunit C']","Heterotrimer of A, B and C subunits.","['gatC', 'slr0033']"
+582,P72785,"['4-alpha-glucanotransferase', 'Amylomaltase', 'Disproportionating enzyme', 'D-enzyme']","Heterotrimer of A, B and C subunits.","['malQ', 'sll1676']"
+583,P73618,"['Deoxyribose-phosphate aldolase', 'DERA', '2-deoxy-D-ribose 5-phosphate aldolase', 'Phosphodeoxyriboaldolase', 'Deoxyriboaldolase']","Heterotrimer of A, B and C subunits.","['deoC', 'sll1776']"
+584,Q55163,['Methionyl-tRNA formyltransferase'],"Heterotrimer of A, B and C subunits.","['fmt', 'slr0070']"
+585,Q55690,['Glycine--tRNA ligase beta subunit'],Tetramer of two alpha and two beta subunits.,"['glyS', 'slr0220']"
+586,Q55716,['Glycine--tRNA ligase alpha subunit'],Tetramer of two alpha and two beta subunits.,"['glyQ', 'slr0638']"
+587,Q55653,['Histidine--tRNA ligase'],Homodimer.,"['hisS', 'slr0357']"
+588,Q55849,"['ATP-dependent dethiobiotin synthetase BioD', 'DTB synthetase', 'DTBS', 'Dethiobiotin synthase']",Homodimer.,"['bioD', 'slr0523']"
+589,Q55472,['Osmoprotective compounds uptake permease protein GgtC'],"The complex is composed of two ATP-binding proteins (GgtA), two transmembrane proteins (GgtC and GgtD) and a solute-binding protein (GgtB).","['ggtC', 'slr0530']"
+590,Q55471,['Osmoprotective compounds-binding protein GgtB'],"The complex is composed of two ATP-binding proteins (GgtA), two transmembrane proteins (GgtC and GgtD) and a solute-binding protein (GgtB).","['ggtB', 'slr0529']"
+591,Q55473,['Osmoprotective compounds uptake permease protein GgtD'],"The complex is composed of two ATP-binding proteins (GgtA), two transmembrane proteins (GgtC and GgtD) and a solute-binding protein (GgtB).","['ggtD', 'slr0531']"
+592,Q79EE4,['Osmoprotective compounds uptake ATP-binding protein GgtA'],"The complex is composed of two ATP-binding proteins (GgtA), two transmembrane proteins (GgtC and GgtD) and a solute-binding protein (GgtB).","['ggtA', 'slr0747']"
+593,Q55522,['Valine--tRNA ligase'],Monomer.,"['valS', 'slr0557']"
+594,Q55867,['UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)'],Monomer.,[]
+595,Q55729,['Methionine--tRNA ligase'],Monomer.,"['metG', 'metS', 'slr0649']"
+596,Q55367,"['Cyanate hydratase', 'Cyanase', 'Cyanate hydrolase', 'Cyanate lyase']",Monomer.,"['cynS', 'slr0899']"
+597,P74770,"['Putative 8-amino-7-oxononanoate synthase', 'AONS', '7-keto-8-amino-pelargonic acid synthase', '7-KAP synthase', '8-amino-7-ketopelargonate synthase']",Homodimer.,"['bioF', 'slr0917']"
+598,P74330,['Cysteine--tRNA ligase'],Monomer.,"['cysS', 'slr0958']"
+599,P73141,['Tyrosine--tRNA ligase'],Homodimer.,"['tyrS', 'slr1031']"
+600,P74246,['Uncharacterized oxidoreductase slr1167'],Homodimer.,[]
+601,P73538,['Biotin synthase'],Homodimer.,"['bioB', 'slr1364']"
+602,P73443,['Lysine--tRNA ligase'],Homodimer.,"['lysS', 'slr1550']"
+603,P73201,"['Serine--tRNA ligase', 'Seryl-tRNA synthetase', 'SerRS', 'Seryl-tRNA(Ser/Sec) synthetase']",Homodimer. The tRNA molecule binds across the dimer.,"['serS', 'slr1703']"
+604,P73851,"['Aspartate--tRNA(Asp/Asn) ligase', 'Aspartyl-tRNA synthetase', 'AspRS', 'Non-discriminating aspartyl-tRNA synthetase', 'ND-AspRS']",Homodimer.,"['aspS', 'slr1720']"
+605,P73655,['Tryptophan--tRNA ligase'],Homodimer.,"['trpS', 'slr1884']"
+606,Q6LS81,['Hypothetical Ap4A phosphorylase II'],Homodimer.,"['SLL0509', 'PBPRA1434']"
+607,Q55179,['Probable lipid II flippase MurJ'],Homodimer.,"['murJ', 'mviN', 'slr0488']"
+608,Q55957,['Sll0777 protein'],Homodimer.,[]
+609,P74220,['Putative carboxypeptidase slr1534'],Homodimer.,[]
+610,P74474,['D-alanyl-D-alanine carboxypeptidase'],Homodimer.,[]
+611,Q55421,['Elongation factor G-like protein'],Homodimer.,[]
+612,P74227,"['Elongation factor Tu', 'EF-Tu']",Monomer.,"['tuf', 'tufA', 'sll1099']"
+613,P74228,"['Elongation factor G 2', 'EF-G 2']",Monomer.,"['fusB', 'fus', 'sll1098']"
+614,P28371,"['Elongation factor G 1', 'EF-G 1']",Monomer.,"['fusA', 'fus', 'slr1463']"
+615,P74432,"['dITP/XTP pyrophosphatase', 'Non-canonical purine NTP pyrophosphatase', 'Non-standard purine NTP pyrophosphatase', 'Nucleoside-triphosphate diphosphatase', 'Nucleoside-triphosphate pyrophosphatase', 'NTPase']",Homodimer.,[]
+616,P73470,['Sll1138 protein'],Homodimer.,[]
+617,P73038,['5-formyltetrahydrofolate cyclo-ligase'],Homodimer.,[]
+618,Q6ZEM6,['Arsenate reductase ArsI1'],Homodimer.,"['arsI1', 'sll5104']"
+619,P74313,"['Glutaredoxin arsenate reductase', 'Low molecular weight protein-tyrosine-phosphatase', 'Protein ArsC']",Homodimer.,"['arsC', 'slr0946']"
+620,Q55131,['Slr0049 protein'],Homodimer.,[]
+621,Q55891,['Phycocyanobilin:ferredoxin oxidoreductase'],Homodimer.,"['pcyA', 'slr0116']"
+622,P74713,['Slr1184 protein'],Homodimer.,[]
+623,P73004,['Long-chain-fatty-acid CoA ligase'],Homodimer.,[]
+624,Q6ZED9,['Slr7059 protein'],Homodimer.,[]
+625,Q55147,['Putative transport protein sll0063'],Homodimer.,[]
+626,Q6ZEE8,['N-acetyltransferase domain-containing protein'],Homodimer.,[]
+627,P72850,['Slr1307 protein'],Homodimer.,[]
+628,Q55140,['Sll0066 protein'],Homodimer.,[]
+629,P73122,['Slr1920 protein'],Homodimer.,[]
+630,P73189,['Slr1397 protein'],Homodimer.,[]
+631,Q6ZE80,['Transcriptional regulator'],Homodimer.,[]
+632,Q55692,"['Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO', 'Folate-dependent tRNA (uracil-5-)-methyltransferase', 'Folate-dependent tRNA(M-5-U54)-methyltransferase']",Homodimer.,"['trmFO', 'gid', 'sll0204']"
+633,P74696,"['tRNA pseudouridine synthase B', 'tRNA pseudouridine(55) synthase', 'Psi55 synthase', 'tRNA pseudouridylate synthase', 'tRNA-uridine isomerase']",Homodimer.,"['truB', 'slr0457']"
+634,Q55375,['Slr0909 protein'],Homodimer.,[]
+635,P73409,['Slr1841 protein'],Homodimer.,[]
+636,P73790,"['Putative pterin-4-alpha-carbinolamine dehydratase', 'PHS', '4-alpha-hydroxy-tetrahydropterin dehydratase', 'Pterin carbinolamine dehydratase', 'PCD']",Homodimer.,[]
+637,P72859,['Aspartate transaminase'],Homodimer.,[]
+638,Q55373,"['Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase', 'MPE cyclase']",Homodimer.,"['bchE', 'slr0905']"
+639,P73933,"['Glycerol-3-phosphate acyltransferase', 'Acyl-PO4 G3P acyltransferase', 'Acyl-phosphate--glycerol-3-phosphate acyltransferase', 'G3P acyltransferase', 'GPAT', 'Lysophosphatidic acid synthase', 'LPA synthase']",Probably interacts with PlsX.,"['plsY', 'sll1973']"
+640,P72982,['Sll1510 protein'],Probably interacts with PlsX.,[]
+641,P74498,['1-acyl-sn-glycerol-3-phosphate acyltransferase'],Probably interacts with PlsX.,[]
+642,P73548,"['Phosphatidate cytidylyltransferase', 'CDP-DAG synthase', 'CDP-DG synthase', 'CDP-diacylglycerol synthase', 'CDS', 'CDP-diglyceride pyrophosphorylase', 'CDP-diglyceride synthase', 'CTP:phosphatidate cytidylyltransferase']",Probably interacts with PlsX.,"['cdsA', 'slr1369']"

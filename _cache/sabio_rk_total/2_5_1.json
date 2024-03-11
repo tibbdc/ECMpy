@@ -1,0 +1,27 @@
+{
+    "REST": {
+        "Pseudomonas aeruginosa": [
+            0.35,
+            0.46,
+            0.0264
+        ],
+        "Schizosaccharomyces pombe": [
+            2.8
+        ]
+    },
+    "butcoa;amet": {
+        "Pseudomonas aeruginosa": [
+            0.05
+        ]
+    },
+    "dmpp": {
+        "Artemisia tridentata subsp. spiciformis": [
+            0.05333333
+        ]
+    },
+    "dmpp;ipdp": {
+        "Artemisia tridentata subsp. spiciformis": [
+            0.0125
+        ]
+    }
+}

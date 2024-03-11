@@ -1,0 +1,27 @@
+{
+    "atp;asp__L;trnaasp": {
+        "Saccharomyces cerevisiae": [
+            0.83,
+            27.0,
+            27.0,
+            0.83
+        ],
+        "Thermococcus kodakaraensis": [
+            0.061
+        ],
+        "Thermus thermophilus": [
+            2.7,
+            0.24
+        ],
+        "Escherichia coli": [
+            6.8,
+            6.8
+        ]
+    },
+    "REST": {
+        "Thermus thermophilus": [
+            0.12,
+            0.092
+        ]
+    }
+}

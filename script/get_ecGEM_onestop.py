@@ -1,5 +1,6 @@
 from ECMpy_function import *
 import argparse
+import subprocess
 
 def model_main():
     parser = argparse.ArgumentParser(description='Get data from model!')
@@ -29,58 +30,66 @@ def model_main():
 
     # determine whether the data is suitable for constructing an enzyme-constrained model
     [sui_or_not,error_list] = Determine_suitable_ecGEM(model_file,bigg_met_file)
-    
-    if sui_or_not =='Yes':
-        # kcat mw 
-        if user_kcat_file == 'No':
-            kcat_method=args.kcat_method
-            work_folder = args.work_folder
-            if kcat_method =='AutoPACMEN':
-                print('It\'s time to get reaction kcat_MW using AutoPACMEN!')
-                print('-----------------------------------')
-                brenda_textfile_path = args.brenda_file
-                uniprot_data_file = args.uniprot_file
-                organism = args.organism
-                kcat_gap_fill = args.kcat_gap_fill
-                reaction_gap_fill = args.reaction_gap_fill
-                autopacmen_folder = work_folder+'_by_AutoPACMEN/'
-                create_file(autopacmen_folder)
-                project_name = "model_%s"%kcat_gap_fill
-                protein_kcat_database_path = "none"
-                reaction_kcat_MW_file = get_reaction_kcatmw_onestop_by_AutoPACMEN(autopacmen_folder,model_file,bigg_met_file,brenda_textfile_path,project_name,uniprot_data_file,organism,protein_kcat_database_path,kcat_gap_fill,reaction_gap_fill)
-            elif kcat_method == 'DLKcat':
-                print('It\'s time to get reaction kcat_MW using DLKcat!')
-                print('-----------------------------------')
-                dlkcat_folder = work_folder+'_by_DLKcat/'
-                create_file(dlkcat_folder)
-                reaction_kcat_MW_file = get_reaction_kcatmw_onestop_by_DLKcat(dlkcat_folder,model_file)
-            else:
-                print('The method you provided is not supported, please check the spelling!')
-        else:
-            reaction_kcat_MW_file = user_kcat_file
-        #f
-        if user_f == 'No':
-            print('It\'s time to calculate the enzyme mass fraction (f) based on protein abundance!')
-            print('-----------------------------------')
-            gene_abundance_file =  args.gene_abundance_file
-            taxonom_id =  args.taxonom_id 
-            #print(gene_abundance_file,taxonom_id)
-            f=calculate_f_v2(model_file, gene_abundance_file,'abundance',taxonom_id)
-        else:
-            f=user_f
-        #ecGEM
-        sigma =  float(args.sigma) 
-        ptot =  float(args.ptot)
-        f = float(f)
-        #print(type(f), type(sigma),type(ptot))
-        lowerbound = 0   # Lowerbound  of enzyme concentration constraint. 
-        upperbound = round(ptot * f * sigma, 3)#total enzyme
-        print('It\'s time to construct an enzyme-constrained model!')
-        print('-----------------------------------')
-        trans_model2enz_json_model_split_isoenzyme(model_file, reaction_kcat_MW_file, f, ptot, sigma, lowerbound, upperbound, ecModel_output_file)
-
-    else:
+    if len(error_list) > 0:
         print(error_list)
+    #if sui_or_not =='Yes':
+        # kcat mw 
+    if user_kcat_file == 'No':
+        kcat_method=args.kcat_method
+        work_folder = args.work_folder
+        if kcat_method =='AutoPACMEN':
+            print('It\'s time to get reaction kcat_MW using AutoPACMEN!')
+            print('-----------------------------------')
+            brenda_textfile_path = args.brenda_file
+            uniprot_data_file = args.uniprot_file
+            organism = args.organism
+            kcat_gap_fill = args.kcat_gap_fill
+            reaction_gap_fill = args.reaction_gap_fill
+            autopacmen_folder = work_folder+'_by_AutoPACMEN/'
+            create_file(autopacmen_folder)
+            cmd_str = "cp /hpcfs/fproject/mao_zt/MCModel/ECMpy/data/kcat_database_sabio_rk.json %s"%(autopacmen_folder)
+            subprocess.run(cmd_str, shell=True)
+            project_name = "model_%s"%kcat_gap_fill
+            protein_kcat_database_path = "none"
+            reaction_kcat_MW_file = get_reaction_kcatmw_onestop_by_AutoPACMEN(autopacmen_folder,model_file,bigg_met_file,brenda_textfile_path,project_name,uniprot_data_file,organism,protein_kcat_database_path,kcat_gap_fill,reaction_gap_fill)
+        elif kcat_method == 'DLKcat':
+            print('It\'s time to get reaction kcat_MW using DLKcat!')
+            print('-----------------------------------')
+            dlkcat_folder = work_folder+'_by_DLKcat/'
+            autopacmen_folder = work_folder+'_by_AutoPACMEN/'
+            create_file(dlkcat_folder)
+            if os.path.exists(autopacmen_folder):
+                gene_subnum_path = "%sgene_subnum.csv"%autopacmen_folder
+                sub_description_path = '%sget_gene_subunitDescription.csv'%autopacmen_folder
+                cmd_str = "cp %s %s"%(gene_subnum_path, dlkcat_folder)
+                subprocess.run(cmd_str, shell=True)
+                cmd_str2 = "cp %s %s"%(sub_description_path, dlkcat_folder)
+                subprocess.run(cmd_str2, shell=True)
+            reaction_kcat_MW_file = get_reaction_kcatmw_onestop_by_DLKcat(dlkcat_folder,model_file)
+        else:
+            print('The method you provided is not supported, please check the spelling!')
+    else:
+        reaction_kcat_MW_file = user_kcat_file
+    #f
+    if user_f == 'No':
+        print('It\'s time to calculate the enzyme mass fraction (f) based on protein abundance!')
+        print('-----------------------------------')
+        gene_abundance_file =  args.gene_abundance_file
+        taxonom_id =  args.taxonom_id 
+        #print(gene_abundance_file,taxonom_id)
+        f=calculate_f_v2(model_file, gene_abundance_file,'abundance',taxonom_id)
+    else:
+        f=user_f
+    #ecGEM
+    sigma =  float(args.sigma) 
+    ptot =  float(args.ptot)
+    f = float(f)
+    #print(type(f), type(sigma),type(ptot))
+    lowerbound = 0   # Lowerbound  of enzyme concentration constraint. 
+    upperbound = round(ptot * f * sigma, 3)#total enzyme
+    print('It\'s time to construct an enzyme-constrained model!')
+    print('-----------------------------------')
+    trans_model2enz_json_model_split_isoenzyme(model_file, reaction_kcat_MW_file, f, ptot, sigma, lowerbound, upperbound, ecModel_output_file)
           
 if __name__ == '__main__':
     model_main()

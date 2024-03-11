@@ -1,0 +1,785 @@
+UniProtID,Unnamed: 0,proteinNames,txt_subunit,geneNames,subunitnumber
+Q7CH66,25,"['8-amino-7-oxononanoate synthase', 'AONS', '7-keto-8-amino-pelargonic acid synthase']",Homodimer.,"['bioF', 'YPO1152', 'y3030', 'YP_1008']",2
+Q7CHF0,26,[],Homodimer.,[],2
+Q7CHE8,27,[],Homodimer.,[],2
+Q7CGL9,28,[],Homodimer.,[],2
+Q0WJH5,29,[],Homodimer.,[],2
+Q7CKB5,30,[],Homodimer.,[],2
+Q7CK43,31,[],Homodimer.,[],2
+Q0W9R8,32,[],Homodimer.,[],2
+Q0WER8,33,[],Homodimer.,[],2
+Q7CIK2,34,[],Homodimer.,[],2
+Q0WER4,35,[],Homodimer.,[],2
+Q0WER5,36,['Arabinose import ATP-binding protein AraG'],"The complex is composed of two ATP-binding proteins (AraG), two transmembrane proteins (AraH) and a solute-binding protein (AraF).","['araG', 'YPO2256', 'y2097', 'YP_2052']",1
+Q0W9V5,37,['Glyoxylate/hydroxypyruvate reductase B'],Homodimer.,"['ghrB', 'YPO4078', 'y4096', 'YP_3988']",2
+Q0WAE9,38,[],Homodimer.,[],2
+Q0WBQ7,39,[],Homodimer.,[],2
+Q0WHZ0,40,[],Homodimer.,[],2
+Q0WJZ5,41,[],Homodimer.,[],2
+Q7CKV5,42,['sn-glycerol-3-phosphate transport system permease protein UgpE'],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).","['ugpE', 'YPO3794', 'y0436', 'YP_3255']",1
+Q0WGY6,43,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q7CKV7,44,['sn-glycerol-3-phosphate-binding periplasmic protein UgpB'],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).","['ugpB', 'YPO3796', 'y0434', 'YP_3253']",1
+Q7CKB4,45,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q7CKV6,46,['sn-glycerol-3-phosphate transport system permease protein UgpA'],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).","['ugpA', 'YPO3795', 'y0435', 'YP_3254']",1
+Q74R28,47,['sn-glycerol-3-phosphate import ATP-binding protein UgpC'],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).","['ugpC', 'YPO3793', 'y0437', 'YP_3256']",1
+Q0WKM6,48,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q0WAI5,49,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q0WA80,50,['Aerobic glycerol-3-phosphate dehydrogenase (Partial)'],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).","['glpD', 'glyD', 'YPO3937']",1
+Q0WAI6,51,['Anaerobic glycerol-3-phosphate dehydrogenase subunit C'],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).","['glpC', 'YPO3824']",1
+Q0WC65,52,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q0WDQ5,53,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q7CJA2,54,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q0WF90,55,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q0WH64,56,[],"The complex is composed of two ATP-binding proteins (UgpC), two transmembrane proteins (UgpA and UgpE) and a solute-binding protein (UgpB).",[],1
+Q7CHQ3,57,['Galactose/methyl galactoside import ATP-binding protein MglA'],"The complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).","['mglA', 'YPO1508', 'y2661', 'YP_1398']",1
+Q7CJA1,58,[],"The complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CHH4,59,[],"The complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q74VQ1,60,[],"The complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CHH3,61,[],"The complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CJ23,62,[],"The complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q0WGR5,63,"['D-galactose/methyl-galactoside binding periplasmic protein MglB', 'D-galactose-binding periplasmic protein', 'D-galactose/D-glucose-binding protein']","The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).","['mglB', 'YPO1507']",1
+Q7CJ22,64,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q74VB3,65,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CJA3,66,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q0WHR1,67,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q0WHK2,68,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CJB1,69,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CGC6,70,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CIH3,71,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CG71,72,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q0WIB1,73,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CJJ9,74,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CII7,75,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CKD2,76,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q0WDY8,77,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CLB1,78,[],"The ABC transporter complex is composed of one ATP-binding protein (MglA), two transmembrane proteins (MglC) and a solute-binding protein (MglB).",[],1
+Q7CKD4,79,"[""5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase"", ""5'-deoxyadenosine nucleosidase""]",Homodimer.,"['mtnN', 'YPO3384', 'y0805', 'YP_0301']",2
+Q0WA90,80,[],Homodimer.,[],2
+Q0W9R9,81,[],Homodimer.,[],2
+Q0WGH7,82,[],Homodimer.,[],2
+Q0WA75,83,[],Homodimer.,[],2
+Q0WAF3,84,[],Homodimer.,[],2
+Q7CFP2,85,[],Homodimer.,[],2
+Q0WGK5,86,[],Homodimer.,[],2
+Q7CFZ3,87,[],Homodimer.,[],2
+Q0WA79,88,[],Homodimer.,[],2
+Q0WIC2,89,[],Homodimer.,[],2
+Q0WA78,90,[],Homodimer.,[],2
+Q0WD56,91,[],Homodimer.,[],2
+Q0WA76,92,[],Homodimer.,[],2
+Q0WA77,93,[],Homodimer.,[],2
+Q0WFB0,94,[],Homodimer.,[],2
+Q7CJ67,95,[],Homodimer.,[],2
+Q9ETB0,96,['Aspartate-semialdehyde dehydrogenase'],Homodimer.,"['asd', 'YPO3949']",2
+Q74TY8,97,[],Homodimer.,[],2
+Q7CJ68,98,[],Homodimer.,[],2
+Q7CJ69,99,[],Homodimer.,[],2
+Q0WHY5,100,[],Homodimer.,[],2
+Q7CIH5,101,[],Homodimer.,[],2
+Q74YC3,102,[],Homodimer.,[],2
+Q7CJU5,103,[],Homodimer.,[],2
+Q0WDQ2,104,[],Homodimer.,[],2
+Q7CL62,105,[],Homodimer.,[],2
+Q0WAZ3,106,[],Homodimer.,[],2
+Q0WC64,107,[],Homodimer.,[],2
+Q0WDC3,108,['Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['accD', 'YPO2768', 'y1601', 'YP_2396']",1
+Q0WBZ1,109,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WA46,110,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WGE8,111,['N-acetyl-D-glucosamine kinase'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['nagK', 'YPO1629', 'y1788', 'YP_1758']",1
+Q0WFL0,112,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WAE4,113,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CJA4,114,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WAA4,115,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CJU2,116,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q74PS5,117,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CJ18,118,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CLA8,119,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CJF8,120,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WFD6,121,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CJF6,122,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WCT0,123,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WA89,124,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CLC8,125,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['glpF', 'YPO0091', 'EGX46_21370']",1
+Q0WI22,126,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WKN3,127,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CIJ3,128,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CH86,129,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q0WEM7,130,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CH87,131,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CG09,132,[],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).",[],1
+Q7CHW4,133,"['Formate-dependent phosphoribosylglycinamide formyltransferase', ""5'-phosphoribosylglycinamide transformylase 2"", 'Formate-dependent GAR transformylase', 'GAR transformylase 2', 'GART 2', 'Non-folate glycinamide ribonucleotide transformylase', 'Phosphoribosylglycinamide formyltransferase 2']",Homodimer.,"['purT', 'YPO1775', 'y2533', 'YP_1618']",2
+Q0WKT9,134,[],Homodimer.,[],2
+Q0WID4,135,[],Homodimer.,[],2
+Q0WDW1,136,[],Homodimer.,[],2
+Q0WID5,137,[],Homodimer.,[],2
+Q0WH03,138,[],Homodimer.,[],2
+Q0WID3,139,[],Homodimer.,[],2
+Q0WAF5,140,[],Homodimer.,[],2
+Q7CKA0,141,[],Homodimer.,[],2
+Q7CKC3,142,[],Homodimer.,[],2
+Q0W9W0,143,[],Homodimer.,[],2
+Q7CHV1,144,"['PTS system, mannose-specific IID component']",Homodimer.,"['gptB', 'manZ', 'ptsM', 'YPO1756']",2
+Q0WG32,145,[],Homodimer.,[],2
+Q0W9W1,146,[],Homodimer.,[],2
+Q7CHV2,147,[],Homodimer.,[],2
+Q0WBP3,148,[],Homodimer.,[],2
+Q0WJ16,149,[],Homodimer.,[],2
+Q0WHX0,150,[],Homodimer.,[],2
+Q0WDR8,151,['Glutamate/aspartate transport system permease'],Homodimer.,"['gltJ', 'YPO2614']",2
+Q0WCQ0,152,[],Homodimer.,[],2
+Q0WBL8,153,[],Homodimer.,[],2
+Q0WCP4,154,[],Homodimer.,[],2
+Q7CJV1,155,['Glutamate/aspartate transport ATP-binding protein'],Homodimer.,"['gltL', 'YPO2612']",2
+Q7CJV0,156,[],Homodimer.,[],2
+Q0WD33,157,[],Homodimer.,[],2
+Q0WC42,158,[],Homodimer.,[],2
+Q0WGI0,159,[],Homodimer.,[],2
+Q0WGN1,160,[],Homodimer.,[],2
+Q0WA87,161,[],Homodimer.,[],2
+Q7CJU9,162,[],Homodimer.,[],2
+Q7CFZ2,163,[],Homodimer.,[],2
+Q0WE15,164,[],Homodimer.,[],2
+Q0WAI3,165,[],Homodimer.,[],2
+Q0WB65,166,[],Homodimer.,[],2
+Q0WB64,167,[],Homodimer.,[],2
+Q0WED9,168,[],Homodimer.,[],2
+Q7CLD9,169,[],Homodimer.,[],2
+Q7CIL5,170,[],Homodimer.,[],2
+Q7CHG3,171,[],Homodimer.,[],2
+Q7CKE2,172,[],Homodimer.,[],2
+Q7CLB8,173,[],Homodimer.,[],2
+Q0WJK7,174,[],Homodimer.,[],2
+Q7CK02,175,[],Homodimer.,[],2
+Q0WFI7,176,[],Homodimer.,[],2
+Q0WA41,177,[],Homodimer.,[],2
+Q0WCD9,178,[],Homodimer.,[],2
+Q0WCX9,179,[],Homodimer.,[],2
+Q7CL18,180,[],Homodimer.,[],2
+Q0WIA6,181,[],Homodimer.,[],2
+Q0WDI1,182,[],Homodimer.,[],2
+Q0WGR7,183,[],Homodimer.,[],2
+Q0WEU4,184,[],Homodimer.,[],2
+Q0WJW2,185,"['Aspartate ammonia-lyase', 'Aspartase']",Homodimer.,"['aspA', 'YPO0348']",2
+Q0WK55,186,[],Homodimer.,[],2
+Q7CJK2,187,[],Homodimer.,[],2
+Q0WKC3,188,[],Homodimer.,[],2
+Q0WC61,189,[],Homodimer.,[],2
+Q0WBN8,190,['Hypoxanthine phosphoribosyltransferase'],Homodimer.,"['b0125', 'hpt', 'YPO3408', 'EGX46_18465']",2
+Q0WA26,191,[],Homodimer.,[],2
+Q0WJ87,192,[],Homodimer.,[],2
+Q0WK57,193,[],Homodimer.,[],2
+Q0WGY2,194,[],Homodimer.,[],2
+Q7CJ20,195,[],Homodimer.,[],2
+Q7CKP5,196,['4-hydroxybenzoate octaprenyltransferase'],Homodimer.,"['ubiA', 'YPO0311', 'y0569', 'YP_0467']",2
+Q7CHW3,197,[],Homodimer.,[],2
+Q7CKM9,198,[],Homodimer.,[],2
+Q0WBN9,199,[],Homodimer.,[],2
+Q7CKS7,200,[],Homodimer.,[],2
+Q0WH05,201,[],Homodimer.,[],2
+Q0WKD3,202,[],Homodimer.,"['pabA', 'YPO0169', 'EGX46_20530']",2
+Q0WCB5,203,"['Protoheme IX farnesyltransferase', 'Heme B farnesyltransferase', 'Heme O synthase']",Homodimer.,"['cyoE', 'YPO3168', 'y1018', 'YP_0763']",2
+Q0WCT7,204,[],Homodimer.,[],2
+Q0WCG2,205,[],Homodimer.,[],2
+Q0WBN4,206,[],Homodimer.,[],2
+Q0WAG2,207,[],Homodimer.,[],2
+Q0WFA3,208,[],Homodimer.,[],2
+Q7CK54,209,[],Homodimer.,[],2
+Q0WCJ8,210,[],Homodimer.,[],2
+Q7CJF1,211,[],Homodimer.,[],2
+Q0WDB7,212,['Histidine-binding periplasmic protein'],Homodimer.,"['hisJ', 'YPO2774']",2
+Q0WEA2,213,[],Homodimer.,[],2
+Q9ZC67,214,"['Arginine N-succinyltransferase', 'AST']",Homodimer.,"['astA', 'YPO1963', 'y2348', 'YP_1708']",2
+Q0WGM4,215,[],Homodimer.,[],2
+Q0WGM3,216,[],Homodimer.,[],2
+Q0WBR1,217,[],Homodimer.,[],2
+Q0WGM6,218,[],Homodimer.,[],2
+Q7CGI6,219,[],Homodimer.,[],2
+Q0WIZ0,220,['Biopolymer transport protein ExbB'],The accessory proteins ExbB and ExbD seem to form a complex with TonB.,[],1
+Q7CIM7,221,[],The accessory proteins ExbB and ExbD seem to form a complex with TonB.,[],1
+Q0W9R7,222,[],The accessory proteins ExbB and ExbD seem to form a complex with TonB.,[],1
+Q7CFM3,223,"['ATP synthase subunit a', 'ATP synthase F0 sector subunit a', 'F-ATPase subunit 6']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.","['atpB', 'YPO4127', 'y4141', 'YP_4034']",1
+Q0W9R1,224,[],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q7CFM4,225,"['ATP synthase subunit b', 'ATP synthase F(0) sector subunit b', 'ATPase subunit I', 'F-type ATPase subunit b', 'F-ATPase subunit b']","F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.","['atpF', 'YPO4125', 'y4139', 'YP_4032']",1
+Q0WD25,226,[],"F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q0W9R4,227,[],"F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q7CFM8,228,"['ATP synthase subunit beta', 'ATP synthase F1 sector subunit beta', 'F-ATPase subunit beta']","F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.","['atpD', 'YPO4121', 'y4135', 'YP_4028']",1
+Q7CFW6,229,[],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q0WCF7,230,[],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q0WAG1,231,[],"F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q7CFM5,232,"['ATP synthase subunit delta', 'ATP synthase F(1) sector subunit delta', 'F-type ATPase subunit delta', 'F-ATPase subunit delta']","F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.","['atpH', 'YPO4124', 'y4138', 'YP_4031']",1
+Q0W9Q9,233,[],"F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains.",[],1
+Q7CIR8,234,"['Pyridoxal kinase PdxY', 'PL kinase']",Homodimer.,"['pdxY', 'YPO2368', 'y1967', 'YP_2154']",2
+Q0W9R5,235,[],Homodimer.,[],2
+Q0WBT1,236,[],Homodimer.,[],2
+Q7CJL4,237,[],Homodimer.,[],2
+Q0WGE1,238,[],Homodimer.,[],2
+Q0WHN3,239,[],Homodimer.,[],2
+Q7CKX7,240,[],Homodimer.,[],2
+Q7CKD7,241,[],Homodimer.,[],2
+Q74RZ7,242,[],Homodimer.,[],2
+Q0WJT2,243,[],Homodimer.,[],2
+Q0WHH1,244,['Hydroxypyruvate isomerase'],Homodimer.,"['YPO1238', 'EGX46_08025']",2
+Q7CJU3,245,[],Homodimer.,[],2
+Q7CH65,246,['Biotin synthase'],Homodimer.,"['bioB', 'YPO1151', 'y3031', 'YP_1009']",2
+Q0WJK6,247,[],Homodimer.,[],2
+Q0WAT1,248,[],Homodimer.,[],2
+Q7CKE8,249,[],Homodimer.,[],2
+Q0WGM5,250,[],Homodimer.,[],2
+Q0WI21,251,[],Homodimer.,[],2
+Q74PI5,252,['Aliphatic sulfonates import ATP-binding protein SsuB'],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).","['ssuB', 'YPO3627', 'y0242', 'YP_3920']",1
+Q0WGD6,253,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WB29,254,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WDZ8,255,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CL45,256,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WGG2,257,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CLE1,258,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WCC1,259,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q9ZC63,260,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).","['chaA', 'YPO1958', 'EGX46_10070']",1
+Q0WGM7,261,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WGM9,262,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WBX3,263,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WKN4,264,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WEW2,265,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WAK7,266,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q74RN5,267,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WA88,268,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CH91,269,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CKW4,270,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WAK3,271,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CKW3,272,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CL88,273,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WAT0,274,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CKW2,275,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CK50,276,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CJZ2,277,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CJZ1,278,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q74RB6,279,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CIM1,280,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WJJ1,281,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q7CKE4,282,[],"The complex is composed of two ATP-binding proteins (SsuB), two transmembrane proteins (SsuC) and a solute-binding protein (SsuA).",[],1
+Q0WD32,283,"[""Inosine-5'-monophosphate dehydrogenase""]",Homotetramer.,"['guaB', 'YPO2871', 'y1362', 'YP_2737']",4
+Q0WJI4,284,[],Homotetramer.,[],4
+Q7CK15,285,[],Homotetramer.,[],4
+Q0WJI3,286,[],Homotetramer.,[],4
+Q7CH47,287,[],Homotetramer.,[],4
+Q0WJD4,288,[],Homotetramer.,[],4
+Q7CH46,289,[],Homotetramer.,[],4
+Q74R56,290,[],Homotetramer.,[],4
+Q0WJD5,291,[],Homotetramer.,[],4
+Q0WHR6,292,[],Homotetramer.,[],4
+Q0WJD6,293,[],Homotetramer.,[],4
+Q74QU5,294,[],Homotetramer.,[],4
+Q0WJD3,295,[],Homotetramer.,[],4
+Q0WA21,296,['Dipeptide transport ATP-binding protein'],Homotetramer.,"['dppE', 'dppF', 'YPO3999']",4
+Q7CG19,297,[],Homotetramer.,[],4
+Q0WA32,298,[],Homotetramer.,[],4
+Q0WDK0,299,[],Homotetramer.,[],4
+Q0WFD8,300,[],Homotetramer.,[],4
+Q7CG18,301,[],Homotetramer.,[],4
+Q0WDJ8,302,[],Homotetramer.,[],4
+Q7CG20,303,[],Homotetramer.,[],4
+Q7CIS5,304,[],Homotetramer.,[],4
+Q0WDJ9,305,[],Homotetramer.,[],4
+Q0WHN1,306,['High-affinity choline transport protein'],Homotetramer.,"['betT', 'YPO1168']",4
+Q0WAP2,307,[],Homotetramer.,[],4
+Q0WJB0,308,[],Homotetramer.,[],4
+Q0WH15,309,[],Homotetramer.,[],4
+Q0WJY7,310,[],Homotetramer.,[],4
+Q0WE30,311,[],Homotetramer.,[],4
+Q0WB73,312,[],Homotetramer.,[],4
+Q7CKZ0,313,[],Homotetramer.,[],4
+Q0WFD1,314,[],Homotetramer.,[],4
+Q7CK89,315,[],Homotetramer.,[],4
+Q0WKT6,316,[],Homotetramer.,[],4
+Q0WDE0,317,[],Homotetramer.,[],4
+Q7CHH8,318,[],Homotetramer.,[],4
+Q7CFS6,319,[],Homotetramer.,[],4
+Q0WCZ7,320,[],Homotetramer.,[],4
+Q0WJZ7,321,[],Homotetramer.,[],4
+Q7CKU4,322,[],Homotetramer.,[],4
+Q0WEX7,323,[],Homotetramer.,[],4
+Q0WBY7,324,[],Homotetramer.,[],4
+Q7CJS3,325,[],Homotetramer.,[],4
+Q0WBQ8,326,[],Homotetramer.,[],4
+Q7CFQ6,327,[],Homotetramer.,[],4
+Q0WAH3,328,[],Homotetramer.,[],4
+Q0WGS0,329,['S-(hydroxymethyl)glutathione dehydrogenase'],Homotetramer.,[],4
+Q7CKC6,330,[],Homotetramer.,[],4
+Q7CK01,331,[],Homotetramer.,[],4
+Q0WEA7,332,[],Homotetramer.,[],4
+Q0WC37,333,[],Homotetramer.,[],4
+Q0WHW1,334,[],Homotetramer.,[],4
+Q0WH20,335,[],Homotetramer.,[],4
+Q7CGF0,336,[],Homotetramer.,[],4
+Q0WCN6,337,[],Homotetramer.,[],4
+Q7CH75,338,['Quinone-dependent D-lactate dehydrogenase'],Homotetramer.,"['dld', 'YPO1177']",4
+Q0WI95,339,[],Homotetramer.,[],4
+Q0WEC8,340,[],Homotetramer.,[],4
+Q0WDR6,341,[],Homotetramer.,[],4
+Q0WEJ2,342,[],Homotetramer.,[],4
+Q0WIZ6,343,[],Homotetramer.,[],4
+Q7CKP1,344,[],Homotetramer.,[],4
+Q0WHW9,345,[],Homotetramer.,[],4
+Q7CJT4,346,[],Homotetramer.,[],4
+Q0WDS2,347,[],Homotetramer.,[],4
+Q0WDN9,348,[],Homotetramer.,[],4
+Q0WEE1,349,[],Homotetramer.,[],4
+Q7CJT3,350,[],Homotetramer.,[],4
+Q7CGC7,351,[],Homotetramer.,[],4
+Q0WGK6,352,[],Homotetramer.,[],4
+Q7CFX4,353,[],Homotetramer.,[],4
+Q7CG73,354,[],Homotetramer.,[],4
+Q0WHY8,355,[],Homotetramer.,[],4
+Q0WCP5,356,[],Homotetramer.,[],4
+Q0WCI8,357,[],Homotetramer.,[],4
+Q0WCP6,358,[],Homotetramer.,[],4
+Q0WHP9,359,"['Adenosylmethionine-8-amino-7-oxononanoate aminotransferase', '7,8-diamino-pelargonic acid aminotransferase']",Homodimer.,"['bioA', 'YPO1150']",2
+Q7CH41,360,[],Homodimer.,[],2
+Q7CKX6,361,[],Homodimer.,[],2
+Q7CFV9,362,[],Homodimer.,[],2
+Q0WAN0,363,[],Homodimer.,[],2
+Q0WIF2,364,[],Homodimer.,[],2
+Q0WBR9,365,[],Homodimer.,[],2
+Q0WKH8,366,[],Homodimer.,[],2
+Q0WAR9,367,[],Homodimer.,[],2
+Q0WJX9,368,[],Homodimer.,[],2
+Q0WFU9,369,[],Homodimer.,[],2
+Q0WJX4,370,[],Homodimer.,[],2
+Q0WEN3,371,['AMP nucleosidase'],Homodimer.,"['amn', 'YPO2288', 'EGX46_11650']",2
+Q0W9W4,372,[],Homodimer.,[],2
+Q7CHK4,373,[],Homodimer.,[],2
+Q74T78,374,[],Homodimer.,[],2
+Q7CJG9,375,[],Homodimer.,[],2
+Q0WAT2,376,[],Homodimer.,[],2
+Q7CK62,377,[],Homodimer.,[],2
+Q7CK05,378,[],Homodimer.,[],2
+Q0WI17,379,['cysteine desulfurase'],Homodimer.,[],2
+Q0WCJ5,380,[],Homodimer.,[],2
+Q74TS8,381,[],Homodimer.,[],2
+Q7CH50,382,[],Homodimer.,[],2
+Q7CH49,383,[],Homodimer.,[],2
+Q7CJ24,384,[],Homodimer.,[],2
+Q7CLE0,385,[],Homodimer.,[],2
+Q7CH84,386,[],Homodimer.,[],2
+Q7CK33,387,[],Homodimer.,[],2
+Q7CK35,388,[],Homodimer.,[],2
+Q0WBQ3,389,[],Homodimer.,[],2
+Q74WS8,390,[],Homodimer.,[],2
+Q7CK34,391,[],Homodimer.,[],2
+Q0WAM3,392,[],Homodimer.,[],2
+Q74Y33,393,[],Homodimer.,[],2
+Q0WBC4,394,[],Homodimer.,[],2
+Q0WGR0,395,[],Homodimer.,[],2
+Q7CGA8,396,[],Homodimer.,[],2
+Q0WGP8,397,[],Homodimer.,[],2
+Q0WF05,398,[],Homodimer.,[],2
+Q7CJV5,399,[],Homodimer.,[],2
+Q0WGQ0,400,[],Homodimer.,[],2
+Q0WH24,401,[],Homodimer.,[],2
+Q7CJV7,402,[],Homodimer.,[],2
+Q7CIZ1,403,[],Homodimer.,[],2
+Q7CKJ3,404,[],Homodimer.,[],2
+Q0WF15,405,[],Homodimer.,[],2
+Q7CKP4,406,[],Homodimer.,[],2
+Q7CH74,407,[],Homodimer.,[],2
+Q0WGX6,408,[],Homodimer.,[],2
+Q0WDD9,409,[],Homodimer.,[],2
+Q0WBD3,410,[],Homodimer.,[],2
+Q7CJN9,411,[],Homodimer.,[],2
+Q7CGZ1,412,[],Homodimer.,[],2
+Q0WAG5,413,[],Homodimer.,[],2
+Q0WGR1,414,[],Homodimer.,[],2
+Q0WCN4,415,['NADP-dependent malic enzyme'],Homodimer.,"['maeB', 'YPO3034']",2
+Q0WJ12,416,[],Homodimer.,[],2
+Q0WGP7,417,[],Homodimer.,[],2
+Q7CK49,418,[],Homodimer.,[],2
+Q0WD24,419,[],Homodimer.,[],2
+Q0WBT5,420,[],Homodimer.,[],2
+Q0WJL4,421,[],Homodimer.,[],2
+Q74SY3,422,[],Homodimer.,[],2
+Q7CG14,423,[],Homodimer.,[],2
+Q7CGN5,424,[],Homodimer.,[],2
+Q0WC04,425,[],Homodimer.,[],2
+Q0WKQ2,426,[],Homodimer.,[],2
+Q7CJD8,427,[],Homodimer.,[],2
+Q0WBT4,428,[],Homodimer.,[],2
+Q0WI88,429,[],Homodimer.,[],2
+Q0WHX2,430,[],Homodimer.,[],2
+Q7CH02,431,[],Homodimer.,[],2
+Q0WHX1,432,[],Homodimer.,[],2
+Q7CIU7,433,[],Homodimer.,[],2
+Q0WAB5,434,[],Homodimer.,[],2
+Q0WIB0,435,[],Homodimer.,[],2
+Q0WJI5,436,[],Homodimer.,[],2
+Q9ZC69,437,[],Homodimer.,[],2
+Q0WCK6,438,[],Homodimer.,[],2
+Q7CG83,439,[],Homodimer.,[],2
+Q0WDC2,440,[],Homodimer.,[],2
+Q7CFP7,441,[],Homodimer.,[],2
+Q0WHC9,442,[],Homodimer.,[],2
+Q0WKN7,443,[],Homodimer.,[],2
+Q0WHQ4,444,[],Homodimer.,[],2
+Q7CJH1,445,[],Homodimer.,[],2
+Q0WKJ4,446,[],Homodimer.,[],2
+Q0WBT0,447,[],Homodimer.,[],2
+Q0WJ22,448,[],Homodimer.,[],2
+Q0WCQ4,449,[],Homodimer.,[],2
+Q7CJH0,450,[],Homodimer.,[],2
+Q0WBS9,451,[],Homodimer.,[],2
+Q7CJI9,452,"['Succinyl-diaminopimelate desuccinylase', 'SDAP desuccinylase']",Homodimer.,"['dapE', 'YPO3053', 'y1427', 'YP_2675']",2
+Q0WHQ2,453,[],Homodimer.,[],2
+Q0WH00,454,[],Homodimer.,[],2
+Q0W9X5,455,[],Homodimer.,[],2
+Q0WGJ0,456,[],Homodimer.,[],2
+Q7CJH2,457,[],Homodimer.,[],2
+Q7CH61,458,[],Homodimer.,[],2
+Q0WEZ9,459,[],Homodimer.,[],2
+Q0WBP5,460,[],Homodimer.,[],2
+Q0WKM4,461,[],Homodimer.,[],2
+Q7CJY7,462,['Bifunctional protein FolD'],Homodimer.,"['folD', 'YPO2824', 'y1110', 'YP_0855']",2
+Q7CL17,463,[],Homodimer.,[],2
+Q7CKJ1,464,[],Homodimer.,[],2
+Q7CHW1,465,[],Homodimer.,[],2
+Q0WH92,466,[],Homodimer.,[],2
+Q0WJ82,467,['Serine/threonine transporter SstT'],Homodimer.,"['sstT', 'YPO0584', 'y3595', 'YP_2904']",2
+Q0WKF0,468,[],Homodimer.,[],2
+Q0WE76,469,[],Homodimer.,[],2
+Q0WH36,470,[],Homodimer.,[],2
+Q0WAS2,471,[],Homodimer.,[],2
+Q7CK38,472,[],Homodimer.,[],2
+Q7CHQ0,473,[],Homodimer.,[],2
+Q0WJI8,474,[],Homodimer.,[],2
+Q7CJ13,475,[],Homodimer.,[],2
+Q0WFI3,476,[],Homodimer.,[],2
+Q9ZC68,477,['N-succinylglutamate 5-semialdehyde dehydrogenase'],Homodimer.,"['astD', 'YPO1964', 'y2347', 'YP_1709']",2
+Q0WDX5,478,[],Homodimer.,[],2
+Q0WHI9,479,[],Homodimer.,[],2
+Q74Y23,480,['Siroheme synthase'],Homodimer.,"['cysG', 'YPO0158', 'y3941', 'YP_0160']",2
+Q0WDX7,481,[],Homodimer.,[],2
+Q7CJ16,482,['Shikimate dehydrogenase'],Homodimer.,[],2
+Q7CJ92,483,"['NADH-quinone oxidoreductase subunit C/D', 'NADH dehydrogenase I subunit C/D', 'NDH-1 subunit C/D']","NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.","['nuoC', 'nuoCD', 'nuoD', 'YPO2553', 'y1632', 'YP_2364']",1
+Q0WK60,484,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q7CJ89,485,"['NADH-quinone oxidoreductase subunit I', 'NADH dehydrogenase I subunit I', 'NDH-1 subunit I']","NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['nuoI', 'YPO2548', 'y1637', 'YP_2359']",1
+Q0WBW7,486,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q9X6B4,487,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['dmsC', 'YPO3323', 'EGX46_17995']",1
+Q7CJ91,488,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WC71,489,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q9X6B5,490,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['dmsB', 'YPO3324', 'EGX46_17990']",1
+Q7CJK0,491,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CIC0,492,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WBN5,493,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CJ85,494,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CFQ2,495,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CGB7,496,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q74XS8,497,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WDX2,498,"['NADH-quinone oxidoreductase subunit A', 'NADH dehydrogenase I subunit A', 'NDH-1 subunit A', 'NUO1']","NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['nuoA', 'YPO2555', 'y1630', 'YP_2366']",1
+Q7CHE3,499,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CJ93,500,"['NADH-quinone oxidoreductase subunit B', 'NADH dehydrogenase I subunit B', 'NDH-1 subunit B']","NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.","['nuoB', 'YPO2554', 'y1631', 'YP_2365']",1
+Q0WDX8,501,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q0WBL6,502,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q0WAC4,503,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q74T56,504,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q0WCB2,505,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q7CJ86,506,[],"NDH-1 is composed of 13 different subunits. Subunits NuoB, CD, E, F, and G constitute the peripheral sector of the complex.",[],1
+Q7CJ87,507,"['NADH-quinone oxidoreductase subunit K', 'NADH dehydrogenase I subunit K', 'NDH-1 subunit K']","NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['nuoK', 'YPO2546', 'y1639', 'YP_2357']",1
+Q7CJ88,508,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WE02,509,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CJ84,510,"['NADH-quinone oxidoreductase subunit N', 'NADH dehydrogenase I subunit N', 'NDH-1 subunit N']","NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['nuoN', 'YPO2543', 'y1642', 'YP_2354']",1
+Q7CH42,511,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WHT9,512,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WJM6,513,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CH43,514,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CH45,515,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CH44,516,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CGH8,517,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WHT0,518,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CH48,519,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WKS6,520,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WJK3,521,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CII9,522,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WKB9,523,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WF19,524,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WAF1,525,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WA99,526,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WAE8,527,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CIJ0,528,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WH19,529,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WH02,530,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CGT8,531,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CGX5,532,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WJW5,533,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q74U12,534,['Na(+)/H(+) antiporter NhaB'],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['nhaB', 'YPO2142', 'y2178', 'YP_1945']",1
+Q7CGW5,535,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q7CG77,536,['Na(+)/H(+) antiporter NhaA'],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.","['nhaA', 'YPO0470', 'y3704', 'YP_3710']",1
+Q7CKZ3,537,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WI04,538,[],"NDH-1 is composed of 13 different subunits. Subunits NuoA, H, J, K, L, M, N constitute the membrane sector of the complex.",[],1
+Q0WCK4,539,"['thioredoxin-dependent peroxiredoxin', 'Bacterioferritin comigratory protein', 'Thioredoxin peroxidase', 'Thioredoxin-dependent peroxiredoxin Bcp']",Monomer.,"['bcp', 'YPO3064']",1
+Q7CK81,540,[],Monomer.,[],1
+Q0WD20,541,[],Monomer.,[],1
+Q0WJE3,542,['Thiamine transport system permease protein ThiP'],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).","['thiP', 'YPO0521']",1
+Q7CK20,543,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WGH2,544,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q74Q54,545,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WEY8,546,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WJE4,547,['Thiamine import ATP-binding protein ThiQ'],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).","['thiQ', 'YPO0520', 'y3653', 'YP_3659']",1
+Q0WDS5,548,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WKN2,549,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0W9U7,550,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q74PZ2,551,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WJM4,552,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CKX8,553,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WE91,554,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WKP5,555,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CH56,556,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CIH4,557,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CKT8,558,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WBM2,559,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WAR5,560,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CFW2,561,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WHZ7,562,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WCA6,563,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WCN0,564,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WCB1,565,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WAR6,566,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CJH9,567,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WCB0,568,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WCN2,569,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q0WCZ6,570,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q74QR1,571,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CGS3,572,[],"The complex is composed of two ATP-binding proteins (ThiQ), two transmembrane proteins (ThiP) and a solute-binding protein (ThiB).",[],1
+Q7CGS4,573,"['D-erythrose-4-phosphate dehydrogenase', 'E4PDH']",Homotetramer.,"['epd', 'YPO0922', 'y3309', 'YP_3518']",4
+Q74T55,574,[],Homotetramer.,[],4
+Q7CIJ2,575,[],Homotetramer.,[],4
+Q0WIQ0,576,[],Homotetramer.,[],4
+Q0WBT7,577,[],Homotetramer.,[],4
+Q0WAE5,578,['ECA polysaccharide chain length modulation protein'],"Probably part of a complex composed of WzxE, WzyE and WzzE.","['b3785', 'wzz', 'wzzE', 'YPO3865', 'EGX46_03690']",1
+Q0WAF4,579,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WGG3,580,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CKZ1,581,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CK42,582,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WDW8,583,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WAP3,584,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WAR8,585,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CIC5,586,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WKK9,587,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CJ78,588,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WJU5,589,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CHI6,590,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CIZ7,591,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.","['appA', 'YPO1648', 'EGX46_12960']",1
+Q0WBS0,592,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CL80,593,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WET4,594,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CKD1,595,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CL81,596,"['PTS system, trehalose-specific IIBC component']","Probably part of a complex composed of WzxE, WzyE and WzzE.","['treB', 'YPO3697']",1
+Q0WC90,597,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WEW4,598,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WCE2,599,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WI96,600,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WEW3,601,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CHD8,602,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CIH9,603,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WKE5,604,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WBR3,605,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CFW0,606,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WF82,607,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WAP1,608,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CH92,609,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CGS5,610,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q7CFW1,611,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WEF3,612,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WDI6,613,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WHZ1,614,[],"Probably part of a complex composed of WzxE, WzyE and WzzE.",[],1
+Q0WBC9,615,"['Fructose-1,6-bisphosphatase class 1', 'FBPase class 1']",Homotetramer.,"['fbp', 'YPO3520', 'y0664', 'YP_0563']",4
+Q0WJB7,616,[],Homotetramer.,[],4
+Q0WCG3,617,[],Homotetramer.,[],4
+Q0WAE7,618,[],Homotetramer.,[],4
+Q7CFQ4,619,[],Homotetramer.,[],4
+Q0WBK1,620,[],Homotetramer.,[],4
+Q7CKJ8,621,[],Homotetramer.,[],4
+Q0WAE6,622,[],Homotetramer.,[],4
+Q7CFQ3,623,[],Homotetramer.,[],4
+Q0WHY9,624,[],Homotetramer.,[],4
+Q0WB28,625,[],Homotetramer.,[],4
+Q0WB82,626,[],Homotetramer.,[],4
+Q74Y42,627,[],Homotetramer.,[],4
+Q0WH26,628,[],Homotetramer.,[],4
+Q7CJU6,629,[],Homotetramer.,[],4
+Q0WJB2,630,[],Homotetramer.,[],4
+Q0WET9,631,[],Homotetramer.,[],4
+Q0WCT2,632,[],Homotetramer.,[],4
+Q74XT8,633,[],Homotetramer.,[],4
+Q0WJB4,634,[],Homotetramer.,[],4
+Q0WJB1,635,[],Homotetramer.,[],4
+Q7CKD5,636,[],Homotetramer.,[],4
+Q7CGT0,637,[],Homotetramer.,[],4
+Q0WAP8,638,[],Homotetramer.,[],4
+Q74XT9,639,['Ferrichrome-binding periplasmic protein'],Homotetramer.,"['fhuD', 'YPO3391']",4
+Q0WH89,640,[],Homotetramer.,[],4
+Q0WAA3,641,[],Homotetramer.,[],4
+Q7CHV7,642,[],Homotetramer.,[],4
+Q0WHZ6,643,[],Homotetramer.,[],4
+Q0WDB8,644,[],Homotetramer.,[],4
+Q0WHQ9,645,[],Homotetramer.,[],4
+Q0WAP0,646,['3-octaprenyl-4-hydroxybenzoate carboxy-lyase'],Homohexamer.,"['ubiD', 'YPO3769', 'y0461', 'YP_3279']",6
+Q7CJU0,647,[],Homohexamer.,[],6
+Q0WEZ0,648,[],Homohexamer.,[],6
+Q0WEA5,649,[],Homohexamer.,[],6
+Q0WEA3,650,[],Homohexamer.,[],6
+Q7CLC7,651,[],Homohexamer.,[],6
+Q0WAN2,652,[],Homohexamer.,[],6
+Q7CH58,653,[],Homohexamer.,[],6
+Q0WIE7,654,[],Homohexamer.,[],6
+Q7CGA9,655,[],Homohexamer.,[],6
+Q7CGQ9,656,[],Homohexamer.,[],6
+Q0WJA6,657,[],Homohexamer.,[],6
+Q7CKK2,658,[],Homohexamer.,[],6
+Q0WKP7,659,[],Homohexamer.,[],6
+Q0WHZ9,660,[],Homohexamer.,[],6
+Q7CJ76,661,"['2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase', 'SEPHCHC synthase']",Homodimer.,"['menD', 'YPO2527', 'y1660', 'YP_2338']",2
+Q0WEA4,662,[],Homodimer.,[],2
+Q0WFU3,663,['Bifunctional protein PutA'],Homodimer.,"['poaA', 'putA', 'YPO1851', 'EGX46_09460']",2
+Q0WAF9,664,[],Homodimer.,[],2
+Q7CGR8,665,[],Homodimer.,[],2
+Q7CKY7,666,[],Homodimer.,[],2
+Q0WBP4,667,[],Homodimer.,[],2
+Q7CIL4,668,[],Homodimer.,[],2
+Q0WAS4,669,[],Homodimer.,[],2
+Q0WJB5,670,[],Homodimer.,[],2
+Q7CKE5,671,[],Homodimer.,[],2
+Q0WD71,672,[],Homodimer.,[],2
+Q7CKE6,673,[],Homodimer.,[],2
+Q0WCJ3,674,[],Homodimer.,[],2
+Q0WEF2,675,[],Homodimer.,[],2
+Q0WBK4,676,[],Homodimer.,[],2
+Q0W9V2,677,[],Homodimer.,[],2
+Q0WCX8,678,[],Homodimer.,[],2
+Q7CFR1,679,[],Homodimer.,[],2
+Q0WJH2,680,[],Homodimer.,[],2
+Q0WDC8,681,[],Homodimer.,[],2
+Q7CFR2,682,['Xylose import ATP-binding protein XylG'],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).","['xylG', 'YPO4036', 'y4055', 'YP_3398']",1
+Q74QR5,683,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q0WKL6,684,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q0W9Y7,685,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q0WH32,686,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q7CIC1,687,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q0WH34,688,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q0WBE9,689,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q0WF95,690,[],"The complex is composed of two ATP-binding proteins (XylG), two transmembrane proteins (XylH) and a solute-binding protein (XylF).",[],1
+Q7CIC2,691,['Zinc import ATP-binding protein ZnuC'],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).","['znuC', 'YPO2060', 'y2250', 'YP_1903']",1
+Q0WAT9,692,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WIB9,693,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WHQ0,694,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WKE6,695,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WHR3,696,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WDK4,697,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q74WT5,698,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CJP7,699,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WFS7,700,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WDF7,701,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CHS1,702,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WDF6,703,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CJC1,704,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CHS0,705,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WE97,706,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CJY4,707,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WE96,708,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CH16,709,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WA50,710,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WEM3,711,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WAZ2,712,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CFM9,713,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WC43,714,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WB74,715,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0W9S3,716,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CIC3,717,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0W9S1,718,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WGC8,719,['KDO hydroxylase'],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).","['kdoO', 'YPO1650', 'EGX46_12950']",1
+Q0W9S2,720,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q0WB21,721,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CKY0,722,[],"The complex is composed of two ATP-binding proteins (ZnuC), two transmembrane proteins (ZnuB) and a solute-binding protein (ZnuA).",[],1
+Q7CIZ3,723,"['Beta-galactosidase', 'Beta-gal']",Homotetramer.,"['lacZ', 'YPO1654', 'y1817', 'YP_1785']",4
+Q9RCC3,724,['Phosphomannomutase'],Homotetramer.,"['manB', 'rfbK', 'YPO3097']",4
+Q9Z396,725,[],Homotetramer.,"['ybtS', 'irp9', 'YPO1916', 'EGX46_09830']",4
+Q0WAQ0,726,[],Homotetramer.,[],4
+Q0WAZ6,727,[],Homotetramer.,[],4
+Q7CK09,728,[],Homotetramer.,"['ddhA', 'rfbF', 'YPO3115']",4
+Q7CHH9,729,[],Homotetramer.,[],4
+Q0WBC8,730,[],Homotetramer.,[],4
+Q9RCD0,731,[],Homotetramer.,"['ddhC', 'rfbH', 'YPO3113', 'EGX46_16840']",4
+Q7CKU7,732,[],Homotetramer.,[],4
+Q7CJS5,733,[],Homotetramer.,[],4
+Q0WA86,734,[],Homotetramer.,[],4
+Q74YA6,735,[],Homotetramer.,[],4
+Q7CJD9,736,[],Homotetramer.,[],4
+Q0WCV3,737,[],Homotetramer.,[],4
+Q9Z375,738,[],Homotetramer.,"['ybtQ', 'irp7', 'YPO1914', 'EGX46_09820']",4
+Q0WKG4,739,[],Homotetramer.,[],4
+Q0WE84,740,[],Homotetramer.,[],4
+Q7CHF4,741,[],Homotetramer.,[],4
+Q9ZC36,742,['4-hydroxybutyrate coenzyme A transferase'],Homotetramer.,[],4
+Q9R7V3,743,[],Homotetramer.,"['ybtP', 'irp6', 'YPO1913']",4
+Q0WD64,744,[],Homotetramer.,[],4
+Q0WE85,745,[],Homotetramer.,[],4
+Q0WJM5,746,[],Homotetramer.,[],4
+Q0WCV4,747,[],Homotetramer.,[],4
+Q7CHF3,748,[],Homotetramer.,[],4
+Q7CKU3,749,[],Homotetramer.,[],4
+Q0WE83,750,[],Homotetramer.,[],4
+Q7CJP1,751,[],Homotetramer.,[],4
+Q0WE82,752,[],Homotetramer.,[],4
+Q0WHA3,753,[],Homotetramer.,[],4
+Q0WKN5,754,[],Homotetramer.,[],4
+Q7CIT4,755,[],Homotetramer.,[],4
+Q0WJP6,756,[],Homotetramer.,"['rfaQ', 'YPO0416', 'EGX46_01040']",4
+Q0WAS9,757,[],Homotetramer.,[],4
+Q0WD70,758,[],Homotetramer.,[],4
+Q0WKN6,759,[],Homotetramer.,[],4
+Q7CFN8,760,[],Homotetramer.,[],4
+Q0WGN0,761,[],Homotetramer.,[],4
+Q7CJN7,762,[],Homotetramer.,[],4
+Q0WCK9,763,[],Homotetramer.,[],4
+Q74QU7,764,['Membrane protein'],Homotetramer.,"['yhjK', 'YPO3996']",4
+Q7CG48,765,"['Autoinducer 2 import system permease protein LsrD', 'AI-2 import system permease protein LsrD']","The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).","['lsrD', 'YPO0410', 'y3771', 'YP_3771']",1
+Q0WCY7,766,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q0WGM8,767,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q9X5X6,768,['diguanylate cyclase'],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).","['hmsT', 'YPO0425']",1
+Q7CH25,769,['Proline--tRNA ligase'],Homodimer.,"['proS', 'YPO1068', 'y3109', 'YP_2781']",2
+Q7CG49,770,"['Autoinducer 2 import system permease protein LsrC', 'AI-2 import system permease protein LsrC']","The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).","['lsrC', 'YPO0411', 'y3770', 'YP_3770']",1
+Q0WGJ4,771,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q0WFD9,772,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q0WH25,773,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q0WJU6,774,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q7CG61,775,[],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).",[],1
+Q0WC15,776,['CDP-diacylglycerol--serine O-phosphatidyltransferase'],"The complex is composed of two ATP-binding proteins (LsrA), two transmembrane proteins (LsrC and LsrD) and a solute-binding protein (LsrB).","['pss', 'pssA', 'YPO3273']",1
+Q7CJ96,777,['Phosphate acetyltransferase'],Homohexamer.,"['pta', 'YPO2567', 'y1620', 'YP_2378']",6
+Q0WKN9,778,[],Homohexamer.,[],6
+Q7CHG8,779,[],Homohexamer.,[],6
+Q0WD54,780,[],Homohexamer.,[],6
+Q0WH82,781,[],Homohexamer.,[],6
+Q7CHG6,782,[],Homohexamer.,[],6
+Q7CHG7,783,[],Homohexamer.,[],6
+Q74W93,784,[],Homohexamer.,[],6
+Q7CIS8,785,[],Homohexamer.,[],6
+Q0WAM5,786,[],Homohexamer.,[],6
+Q7CKG8,787,"['Ribose 1,5-bisphosphate phosphokinase PhnN']",Homohexamer.,"['phnN', 'YPO3464', 'y0721', 'YP_0619']",6
+Q7CIS6,788,[],Homohexamer.,[],6
+Q0WCA1,789,[],Homohexamer.,[],6
+Q7CLE4,790,[],Homohexamer.,[],6
+Q0WER7,791,[],Homohexamer.,[],6
+Q0WBW6,792,[],Homohexamer.,[],6
+Q7CLE5,793,['D-ribose pyranase'],Homodecamer.,"['rbsD', 'YPO0007', 'y0007', 'YP_0007']",10
+Q7CL05,794,[],Homodecamer.,[],10
+Q7CL07,795,[],Homodecamer.,[],10
+Q7CL06,796,[],Homodecamer.,[],10
+Q9X6A9,797,[],Homodecamer.,"['rbsB', 'YPO3318', 'EGX46_18020']",10
+Q7CGR1,798,[],Homodecamer.,[],10
+Q7CG00,799,['Ribose import ATP-binding protein RbsA'],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).","['rbsA', 'YPO3964', 'y3865', 'YP_3327']",1
+Q7CJ57,800,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1
+Q0WJX8,801,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1
+Q0WJY0,802,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1
+Q0WDN7,803,['Ribonucleoside-diphosphate reductase'],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).","['nrdE', 'YPO2649']",1
+Q7CJT2,804,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1
+Q7CKG2,805,['Anaerobic ribonucleoside-triphosphate reductase-activating protein'],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).","['nrdG', 'YPO3455']",1
+Q7CKG1,806,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1
+Q0WKE7,807,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1
+Q0WIC5,808,[],"The complex is composed of an ATP-binding protein (RbsA), two transmembrane proteins (RbsC) and a solute-binding protein (RbsB).",[],1

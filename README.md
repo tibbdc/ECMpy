@@ -79,6 +79,8 @@ Full documentation is available at https://ecmpy.readthedocs.io/en/latest/.
     + Predicting metabolic engineering targets using ecModels. 
 + 06.One-click_modeling.ipynb
     + Constructing ecGEMs with a one-click approach through the command line. 
++ 07.BiGG_to_ecGEM.ipynb
+    + Constructing ecGEMs with a one-click approach through the command line for BiGG models. 
 
 ## 6. Acknowledgement
 Here we are deeply grateful to klamt-lab for releasing the code for AutoPACMEN (https://github.com/klamt-lab/autopacmen) and to SysBioChalmers for sharing the code for DLKcat (https://github.com/SysBioChalmers/DLKcat), which enables ECMpy2.0 to rapidly obtain enzyme kinetics parameter information for the corresponding models. We extend our heartfelt thanks to qLSLab for making the code for GPRuler available (https://github.com/qLSLab/GPRuler), as it has inspired ideas for ECMpy2.0 to automatically acquire the subunit composition of proteins.
