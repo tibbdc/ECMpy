@@ -47,7 +47,8 @@ def model_main():
             reaction_gap_fill = args.reaction_gap_fill
             autopacmen_folder = work_folder+'_by_AutoPACMEN/'
             create_file(autopacmen_folder)
-            cmd_str = "cp /hpcfs/fproject/mao_zt/MCModel/ECMpy/data/kcat_database_sabio_rk.json %s"%(autopacmen_folder)
+            #xxx represents the absolute path of ECMpy
+            cmd_str = "cp /xxx/data/kcat_database_sabio_rk.json %s"%(autopacmen_folder)
             subprocess.run(cmd_str, shell=True)
             project_name = "model_%s"%kcat_gap_fill
             protein_kcat_database_path = "none"
