@@ -124,6 +124,13 @@ def convert_to_irreversible(model):
     reactions_to_add = []
     coefficients = {}
     for reaction in model.reactions:
+        if reaction.lower_bound < 0 and reaction.upper_bound == 0:
+            for metabolite in reaction.metabolites:
+                original_coefficient = reaction.get_coefficient(metabolite)
+                reaction.add_metabolites({metabolite: -2*original_coefficient})
+            reaction.id += "_reverse"
+            reaction.upper_bound = -reaction.lower_bound
+            reaction.lower_bound = 0
         # If a reaction is reverse only, the forward reaction (which
         # will be constrained to 0) will be left in the model.
         if reaction.lower_bound < 0 and reaction.upper_bound > 0:
@@ -149,6 +156,7 @@ def convert_to_irreversible(model):
             reactions_to_add.append(reverse_reaction)
     model.add_reactions(reactions_to_add)
     set_objective(model, coefficients, additive=True)
+
     
 def get_genes_and_gpr(model,gene_outfile,gpr_outfile):
     """
