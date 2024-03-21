@@ -153,6 +153,12 @@ def convert_to_irreversible(model):
                 gene._reaction.add(reverse_reaction)
             reverse_reaction.subsystem = reaction.subsystem
             reverse_reaction.gene_reaction_rule = reaction.gene_reaction_rule
+            try:  
+                reaction.annotation
+            except:
+                pass
+            else:
+                reverse_reaction.annotation = reaction.annotation
             reactions_to_add.append(reverse_reaction)
     model.add_reactions(reactions_to_add)
     set_objective(model, coefficients, additive=True)
