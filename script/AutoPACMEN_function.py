@@ -1628,7 +1628,7 @@ def _get_kcat_list(searched_metabolites: List[str], complete_entry: Dict[str, An
     #Second,sa
     elif organism in complete_entry_sa.keys() and MW !='none':
         #print(complete_entry_sa[species],MW)
-        kcat_list=[sa*MW/60 for sa in complete_entry_sa[organism]]####kg / mol  g/mmol kcat(s-1)
+        kcat_list=[sa*MW/(60*1000) for sa in complete_entry_sa[organism]]####kg / mol  g/mmol kcat(s-1)
         ori_kcat=complete_entry_sa[organism]#Mr.Mao 
         kcat_extend='Brenda_SA'
         #print('sa',organism,kcat_list,ori_kcat)
