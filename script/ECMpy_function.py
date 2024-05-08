@@ -1744,14 +1744,32 @@ def get_subunit_number(sub_description_path, gene_subnum_path):
                             print(n)
         
         sub_dict = {
-            'Monomer.': '1', 'Homodimer.': '2', 'homodimers': '2', 'homodimer around DNA': '2', 'Homotrimer': '3',
-            'Homotetramer.': '4', 'Homopentamer.': '5', 'Homohexamer.': '6', 'Homohexameric': '6', 'Homohexamer': '6',
-            '7 subunits': '7', 'ClpP subunits': '7', 'Heterooligomer': '7', 'Homooctamer.': '8', 'Homodecamer.': '10',
-            'Homodecamer;': '10', 'homodecamer,': '10', 'dodecamer': '12', 'cylinder': '7', 'Heterotrimer': '1',
-            'Associates with': '1', 'Dimer of': '1', 'cytochrome bc1': '1', 'Heterodimer': '1', 'heterodimer': '1',
-            'Tat system': '1', 'Heterotetramer': '2', 'heterotetramer': '2', 'Tetramer of': '2', 'Pup': '2',
-            'Composed of two chains': '2', 'UreD, UreF and UreG': '2', 'Heterooctamer': '4', '24-polypeptide': '24',
-            '24 subunits': '24'
+            'Monomer.': '1','Homodimer.': '2','Homodimerizes.':'2','Homotrimer.':'3','Homotetramer.':'4','Homopentamer.':'5','Homohexamer.':'6','Homoheptamer.':'7',
+            'Homooctamer.':'8','Octamer.':'8','Homodecamer.':'10','Homododecamer.':'12',
+            'Active as a monomer':'1','Binds DNA as a monomer':'1',"Monomer \(in vitro\) \(PubMed:":'1',"Monomer \(PubMed:":'1','Monomer \(Ref.':'1',
+            'Monomer in solution':'1','Monomer;':'1','Monomeric in solution.':'1','Binds DNA as monomer':'1','Forms monomers in solution':'1','Monomer \(disintegrin\)':'1',
+            'Monomer \(G-actin\)':'1','Dimer of': '1', 'Heterodimer': '1','heterodimer': '1','Heterotrimer': '1','Composed of two chains': '2',
+            'Forms head-to-head homodimers':'2','Forms head-to-tail homodimers':'2','Forms homodimer in solution':'2',
+            'Forms homodimers':'2','Homodimer \(PubMed:':'2','Homodimer \(Ref.':'2','Homodimer \(via':'2','Homodimer in solution':'2','Homodimer of':'2','Homodimer,':'2',
+            'Homodimer;':'2','Forms a homodimer':'2','Active as a homodimer.':'2','Acts as homodimer':'2','Binds DNA as a homodimer':'2','Binds DNA as homodimer':'2',
+            'Can form homodimer':'2','Can homodimerize':'2','Forms a functional homodimer':'2','Forms an asymmetric homodimer':'2','Forms disulfide-linked homodimers':'2',
+            'Forms homodimer':'2','Head to tail homodimer':'2','Headphone-shaped homodimer':'2','Homodimer \(in vitro\)':'2','Homodimer formed by':'2','Homodimer in':'2',
+            'Homodimer that':'2','Homodimers.':'2','homodimers': '2', 'homodimer around DNA': '2','Tetramer of': '2','heterotetramer': '2',  
+            'Homotrimer': '3','Homotrimer,':'3','Homotrimer;':'3','Forms homotrimers \(PubMed:':'3','Homotrimer formed of':'3','Homotrimer in solution':'3',
+            'Can form homotrimer':'3','Forms homotrimers':'3','Homotrimer \(PubMed:':'3','Homotrimers of':'3','Forms homotetramers':'4','Homotetramer,':'4',
+            'Homotetramer composed of':'4','Homotetramer consisting of':'4','Homotetramer formed':'4','Homotetramer in solution':'4','Homotetramer:':'4','Homotetramer;':'4',
+            'A homotetramer formed':'4','Binds DNA as a homotetramer':'4','Homotetramer \(in vitro\)':'4','Homotetramer \(MAT-I\)':'4','Homotetramer \(PubMed:':'4','Heterooctamer': '4', 
+            'Homotetramer \(Ref.':'4','Homotetramer in':'4','Homopentamer \(PubMed:':'5','Homopentamer with':'5','Homopentamer arranged in':'5',
+            'Homopentamer;':'5','Forms a homopentamer':'5','Homopentamer \(in vitro\)':'5','Homopentamer,':'5','Homohexameric': '6', 'Homohexamer': '6', 
+            'Homohexamer \(PubMed:':'6','Homohexamer composed of':'6','Homohexamer in solution':'6','Homohexamer with':'6','Homohexamer,':'6','Homohexamer;':'6',
+            'Homohexameric ring arranged as':'6','A double ring-shaped homohexamer of':'6','Forms a homohexamer':'6','Forms homohexameric rings':'6','Forms homohexamers':'6',
+            'Homohexamer \(dimer of homotrimers\)':'6','Homoheptamer arranged in':'7','Homoheptamer;':'7','Heterooligomer': '7', 'Forms only homooctamers':'8',
+            'Homooctamer composed of':'8','Homooctamer,':'8','Homooctamer;':'8','Homooctamer \(isoform 2\)':'8','Homooctamer formed by':'8','Homooctamer of':'8',
+            'Homooctomer \(PubMed:':'8', 'Homodecamer;':'10','Homodecamer composed of':'10','Forms an asymmetric tunnel-fold homodecamer':'10','Homodecamer,':'10',
+            'Homodecamer consisting of':'10','Homodecamer of':'10','Homodecamer; composed of':'10', 'Homododecamer \(PubMed:':'12','Homododecamer composed of':'12',
+            'Homododecamer;':'12', 'Heterotetramer': '2', 'Dodecamer': '12','Oligomer of 12 subunits': '12','24-polypeptide': '24','24 subunits': '24',
+            'ClpP subunits': '7', '7 subunits': '7','Tat system': '1', 'homodecamer,': '10', 'dodecamer': '12','octamer': '8', 'cylinder': '7', 
+            'cytochrome bc1': '1', 'UreD, UreF and UreG': '2','spirosomes':'40','The complex forms trimers':'3'
         }
         
         for eachkey in sub_dict.keys():
