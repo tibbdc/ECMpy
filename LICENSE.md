@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018  Biodesign Centre, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences
+Copyright (c) 2024  Biodesign Centre, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
