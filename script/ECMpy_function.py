@@ -205,7 +205,8 @@ def isoenzyme_split(model):
                     r_add = rea.copy()
                     r_add.id = rea.id + "_num" + str(index+1)
                     r_add.gene_reaction_rule = value
-                    model.add_reaction(r_add)
+                    #model.add_reaction(r_add)#3.7
+                    model.add_reactions([r_add])#3.8
     for r in model.reactions:
         r.gene_reaction_rule = r.gene_reaction_rule.strip("( )")
     return model
@@ -485,32 +486,6 @@ def get_reaction_kcat_mw(model,project_folder, project_name,type_of_default_kcat
     reaction_kcat_mw_df_T_select.to_csv(json_output_file)
     #reaction_kcat_mw_df_T.to_csv(project_folder + 'reaction_kcat_MW_total.csv')
     #return reaction_kcat_mw_df_T
-    
-def isoenzyme_split(model):
-    """Split isoenzyme reaction to mutiple reaction
-
-    Arguments
-    ----------
-    * model: cobra.Model.
-    
-    :return: new cobra.Model.
-    """  
-    for r in model.reactions:
-        if re.search(" or ", r.gene_reaction_rule):
-            rea = r.copy()
-            gene = r.gene_reaction_rule.split(" or ")
-            for index, value in enumerate(gene):
-                if index == 0:
-                    r.id = r.id + "_num1"
-                    r.gene_reaction_rule = value
-                else:
-                    r_add = rea.copy()
-                    r_add.id = rea.id + "_num" + str(index+1)
-                    r_add.gene_reaction_rule = value
-                    model.add_reaction(r_add)
-    for r in model.reactions:
-        r.gene_reaction_rule = r.gene_reaction_rule.strip("( )")
-    return model
 
 def trans_model2enz_json_model_split_isoenzyme(model_file, reaction_kcat_mw_file, f, ptot, sigma, lowerbound, upperbound, json_output_file):
     """Tansform cobra model to json mode with  
