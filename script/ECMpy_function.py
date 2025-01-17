@@ -510,7 +510,8 @@ def trans_model2enz_json_model_split_isoenzyme(model_file, reaction_kcat_mw_file
     convert_to_irreversible(model)
     model = isoenzyme_split(model)
     model_name = model_file.split('/')[-1].split('.')[0]
-    json_path = "./model/%s_irreversible.json" % model_name
+    save_file = model_file.split('/')[1]
+    json_path = "./%s/%s_irreversible.json" % (save_file,model_name)
     cobra.io.save_json_model(model, json_path)
     dictionary_model = json_load(json_path)
     dictionary_model['enzyme_constraint'] = {'enzyme_mass_fraction': f, 'total_protein_fraction': ptot,
@@ -1067,7 +1068,8 @@ def adj_trans_model2enz_model(model_file, reaction_kcat_mw, f, ptot, sigma, lowe
     convert_to_irreversible(model)
     model = isoenzyme_split(model)
     model_name = model_file.split('/')[-1].split('.')[0]
-    json_path = "./model/%s_irreversible.json" % model_name
+    save_file = model_file.split('/')[1]
+    json_path = "./%s/%s_irreversible.json" % (save_file,model_name)
     cobra.io.save_json_model(model, json_path)
     dictionary_model = json_load(json_path)
     dictionary_model['enzyme_constraint'] = {'enzyme_mass_fraction': f, 'total_protein_fraction': ptot,
@@ -1427,7 +1429,7 @@ def split_substrate_to_match_gene(model, metabolites_reactions_gpr_file):
     metdf.to_csv(metabolites_reactions_gpr_file, index=False)
     return metdf
 
-def combine_reactions_simles_sequence(metdf, smilesdf, prodf, comdf_file):
+def combine_reactions_smiles_sequence(metdf, smilesdf, prodf, comdf_file):
     '''
     This function is used to combine the reaction--substrate--gene--protein_sequnce--mass.
     
@@ -2214,7 +2216,7 @@ def create_trace(x, y, name, color, size=10, symbol=None, width=None, xaxis=None
 
     return trace
 
-def draw_overfolw_fig(GEMyield_list, ecGEMyield_list, column_list, y_axis_loc_list, color_list, substrate_name, substrate_bound, obj_bound, secrate_bound, trade_off_biomass_yield_figfile):
+def draw_overflow_fig(GEMyield_list, ecGEMyield_list, column_list, y_axis_loc_list, color_list, substrate_name, substrate_bound, obj_bound, secrate_bound, trade_off_biomass_yield_figfile):
     '''
     Create a figure showing trade-off between biomass yield and substrate/secretion rates.
 
@@ -2893,7 +2895,7 @@ def get_reaction_kcatmw_onestop_by_DLKcat(dlkcat_folder,sbml_path):
         spdf = pd.read_csv(metabolites_reactions_gpr_file)
         smilesdf = pd.read_csv(inchikey_list_smilesfile)
         prodf = pd.read_csv(prodf_file)        
-        comdf = combine_reactions_simles_sequence(spdf,smilesdf,prodf,comdf_file)
+        comdf = combine_reactions_smiles_sequence(spdf,smilesdf,prodf,comdf_file)
         DLinputdf = generate_DLKCAT_input(comdf,metdf_name,metdf_outfile,DLinput_file)
         print("Combinning done!")
 
