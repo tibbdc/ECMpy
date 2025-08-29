@@ -58,3 +58,5 @@ Here we are deeply grateful to klamt-lab for releasing the code for AutoPACMEN (
 ## 6. How to cite:
 
 Zhitao Mao, Xin Zhao, Xue Yang, Peiji Zhang, Jiawei Du, Qianqian Yuan and Hongwu Ma, ECMpy, a Simplified Workflow for Constructing Enzymatic Constrained Metabolic Network Model,Biomolecules, 2022; [https://doi.org/10.3390/biom12010065](https://doi.org/10.3390/biom12010065)
+
+Zhitao Mao, Jinhui Niu, JianxiaoZhao, Yuanyuan Huang, Ke Wu, Liyuan Yun, Jirun Guan, Qianqian Yuan, Xiaoping Liao, Zhiwen Wang, Hongwu Ma, ECMpy 2.0: A Python package for automated construction and analysis of enzyme-constrained models,Synthetic and Systems Biotechnology, 2024; [https://doi.org/10.1016/j.synbio.2024.04.005](https://doi.org/10.1016/j.synbio.2024.04.005 "Persistent link using digital object identifier")
