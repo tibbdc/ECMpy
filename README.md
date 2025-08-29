@@ -54,3 +54,7 @@ Full documentation is available at https://ecmpy.readthedocs.io/en/latest/.
 ## 5. Acknowledgement
 
 Here we are deeply grateful to klamt-lab for releasing the code for AutoPACMEN (https://github.com/klamt-lab/autopacmen) and to SysBioChalmers for sharing the code for DLKcat (https://github.com/SysBioChalmers/DLKcat), which enables ECMpy2.0 to rapidly obtain enzyme kinetics parameter information for the corresponding models. We extend our heartfelt thanks to qLSLab for making the code for GPRuler available (https://github.com/qLSLab/GPRuler), as it has inspired ideas for ECMpy2.0 to automatically acquire the subunit composition of proteins.
+
+## 6. How to cite:
+
+Zhitao Mao, Xin Zhao, Xue Yang, Peiji Zhang, Jiawei Du, Qianqian Yuan and Hongwu Ma, ECMpy, a Simplified Workflow for Constructing Enzymatic Constrained Metabolic Network Model,Biomolecules, 2022; [https://doi.org/10.3390/biom12010065](https://doi.org/10.3390/biom12010065)
